@@ -1,0 +1,2291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-08-02 12:46+0200\n"
+"PO-Revision-Date: 2005-08-02 12:42+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: A_New_Order.cfg:11
+msgid "A New Order"
+msgstr ""
+
+#: A_New_Order.cfg:14
+msgid "Trivial"
+msgstr ""
+
+#: A_New_Order.cfg:15
+msgid "Normal"
+msgstr ""
+
+#: A_New_Order.cfg:16
+msgid "Impossible"
+msgstr ""
+
+#: A_New_Order.cfg:19
+msgid ""
+"The old kingdom of Wesnoth lies in ruins, while barbarians are ruling over "
+"the people dreaming about old legends. Can Gawen Hagarthen unite them all "
+"against the common danger? This supposed to be easy campaign. 7 scenarios "
+"are ready, 4 dialogue scenarios, two are finished though not balanced. Help "
+"with graphics will be appreciated. Version 0.1.3."
+msgstr ""
+
+#: A_New_Order/scenarios/10.cfg:3
+msgid "Siege of Haeltin"
+msgstr ""
+
+#: A_New_Order/scenarios/10.cfg:19 A_New_Order/scenarios/12.cfg:58
+msgid ""
+"This scenario is not balanced, so if you will play it, share your thought "
+"about it on forum: whether it is too difficult or too easy."
+msgstr ""
+
+#: A_New_Order/scenarios/10.cfg:22
+msgid ""
+"Inside castle of Haeltin, Lorin have found large quantities of food, as well "
+"as arrows and weapons. It seemed like the castle owners were expecting huge "
+"army to come."
+msgstr ""
+
+#: A_New_Order/scenarios/10.cfg:25
+msgid ""
+"Lorin ordered to prepare castle for defense. Men had worked day and night, "
+"while first snowflakes were melting on their bodies. She worked with them "
+"too, as hard as if she wanted to prove that she is as good as men. Or as she "
+"wanted to be too tired to have time for bringing back memories."
+msgstr ""
+
+#: A_New_Order/scenarios/6.cfg:29 A_New_Order/scenarios/5b.cfg:40
+#: A_New_Order/scenarios/10.cfg:41 A_New_Order/scenarios/5a.cfg:42
+#: A_New_Order/scenarios/9.cfg:49
+msgid "Lady Lorin"
+msgstr ""
+
+#: A_New_Order/scenarios/10.cfg:66
+msgid "Erart"
+msgstr ""
+
+#: A_New_Order/scenarios/10.cfg:93
+msgid "Yarl Urluf"
+msgstr ""
+
+#: A_New_Order/scenarios/10.cfg:389
+msgid ""
+"We have no more supplies. We have to withdraw! We will return here, she-wolf."
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:3 A_New_Order/scenarios/11x.cfg:3
+msgid "Council in Freetown"
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:13
+msgid ""
+"The day way bright when Gawen Hagarthen entered the forests of Raedwood. "
+"There, inside the very heart of the forest, lied the city of Freetown, "
+"founded by refugees from lands under Akladian yoke. Life was not easy here, "
+"the food was scarce, yet the smiles were often seen on the faces of men and "
+"women."
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:16
+msgid ""
+"Karen said you could smell the freedom in the air here; Gawen smelled "
+"nothing, though, only the meals prepared in field kitchen. It was not given "
+"to him to taste it. The messengers waited for Ruvio, asking him to come to "
+"meeting of Freetown leaders. "
+msgstr ""
+
+#: A_New_Order/scenarios/14orcs.cfg:40 A_New_Order/scenarios/15.cfg:29
+#: A_New_Order/scenarios/11.cfg:32 A_New_Order/scenarios/14healtin.cfg:31
+#: A_New_Order/scenarios/8.cfg:34 A_New_Order/scenarios/final.cfg:55
+#: A_New_Order/scenarios/14bontom.cfg:36 A_New_Order/scenarios/7.cfg:37
+#: A_New_Order/scenarios/12.cfg:79 A_New_Order/scenarios/3.cfg:50
+#: A_New_Order/scenarios/14saorduc.cfg:41
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:73
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:63
+#: A_New_Order/scenarios/13.cfg:91
+msgid "Gawen Hagarthen"
+msgstr ""
+
+#: A_New_Order/scenarios/15.cfg:39 A_New_Order/scenarios/11.cfg:42
+msgid "Gwidle Turlin"
+msgstr ""
+
+#: A_New_Order/scenarios/15.cfg:55 A_New_Order/scenarios/11.cfg:58
+msgid "Huon Ryedric"
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:137
+msgid "I think that..."
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:139
+msgid "Shaman would be great."
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:152
+msgid "Scout could be usefull."
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:170
+msgid "No, I think I would want more fighters."
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:183
+msgid "Actually I would like to have one more archer."
+msgstr ""
+
+#: A_New_Order/scenarios/11.cfg:233
+msgid "ambush"
+msgstr ""
+
+#: A_New_Order/scenarios/12.cfg:48
+msgid "Leaving Raedwood"
+msgstr ""
+
+#: A_New_Order/scenarios/12.cfg:183
+msgid ""
+"In this scenario, you may interrogate the leader with either Ruvio or Gawen, "
+"it would make no difference."
+msgstr ""
+
+#: A_New_Order/scenarios/12.cfg:185
+msgid "Move Gawen to southern edge of the map OR"
+msgstr ""
+
+#: A_New_Order/scenarios/12.cfg:189
+msgid "Kill all enemy leaders."
+msgstr ""
+
+#: A_New_Order/scenarios/12.cfg:193
+msgid "Death of Gawen Hagarthen"
+msgstr ""
+
+#: A_New_Order/scenarios/12.cfg:197
+msgid "Death of Karen"
+msgstr ""
+
+#: A_New_Order/scenarios/12.cfg:201
+msgid "Death of Ruvio"
+msgstr ""
+
+#: A_New_Order/scenarios/13.cfg:3
+msgid "Scouting"
+msgstr ""
+
+#: A_New_Order/scenarios/13.cfg:13
+msgid ""
+"If you will play this scenario, you must be aware that it is not fully "
+"tested and you will act as beta-tester. Send noticed bugs to wesnoth forum."
+msgstr ""
+
+#: A_New_Order/scenarios/13.cfg:64
+msgid "John the Baldhead"
+msgstr ""
+
+#: A_New_Order/scenarios/13.cfg:156
+msgid ""
+"This is large-scale map, where you will choose a way to go. You should move "
+"Gawen to any of the signpost or any other location to trigger moving to next "
+"scenario. Move Gawen to tent to talk with his friends."
+msgstr ""
+
+#: A_New_Order/scenarios/13.cfg:370
+msgid "Matthews Eagle Eye"
+msgstr ""
+
+#: A_New_Order/scenarios/14barnon.cfg:3
+msgid "Scouting near Barnon"
+msgstr ""
+
+#: A_New_Order/scenarios/14orcs.cfg:25 A_New_Order/scenarios/14barnon.cfg:23
+#: A_New_Order/scenarios/14bontom.cfg:13
+#: A_New_Order/scenarios/14saorduc.cfg:25
+msgid "Blah"
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:134 A_New_Order/scenarios/14barnon.cfg:63
+msgid "Castle of Barnon"
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:138 A_New_Order/scenarios/14barnon.cfg:67
+msgid "City of Barnon"
+msgstr ""
+
+#: A_New_Order/scenarios/14bontom.cfg:3
+msgid "Bontom"
+msgstr ""
+
+#: A_New_Order/scenarios/14healtin.cfg:3
+msgid "She-wolf of Haeltin"
+msgstr ""
+
+#: A_New_Order/scenarios/15.cfg:13 A_New_Order/scenarios/14healtin.cfg:15
+msgid "Do NOT play this scenario. It is not finished."
+msgstr ""
+
+#: A_New_Order/scenarios/14macros.cfg:11
+#: A_New_Order/scenarios/ano_macros.cfg:396
+msgid "I can't hold my sword anymore.. I can't ..."
+msgstr ""
+
+#: A_New_Order/scenarios/14orcs.cfg:3
+msgid "Avenging Ruen"
+msgstr ""
+
+#: A_New_Order/scenarios/14orcs.cfg:51 A_New_Order/scenarios/5a.cfg:54
+msgid "Uruk Maluf"
+msgstr ""
+
+#: A_New_Order/scenarios/14saorduc.cfg:3
+msgid "Saorduc Swamps"
+msgstr ""
+
+#: A_New_Order/scenarios/5b.cfg:53 A_New_Order/scenarios/14saorduc.cfg:51
+msgid "Burass"
+msgstr ""
+
+#: A_New_Order/scenarios/5b.cfg:72 A_New_Order/scenarios/14saorduc.cfg:70
+msgid "Ssumar"
+msgstr ""
+
+#: A_New_Order/scenarios/15.cfg:3
+msgid "Back in Freetown"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:3
+msgid "Conversation"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:13
+msgid ""
+"Carrenemoes were serving loyally to our kings for generations. My name is "
+"Reme, son of Raul. My ancestors, according to our family legends, were "
+"amongst those who led our people in great revolt and then in our epic escape "
+"through the swamps and forrests. We were helping to build large kingdoms of "
+"Akladians in the lands of underlings. We paid for that with blood; And now - "
+"why I am wondering what was that all for?"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:17
+msgid ""
+"Maybe it is because of that kid. Before I met him, I never wondered about "
+"differences between us and underlings. It was simple, God himself gave us "
+"world to rule and everyone else was to serve us. Yet, Gawen Hagarthen is "
+"half underling. In fact, he look like one of them. And he was always more "
+"brave and honourable than many of other people I know... "
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:21
+msgid ""
+"Enough of this thoughts. He is now our official crowned king. Lorin wants "
+"lords to acknowledge that, she is almost smiling first time in many, many "
+"months. Looking at her, I wonder what Gawen does remember about her. It "
+"seems that nothing, which is a lucky coincidence for her. She seems to "
+"forget, that only about half of our lords appeared in Vattin. The main "
+"battle is still not won.."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:171
+msgid ""
+"Lords of Vakladia, it is a honour to have you here as guests. I hope you "
+"will all serve me as loyally as to my father."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:184
+msgid "Yes. He confessed to be hired by some of Akladian lords."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:188
+msgid "It's strange how some are lying out of fear. What else he was saying?"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:193
+msgid "Something like: argh. He died before I could ask him more questions."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:197
+msgid ""
+"So, do you suggest there are people amongst us who could do such low thing!? "
+"That accusations are outrageus!"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:204
+msgid "Unfortunately, no."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:209
+msgid "Unfortunately, indeed. Probably it was some of underling leaders."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:217
+msgid "There are lords which I can't see here. Why is that?"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:221
+msgid ""
+"There are some who are doubting that a mix.. that son of underling could be "
+"legally our king."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:226
+msgid "Remember, that you are talking about my mother."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:231
+msgid ""
+"My lord, but this is the truth. Hard times are ahead. Underlings are "
+"revolting against us. Those, which we choose not to conquer in the past are "
+"having ridiculous thoughts of taking our God-given lands. Some are saying "
+"that we need strong king, of our kin, not - forgive me my words, I am only "
+"repeating what others are saying - a mixling kid."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:235
+msgid ""
+"All of them are traitors who will be punished. And those who will stay loyal "
+"to us will be rewarded."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:239
+msgid "(whispering) She dares to speak about loyalty... "
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:244
+msgid "We will attack the traitors immedietely."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:248
+msgid ""
+"My lady, we want you to reconsider. Those lords are our friends truly "
+"disturbed about future of our kingdom and our people. We need them alive as "
+"friends, not dead."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:253
+msgid ""
+"I prefer to have dead enemy to unsure ally. Now, we have to be absolutely "
+"sure about your loyalty and about which side you are choosing to back. Now, "
+"you have to make a decision. Bow to our rule. Reme?"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:257
+msgid "I was always loyal to family of Hagarthen."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:269
+msgid "And you, noble Graeme?"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:278
+msgid "Uri van Roe?"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:282
+msgid "Hail the true king of Vakladia"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:293
+msgid "Bor Cryne?"
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:297
+msgid "I will always loyally serve what is best for kingdom of Vakladia."
+msgstr ""
+
+#: A_New_Order/scenarios/3.cfg:306
+msgid ""
+"To ensure you of our friendship I demand that each of you will send your "
+"first-born son to court of Vattin, where he would have possibility to learn "
+"how to best serve the crown. "
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:3
+msgid "Battle of Barnon"
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:21
+msgid ""
+"After few days of preparation, when first born sons of Akladian lords "
+"appeared in Vattin to be guests of king Gawen Hagarthen and his step-mother "
+"Lady Lorin, he, accompanied by two of lords and small army, marched north, "
+"to the settlements of clan of O-Barnon."
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:24
+msgid ""
+"Hoyre O Barnon did not trust Wesnothians living in the city of Barnon. "
+"Fearing that the citizens may open gates to Gawen Hagarthen, he withdrew to "
+"the castle in the forests nearby. Indeed, the city of Barnon surrendered "
+"easily, though it doesn't seem that the citizens showed any signs of "
+"enthusiasm."
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:27
+msgid ""
+"It was this moment when Gawen realised that he was as hated by Wesnothian "
+"folk, as by Akladians. While the former considered him barbarian beast, the "
+"latter called him mixling - at best. The irony of this was so overburdening "
+"that he started to laugh. He would probably laugh even harder if he could "
+"hear some of his warriors: they whispered that Gawen is laughing from an "
+"anticipation of the battle, and his reputation rised a lot."
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:342
+msgid "Bonus for resisting |$ano_tmp| turns above requirement"
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:348
+msgid "Resisted |$ano_barnon_turns| turns."
+msgstr ""
+
+#: A_New_Order/scenarios/4.cfg:382
+msgid "I think we killed him, my lord!"
+msgstr ""
+
+#: A_New_Order/scenarios/5a.cfg:3 A_New_Order/scenarios/5a-x.cfg:3
+msgid "Unexpected guests"
+msgstr ""
+
+#: A_New_Order/scenarios/5a.cfg:75
+msgid "Arlgor Maunarr"
+msgstr ""
+
+#: A_New_Order/scenarios/5b.cfg:3 A_New_Order/scenarios/5b-x.cfg:3
+msgid "The swamp things"
+msgstr ""
+
+#: A_New_Order/scenarios/5b.cfg:24
+msgid "The party entered the swamps and woods of Saoren Duc with heavy hearts."
+msgstr ""
+
+#: A_New_Order/scenarios/6.cfg:3
+msgid "Separation"
+msgstr ""
+
+#: A_New_Order/scenarios/6.cfg:13
+msgid ""
+"Finally the party reached the crossroads. One, northern path led to Vattin, "
+"second to Reme's clan settlements. Reme Carrenemoe decided to leave the "
+"Lorin to her own destiny here. "
+msgstr ""
+
+#: A_New_Order/scenarios/7.cfg:3 A_New_Order/scenarios/7x.cfg:3
+msgid "Ally from the past"
+msgstr ""
+
+#: A_New_Order/scenarios/7.cfg:12
+msgid ""
+"When I woke up, first thing I felt was astonishment: I am still alive! At "
+"first moment I thought I was caught by Bor Cryne's warriors, but my hands "
+"weren't tied. Then I noticed that weary man."
+msgstr ""
+
+#: A_New_Order/scenarios/7.cfg:15
+msgid ""
+"I do not mean he was old. He just seemed like he saw a lot in his life, his "
+"face was bringing memories of old battles and wars, many of them lost. He "
+"looked a bit familiar. He was, as my step-mother would call him, ungodly "
+"underling. Wesnothian in other words. I wasn't sure whether this was good or "
+"bad thing, remembering how much those folks hated Akladians."
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:3
+msgid "Outlaw Base"
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:13
+msgid ""
+"Gawen Hagarthen, Ruvio and Karen weren't celebrating the victory. When they "
+"left in hurry battlefield, bodies of last Akladians were still warm. They "
+"entered the forest of Raedwood in hope that no one will follow them."
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:246
+msgid "After some thought.."
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:248
+msgid ""
+"Yes, I will accept you and anyone from your people, who would want to fight "
+"in my army."
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:263
+msgid "No, no offense, but I do not trust you enough"
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:288
+msgid "So, what about.."
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:342
+msgid "That's all I wanted to know"
+msgstr ""
+
+#: A_New_Order/scenarios/9x.cfg:3 A_New_Order/scenarios/9.cfg:3
+msgid "Hired Swords"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:16
+msgid ""
+"After Gawen's death I felt dead as well. Then Reme have left me and I was "
+"all alone. I couldn't go back to my family. They hated me, because I failed "
+"their hopes. They hated me, because I tried to be independent. And maybe "
+"they hated me because I was reminding them how I became wife of Gawen's "
+"father: how I became a queen."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:20
+msgid ""
+"The other woman maybe would just give up. Maybe, if I would have different "
+"heart, I would just beg my father for admission into his castle. But I am "
+"Lorin. I took soldiers Reme gave me for my protection and I rode east. I "
+"knew people there, who could help me. Akladians would not fight for me, I "
+"was sure of that; So I had to find someone else who would. "
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:24
+msgid ""
+"They were called Aragwaithi, which in their barbarian and unworthy language "
+"meant something like 'noble'. They were mercenaries offering their services "
+"to anyone. They were not race, though in past times their ancestors came "
+"here from distant lands. Now, they accepted everyone into their ranks. I've "
+"heard that even some Akladians found their place amongst them."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:27
+msgid ""
+"From all underlings in Wesnoth, they were those, who resisted us the most. "
+"In last battle, when all other Wesnothians were running for their life, "
+"Aragwaithi stood and fell to the last one. That's why we cutted their head "
+"off, their hands and legs, so in after life they could not be danger for us."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:30
+msgid ""
+"I found one of their sietches and talked to their leader, called Andrey "
+"Yaranov. I wanted swords, and I had gold; they had swords and wanted gold. "
+"So we struck the deal very fast. I felt uneasy amongst them, with their "
+"eyes, hair, faces screaming that they are underlings. But I told myself they "
+"are just swords; hired swords."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:162
+msgid "And now.."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:165
+msgid "You were fine warrior, Reumario. I want to honour you."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:171
+msgid "Off with your left ear! And now tell me more about this guests!"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:189
+msgid "Where are those supplies! Speak, or I will cut you to pieces!"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:206
+msgid "Well, what about this:"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:209
+msgid "I would be honoured to have you in my army."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:231
+msgid "I would let you live."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:262
+msgid "Would you allow him to leave now?"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:265
+msgid "Yes, he may live."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:271
+msgid "No, he is too dangerous."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:323
+msgid "And now, tell me more.."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:325
+msgid "You were worthy opponent, Oyre Mathauri. How can I honour you?"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:334
+msgid "What orcs are doing here and why are awaiting them?"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:341
+msgid "Where do you hide the gold?"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:381
+msgid "What about this:"
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:383
+msgid "I will kill you and rip off your head."
+msgstr ""
+
+#: A_New_Order/scenarios/9.cfg:386
+msgid "What about joining us against those orcs?"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:3
+msgid "Breaking the Circle"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:22
+msgid ""
+"Note from campaign developer: If you have just downloaded campaign and "
+"started playing instantly, it may happen that some of unit images are not "
+"appearing. In such case try to restart Wesnoth; usually it helps - szopen."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:25
+msgid ""
+" The moments are slowly turning into hours as they slip through my fingers..."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:28
+msgid ""
+"Do you hear me, my son?  I am losing hope, you must awaken...  It was "
+"supposed to be just a showdown; kill a few rebels, scare the rest.  Now your "
+"father is slain and you are lying here, not stirring - for how many days "
+"now?  I don't even know if you can hear me or if you care.  It's so strange "
+"to call a man who is just few years younger - my son.  I wish I knew your "
+"real mother: at least I would know with whom I am competing."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:33
+msgid ""
+"Our people came here from the eastern lands long before my birth.  Our "
+"race's fate is to rule over the world; Your grandfather smashed the "
+"underling armies in the field and stormed their castles.  They were weak, "
+"divided, they had no gods to protect them and had forgotten the ways of the "
+"sword long ago; they were truly destined to be our slaves."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:46
+msgid ""
+"We burned their palaces, towns, and castles; there was nothing worthy there. "
+"They were telling us that they put their legends and wisdom on paper, they "
+"tried to imprison history in their books - and we burned it all, to make "
+"sure they have poetry, wisdom and history no more. We made certain that "
+"every last shred of hope these people had was consumed in flames."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:50
+msgid ""
+" I was only five when your grandfather died and divided his kingdom between "
+"his sons, six when your father quelled the first rebellion.  I never "
+"understood why he chose your mother... was it pure physical attraction, or "
+"an attempt to appease the conquered by marrying a woman of their nobility?  "
+"If it was indeed the latter that he intended, he failed miserably; the "
+"Underlings' hate for us had not abated, and our own people were uneasy with "
+"having such a queen."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:54
+msgid ""
+"When your mother died, I was chosen as your father's next wife.  Whether or "
+"not this was an act to appease the clans is uncertain, but it is certain "
+"that he wanted an heir whom our people would not question.  He wanted me to "
+"give him another son, and I failed him.  Our people had abandoned their old "
+"ways, and God turned his back on us as we had to him.  Without his guidance "
+"and support, the Underlings wiped our armies from large part of Wesnoth and "
+"reclaimed some of their lost provinces."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:58
+msgid ""
+"And now you lie here, defenseless and vulnerable. Your father's death has "
+"shown me how weak my position was and how despised you were along with your "
+"father. Behind your back they call you a mixling, a bastard, a creature not "
+"fit to sit on the throne.  And as for me... if you die, I would be just a "
+"wife of a despised king, stepmother of an hated heir... I will have no right "
+"to live. If I had given birth, I would be your mortal enemy... but I had "
+"not. I know there was a lot of ill feeling between us, but right now I am "
+"the only one you can trust and you are my only hope..."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:87
+msgid "skirmisher"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:294
+msgid "Heinric the Redbeard"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:423
+msgid "He regained consciousness, my lady!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:428
+msgid "Thank God! Gawen, how do you feel? Can you talk? Move?"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:432
+msgid ""
+"I feel weak... I feel sick.. (pause) ... I can't remember anything... "
+"Nothing.. Who am I?"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:436
+msgid ""
+"I think the blade which wounded him was poisoned, my lady.  We have to wait "
+"here and pray that our God would show him his mercy. (Whispering) And then "
+"we will bury him with all ceremonies."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:441
+msgid ""
+"No! We can't wait. We have to reach a town nearby and find a medic, quickly!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:445
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:579
+msgid "He's not gonna make it."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:450
+msgid ""
+"I vow to sacrifice a lamb to God, if he will be cured. If not, I won't ever "
+"sacrifice even a mouse, do you hear me, our God?  Gawen, can you get up?"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:454
+msgid "Yes.. But.. I can't remember anything... Who am I ?! Who are you?"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:458
+msgid ""
+"I am your mother, the only person whom you can trust. These are your last "
+"loyal soldiers, who stayed with us when everyone else left after your "
+"father's honorable death. You are Gawen Hagarthen, the true rightful king of "
+"Vakladia."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:462
+msgid "My mother? You seem.. a bit young..."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:466
+msgid ""
+"I am just your step-mother, but there is no time for more talk. We have to "
+"reach the town and find a medic!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:470
+msgid ""
+"Look, there are Akladians there! To arms! Their king is dead, it's time to "
+"kill them all and finish with our slavery!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:540
+msgid "The fireplace is still warm.. He had to be somewhere nearby.."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:562
+msgid "I can feel the poison inside me..."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:566
+msgid "Try to resist for just a bit more, my son!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:584
+msgid "My son! Please, don't give up!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:618
+msgid "My lady, we have found a medic!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:623
+msgid ""
+"Underling! My son is dying. If you can heal him, I will save your life. If "
+"not, I will burn you and your family alive, do you understand?"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:627
+msgid ""
+"Don't try to scare me. I am too old to be afraid of death, and I do not have "
+"a family. I will try to heal your son, because this is my duty as medic, not "
+"because of your threats, Akladian lady."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:631
+msgid "I don't care about your motives, just do it!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:671
+msgid "It's a shame we have no time to loot it or tax the inhabitants.."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:725
+msgid "I can't see.. I'm cold.."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:729
+msgid "No! Don't die! Not now!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:740
+msgid "For freedom! Death to Akladian beasts!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:744
+msgid "Uhm... We are good guys, right?"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:759
+msgid "Get off my way, dirty underling!"
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:773
+msgid "Poor bastards! They have no chances."
+msgstr ""
+
+#: A_New_Order/scenarios/Breaking_The_Circle.cfg:790
+msgid "How you dare to oppose us, ungodly underling!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:3
+msgid "Fighting for pass"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:12
+msgid ""
+"So, my name is Gawen Hagarthen and I am to be a king of nation destined to "
+"rule over the world. Somehow, this does not make me happy."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:16
+msgid ""
+"The woman, who calls herself my mother is giving everyone orders in my name. "
+"She is always close to me, as if she is afraid to let me alone. I wish I "
+"could know what Reme Carrenemoe thinks; he seems like he is afraid to speak "
+"more than it is necessary. And that whole 'underling' thing... I don't know "
+"why, but sometimes, looking at faces of warriors who are around me, I feel "
+"attached more to those whom they call 'underlings'."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:19
+msgid ""
+"Sometimes I think it is some kind of cruel joke. I am like a wooden stick "
+"carried by large and wild river. A feather inside of a tornado. Gawen "
+"Hagarthen, king of Vakladia. Somehow, I do not feel happy."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:248
+msgid ""
+"The Vattin, capital of our kingdom, is just a few days from here. My son, "
+"how do you feel? "
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:252
+msgid ""
+"Much better. This medic was really good in his job. I wish to thank him at "
+"some time in future."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:256
+msgid "I'm afraid that may be impossible. What about your memory?"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:260
+msgid ""
+"I think.. Sometimes I think I remember something, but then it just passes "
+"away. I remember a dark-haired woman. She is lying on the bed, sweating, "
+"pain in her beautiful green eyes. I don't know who is she but it makes me "
+"cry every time I think about it. I think I loved her."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:264
+msgid ""
+"That could be your true mother, my lord. She was poisoned when you were "
+"still young."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:269
+msgid ""
+" I've sent an envoy to Gaeltin Hyer, a city which is on our way, to prepare "
+"rooms for us. I think, my lord, you have to get some rest before continuing "
+"our journey."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:287
+msgid ""
+"Noble lords, with your permission. My Lord, Raul O Gaeltin sent me here with "
+"a message. I beg for your forgiveness, remember I am just a messenger."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:291
+msgid "Speak."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:295
+msgid ""
+"These are the words of my lord, he wanted to repeat them exactly: Gaeltin "
+"gates would never be opened for mixling bastards nor for the king's whores. "
+"He send you also this..."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:303
+msgid "You received 2 pieces of gold"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:307
+msgid ""
+"This is for you to start a new life. This is everything I was expected to "
+"say. May I live, I mean, leave?"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:311
+msgid ""
+"We have a message for your lord too. Tell him we will bring him the message "
+"personally and he will have a lot of time to understand it fully. You may "
+"leave now."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:335
+msgid ""
+"I guess we will have to fight our way into Vattin. Gawen, many Akladians "
+"live nearby. They will fight for you. They are unexperienced but they are "
+"eager to show their loyalty. Let's use them."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:339
+msgid ""
+"Hm, after some thought it may be good after all that he tries to stop us. "
+"It's an occassion for you to exercise a little."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:344
+msgid ""
+"Go and take the villages to have more gold. Recruit as many Clanmembers as "
+"you can. Most of them will probably die, but the rest may become good "
+"fighters. Do not forget to recall our soldiers, too. Be careful, do not "
+"hurry without necessity. To cure wounded units you may use wiseman or "
+"villages."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:382
+msgid "I guess we will find some use for this in near future."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:400
+msgid "Uh, I hope I will never know you closer"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:413
+msgid "So, how many days are from here to Vattin?"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:417
+msgid "We should be there in two or three days."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:428
+msgid "It's a shame we had no time to finish that traitors off."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:432
+msgid "There is no time for that. Others should manage to do that without us."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:455
+msgid "Death to the traitors!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:459
+msgid "Yeah!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:478
+msgid "This is the end which awaits all traitors!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:511
+msgid ""
+"You are lucky that I have not got more time, or I will play with you more, "
+"dishonourable scum."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:515
+msgid ""
+"You are lucky that this underling whom you call your king does not know... "
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:519
+msgid "Enough of that, go to your ancestors!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:597
+msgid "Where is he? He starts to act on my nerves..."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:642
+msgid "Oops."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:646
+msgid "What?"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:650
+msgid "It looks like he recruited a lot of units."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:654
+msgid "Yes indeed. This could be a bit harder than we expected."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:682
+msgid "My friends will come very soon! You are already doomed! Ha ha ha!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:688
+msgid ""
+"Let's try to get a little faster. This traitor's friends may appear in any "
+"moment."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:716
+msgid ""
+"Ha ha ha! You are doomed! I can hear the trumpet of my friends coming to aid "
+"me!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:722
+msgid ""
+"No! More traitors are coming from every side! We have no hope for dealing "
+"with them!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:726
+msgid "Run for your life! That wimp cannot possibly lead us to victory!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:739
+msgid "Poor fellow!"
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:743
+msgid ""
+"He had honourable death. Do not let fear for losing units paralyse you; "
+"There are a lot more clanmembers ready to fight for you."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:759
+msgid ""
+"Remember Gawen, that while most of our units don't care about the time of "
+"day, Homeguards, Shieldguards and Protectors prefer to fight at day, and "
+"during nights they should be used carefully."
+msgstr ""
+
+#: A_New_Order/scenarios/Fighting_Through_Pass.cfg:776
+msgid ""
+"Ah, he is using the Sturmknights. Be careful about them, Gawen. They like to "
+"fight during nights and they are used to darkness. Counter them with "
+"Shieldguard at days."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:80
+msgid "Get out of my way... I am not here because of you."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:96
+msgid "You aren't prince, aren't you? It is not you whom I am seeking."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:110
+msgid ""
+"Finally! Now, accept the inevitable. I am professional, that won't gonna hurt"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:126
+msgid "Leave a final blow for me! I want to interrogate him!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:140
+msgid "Why? Who have send you?"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:144
+msgid "Why? Two hundred golden pieces, that's why."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:163
+msgid "Die, underling!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:167
+msgid "Stop, don't kill him! We have to interrogate him!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:185
+msgid ""
+"Now, only one thing stops me from giving you final blow. Who have send you?"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:190
+msgid "The destiny."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:194
+msgid "Don't test my patience. Speak, or I will kill you."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:199
+msgid "Do whatever you want to."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:203
+msgid "Then die, if you want."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:208
+msgid "You are way too soft, Reme. Why you haven't you given him to me?"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:226
+msgid "Who have send you!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:230
+msgid "It's our codex to never betray the name of people who hired us."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:234
+msgid ""
+"Don't test my patience, underling! Speak, or you will be sorry you are still "
+"alive!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:238
+msgid ""
+"Who have send me? The fate... But there will be another after me. (scream of "
+"pain) Aaaargh!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:251
+msgid ""
+"I can't tell you! (Aaargh) I don't know his name! I was given the task by "
+"our elders from Outlaw Place. All I know one of Akladian lords paid him for "
+"that in gold! The price was three hundred golden pieces for father and two "
+"hundred for son! Aiieeee!!!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:255
+msgid "No price for me?"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:259
+msgid "I think he would kill you gratis. He won't say anything more, my lady."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:295
+msgid "I'm not afraid.. I just wanted to smoke a little longer.."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:310
+msgid "Aragwaiths die without fear!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:328
+msgid "That's not fair!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:415
+msgid ""
+"Traitors! How can you be so dishonorable to fight against your own rightful "
+"king!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:419
+msgid "Our king is dead! We are no traitors!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:423
+msgid "But here is king's son, his rightful heir. Are you going to fight him?"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:428
+msgid "The king's son is dead! We heard about it!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:432
+msgid "Do I look like dead to you?"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:436
+msgid "We were deceived! My king, please forgive me!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:440
+msgid "You fool! He is mixling, he can't be our king!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:491
+#: A_New_Order/scenarios/ano_macros.cfg:498
+msgid "{MESSAGE_TEXT}"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:1008
+msgid "Father! Father! I am loosing my..."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:1026
+msgid "No! I have still so much to do!"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:1145
+msgid "{TEXT}"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:1152
+msgid ""
+"This is not implemented in current version of the scenario. Please, wait at "
+"least one week and download new campaign version from campaign server to see "
+"whether it will be implemented"
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:1159
+msgid "This is debug message."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:1179
+msgid "{OPTION}"
+msgstr ""
+
+#: A_New_Order/scenarios/conversations.cfg:4
+msgid ""
+"When the battle was ended, many bodies were found on fields near Barnon; but "
+"Gawen's body was not amongst them. Furious Bor Cryne ordered to search the "
+"whole battlefield, but his men efforts were fruitless."
+msgstr ""
+
+#: A_New_Order/scenarios/conversations.cfg:8
+msgid ""
+"Moods of small tired band led by Lady Lorin and Reme Carrenemoe were gloomy. "
+"Though they managed to escape the slaughter, there was no joy and no hope on "
+"the faces of the soldiers."
+msgstr ""
+
+#: A_New_Order/scenarios/conversations.cfg:23
+msgid ""
+"This scenario is not balanced. Do not play this. Send me your previous "
+"savegames and replays so I can balance it properly: adanilecki@cs.put.poznan."
+"pl"
+msgstr ""
+
+#: A_New_Order/scenarios/elvish_macros.cfg:10
+msgid "I will never again see our beatiful forests.."
+msgstr ""
+
+#: A_New_Order/scenarios/elvish_macros.cfg:22
+msgid "See how Elf die, without fear!"
+msgstr ""
+
+#: A_New_Order/scenarios/elvish_macros.cfg:34
+msgid "Now, I will meet best marksman.. Death never misses."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:30
+msgid "Final"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:44
+msgid ""
+"Actually, this is not a final, because campaign is not finished yet. But "
+"this is how it will look in the future. Also, do not forget to check "
+"campaign server at least once in a week to check for new releases."
+msgstr ""
+
+#: A_New_Order/terrain.cfg:5 A_New_Order/terrain.cfg:12
+msgid "Crater"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:4
+msgid "Akladian Chieftain_c"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Lord-g.cfg:10
+#: A_New_Order/units/Akladian_Leader.cfg:16
+#: A_New_Order/units/Akladian_Warlord.cfg:14
+#: A_New_Order/units/Akladian_Lady.cfg:19 A_New_Order/units/Ruvio.cfg:10
+#: A_New_Order/units/Akladian_Chieftain.cfg:15
+#: A_New_Order/units/Akladian_Lord-c.cfg:10
+#: A_New_Order/units/YoungHagarthen.cfg:11 A_New_Order/units/Hagarthen.cfg:11
+#: A_New_Order/units/Shadow_Mage.cfg:15
+#: A_New_Order/units/Akladian_Princess.cfg:18 A_New_Order/units/Karen.cfg:18
+#: A_New_Order/units/Shadow_Lord.cfg:55
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:15
+#: A_New_Order/units/Ruvios_Daughter.cfg:17
+#: A_New_Order/units/Lord_Hagarthen.cfg:10
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:15
+#: A_New_Order/units/Akladian_Lord.cfg:10
+msgid "leadership"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Chieftain.cfg:19
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:19
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:19
+msgid "The best of Akladian warriors are choosed to lead their clans."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Sturmknight.cfg:20
+#: A_New_Order/units/Aragwaith-Swordmaster.cfg:66
+#: A_New_Order/units/Akladian_Shieldguard.cfg:20
+#: A_New_Order/units/Akladian_Darknite.cfg:20
+#: A_New_Order/units/Akladian_Homeguard-c.cfg:20
+#: A_New_Order/units/Akladian_Protector.cfg:20
+#: A_New_Order/units/Human-ranger.cfg:38
+#: A_New_Order/units/Akladian_Homeguard-g.cfg:20
+#: A_New_Order/units/Akladian_Lord-g.cfg:23
+#: A_New_Order/units/Akladian_Raider-g.cfg:20
+#: A_New_Order/units/Akladian_Leader.cfg:22
+#: A_New_Order/units/Aragwaith-Archer.cfg:85
+#: A_New_Order/units/Akladian_Warlord.cfg:26
+#: A_New_Order/units/Akladian_Lady.cfg:24
+#: A_New_Order/units/Aragwaith-Hunter.cfg:80 A_New_Order/units/Ruvio.cfg:22
+#: A_New_Order/units/Akladian_Chieftain.cfg:22
+#: A_New_Order/units/Akladian_Lord-c.cfg:23 A_New_Order/units/Hagarthen.cfg:23
+#: A_New_Order/units/Akladian_Fastfoot.cfg:20
+#: A_New_Order/units/Akladian_Homeguard.cfg:20
+#: A_New_Order/units/Akladian_Princess.cfg:23 A_New_Order/units/Karen.cfg:23
+#: A_New_Order/units/Aragwaith-Guard.cfg:83
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:22
+#: A_New_Order/units/Ruvios_Daughter.cfg:22
+#: A_New_Order/units/Lord_Hagarthen.cfg:23
+#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:61
+#: A_New_Order/units/Akladian_Queen.cfg:23
+#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:74
+#: A_New_Order/units/Aragwaith-Swordman.cfg:78
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:22
+#: A_New_Order/units/Akladian_Raider-c.cfg:20
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:75
+#: A_New_Order/units/Akladian_Lord.cfg:23
+#: A_New_Order/units/Akladian_Raider.cfg:20
+msgid "sword"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Sturmknight.cfg:21
+#: A_New_Order/units/Aragwaith-Swordmaster.cfg:67
+#: A_New_Order/units/Akladian_Shieldguard.cfg:21
+#: A_New_Order/units/Akladian_Darknite.cfg:21
+#: A_New_Order/units/Akladian_Homeguard-c.cfg:21
+#: A_New_Order/units/Akladian_Protector.cfg:21
+#: A_New_Order/units/Human-ranger.cfg:39
+#: A_New_Order/units/Akladian_Homeguard-g.cfg:21
+#: A_New_Order/units/Akladian_Lord-g.cfg:24
+#: A_New_Order/units/Akladian_Raider-g.cfg:21
+#: A_New_Order/units/Akladian_Leader.cfg:23
+#: A_New_Order/units/Rogue_Mage.cfg:22
+#: A_New_Order/units/Aragwaith-Archer.cfg:86 A_New_Order/units/Huntsman.cfg:36
+#: A_New_Order/units/Akladian_Warlord.cfg:27
+#: A_New_Order/units/Akladian_Lady.cfg:25
+#: A_New_Order/units/Aragwaith-Hunter.cfg:81 A_New_Order/units/Ruvio.cfg:23
+#: A_New_Order/units/Brigand.cfg:24
+#: A_New_Order/units/Akladian_Chieftain.cfg:23
+#: A_New_Order/units/Akladian_Lord-c.cfg:24 A_New_Order/units/Hagarthen.cfg:24
+#: A_New_Order/units/Akladian_Fastfoot.cfg:21
+#: A_New_Order/units/Akladian_Homeguard.cfg:21
+#: A_New_Order/units/Shadow_Mage.cfg:28
+#: A_New_Order/units/Akladian_Princess.cfg:24 A_New_Order/units/Karen.cfg:24
+#: A_New_Order/units/Aragwaith-Guard.cfg:84
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:76
+#: A_New_Order/units/Shadow_Lord.cfg:68
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:23
+#: A_New_Order/units/Ruvios_Daughter.cfg:23
+#: A_New_Order/units/Lord_Hagarthen.cfg:24
+#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:62
+#: A_New_Order/units/Akladian_Queen.cfg:24
+#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:75
+#: A_New_Order/units/Aragwaith-Swordman.cfg:79
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:23
+#: A_New_Order/units/Akladian_Raider-c.cfg:21
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:76
+#: A_New_Order/units/Akladian_Lord.cfg:24
+#: A_New_Order/units/Akladian_Raider.cfg:21
+msgid "blade"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:4
+msgid "Akladian Chieftain_g"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Chieftain.cfg:4
+msgid "Akladian Chieftain"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Clanmember-c.cfg:4
+#: A_New_Order/units/Akladian_Clanmember.cfg:4
+#: A_New_Order/units/Akladian_Clanmember-g.cfg:4
+msgid "Akladian Clanmember"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Clanmember-c.cfg:18
+#: A_New_Order/units/Akladian_Clanmember-g.cfg:18
+msgid ""
+"Akladian Clanmembers are core of Akladian tribes. They are raised in culture "
+"promoting violence and hearing from childhood that their destination is rule "
+"over the world. This resulted that while very lightly armoured and badly "
+"armed they still can be dangerous, especially when used in larger groups. "
+"They are recruited only for defense of their kingdoms."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Clanmember-c.cfg:21
+#: A_New_Order/units/Akladian_Clanmember.cfg:21
+#: A_New_Order/units/Akladian_Clanmember-g.cfg:21
+msgid "short spear"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Guardian.cfg:55
+#: A_New_Order/units/Human-ranger.cfg:61
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:24
+#: A_New_Order/units/Aragwaith-Archer.cfg:128
+#: A_New_Order/units/Huntsman.cfg:53
+#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:55
+#: A_New_Order/units/Akladian_LightInfantry-c.cfg:21
+#: A_New_Order/units/Aragwaith-Hunter.cfg:107
+#: A_New_Order/units/Akladian_Clanmember-c.cfg:22
+#: A_New_Order/units/Ruvio.cfg:41
+#: A_New_Order/units/Akladian_LightInfantry-g.cfg:21
+#: A_New_Order/units/Akladian_Clanmember.cfg:22
+#: A_New_Order/units/Brigand.cfg:46 A_New_Order/units/Aragwaith-Scout.cfg:57
+#: A_New_Order/units/Akladian_Pikeneer.cfg:24
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:24
+#: A_New_Order/units/Aragwaith-Spearman.cfg:55
+#: A_New_Order/units/Akladian_Warrior.cfg:21
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:127
+#: A_New_Order/units/Aragwaith-Lancer.cfg:56
+#: A_New_Order/units/Akladian_Warrior-c.cfg:21
+#: A_New_Order/units/Akladian_LightInfantry.cfg:21
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:104
+#: A_New_Order/units/City_Militia.cfg:38
+#: A_New_Order/units/Akladian_Clanmember-g.cfg:22
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:55
+#: A_New_Order/units/Akladian_Warrior-g.cfg:21
+msgid "pierce"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Clanmember.cfg:18
+msgid ""
+"Akladian Clanmembers are core of Akladian tribes. They are raised in culture "
+"promoting violence and hearing from childhood that their destination is to "
+"rule over the world. While very lightly armoured and badly armed they still "
+"can be dangerous, especially when used in larger groups. They are recruited "
+"only for defense of their kingdoms."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Darknite.cfg:4
+msgid "Akladian Darknite"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Darknite.cfg:17
+msgid ""
+"After spending whole their life in constant fight, Darknites are excellent "
+"warriors and formidable opponents, hated and feared in world of Wesnoth. "
+"They know no pity and except none."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Fastfoot.cfg:4
+msgid "Akladian Fastfoot"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Fastfoot.cfg:17
+msgid ""
+"Akladian Fastfoots are members of personal armies of Akladian lords. They "
+"are almost professional soldiers, being equipped by their masters. Having "
+"light armour, they put all their hope in mastering of the sword."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Guardian.cfg:60
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:28
+#: A_New_Order/units/Akladian_LightInfantry-c.cfg:26
+#: A_New_Order/units/Akladian_LightInfantry-g.cfg:26
+#: A_New_Order/units/Akladian_Pikeneer.cfg:28
+#: A_New_Order/units/Akladian_Fastfoot.cfg:25
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:28
+#: A_New_Order/units/Aragwaith-Spearman.cfg:60
+#: A_New_Order/units/Akladian_LightInfantry.cfg:26
+#: A_New_Order/units/City_Militia.cfg:43
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:60
+msgid "firststrike"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Holyman.cfg:4
+msgid "Akladian Holyman"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:11
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:128
+#: A_New_Order/units/Akladian_Holyman.cfg:18
+#: A_New_Order/units/Akladian_Wonderman.cfg:18
+msgid "cures"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Holyman.cfg:19
+msgid ""
+"Devoting their whole life to task of healing and curing, Akladian Holymans "
+"are respected amongst tribes, and useful to Akladian lords."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wiseman-c.cfg:22
+#: A_New_Order/units/Akladian_Wiseman.cfg:22
+#: A_New_Order/units/Akladian_Holyman.cfg:22
+#: A_New_Order/units/Akladian_Wonderman.cfg:22 A_New_Order/units/Medic.cfg:21
+msgid "staff"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wiseman-c.cfg:23
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:57
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:174
+#: A_New_Order/units/Akladian_Wiseman.cfg:23
+#: A_New_Order/units/Akladian_Holyman.cfg:23
+#: A_New_Order/units/YoungHagarthen.cfg:25 A_New_Order/units/Highwayman.cfg:29
+#: A_New_Order/units/Shadow_Lord.cfg:140 A_New_Order/units/Fugitive.cfg:28
+#: A_New_Order/units/Fugitive.cfg:46 A_New_Order/units/Fugitive.cfg:100
+#: A_New_Order/units/Fugitive.cfg:118
+#: A_New_Order/units/Aragwaith-Warlock.cfg:54
+#: A_New_Order/units/Aragwaith-Warlock.cfg:168
+#: A_New_Order/units/Henchman.cfg:28
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:57
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:174
+#: A_New_Order/units/Akladian_Wonderman.cfg:23 A_New_Order/units/Medic.cfg:22
+msgid "impact"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Homeguard-c.cfg:4
+#: A_New_Order/units/Akladian_Homeguard-g.cfg:4
+#: A_New_Order/units/Akladian_Homeguard.cfg:4
+msgid "Akladian Homeguard"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Homeguard-c.cfg:17
+#: A_New_Order/units/Akladian_Homeguard-g.cfg:17
+#: A_New_Order/units/Akladian_Homeguard.cfg:17
+msgid ""
+"Facing hostility of all other nations, Akladians had to create special units "
+"devoting whole their life to guarding the settlements of the clans."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Lady.cfg:4
+msgid "female^Akladian Lady"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Lady.cfg:21
+msgid ""
+"While relationship between sexes in Akladian society is far from equal "
+"treatment, all woman are expected to be able to handle weapons, and those "
+"who are wifes or children of great warriors are commonly thought to master "
+"use of the sword as well as their husbands or fathers."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Leader.cfg:4
+msgid "Akladian Leader"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Leader.cfg:19
+msgid ""
+"Some of the Akladian warriors because of their personal achievements or "
+"their descendency are leading the others, starting their career which some "
+"day may result in leading the whole tribe."
+msgstr ""
+
+#: A_New_Order/units/Akladian_LightInfantry-c.cfg:4
+#: A_New_Order/units/Akladian_LightInfantry-g.cfg:4
+#: A_New_Order/units/Akladian_LightInfantry.cfg:4
+msgid "Akladian Light Infantry"
+msgstr ""
+
+#: A_New_Order/units/Akladian_LightInfantry-c.cfg:17
+#: A_New_Order/units/Akladian_LightInfantry-g.cfg:17
+#: A_New_Order/units/Akladian_LightInfantry.cfg:17
+msgid ""
+"The best of Akladian warriors are choosed by their lords to serve in their "
+"regular armies, and they became professional soldiers. They have to equip "
+"themselves, however, which results in light armour and spear being their "
+"weapon of choice."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Guardian.cfg:54
+#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:54
+#: A_New_Order/units/Akladian_LightInfantry-c.cfg:20
+#: A_New_Order/units/Akladian_LightInfantry-g.cfg:20
+#: A_New_Order/units/Aragwaith-Scout.cfg:56
+#: A_New_Order/units/Aragwaith-Spearman.cfg:54
+#: A_New_Order/units/Akladian_Warrior.cfg:20
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:75
+#: A_New_Order/units/Aragwaith-Lancer.cfg:55
+#: A_New_Order/units/Akladian_Warrior-c.cfg:20
+#: A_New_Order/units/Akladian_LightInfantry.cfg:20
+#: A_New_Order/units/City_Militia.cfg:37
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:54
+#: A_New_Order/units/Akladian_Warrior-g.cfg:20
+msgid "spear"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Lord-g.cfg:4
+#: A_New_Order/units/Akladian_Lord-c.cfg:4
+#: A_New_Order/units/Akladian_Lord.cfg:4
+msgid "Akladian Lord"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Lord-g.cfg:19
+#: A_New_Order/units/Akladian_Lord-c.cfg:19
+#: A_New_Order/units/Akladian_Lord.cfg:19
+msgid ""
+"Those of chieftain who gained enough reputation and fame may end as leaders "
+"of whole tribes."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:4
+#: A_New_Order/units/Akladian_Pikeneer.cfg:4
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:4
+msgid "Akladian Pikeneer"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:20
+#: A_New_Order/units/Akladian_Pikeneer.cfg:20
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:20
+msgid ""
+"Akladian Pikeneers are members of permament personal armies of Akladian "
+"lords, being closest thing to regular army Akladians have. They receive all "
+"needed supplies and their weapons from their master, whom they owe personal "
+"loyalty."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:23
+#: A_New_Order/units/Akladian_Pikeneer.cfg:23
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:23
+msgid "pike"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Princess.cfg:4
+msgid "female^Akladian Princess"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Princess.cfg:20
+#: A_New_Order/units/Akladian_Queen.cfg:20
+msgid "NEED SOME DESCRIPTION HERE"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Protector.cfg:4
+msgid "Akladian Protector"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Protector.cfg:17
+msgid ""
+"Veterans of many fights and surviving many defenses against invading "
+"enemies, Protectors forms caste of excellent warriors with their own codex, "
+"devoting whole their life for protecting their clans."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Queen.cfg:4
+msgid "female^Queen"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Queen.cfg:18
+msgid "leadership,skirmisher"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Raider-g.cfg:4
+#: A_New_Order/units/Akladian_Raider-c.cfg:4
+#: A_New_Order/units/Akladian_Raider.cfg:4
+msgid "Akladian Raider"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Raider-g.cfg:17
+#: A_New_Order/units/Akladian_Raider-c.cfg:17
+#: A_New_Order/units/Akladian_Raider.cfg:17
+msgid ""
+"Many Akladians join the armies of their lords, making the war their true "
+"profession. War provides them sense of life and means of life."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Shieldguard.cfg:4
+msgid "Akladian Shieldguard"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Shieldguard.cfg:17
+msgid ""
+"Those of Akladians who can afford it, wear better armour forming units which "
+"become last stands of hope if the enemy seeking revenge for the raids siegs "
+"home settlements of the clans."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Sturmknight.cfg:4
+msgid "Akladian Sturmknight"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Sturmknight.cfg:17
+msgid ""
+"Raids are well paid job and thanks to them many Akladians manage to equip "
+"themselves with better armour and weapons."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Warlord.cfg:4
+msgid "Akladian Warlord"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Warlord.cfg:23
+msgid ""
+"The noble leaders of many troops, Lords are especially strong in melee "
+"combat, and also possess skill with the bow. Like Commanders, Lords possess "
+"leadership skills, and improve the fighting ability of all adjacent lower-"
+"level units."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Warrior.cfg:4
+#: A_New_Order/units/Akladian_Warrior-c.cfg:4
+#: A_New_Order/units/Akladian_Warrior-g.cfg:4
+msgid "Akladian Warrior"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Warrior.cfg:17
+#: A_New_Order/units/Akladian_Warrior-c.cfg:17
+#: A_New_Order/units/Akladian_Warrior-g.cfg:17
+msgid ""
+"Spending their times in constant fights and raids, many Akladian clanmember "
+"become warriors, joining army not only in defense but also in raids against "
+"neighbouring lands."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wiseman-c.cfg:4
+#: A_New_Order/units/Akladian_Wiseman.cfg:4
+msgid "Akladian Wiseman"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wiseman-c.cfg:18
+#: A_New_Order/units/Akladian_Wiseman.cfg:18
+msgid "heals"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wiseman-c.cfg:19
+#: A_New_Order/units/Akladian_Wiseman.cfg:19
+msgid ""
+"Akladian Wisemans are those very few from tribes, who study herbs and ways "
+"to heal, instead to harm and kill people"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wonderman.cfg:4
+msgid "Akladian Wonderman"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wonderman.cfg:19
+msgid ""
+"Very rare amongst Akladian tribes, Wonderman are those who spend their whole "
+"life studying ways of healing. They do not ignore even experiences of "
+"Wesnothians, and learned few valuable tricks in process."
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wonderman.cfg:34
+msgid "lightbeam"
+msgstr ""
+
+#: A_New_Order/units/Akladian_Wonderman.cfg:35
+msgid "holy"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:72
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:189
+#: A_New_Order/units/Rogue_Mage.cfg:56 A_New_Order/units/Shadow_Mage.cfg:30
+#: A_New_Order/units/Shadow_Mage.cfg:53 A_New_Order/units/Shadow_Lord.cfg:70
+#: A_New_Order/units/Shadow_Lord.cfg:103 A_New_Order/units/Shadow_Lord.cfg:142
+#: A_New_Order/units/Aragwaith-Warlock.cfg:69
+#: A_New_Order/units/Aragwaith-Warlock.cfg:183
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:72
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:189
+#: A_New_Order/units/Akladian_Wonderman.cfg:37
+msgid "magical"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Archer.cfg:3
+msgid "Archer"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Archer.cfg:20
+msgid ""
+"The people of Aragwaith normaly prefer to face their enemy eye to eye but "
+"they have realised that bows are a very useful weapon so they formed a small "
+"army of archers."
+msgstr ""
+
+#: A_New_Order/units/Human-ranger.cfg:60
+#: A_New_Order/units/Aragwaith-Archer.cfg:127
+#: A_New_Order/units/Huntsman.cfg:52
+#: A_New_Order/units/Aragwaith-Hunter.cfg:106
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:126
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:103
+msgid "bow"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:4
+msgid "DangitIhadareallygoodnamebutIforgotit"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:19
+#: A_New_Order/units/Aragwaith-Scout.cfg:19
+#: A_New_Order/units/Aragwaith-Lancer.cfg:19
+msgid "Mercenary"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:4
+msgid "Dragonhunter"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:20
+msgid ""
+"These wayfarer travel in small groups but mostly alone through the new land "
+"to explore it and to mess their skills and strength with some of the "
+"strongest creatures of the known world dragons and their smaller sons' the "
+"drakes. They are more open to foreigners than other Aragwaiths and sometimes "
+"they even offer their help to lead traveler through dangerous passages but "
+"they'll be always their if one of their folk needs help."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Guard.cfg:4
+msgid "Guard"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Guard.cfg:18
+msgid ""
+"Under the soldiers of wesnoth there are stories of wild warriors wearing big "
+"shields who always came with the dawn. The claimed that they have seen them "
+"pierced by dozen arrows but they should kept on cutting through their lines "
+"like the reaper though a corn field."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Guardian.cfg:4
+msgid "Guardian"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Guardian.cfg:17
+msgid ""
+"Only few Guardians do exist and many of them already got grey hair. Many "
+"underestimate made them and many paid the highest price."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Hunter.cfg:3
+msgid "Hunter"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Hunter.cfg:20
+msgid ""
+"Big groups of Hunters rescued the people of Aragwaith from starvation over "
+"their long travel through the new land and even after the travel was "
+"finished they still contribute a big help for the people of Aragwaith they "
+"will greet every enemy wo dares to attack the Aragwaith with an rain of "
+"arrows."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Lancer.cfg:4
+msgid "Lancer"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:4
+msgid "Longsword fighter"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:18
+msgid ""
+"These Warriors are more fragile than most others but the compensate their "
+"lack of resiliance with an agile nature."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:4
+msgid "Pikeman"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:17
+msgid ""
+"Not many Aragwaith studied the fight spear to these level of skill. Many "
+"prefer the easier to learn sword so shaft bearers are a seldom view."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Scout.cfg:4
+msgid "Scout"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:4
+msgid "Shield Guard"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:17
+msgid ""
+"These Warriors wear the old shields of their ancients. These ancients "
+"succeeded to hold the line in the Battle of Evermore until the "
+"Reeinforcements arrived but they paid a high price not many survived the "
+"battle and many others died through their strong wounds. Now only the best "
+"warriors are allowed to carry these ancient shields who are ornated with the "
+"names of the past bearers to remind the world and to honor these brave man "
+"and their sacrifice"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:4
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:121
+msgid "Sorcerer"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:11
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:128
+msgid "cures,teleport"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:53
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:170
+msgid ""
+"Sorcerers are like the wind they can stand in front of you and one second "
+"later behind you. On the Battlefield they are fearful enemies and even the "
+"mercenaries throw a carefull eye on them mostly from a preffered distance of "
+"100 feed."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:56
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:173
+#: A_New_Order/units/Aragwaith-Warlock.cfg:53
+#: A_New_Order/units/Aragwaith-Warlock.cfg:167
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:56
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:173
+msgid "touch"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:69
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:186
+#: A_New_Order/units/Aragwaith-Warlock.cfg:66
+#: A_New_Order/units/Aragwaith-Warlock.cfg:180
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:69
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:186
+msgid "fireball"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:70
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:187
+#: A_New_Order/units/Aragwaith-Warlock.cfg:67
+#: A_New_Order/units/Aragwaith-Warlock.cfg:181
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:70
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:187
+msgid "fire"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Spearman.cfg:4
+msgid "Spearman"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Spearman.cfg:17
+msgid ""
+"In their old home the Aragwaith were well known for their unique figthing "
+"style which was saved over the the long journey to Wesnoth"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:4
+msgid "Stormbringer"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:20
+msgid ""
+"Many warriors have lost their head when these warriors crushed though their "
+"lines in the truest sense of the word. These secretive man have called "
+"themselves Stormbringer in remembrance of the wild storms of their old home "
+"they emulate in their style of fighting. The don't fear the death they're "
+"only afraid that they could fail in their mission to protect the last people "
+"of their folk who have survived the long march."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Swordman.cfg:4
+msgid "Swordman"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Swordman.cfg:17
+msgid ""
+"These men have lost their home and now they are forced to travel through an "
+"foreign land.The swordman form the backbone of the Aragwaith army because "
+"they learn to wield a weapon from their early childhood to face their great "
+"enemy. They prefere the sword before other unhandy and heavy weapons like "
+"maces and axes."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Swordmaster.cfg:4
+msgid "Swordmaster"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Swordmaster.cfg:18
+msgid ""
+"Only few have reached these mastership with the sword like the Swordmasters "
+"of Aragwaith. Some even claim they fight better than the elves but these are "
+"only rumors perhaps that's why not many have survived the meeting with their "
+"blades."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Warlock.cfg:4
+#: A_New_Order/units/Aragwaith-Warlock.cfg:118
+msgid "Warlock"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Warlock.cfg:50
+#: A_New_Order/units/Aragwaith-Warlock.cfg:164
+msgid ""
+"These mages were dropped out of the mage guild because of some new ideas. "
+"They've joined the mercenaries to earn one or the other coin and protection "
+"from angry peasants."
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:4
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:121
+msgid "Wizzard"
+msgstr ""
+
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:53
+#: A_New_Order/units/Aragwaith-Wizzard.cfg:170
+msgid ""
+"Wizards are welcomed members for the mercenaries because of their healing "
+"abilities and knowledge. These abilities were one reason they were outcasted "
+"by the other mages for example they believe that a patient should feel "
+"better after there treatment and not their own moneybag."
+msgstr ""
+
+#: A_New_Order/units/Brigand.cfg:4
+msgid "Brigand"
+msgstr ""
+
+#: A_New_Order/units/Brigand.cfg:20
+msgid ""
+"Mounted and wielding wicked-looking sickles, brigands left behind the "
+"farming life to stalk Wesnoth's lonely backroads in small bands, robbing "
+"travelers.  They also carry crude crossbows but are not very skilled with "
+"them."
+msgstr ""
+
+#: A_New_Order/units/Brigand.cfg:23
+msgid "sickle"
+msgstr ""
+
+#: A_New_Order/units/Ruvio.cfg:40 A_New_Order/units/Brigand.cfg:45
+msgid "crossbow"
+msgstr ""
+
+#: A_New_Order/units/City_Militia.cfg:4
+msgid "City Militia"
+msgstr ""
+
+#: A_New_Order/units/City_Militia.cfg:17
+msgid ""
+"City militia is composed from citizens of Wesnothian towns. Their role is "
+"usually just policing the cities and guarding the walls."
+msgstr ""
+
+#: A_New_Order/units/Fugitive.cfg:4
+msgid "Fugitive"
+msgstr ""
+
+#: A_New_Order/units/Fugitive.cfg:24
+msgid ""
+"Veteran criminals become notorious among the authorities for both their "
+"battle prowess and ability to elude capture.  Dangerous and ruthless, they "
+"can be fearful in their element but no real match for professional law "
+"enforcment forces."
+msgstr ""
+
+#: A_New_Order/units/Highwayman.cfg:28 A_New_Order/units/Fugitive.cfg:27
+#: A_New_Order/units/Fugitive.cfg:99
+msgid "mace"
+msgstr ""
+
+#: A_New_Order/units/Fugitive.cfg:45 A_New_Order/units/Fugitive.cfg:117
+msgid "sling"
+msgstr ""
+
+#: A_New_Order/units/Fugitive.cfg:76
+msgid "female^Fugitive"
+msgstr ""
+
+#: A_New_Order/units/Fugitive.cfg:96
+msgid ""
+"Veteran criminals become notorious among the authorities for both their "
+"battle prowess and ability to elude capture.  Beautiful and dangerous, their "
+"beauty is exceeded only by their dangerousness."
+msgstr ""
+
+#: A_New_Order/units/Hagarthen.cfg:4
+msgid "Hagarthen"
+msgstr ""
+
+#: A_New_Order/units/Hagarthen.cfg:20
+msgid ""
+"When the youth of the Gawen Hagarthen had passed, he understood that to "
+"became respected amongst his tribe he must became skilled in sword as well "
+"as in politics."
+msgstr ""
+
+#: A_New_Order/units/Henchman.cfg:9
+msgid "Henchman"
+msgstr ""
+
+#: A_New_Order/units/Henchman.cfg:24
+msgid ""
+"Henchmen are good for one thing: following orders.  They are not very smart "
+"or creative, neither of which is required to swing a club at an enemy.  "
+"Never far from their leader, they tend to work in groups (attacking one at a "
+"time).  With enough experience they can learn to swing a bigger club or "
+"throw things, but not both."
+msgstr ""
+
+#: A_New_Order/units/Henchman.cfg:27
+msgid "club"
+msgstr ""
+
+#: A_New_Order/units/Highwayman.cfg:5
+msgid "Highwayman"
+msgstr ""
+
+#: A_New_Order/units/Highwayman.cfg:25
+msgid ""
+"Armed with heavy mace, Highwaymen are the last people you want to meet on a "
+"deserted road late at night."
+msgstr ""
+
+#: A_New_Order/units/Human-ranger.cfg:4
+msgid "Ranger"
+msgstr ""
+
+#: A_New_Order/units/Human-ranger.cfg:24
+msgid ""
+"Rangers are wild men and masters of forest and hills.  They are excellent "
+"trackers, scouts, and archers, moving freely through the countryside under "
+"the cover of night.  Most rulers are afraid of rangers and would rather put "
+"them in the dungeon than put their abilities to use."
+msgstr ""
+
+#: A_New_Order/units/Human-ranger.cfg:63
+msgid "marksman"
+msgstr ""
+
+#: A_New_Order/units/Huntsman.cfg:4
+msgid "Huntsman"
+msgstr ""
+
+#: A_New_Order/units/Huntsman.cfg:23
+msgid ""
+"Huntsmen have spent their lives in the backwoods and swamps of their "
+"wilderness homes.  They track anything that moves in their territory, "
+"including people.  Bandit gangs hire them for their ability to bring down "
+"any prey."
+msgstr ""
+
+#: A_New_Order/units/Huntsman.cfg:35
+msgid "dagger"
+msgstr ""
+
+#: A_New_Order/units/Karen.cfg:4 A_New_Order/units/Ruvios_Daughter.cfg:4
+msgid "Karen"
+msgstr ""
+
+#: A_New_Order/units/Karen.cfg:20 A_New_Order/units/Ruvios_Daughter.cfg:19
+msgid ""
+"Being one of four daughters of great warrior was never an easy task. Hearing "
+"from childhood about battles, knights and great deeds of her father, Karen "
+"early decided that being a good housewife is definetely not her destiny."
+msgstr ""
+
+#: A_New_Order/units/Lord_Hagarthen.cfg:4
+msgid "Lord Hagarthen"
+msgstr ""
+
+#: A_New_Order/units/Lord_Hagarthen.cfg:19
+msgid ""
+"It takes usually many years until young Hagarthen clan members are consired "
+"worth to become kings. Such Hagarthen clan members are then called lords."
+msgstr ""
+
+#: A_New_Order/units/Medic.cfg:4
+msgid "Medic"
+msgstr ""
+
+#: A_New_Order/units/Medic.cfg:18
+msgid "Medics are non-combat units, devoted to helping wounded."
+msgstr ""
+
+#: A_New_Order/units/Rogue_Mage.cfg:4
+msgid "Rogue Mage"
+msgstr ""
+
+#: A_New_Order/units/Rogue_Mage.cfg:21 A_New_Order/units/Shadow_Mage.cfg:27
+msgid "short sword"
+msgstr ""
+
+#: A_New_Order/units/Rogue_Mage.cfg:53
+msgid "missile"
+msgstr ""
+
+#: A_New_Order/units/Rogue_Mage.cfg:54 A_New_Order/units/Shadow_Mage.cfg:51
+#: A_New_Order/units/Shadow_Lord.cfg:101
+msgid "cold"
+msgstr ""
+
+#: A_New_Order/units/Ruvio.cfg:4
+msgid "Ruvio"
+msgstr ""
+
+#: A_New_Order/units/Ruvio.cfg:19
+msgid ""
+"Always loyally serving royal family of Wesnoth, Ruvio skills in sword and "
+"crossbow became better than above average, to say it modestly; Even though "
+"the age had its impact on Ruvio, he still is dangerous opponent."
+msgstr ""
+
+#: A_New_Order/units/Shadow_Lord.cfg:4
+msgid "Shadow Lord"
+msgstr ""
+
+#: A_New_Order/units/Shadow_Lord.cfg:67
+msgid "astral blade"
+msgstr ""
+
+#: A_New_Order/units/Shadow_Lord.cfg:100
+msgid "shadow bolt"
+msgstr ""
+
+#: A_New_Order/units/Shadow_Lord.cfg:139
+msgid "shadow blast"
+msgstr ""
+
+#: A_New_Order/units/Shadow_Mage.cfg:4
+msgid "Shadow Mage"
+msgstr ""
+
+#: A_New_Order/units/Shadow_Mage.cfg:50
+msgid "ice blast"
+msgstr ""
+
+#: A_New_Order/units/YoungHagarthen.cfg:4
+msgid "Young Hagarthen"
+msgstr ""
+
+#: A_New_Order/units/YoungHagarthen.cfg:20
+msgid ""
+"The clan of Hagarthen was ruling the Akladian kingdoms for many generation. "
+"This heritage and this burden causes even young Hagarthen to try (sometimes "
+"without big results) to become better warriors than others."
+msgstr ""
+
+#: A_New_Order/units/YoungHagarthen.cfg:23
+msgid "training sword"
+msgstr ""
