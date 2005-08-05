@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-05 10:44+0200\n"
+"POT-Creation-Date: 2005-08-05 14:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -421,7 +421,7 @@ msgid "What do you mean?"
 msgstr ""
 
 #: ./A_New_Order/scenarios/10.cfg:419
-msgid "You forgot to say that 'one more reference to underling and I'm leaving'. Listen, Yaranov: I had noticed how you had been looking at me. At first, I couldn't guess what meant. I am not used to such kind of glances. I can easily recognise hatred, despite, disdain. But this... "
+msgid "You forgot to say that 'one more reference to underling and I'm leaving'. Listen, Yaranov: I had noticed how you had been looking at me. At first, I couldn't guess what meant. I am not used to such kind of glances. I can easily recognise hatred, despise, disdain. But this... "
 msgstr ""
 
 #: ./A_New_Order/scenarios/10.cfg:420
@@ -4073,7 +4073,7 @@ msgid "Actually, this is not a final, because campaign is not finished yet. But 
 msgstr ""
 
 #: ./A_New_Order/scenarios/final.cfg:72
-msgid "You have interrogated assassin send to kill Gawen Hagarthen, and find out that it was one of Akladians lords who hired him."
+msgid "You have interrogated assassin send to kill Gawen Hagarthen, and find out that it was one of the Akladian lords who hired him."
 msgstr ""
 
 #: ./A_New_Order/scenarios/final.cfg:75
