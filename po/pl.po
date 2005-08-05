@@ -367,7 +367,7 @@ msgid ""
 msgstr ""
 "Piękny był dzień, kiedy Gawen Hagarthen przybył do lasów Raedwood. Tutaj, w "
 "samym sercu lasu, leżało wolne miasto, Freetown, założone przez uciekinierów "
-"z krajów pod Akladyjskim jarzmem. Życie nie było tutaj łatwe, często "
+"z krajów pod akladyjskim jarzmem. Życie nie było tutaj łatwe, często "
 "brakowało żywności, a jednak często można było zobaczyć uśmiechy na twarzach "
 "mężczyzn i kobiet."
 
@@ -636,10 +636,12 @@ msgid ""
 "We were ordered to cooperate with orcs.. We were told orcs are our allies.. "
 "I know nothing more."
 msgstr ""
+"Dostaliśmy rozkaz współpracować z orkami.. Powiedziano nam, że orki to nasi "
+"sprzymierzeńcy... Nic więcej nie wiem."
 
 #: A_New_Order/scenarios/12.cfg:34
 msgid "I hope the witch is burning in hell!"
-msgstr ""
+msgstr "Mam nadzieję, że wiedźma skwierczy w piekle!"
 
 #: A_New_Order/scenarios/12.cfg:48
 msgid "Leaving Raedwood"
@@ -656,20 +658,24 @@ msgid ""
 "So, what now? I appreciate that you are calling me your commander, but the "
 "truth is that I have no idea what to do next."
 msgstr ""
+"No, to co teraz? Doceniam, że nazywasz mnie swoim dowódcą, ale po prawdzie "
+"nie mam pojęcia co teraz robić dalej."
 
 #: A_New_Order/scenarios/12.cfg:162
 msgid ""
 "That's what advisers are for. Right now, we have to leave the forests. And "
 "then find the orcs, catch their leaders and that's it."
 msgstr ""
+"Od tego właśnie ma się doradców. Teraz, musimy opuścić lasy. Potem odnaleźć "
+"orki, złapać ich wodzów i to wszystko."
 
 #: A_New_Order/scenarios/12.cfg:165
 msgid "Karen! What are you doing here!"
-msgstr ""
+msgstr "Karen! Co ty tutaj robisz!"
 
 #: A_New_Order/scenarios/12.cfg:166
 msgid "I apologise my lord. I was not able to stop her."
-msgstr ""
+msgstr "Wybaczcie mi, panie. Nie mogłem jej zatrzymać."
 
 #: A_New_Order/scenarios/12.cfg:167
 msgid ""
@@ -677,44 +683,54 @@ msgid ""
 "future king is doing great heroical things, the kind the great future kings "
 "usually do. You don't mind, don't you - Gaumhaldric?"
 msgstr ""
-
+"Przepraszam tato. Po prostu nie mogłam przegapić możliwości obejrzenia jak "
+"nasz wielki przyszły król robi wielkie bohaterskie czyny, w rodzaju tych "
+"jakie zwykle wielcy przyszli królowie robią. Nie masz nic przeciwko temu, "
+"prawda, Gaumhaldric?"
 #: A_New_Order/scenarios/12.cfg:168
 msgid "Karen, .. "
-msgstr ""
+msgstr "Karen, .."
 
 #: A_New_Order/scenarios/12.cfg:169
 msgid "I know. You hate me."
-msgstr ""
+msgstr "Wiem, wiem. Chyba mnie nie lubisz."
 
 #: A_New_Order/scenarios/12.cfg:170
 msgid "Future king? What is she talking about?"
-msgstr ""
+msgstr "Przyszły król? O czym ona mówi?"
 
 #: A_New_Order/scenarios/12.cfg:171
 msgid ""
 "You didn't know? Your true mother was from long lines of the kings. The last "
 "of her branch. You are true heir to the throne of Wesnoth."
 msgstr ""
+"Nie wiedziałeś? Twoja prawdziwa matka była z długiej linii królów. Ostatnią "
+"z tego odgałęzienia rodu. Jesteś prawdziwym następcą tronu Wesnoth."
 
 #: A_New_Order/scenarios/12.cfg:172
 msgid ""
 "Along with your cousins from other branches, of course. They are all true "
 "heirs to the throne of Wesnoth."
 msgstr ""
+"Razem z całą masą kuzynów z innych odgałęzień rodu, oczywiście. Oni wszyscy "
+"też są prawdziwymi następcami tronu Wesnoth."
 
 #: A_New_Order/scenarios/12.cfg:173
 msgid "What? Ruvio, I don't want to be king."
-msgstr ""
+msgstr "Co? Ruvio, ja nie chcę być królem."
 
 #: A_New_Order/scenarios/12.cfg:174
 msgid "You have no choice. This is your destiny."
-msgstr ""
+msgstr "Nie masz wyboru. To twoje przeznaczenie."
 
 #: A_New_Order/scenarios/12.cfg:175
 msgid ""
 "No, I don't want to. Besides, there are other heirs, why me? What should I "
 "do with those other cousins, if they won't recognise me as king?"
 msgstr ""
+"Nie, nie chcę. Poza tym, skoro są inni następcy, dlaczego ja? Co niby "
+"miałbym zrobić z tymi wszystkimi kuzynami, gdyby nie rozpoznali mnie jako "
+"króla?"
 
 #: A_New_Order/scenarios/12.cfg:176
 msgid ""
@@ -729,12 +745,16 @@ msgid ""
 "No. I want only peace. I do not want to start civil wars, or fight for any "
 "thrones. No and let's not talk about it again."
 msgstr ""
+"Nie. Chcę tylko pokoju. Nie chcę wszczynać wojen domowych, ani walczyć o "
+"żadne trony. Nie, i więcej o tym już nie mówmy."
 
 #: A_New_Order/scenarios/12.cfg:178
 msgid ""
 "There will be time, when we will have to talk about it again. Now we should "
 "get through the lines of the Akladians."
 msgstr ""
+"Nadejdzie czas, kiedy będziemy musieli o tym znowu pomówić. A teraz musimy "
+"przedostać się przez linie Akladyjczyków."
 
 #: A_New_Order/scenarios/12.cfg:179
 msgid ""
@@ -742,6 +762,9 @@ msgid ""
 "interrogating two nearest enemy leaders have any sense. They do not look "
 "important enough. The third one, on the second hand..."
 msgstr ""
+"Jeżeli mi wolno coś zasugerować, mój panie. Jesteśmy tutaj by gromadzić "
+"wiadomości. Ale nie sądzę, by przesłuchanie dwóch najbliższych przywódców "
+"coś dało. Nie wyglądają na dosyć ważnych. Ten trzeci natomiast..."
 
 #: A_New_Order/scenarios/12.cfg:183
 msgid ""
@@ -943,20 +966,24 @@ msgid ""
 "Orcs? Da orcs were in plains pillagin' and burnin'. They are big, bad and "
 "you should avoid them boy."
 msgstr ""
+"Orki? Orki były na równinach, paliwszy i łupiwszy. Taa, są wielkie, złe i "
+"powinieneś się ich wystrzegać."
 
 #: A_New_Order/scenarios/13.cfg:108
 msgid "Reme? What is that Reme? Some kind of food?"
-msgstr ""
+msgstr "Reme? A co to takiego to Reme? Rodzaj żarcia?"
 
 #: A_New_Order/scenarios/13.cfg:109
 msgid "No, no, it's one of Akladian lords. who.."
-msgstr ""
+msgstr "Nie, nie, to jeden z akladyjskich lordów, który..."
 
 #: A_New_Order/scenarios/13.cfg:110
 msgid ""
 "Akladian lords, yea I've heard about them. They are big, bad and you should "
 "avoid them."
 msgstr ""
+"Akladyjscy lordowie, taaa słyszał ja o nich. Wielcy, źli i powinieneś się "
+"trzymać od nich z daleka."
 
 #: A_New_Order/scenarios/13.cfg:112
 msgid ""
@@ -1217,18 +1244,22 @@ msgid ""
 "say, it's their national sport. But still.. yes, it have escaped my "
 "attention before"
 msgstr ""
+"Masz rację, Gawenie. Akladyjczycy bez przerwy trują się nawzajem. Można by "
+"powiedzieć, że to ich narodowy sport. Ale jednak... taaak, przedtem umknęło "
+"to jakoś mojej uwagi.."
 
 #: A_New_Order/scenarios/13.cfg:544
 msgid "Hey Karen, what's up?"
-msgstr ""
+msgstr "Hej Karen, co tam u ciebie?"
 
 #: A_New_Order/scenarios/13.cfg:545
 msgid "I just created a new song about you, want to hear it?"
-msgstr ""
+msgstr "Właśnie napisałam nową pieśń o tobie, chcesz posłuchać?"
 
 #: A_New_Order/scenarios/13.cfg:546
 msgid "You are gifted girl, fighting, singing, what else you can do?"
 msgstr ""
+"Utalentowana z ciebie dziewczyna, walczysz, śpiewasz, co jeszcze umiesz robić?"
 
 #: A_New_Order/scenarios/13.cfg:547
 msgid ""
@@ -1305,18 +1336,22 @@ msgstr ""
 
 #: A_New_Order/scenarios/13.cfg:583
 msgid "He is underling."
-msgstr ""
+msgstr "To niegodny."
 
 #: A_New_Order/scenarios/13.cfg:584
 msgid ""
 "Underling? Mother, why do you use such words? I am underling too, after all."
 msgstr ""
+"Niegodny? Matko, dlaczego używasz takich słów? Ja też jestem w końcu "
+"'niegodny', czyż nie?"
 
 #: A_New_Order/scenarios/13.cfg:585
 msgid ""
 "No! I would never call you like that. You are not.. I mean.. I.. Ah, you are "
 "too young to understand that."
 msgstr ""
+"Nie! Nigdy bym ciebie tak nie nazwała. Ty nie jesteś.. To znaczy.. ja.. "
+"Jesteś po prostu za młody by to zrozumieć."
 
 #: A_New_Order/scenarios/13.cfg:586
 msgid ""
@@ -1324,6 +1359,8 @@ msgid ""
 "our customs about widows, who are betraying their dead husband. I will "
 "explain it to you later."
 msgstr ""
+"Poza tym, straciłeś pamięć i pewnie nie pamiętasz jak postępują Akladyjczycy "
+"z wdowami, które zdradzają swoich martwych mężów. Kiedyś ci to wyjaśnię."
 
 #: A_New_Order/scenarios/13.cfg:588
 msgid ""
@@ -1951,7 +1988,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/3.cfg:184
 msgid "Yes. He confessed to be hired by some of Akladian lords."
-msgstr "Tak. Wyznał, że wynajęty był przez jednego z Akladyjskich panów."
+msgstr "Tak. Wyznał, że wynajęty był przez jednego z akladyjskich lordów."
 
 #: A_New_Order/scenarios/3.cfg:188
 msgid "It's strange how some are lying out of fear. What else he was saying?"
@@ -2068,6 +2105,10 @@ msgid ""
 "Lady Lorin, he, accompanied by two of lords and small army, marched north, "
 "to the settlements of clan of O-Barnon."
 msgstr ""
+"Po kilku dniach przygotowań, kiedy pierwsi pierworodni akladyjskich lordów "
+"pojawili się w Vattin by zostać gośćmi króla Gawena Hagarthena i jego "
+"macochy Lady Lorin, on sam, wraz z dwoma lordami i małą armią, ruszył na "
+"północ, do siedzib klanu O-Barnon."
 
 #: A_New_Order/scenarios/4.cfg:24
 msgid ""
@@ -2130,6 +2171,8 @@ msgid ""
 "It's dark day to see Akladian lords siding with bastard and underling. What "
 "will your ancestors say about this, Uri?"
 msgstr ""
+"Czarny to dzień, widzieć akladyjskich lordów trzymających stronę bękarta i "
+"do tego niegodnego. Co by twoi przodkowie na to powiedzieli, Uri?"
 
 #: A_New_Order/scenarios/4.cfg:260
 msgid ""
@@ -2731,7 +2774,7 @@ msgid ""
 "and this young boy can lead us to victory over Akladian beasts."
 msgstr ""
 "Dobrze więc, Ruvio. Będziemy słuchać jego rozkazów. Mamy nadzieję, że się nie "
-"mylisz i ten młody chłopak poprowadzi nas do zwycięstwa nad Akladyjskimi "
+"mylisz i ten młody chłopak poprowadzi nas do zwycięstwa nad akladyjskimi "
 "bestiami."
 
 #: A_New_Order/scenarios/7.cfg:445
@@ -2836,6 +2879,9 @@ msgid ""
 "Why? If the Freetown location is so secret, then even if Akladian lords will "
 "know that I am alive, they wouldn't be able to find me, right?"
 msgstr ""
+"Dlaczego? Jeżeli lokalizacja Freetown jest owiana taką tajemnicą, to nawet "
+"jeśli akladyjscy lordowie by wiedzieli, że żyję, to nie byliby w stanie "
+"mnie odnaleźć, prawda?"
 
 #: A_New_Order/scenarios/7.cfg:468
 msgid ""
@@ -4262,7 +4308,7 @@ msgid ""
 msgstr ""
 "Nie mogę ci powiedziec! (Aargh) Nie znam jego imienia! Dostałem zadanie od "
 "naszych starszych z Miejsca Pozaprawia. Wszystko co wiem, to tyle, że jeden "
-"z Akladyjskich panów zapłacił za niego w złocie. Cena była trzysta sztuk "
+"z akladyjskich lordów zapłacił za niego w złocie. Cena była trzysta sztuk "
 "złota za ojca i dwieście za syna! Aaaaargh!"
 
 #: A_New_Order/scenarios/ano_macros.cfg:255
@@ -4633,7 +4679,7 @@ msgstr "Teraz poznam najlepszego strzelca... Śmierć, która nigdy nie pudłuje
 
 #: A_New_Order/scenarios/final.cfg:30
 msgid "Final"
-msgstr ""
+msgstr "Finał"
 
 #: A_New_Order/scenarios/final.cfg:44
 msgid ""
@@ -4645,8 +4691,10 @@ msgstr ""
 #: A_New_Order/scenarios/final.cfg:72
 msgid ""
 "You have interrogated assassin send to kill Gawen Hagarthen, and find out "
-"that it was one of Akladians lords who hired him."
+"that it was one of the Akladian lords who hired him."
 msgstr ""
+"Przesłuchałeś zabójcę wysłanego do zabicia Gawena Hagarthena, i odkryłeś, "
+"że wynajął go jeden z akladyjskich lordów."
 
 #: A_New_Order/scenarios/final.cfg:75
 msgid ""
@@ -4656,7 +4704,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/final.cfg:78
 msgid "But you have not find out which one of Akladian lords did that and why."
-msgstr ""
+msgstr "Ale nie odkryłeś, który z akladyjskich lordów to zrobił i dlaczego."
 
 #: A_New_Order/scenarios/final.cfg:81
 msgid "You have not find out who hired assassin to kill Gawen Hagarthen."
@@ -4807,7 +4855,7 @@ msgstr "miecz"
 #: A_New_Order/units/Akladian_Lord.cfg:24
 #: A_New_Order/units/Akladian_Raider.cfg:21
 msgid "blade"
-msgstr ""
+msgstr "ostrze"
 
 #: A_New_Order/units/Akladian_Chieftain-g.cfg:4
 msgid "Akladian Chieftain_g"
@@ -4901,7 +4949,7 @@ msgid ""
 "are almost professional soldiers, being equipped by their masters. Having "
 "light armour, they put all their hope in mastering of the sword."
 msgstr ""
-"Akladyjscy Szybkostopi są członkami osobistych armii Akladyjskich panów. "
+"Akladyjscy Szybkostopi są członkami osobistych armii akladyjskich lordów. "
 "Są niemalże profesjonalnymi żołnierzami, wyposażanymi przez ich władców. "
 "Mając lekki pancerz, całą nadzieję pokładają w mistrzowskim posługiwaniu "
 "się mieczem."
@@ -4937,7 +4985,7 @@ msgid ""
 "are respected amongst tribes, and useful to Akladian lords."
 msgstr ""
 "Poświęwszy całe swoje życie zadaniu leczenia i ratowania życia, Akladyjscy "
-"Święci Mężowie są szanowani wśród szczepów, i przydatni Akladyjskim panom."
+"Święci Mężowie są szanowani wśród szczepów, i przydatni akladyjskim lordom."
 
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:22
 #: A_New_Order/units/Akladian_Wiseman.cfg:22
@@ -5529,6 +5577,9 @@ msgid ""
 "became respected amongst his tribe he must became skilled in sword as well "
 "as in politics."
 msgstr ""
+"Kiedy młodość Gawena Hagarthena minęła, szybko zrozumiał, że do zdobycia "
+"szacunku wśród jego szczepu musi równie sprawnie władać mieczem jak "
+"orientować się w polityce."
 
 #: A_New_Order/units/Henchman.cfg:9
 msgid "Henchman"
@@ -5599,16 +5650,22 @@ msgid ""
 "from childhood about battles, knights and great deeds of her father, Karen "
 "early decided that being a good housewife is definetely not her destiny."
 msgstr ""
+"Bycie jedną z czterech córek wielkiego wojownika nigdy nie było łatwe. "
+"Od dzieciństwa słysząc o bitwach, rycerzach i wielkich czynach jej ojca, "
+"Karen wcześnie zdecydowało, że zdecydowanie nie jest jej przeznaczeniem "
+"życie jako przykładna kura domowa."
 
 #: A_New_Order/units/Lord_Hagarthen.cfg:4
 msgid "Lord Hagarthen"
-msgstr ""
+msgstr "Lord Hagarthen"
 
 #: A_New_Order/units/Lord_Hagarthen.cfg:19
 msgid ""
 "It takes usually many years until young Hagarthen clan members are consired "
 "worth to become kings. Such Hagarthen clan members are then called lords."
 msgstr ""
+"Całe lata mijają nim młodzi Hagartheni są uznani za wystarczająco godnych "
+"by stać się królami. Nazywani są wtedy lordami."
 
 #: A_New_Order/units/Medic.cfg:4
 msgid "Medic"
@@ -5676,6 +5733,9 @@ msgid ""
 "This heritage and this burden causes even young Hagarthen to try (sometimes "
 "without big results) to become better warriors than others."
 msgstr ""
+"Klan Hagarthenów rządził królestwami Akladyjczyków od wielu pokoleń. "
+"To dziedzictwo i ten ciężar powodują, że wielu, nawet młodych Hagarthenów "
+"próbuje (często bez rezultatów) stać się lepszymi wojownikami niż inni."
 
 #: A_New_Order/units/YoungHagarthen.cfg:23
 msgid "training sword"
