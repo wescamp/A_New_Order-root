@@ -596,8 +596,8 @@ msgstr ""
 "jestem Akladyjką, a ty nie. Po drugie, jestem złą kobietą. Nawet nie masz "
 "pojęcia, jak bardzo złą. Unikaj mnie. Po trzecie, nie jesteś w moim typie. "
 "Po czwarte, w przeszkodzie są pewne nasze zwyczaje, których widocznie nie "
-"znasz. Umówmy się, że ja nie będę nazywać ciebie niegodnym, a ty będziesz do "
-"mnie zwracał się per 'pani Lorin'. Zgoda?"
+"znasz. Umówmy się, że ja nie będę nazywać ciebie niegodnym, a ty będziesz "
+"do mnie zwracał się per 'pani Lorin'. Zgoda?"
 
 #: A_New_Order/scenarios/10.cfg:421
 msgid ""
@@ -628,7 +628,7 @@ msgid ""
 msgstr ""
 "Piękny był dzień, kiedy Gawen Hagarthen przybył do lasów Raedwood. Tutaj, w "
 "samym sercu lasu, leżało wolne miasto, Freetown, założone przez uciekinierów "
-"z krajów pod akladyjskim jarzmem. Życie nie było tutaj łatwe, często "
+"z krajów pod akladyjskim jarzmem. Życie nie było tutaj łatwe, nierzadko "
 "brakowało żywności, a jednak często można było zobaczyć uśmiechy na twarzach "
 "mężczyzn i kobiet."
 
@@ -642,7 +642,7 @@ msgstr ""
 "Karen powiedziała, że można tutaj poczuć zapach wolności w powietrzu; Gawen "
 "nie poczuł jednak niczego, no może poza wonią posiłków przygotowywanych w "
 "kuchniach na świeżym powietrzu. Nie było mu dane skosztować ich. Posłańcy "
-"czekali już na Ruvia, prosząc go by przybył na spotkanie rady przywódców "
+"czekali już na Ruvia, prosząc go, by przybył na spotkanie rady przywódców "
 "miasta Freetown."
 
 #: A_New_Order/scenarios/14orcs.cfg:43 A_New_Order/scenarios/15.cfg:29
@@ -670,7 +670,7 @@ msgid ""
 "Welcome back to Freetown, Ruvio. You are just in time to participate in our "
 "meeting."
 msgstr ""
-"Witaj z powrotem w Freetown, Ruvio. Jesteś w samą porę by wziąć udział w "
+"Witaj z powrotem w Freetown, Ruvio. Jesteś w samą porę, by wziąć udział w "
 "naszym spotkaniu."
 
 #: A_New_Order/scenarios/11.cfg:116
@@ -741,8 +741,8 @@ msgid ""
 "marched unnoticed into very heart of Wesnoth."
 msgstr ""
 "Mój szacunek i najlepsze życzenia dla wszystkich w tym wolnym mieście. Mam "
-"nadzieję, że wybaczycie mi, że nie zanudzę was z tradycyjnym długim i "
-"pompatycznym przemówieniem. Wiadomości które przywożę są proste i "
+"nadzieję, że wybaczycie mi, że nie zanudzę was tradycyjnym długim i "
+"pompatycznym przemówieniem. Wiadomości, które przywożę są proste i "
 "przerażające. Armia orków, niezauważona przez nikogo, wmaszerowała w samo "
 "serce Wesnoth."
 
@@ -757,7 +757,7 @@ msgstr ""
 #: A_New_Order/scenarios/11.cfg:128
 msgid "He is saying the truth, Huon. You have not seen the reports I've got."
 msgstr ""
-"On mówi prawdę, Huonie. Nie widziałeś jeszcze raportów które otrzymałem."
+"On mówi prawdę, Huonie. Nie widziałeś jeszcze raportów, które otrzymałem."
 
 #: A_New_Order/scenarios/11.cfg:129
 msgid ""
@@ -766,7 +766,7 @@ msgid ""
 "you have called me a liar. Orcish army appeared in Wesnoth, bringing back "
 "memories of queen, whose name I will not utter."
 msgstr ""
-"W rzeczy same przeszli przez wolne królestwa północy. Stosunki między ludżmi "
+"W rzeczy samej przeszli przez wolne królestwa północy. Stosunki między ludżmi "
 "to nie moja sprawa. Poza tym, będę udawał, że nie zauważyłem, że nazwaliście "
 "mnie kłamcą. Armia orków pojawiła się w Wesnoth, przypominając czasy "
 "królowej, której imienia nie chcę wypowiadać."
@@ -868,16 +868,18 @@ msgstr ""
 
 #: A_New_Order/scenarios/11.cfg:243
 msgid "Of courrrrrse."
-msgstr "Ależ OCZYWIŚCIE!"
+msgstr "JASSSSNE."
 
 #: A_New_Order/scenarios/12.cfg:7
 msgid ""
 "Wait! Do not die yet! I know you can hear me, answer me a few questions!"
 msgstr ""
+"Stój! Jeszcze nie umieraj! Wiem, że jeszcze mnie słyszysz, odpowiedz mi na "
+"kilka pytań!"
 
 #: A_New_Order/scenarios/12.cfg:8
 msgid "Where did you hide the gold?"
-msgstr ""
+msgstr "Gdzie ukryłeś złoto?"
 
 #: A_New_Order/scenarios/12.cfg:9
 msgid "Do you know where Reme Carrenemoe is?"
@@ -889,7 +891,7 @@ msgstr "Co wiesz o orkach?"
 
 #: A_New_Order/scenarios/12.cfg:11
 msgid "Do you know anything about Lady Lorin?"
-msgstr ""
+msgstr "Czy wiesz cokolwiek o Pani Lorin?"
 
 #: A_New_Order/scenarios/12.cfg:12
 msgid "That's all I wanted to know."
@@ -1176,7 +1178,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/13.cfg:26 A_New_Order/scenarios/13.cfg:91
 msgid "Reme? No, I have not heard about him."
-msgstr ""
+msgstr "Reme? Nie, nie słyszałem o nim."
 
 #: A_New_Order/scenarios/13.cfg:28
 msgid ""
@@ -1186,11 +1188,11 @@ msgstr ""
 
 #: A_New_Order/scenarios/13.cfg:34
 msgid "No offense, but you were already asking me that question."
-msgstr ""
+msgstr "Bez obrazy, ale jużeście mnie o to raz pytali."
 
 #: A_New_Order/scenarios/13.cfg:37
 msgid "Well, and what do you propose in exchange?"
-msgstr ""
+msgstr "Hm, a co proponujecie w zamian?"
 
 #: A_New_Order/scenarios/13.cfg:38 A_New_Order/scenarios/9.cfg:397
 msgid "What about this:"
@@ -1459,14 +1461,14 @@ msgstr "Jesteś pewien, że chcesz tam się dostać?"
 #: A_New_Order/scenarios/13.cfg:655 A_New_Order/scenarios/13.cfg:660
 #: A_New_Order/scenarios/13.cfg:687
 msgid "Yes, definetely."
-msgstr ""
+msgstr "Zdecydowanie tak."
 
 #: A_New_Order/scenarios/14bontom.cfg:243 A_New_Order/scenarios/13.cfg:287
 #: A_New_Order/scenarios/13.cfg:313 A_New_Order/scenarios/13.cfg:354
 #: A_New_Order/scenarios/13.cfg:656 A_New_Order/scenarios/13.cfg:661
 #: A_New_Order/scenarios/13.cfg:688
 msgid "Well, maybe not."
-msgstr ""
+msgstr "Może jednak nie."
 
 #: A_New_Order/scenarios/13.cfg:291
 msgid "As you wish, my lord."
@@ -1481,20 +1483,24 @@ msgid ""
 "Are you sure you want to go there? I've told you that I doubt Saurians know "
 "anything useful."
 msgstr ""
+"Jesteś pewien, że chcesz tam iść? Mówiłem ci, że wątpię by Jaszczuroludzie "
+"wiedzieli coś, co by się okazało dla nas użyteczne."
 
 #: A_New_Order/scenarios/13.cfg:320 A_New_Order/scenarios/13.cfg:323
 msgid ""
 "So, on to Saorduc! Hope it is wise decision and lizard men would know "
 "something about orcs."
 msgstr ""
+"A więc, do Saorduc! Mam nadzieję, że to mądra decyzja i Jaszczuroludzie "
+"będą coś wiedzieć o orkach."
 
 #: A_New_Order/scenarios/13.cfg:328
 msgid "Lizards? We already fought with them. I hate lizards."
-msgstr ""
+msgstr "Jaszczury? Już z nimi walczyłam. Nienawidzę jaszczurów."
 
 #: A_New_Order/scenarios/13.cfg:333
 msgid "That was wise decision, my lord."
-msgstr ""
+msgstr "To była mądra decyzja, mój panie."
 
 #: A_New_Order/scenarios/13.cfg:349
 msgid "We already were scouting near Barnon. Were to go now?"
@@ -2630,7 +2636,8 @@ msgstr ""
 
 #: A_New_Order/scenarios/14orcs.cfg:202
 msgid "Maybe you are right. We should go back to Freetown then."
-msgstr "Może masz rację. Powinniśmy w takim razie wrócić do Freetown."
+msgstr ""
+"Może masz rację. Powinniśmy w takim razie wrócić do Freetown."
 
 #: A_New_Order/scenarios/14orcs.cfg:209 A_New_Order/scenarios/14orcs.cfg:229
 #: A_New_Order/scenarios/14orcs.cfg:250 A_New_Order/scenarios/14orcs.cfg:273
@@ -2641,22 +2648,26 @@ msgstr "Pozwolę ci żyć, jeżeli odpowiesz mi na kilka pytań."
 msgid ""
 "Yes, yes, I will answer, yummie.. liver. What kind of liver it would be? ."
 msgstr ""
+"Tak, tak, odpowiem panie. Oooh.. rzyc... Czyja to rzyc będzie?"
 
 #: A_New_Order/scenarios/14orcs.cfg:211 A_New_Order/scenarios/14orcs.cfg:252
 msgid "What??"
-msgstr "Co?"
+msgstr "Co??"
 
 #: A_New_Order/scenarios/14orcs.cfg:212 A_New_Order/scenarios/14orcs.cfg:253
 msgid ""
 "What kind of liver it will be. Human liver, uhmm, or delicious liver of "
 "Elvish woman?"
 msgstr ""
+"Jaki to będzie rodzaj rzyci. Rzyć kobiecej kobiety, elficy?"
 
 #: A_New_Order/scenarios/14orcs.cfg:213
 msgid ""
-"No, no, you have not undestand me. I will let you LIVE, not get you LIVER. "
+"No, no, you have not understand me. I will let you LIVE, not get you LIVER. "
 "Why you are here allied with Akladians?"
 msgstr ""
+"Nie, nie, nie zrozumiałeś mnie. Dam ci żyć, a nie czyjąś rzyć. Dlaczego "
+"sprzymierzyliście sie z Akladyjczykami?"
 
 #: A_New_Order/scenarios/14orcs.cfg:214 A_New_Order/scenarios/14orcs.cfg:255
 msgid ""
@@ -2703,8 +2714,8 @@ msgstr ""
 msgid ""
 "Grekulak? That's something to report. We should go back to Freetown then."
 msgstr ""
-"Grekulak? Hm, to jest coś o czym warto złożyć raport. Powinniśmy więc wrócić "
-"do Freetown."
+"Grekulak? Hm, to jest coś o czym warto złożyć raport. Powinniśmy więc "
+"wrócić do Freetown."
 
 #: A_New_Order/scenarios/14orcs.cfg:254
 msgid ""
@@ -2768,7 +2779,7 @@ msgstr ""
 #: A_New_Order/scenarios/14saorduc.cfg:179
 msgid "Be calm, you are amongsst friendss, no humanss here..."
 msgstr ""
-"Nie martw śśśśśsię, jessssteś między przyjaciółmi, żadnychhh ludzi tutaj..,"
+"Nie martw śśśśśsię, jessssteś między przyjaciółmi, żadnychhh ludzi tutaj..," 
 
 #: A_New_Order/scenarios/14saorduc.cfg:181
 msgid "Lizards!"
@@ -5218,15 +5229,15 @@ msgstr ""
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:456
 msgid "Death to the traitors!"
-msgstr ""
+msgstr "Śmierć zdrajcom!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:460
 msgid "Yeah!"
-msgstr ""
+msgstr "No właśnie!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:479
 msgid "This is the end which awaits all traitors!"
-msgstr ""
+msgstr "Taki koniec czeka wszystkich zdrajców!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:491
 msgid ""
@@ -5281,15 +5292,15 @@ msgstr "Ups."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:651
 msgid "It looks like he recruited a lot of units."
-msgstr ""
+msgstr "Wygląda, że powołał mnóstwo jednostek."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:655
 msgid "Yes indeed. This could be a bit harder than we expected."
-msgstr ""
+msgstr "W rzeczy samej. To może być nieco trudniejsze, niż oczekiwaliśmy."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:683
 msgid "My friends will come very soon! You are already doomed! Ha ha ha!"
-msgstr ""
+msgstr "Moi przyjaciele wkrótce przybędą! Wasz los jest przesądzony! "
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:689
 msgid ""
@@ -5856,6 +5867,9 @@ msgid ""
 "Facing hostility of all other nations, Akladians had to create special units "
 "devoting whole their life to guarding the settlements of the clans."
 msgstr ""
+"Wobec wrogości wszystkich innych narodów, Akladyjczycy musieli utworzyć "
+"specjalne jednostki, których członkowie poświecali całe swoje życie ochronie "
+"siedzib klanów."
 
 #: A_New_Order/units/Akladian_Lady.cfg:4
 msgid "female^Akladian Lady"
