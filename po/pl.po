@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.1\n"
+"Project-Id-Version: 0.1.6\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-05 14:00+0200\n"
 "PO-Revision-Date: 2005-07-31 00:25+0200\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: A_New_Order.cfg:11
 msgid "A New Order"
-msgstr "Nowy Porządek."
+msgstr "Nowy Porządek"
 
 #: A_New_Order.cfg:14
 msgid "Trivial"
@@ -39,20 +39,22 @@ msgstr ""
 
 #: A_New_Order/scenarios/1-6macros.cfg:15
 msgid "Get out of my way... I am not here because of you."
-msgstr ""
+msgstr "Z drogi... Nie jestem tutaj z twojego powodu."
 
 #: A_New_Order/scenarios/1-6macros.cfg:31
 msgid "You aren't prince, aren't you? It is not you whom I am seeking."
-msgstr ""
+msgstr "Nie jesteś może księciem, co? To nie ciebie szukam."
 
 #: A_New_Order/scenarios/1-6macros.cfg:45
 msgid ""
 "Finally! Now, accept the inevitable. I am professional, that won't gonna hurt"
 msgstr ""
+"Nareszcie! Przyjmij teraz nieuniknione. Nie bój się, jestem zawodowcem, to "
+"nie będzie boleć."
 
 #: A_New_Order/scenarios/1-6macros.cfg:61
 msgid "Leave a final blow for me! I want to interrogate him!"
-msgstr ""
+msgstr "Ostatnie uderzenie zostaw dla mnie! Chcę go przesłuchać!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:75
 msgid "Why? Who have send you?"
@@ -60,7 +62,7 @@ msgstr "Dlaczego? Kto ciebie wysłał?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:79
 msgid "Why? Two hundred golden pieces, that's why."
-msgstr ""
+msgstr "Dlaczego? Dwieście sztuka złota, oto dlaczego."
 
 #: A_New_Order/scenarios/1-6macros.cfg:98
 msgid "Die, underling!"
@@ -79,15 +81,17 @@ msgstr ""
 
 #: A_New_Order/scenarios/1-6macros.cfg:125
 msgid "The destiny."
-msgstr ""
+msgstr "Przeznaczenie."
 
 #: A_New_Order/scenarios/1-6macros.cfg:129
 msgid "Don't test my patience. Speak, or I will kill you."
 msgstr ""
+"Moja cierpliwość ma swoje granice, nie sprawdzaj jak daleko możesz się "
+"posunąć. Mów, albo zginiesz!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:134
 msgid "Do whatever you want to."
-msgstr ""
+msgstr "A rób co chcesz."
 
 #: A_New_Order/scenarios/1-6macros.cfg:138
 msgid "Then die, if you want."
@@ -110,12 +114,16 @@ msgid ""
 "Don't test my patience, underling! Speak, or you will be sorry you are still "
 "alive!"
 msgstr ""
+"Nie sprawdzaj, jak daleko możesz sie posunąć, niegodny! Gadaj, albo żałować "
+"będziesz, że jeszcze żyjesz!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:173
 msgid ""
 "Who have send me? The fate... But there will be another after me. (scream of "
 "pain) Aaaargh!"
 msgstr ""
+"Kto mnie wysłał? Przeznaczenie... A po mnie przyjdzie następny. (Krzyk bólu) "
+"Aaaargh!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:186
 msgid ""
@@ -174,6 +182,8 @@ msgid ""
 "No! That's impossible! You will pay for that, treacherous dogs! Your sons at "
 "Vattin are already dead!"
 msgstr ""
+"Nie! To niemożliwe! Zapłacisz mi za to, zdradziecki psie! Twoi synowie w "
+"Vattin już są martwi!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:292
 msgid ""
@@ -181,12 +191,17 @@ msgid ""
 "fool! That boy who is at Vattin is not my first born son. Now, prepare to go "
 "straight to hell."
 msgstr ""
+"Naprawdę myślałaś, że wysłałem rodzonego syna do Vattin? Jak łatwo ciebie "
+"oszukać! Ten chłopak, który jest w Vattin nie jest moim pierworodnym. A "
+"teraz, spakuj się do drogi: prosto do piekła!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:293
 msgid ""
 "This isn't a totally surprising to me. My king, we have to escape. We have "
 "two ways to out of this trap: one to the west..."
 msgstr ""
+"No, nie będę udawał, że mnie to zaskoczyło. Mój panie, musimy uciec. Mamy "
+"dwie drogi, które nas mogą wyprowadzić z tej pułapki: jedna na zachód..."
 
 #: A_New_Order/scenarios/1-6macros.cfg:302
 msgid "And second to the east."
@@ -203,26 +218,34 @@ msgid ""
 "grasslands. God, I oath to sacrifice a horse if you will help us survive "
 "this. A whole, beatiful horse. And I will add golden saddle!"
 msgstr ""
+"Nie ma jakiejś wielkiej różnicy. Obydwu można użyć, by dotrzeć do Vattin. "
+"Wschodnia prowadzi między bagnami i lasami, podczas gdy zachodnia poprzez "
+"wzgórza i pola. Boże nasz, przysięgam poświęcić ci konia, jeżeli wyprowadzisz "
+"nas z tej sytuacji. Całego, pięknego konia! I dodam siodło wyszywane złotem!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:313
 msgid ""
 "Reme, take my step-mother and protect her. I will stay here to guard your "
 "rear during withdrawal."
 msgstr ""
+"Reme, zabierz moją macochę i chroń ją. Ja zostanę tutaj, by pilnować waszych "
+"tyłów podczas odwrotu."
 
 #: A_New_Order/scenarios/1-6macros.cfg:314
 msgid "No! That's a suicide! I won't let you!"
-msgstr ""
+msgstr "Nie! To samobójstwo! Nie pozwolę ci!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:315
 msgid ""
 "Reme, take her and go. That's my order. And that is no suicide, I will "
 "follow you as soon as possible."
 msgstr ""
+"Reme, zabierz ją i ruszaj! To rozkaz. I to nie samobójstwo, pójdę za wami "
+"tak szybko jak tylko to będzie możliwe."
 
 #: A_New_Order/scenarios/1-6macros.cfg:316
 msgid "I can't. I won't. I won't leave you, my lord."
-msgstr ""
+msgstr "Nie mogę. Nie zrobię tego. Nie zostawię ciebie, mój panie."
 
 #: A_New_Order/scenarios/1-6macros.cfg:317
 msgid ""
@@ -230,6 +253,9 @@ msgid ""
 "not suicidal, believe me. And you must live, I order you to escort Lady "
 "Lorin safely to either Vattin or her family."
 msgstr ""
+"To rozkaz. Reme, gdybym uciekł między pierwszymi, kto by mnie szanował? "
+"Nie mam skłonności samobójczych, uwierz mi. A ty musisz żyć, rozkazuję ci "
+"odprowadzić panią Lorin bezpiecznie albo do Vattin, albo do jej rodziny."
 
 #: A_New_Order/scenarios/1-6macros.cfg:322
 msgid ""
@@ -239,6 +265,11 @@ msgid ""
 "unworthy coward by his soldiers. You will get a bonus for each turn resisted "
 "above the required limit."
 msgstr ""
+"\n"
+"Każda jednostka która osiągnie którykolwiek z drogowskazów będzie uratowana. "
+"Jednostki nie przywołane będą stracone. Gawen nie może uciec, albo zostałby "
+"uznany za bezwartościowego tchórza przez swoich żołnierzy. Otrzymasz bonus "
+"za każdą turę powyżej wymaganego limitu, którą dasz radę przetrzymać."
 
 #: A_New_Order/scenarios/14macros.cfg:33 A_New_Order/scenarios/4.cfg:233
 #: A_New_Order/scenarios/5b.cfg:138 A_New_Order/scenarios/10.cfg:179
@@ -1087,14 +1118,16 @@ msgid ""
 "Uhmmm.. I should investigate him, right? So... Uhmm.. What you have eat for "
 "breakfast?"
 msgstr ""
+"Eee.. No tak, powinnam go chyba przesłuchać, prawda? No więc.. hm.. Co jadłeś "
+"dziś na śniadanie?"
 
 #: A_New_Order/scenarios/12.cfg:220
 msgid "What ?!?"
-msgstr ""
+msgstr "Że co ?!?"
 
 #: A_New_Order/scenarios/12.cfg:221
 msgid "Ah, never mind."
-msgstr ""
+msgstr "A, zapomnij."
 
 #: A_New_Order/scenarios/12.cfg:222
 msgid "Wait, do not kill him!"
@@ -1120,11 +1153,16 @@ msgid ""
 "battle, in most difficult circumstances, I still can hit target 6 times from "
 "every ten. Also, I can hide in forests and ambush enemies."
 msgstr ""
+"Kogo mam zabić? Nazywają mnie Elorain Orlooka. Nawet w gorączce bitwy, w "
+"najbardziej trudnych okolicznościach, wciąż trafiam w cel sześć razy na "
+"dziesięć. Poza tym umiem chować się w lasach i urządzać zasadzki."
 
 #: A_New_Order/scenarios/12.cfg:259
 msgid ""
 "I had no occasion to thank you that you have choosed me to fight for you."
 msgstr ""
+"Nie miałam okazji, by ci podziękować za to, że mnie wybrałeś bym dla ciebie "
+"walczyła."
 
 #: A_New_Order/scenarios/12.cfg:268
 msgid ""
@@ -1132,10 +1170,13 @@ msgid ""
 "But I know also spells, and I can slow down enemies, making them easy prey "
 "for other our units."
 msgstr ""
+"Pewnie już wiesz, że mogę leczyć lżejsze rany twoich żołnierzy. Ale znam "
+"także czary, i potrafię spowolnić nieprzyjaciół, dzięki czemu stają się "
+"łatwym łupem dla innych jednostek."
 
 #: A_New_Order/scenarios/12.cfg:298
 msgid "We fought our way out of forests. What now?"
-msgstr ""
+msgstr "Wywalczyliśmy sobie drogę poza te lasy. Co teraz?"
 
 #: A_New_Order/scenarios/12.cfg:299
 msgid ""
@@ -4990,27 +5031,27 @@ msgstr ""
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:479
 msgid "Reach the enemy keep with Gawen"
-msgstr ""
+msgstr "Osiągnij nieprzyjacielską fortecę Gawenem"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:541
 msgid "The fireplace is still warm.. He had to be somewhere nearby.."
-msgstr ""
+msgstr "Popiół jest wciąż gorący.. Musi być gdzieś blisko..."
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:563
 msgid "I can feel the poison inside me..."
-msgstr ""
+msgstr "Czuję, jak trawi mnie trucizna..."
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:567
 msgid "Try to resist for just a bit more, my son!"
-msgstr ""
+msgstr "Wytrzymaj jeszcze chwilę, synu!"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:585
 msgid "My son! Please, don't give up!"
-msgstr ""
+msgstr "Synu mój! Błagam, nie poddawaj się!"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:619
 msgid "My lady, we have found a medic!"
-msgstr ""
+msgstr "Moja pani, znaleźliśmy medyka!"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:624
 msgid ""
@@ -5978,7 +6019,7 @@ msgstr ""
 
 #: A_New_Order/units/Akladian_Protector.cfg:4
 msgid "Akladian Protector"
-msgstr ""
+msgstr "Akladyjski Protektor"
 
 #: A_New_Order/units/Akladian_Protector.cfg:17
 msgid ""
@@ -5986,6 +6027,9 @@ msgid ""
 "enemies, Protectors forms caste of excellent warriors with their own codex, "
 "devoting whole their life for protecting their clans."
 msgstr ""
+"Weterani wielu bitew, przeżywszy wiele walk przeciwko najeźdźcom, Protektorzy "
+"tworzą kastę znakomitych wojowników z ich własnym kodeksem, poświęcając całe "
+"życie dla ochrony swoich klanów."
 
 #: A_New_Order/units/Akladian_Queen.cfg:4
 msgid "female^Queen"
