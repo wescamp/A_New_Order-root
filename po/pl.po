@@ -126,7 +126,6 @@ msgstr ""
 "Aaaargh!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:186
-#, fuzzy
 msgid ""
 "I can't tell you! (Aaargh) I don't know his name! I was given the task by "
 "our elders from Outlaw Place. All I know is that one of Akladian lords paid "
@@ -677,28 +676,27 @@ msgstr ""
 "sprawdzę naszych rannych."
 
 #: A_New_Order/scenarios/10.cfg:584
-#, fuzzy
 msgid "Lorin, what are you doing?"
-msgstr "Karen! Co ty tutaj robisz!"
+msgstr "Lorin, co robisz?"
 
 #: A_New_Order/scenarios/10.cfg:585
 msgid "Maybe we could try to withdraw to mountains?"
-msgstr ""
+msgstr "Może powinniśmy się wycofać w góry?"
 
 #: A_New_Order/scenarios/10.cfg:586
 msgid "Wait a moment. Are you running away?"
-msgstr ""
+msgstr "Zaraz, zaraz. Czy ty przypadkiem nie uciekasz?"
 
 #: A_New_Order/scenarios/10.cfg:587
 msgid ""
 "The correct term is strategical relocation of the forces, impertinent "
 "underling."
 msgstr ""
-
+"Bardziej prawidlowy termin to strategiczna relokacja sił, bezczelny "
+"niegodny."
 #: A_New_Order/scenarios/10.cfg:588
-#, fuzzy
 msgid "One more reference to underling... Ah, what the hell."
-msgstr "Jeszcze raz mnie nazwiesz niegodnym i się rozstajemy, jasne?"
+msgstr "Jeszcze raz mnie nazwiesz niegodnym... A, u diabła. Co mi tam."
 
 #: A_New_Order/scenarios/11.cfg:3 A_New_Order/scenarios/11x.cfg:3
 msgid "Council in Freetown"
@@ -1145,18 +1143,16 @@ msgstr ""
 "przedostać się przez linie Akladyjczyków."
 
 #: A_New_Order/scenarios/12.cfg:193
-#, fuzzy
 msgid ""
 "If I may suggest, my lord. We are here to gather news. But I don't think if "
 "interrogating eastern enemy leader have any sense. He does not look "
 "important enough. The second one, on the second hand..."
 msgstr ""
 "Jeżeli mi wolno coś zasugerować, mój panie. Jesteśmy tutaj by gromadzić "
-"wiadomości. Ale nie sądzę, by przesłuchanie dwóch najbliższych przywódców "
-"coś dało. Nie wyglądają na dosyć ważnych. Ten trzeci natomiast..."
+"wiadomości. Ale nie sądzę, by przesłuchanie wschodniego przywódcy "
+"coś dało. Nie wygląda na dość ważnego. Ten drugi natomiast..."
 
 #: A_New_Order/scenarios/12.cfg:200
-#, fuzzy
 msgid ""
 "\n"
 "In this scenario, you may interrogate the leader with either Ruvio or Gawen, "
@@ -1165,7 +1161,9 @@ msgid ""
 "Move Ruvio to signpost to ask him for advise."
 msgstr ""
 "W tym scenariuszu, możesz przesłuchiwać przywódców za pomocą albo Ruvio, "
-"albo Gawena, bez żadnej różnicy."
+"albo Gawena, bez żadnej różnicy.\n"
+"\n"
+"Przesuń Ruvia do drogowskazu by poprosić go o radę."
 
 #: A_New_Order/scenarios/12.cfg:202
 msgid "Move Gawen to southern edge of the map OR"
@@ -1318,7 +1316,6 @@ msgid "No story after Haeltin"
 msgstr ""
 
 #: A_New_Order/scenarios/13.cfg:25
-#, fuzzy
 msgid "No story after Barnon"
 msgstr "Miasto Barnon"
 
@@ -2488,9 +2485,8 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:208
-#, fuzzy
 msgid "What about the others?"
-msgstr "Co wiesz o orkach?"
+msgstr "A co z pozostałymi?"
 
 #: A_New_Order/scenarios/14bontom.cfg:209
 msgid ""
@@ -2503,9 +2499,8 @@ msgid "Wait! Who's there?"
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:212
-#, fuzzy
 msgid "And what do you think?"
-msgstr "Co masz na myśli?"
+msgstr "A co ty myślisz?"
 
 #: A_New_Order/scenarios/14bontom.cfg:213
 msgid "We came here to release our friend."
@@ -2535,9 +2530,8 @@ msgid "Deal? What deal?"
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:222
-#, fuzzy
 msgid "You have captured my friend, Reme Carrenemoe. What about this:"
-msgstr "Uratowałeś Reme'go Carrenemoe"
+msgstr "Złapałeś mojego przyjaciela, Reme'go Carrenemoe. Co powiesz na to:"
 
 #: A_New_Order/scenarios/14bontom.cfg:223
 msgid "Let him go, and we will leave in peace."
@@ -2632,9 +2626,8 @@ msgstr ""
 #: A_New_Order/scenarios/14bontom.cfg:366
 #: A_New_Order/scenarios/14bontom.cfg:405
 #: A_New_Order/scenarios/14bontom.cfg:413
-#, fuzzy
 msgid "Why orcs are here, allied with Akladians?"
-msgstr "Ale co właściwie robią tu orki, na dodatek w przymierzu z tobą?"
+msgstr "Co robią tu orki, w przymierzu z Akladyjczykami?"
 
 #: A_New_Order/scenarios/14bontom.cfg:359
 #: A_New_Order/scenarios/14bontom.cfg:406
@@ -2652,15 +2645,13 @@ msgstr ""
 #: A_New_Order/scenarios/14bontom.cfg:368
 #: A_New_Order/scenarios/14bontom.cfg:408
 #: A_New_Order/scenarios/14bontom.cfg:415
-#, fuzzy
 msgid "Do you know, who poisoned my mother?"
-msgstr "Odkryłeś, kto otruł matkę Gawena"
+msgstr "Czy wiesz, kto otruł moją matkę?"
 
 #: A_New_Order/scenarios/14bontom.cfg:376
 #: A_New_Order/scenarios/14bontom.cfg:423
-#, fuzzy
 msgid "Do you know why orcs are here?"
-msgstr "Czy wiesz, gdzie jest Reme Carrenemoe"
+msgstr "Czy wiesz, dlaczego są tutaj orki?"
 
 #: A_New_Order/scenarios/14bontom.cfg:377
 #: A_New_Order/scenarios/14bontom.cfg:424
@@ -2699,19 +2690,17 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:385
-#, fuzzy
 msgid "I don't know that."
-msgstr "Nie o to pytałem."
+msgstr "Tego nie wiem."
 
 #: A_New_Order/scenarios/14bontom.cfg:387
 #: A_New_Order/scenarios/14bontom.cfg:434
-#, fuzzy
 msgid ""
 "Someone has hired assassin to kill Gawen Hagarthen, immedietely after his "
 "father's death. I know he came from Outlaw Base. Who hired him?"
 msgstr ""
-"Przesłuchałeś zabójcę wysłanego do zabicia Gawena Hagarthena, i odkryłeś, że "
-"wynajął go jeden z akladyjskich lordów."
+"Ktoś wynajął zabójcę to przesłuchania Gawena Hagarthena, zaraz po śmierci "
+"jego ojca. Wiem, że zabójca ten pochodził z Miejsca Pozaprawa. Kto go wynajął?"
 
 #: A_New_Order/scenarios/14bontom.cfg:388
 #: A_New_Order/scenarios/14bontom.cfg:435
@@ -2742,9 +2731,8 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:449
-#, fuzzy
 msgid "What.. What way?"
-msgstr "Co on tam wybełkotał?"
+msgstr "Jaki.. Jaki sposób?"
 
 #: A_New_Order/scenarios/14bontom.cfg:450
 msgid "If I am just a  hallucination, this won't hurt."
@@ -2767,9 +2755,8 @@ msgid "Gawen, she is Akladian. You can teach old dog new tricks."
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:457
-#, fuzzy
 msgid "Whom do you call OLD?!"
-msgstr "Czemu pytasz?"
+msgstr "Kogo nazywasz STARYM?!"
 
 #: A_New_Order/scenarios/14bontom.cfg:462
 msgid ""
@@ -2778,9 +2765,8 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:463
-#, fuzzy
 msgid "Gau.. Gawen. Gawen Hagarthen."
-msgstr "Gawen Hagarthen"
+msgstr "Gau.. Gawen. Gawen Hagarthen."
 
 #: A_New_Order/scenarios/14bontom.cfg:464
 msgid ""
@@ -3379,7 +3365,6 @@ msgid ""
 msgstr "Jaki to będzie rodzaj rzyci. Rzyć kobiecej kobiety, elficy?"
 
 #: A_New_Order/scenarios/14orcs.cfg:213
-#, fuzzy
 msgid ""
 "No, no, you did not understand me. I will let you LIVE, not get you LIVER. "
 "Why are you here allied with Akladians?"
@@ -3415,9 +3400,8 @@ msgid "Aaaargh!!"
 msgstr ""
 
 #: A_New_Order/scenarios/14orcs.cfg:254
-#, fuzzy
 msgid ""
-"No, no, you have not undestand me. I will let you LIVE, not LIVER. Why are "
+"No, no, you did not undestand me. I will let you LIVE, not LIVER. Why are "
 "you here allied with Akladians?"
 msgstr ""
 "Nie, nie, nie zrozumiałeś mnie. Dam ci żyć, a nie czyjąś rzyć. Dlaczego "
@@ -4433,7 +4417,6 @@ msgid "Do not be worried, you are amongst friends, Haldric."
 msgstr "Nie martw się, jesteś między przyjaciółmi, Haldric'u"
 
 #: A_New_Order/scenarios/7.cfg:238
-#, fuzzy
 msgid "But, how.. Wait, what did you called me? Haldric?"
 msgstr "Ale, jak... Czekaj, jak ty mnie nazwałeś? Haldric?"
 
@@ -4500,7 +4483,6 @@ msgid "Are we gonna kill him?"
 msgstr "Zabijemy go?"
 
 #: A_New_Order/scenarios/7.cfg:275
-#, fuzzy
 msgid ""
 "No, our forces are too weak. Underlings soon may come here in greater "
 "number. We should immediately carry the message to Bor Cryne, he will reward "
@@ -4563,7 +4545,6 @@ msgstr ""
 "Rozkazuj!"
 
 #: A_New_Order/scenarios/7.cfg:415
-#, fuzzy
 msgid ""
 "Today you won't be commanded by me, but by this young man. I will only be "
 "his advisor."
@@ -6265,7 +6246,6 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/final.cfg:90
-#, fuzzy
 msgid "You have found out who poisoned Gawen's mother."
 msgstr "Odkryłeś, kto otruł matkę Gawena"
 
