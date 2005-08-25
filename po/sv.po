@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-08-22 21:30+0200\n"
+"POT-Creation-Date: 2005-08-25 10:26+0200\n"
 "PO-Revision-Date: 2005-08-17 19:08+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -280,13 +280,14 @@ msgstr ""
 "kommer anses vara en ovärdig fegis av hans soldater. Du kommer att få en "
 "bonus för varje tur du gör motstånd över den angivna gränsen."
 
+#: A_New_Order/scenarios/19oracle.cfg:770
 #: A_New_Order/scenarios/14macros.cfg:33 A_New_Order/scenarios/4.cfg:233
 #: A_New_Order/scenarios/17.cfg:332 A_New_Order/scenarios/5b.cfg:138
 #: A_New_Order/scenarios/10.cfg:202 A_New_Order/scenarios/1-6macros.cfg:328
 #: A_New_Order/scenarios/5a.cfg:131
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:488
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:364
-#: A_New_Order/scenarios/9.cfg:153
+#: A_New_Order/scenarios/9.cfg:154
 msgid "Death of Lady Lorin"
 msgstr "Fru Lorin dör"
 
@@ -348,7 +349,8 @@ msgid ""
 "him. He became LOYAL."
 msgstr ""
 
-#: A_New_Order/scenarios/10.cfg:30 A_New_Order/scenarios/9.cfg:511
+#: A_New_Order/scenarios/ano_macros.cfg:1081 A_New_Order/scenarios/10.cfg:30
+#: A_New_Order/scenarios/9.cfg:512
 msgid "loyal"
 msgstr ""
 
@@ -502,7 +504,7 @@ msgstr "HEROISK: Döda alla fiendeledare ELLER"
 msgid "NORMAL: Survive to the end of turn limit."
 msgstr "NORMAL: Överlev tills turerna tar slut."
 
-#: A_New_Order/scenarios/10.cfg:198 A_New_Order/scenarios/9.cfg:149
+#: A_New_Order/scenarios/10.cfg:198 A_New_Order/scenarios/9.cfg:150
 msgid "Death of Andrey Yaranov"
 msgstr "Andrey Yaranov dör"
 
@@ -751,15 +753,15 @@ msgstr ""
 "inte till honom för att smaka dock. Budbärarna väntade på Ruvio, de de hade "
 "bett honom att komma till ett möte med Freetowns ledare."
 
-#: A_New_Order/scenarios/19oracle.cfg:42 A_New_Order/scenarios/14orcs.cfg:44
+#: A_New_Order/scenarios/19oracle.cfg:49 A_New_Order/scenarios/14orcs.cfg:44
 #: A_New_Order/scenarios/17.cfg:137 A_New_Order/scenarios/15a.cfg:29
 #: A_New_Order/scenarios/15.cfg:39 A_New_Order/scenarios/11.cfg:32
 #: A_New_Order/scenarios/15b.cfg:40 A_New_Order/scenarios/14healtin.cfg:31
 #: A_New_Order/scenarios/8.cfg:34 A_New_Order/scenarios/16.cfg:52
 #: A_New_Order/scenarios/final.cfg:55 A_New_Order/scenarios/14bontom.cfg:66
 #: A_New_Order/scenarios/7.cfg:37 A_New_Order/scenarios/12.cfg:71
-#: A_New_Order/scenarios/3.cfg:50 A_New_Order/scenarios/18.cfg:37
-#: A_New_Order/scenarios/14saorduc.cfg:112
+#: A_New_Order/scenarios/3.cfg:50 A_New_Order/scenarios/18.cfg:41
+#: A_New_Order/scenarios/18.cfg:244 A_New_Order/scenarios/14saorduc.cfg:112
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:75
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:64
 #: A_New_Order/scenarios/13.cfg:229
@@ -981,84 +983,84 @@ msgid "Of courrrrrse."
 msgstr "Såklarrrrrt"
 
 #: A_New_Order/scenarios/11.cfg:282 A_New_Order/scenarios/11.cfg:292
-#: A_New_Order/scenarios/ano_macros.cfg:555
-#: A_New_Order/scenarios/ano_macros.cfg:565
+#: A_New_Order/scenarios/ano_macros.cfg:564
+#: A_New_Order/scenarios/ano_macros.cfg:574
 #, fuzzy
 msgid "Another one bites the dust."
 msgstr "Och en annan österut."
 
-#: A_New_Order/scenarios/11.cfg:283 A_New_Order/scenarios/ano_macros.cfg:556
+#: A_New_Order/scenarios/11.cfg:283 A_New_Order/scenarios/ano_macros.cfg:565
 msgid "My arrows never miss!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:284 A_New_Order/scenarios/ano_macros.cfg:557
+#: A_New_Order/scenarios/11.cfg:284 A_New_Order/scenarios/ano_macros.cfg:566
 msgid "My lord, I bet you are impressed!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:285 A_New_Order/scenarios/ano_macros.cfg:558
+#: A_New_Order/scenarios/11.cfg:285 A_New_Order/scenarios/ano_macros.cfg:567
 msgid ""
 "Akladians, orcs, lizards and all others - when facing mighty Elorain, their "
 "fate is always the same!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:286 A_New_Order/scenarios/ano_macros.cfg:559
+#: A_New_Order/scenarios/11.cfg:286 A_New_Order/scenarios/ano_macros.cfg:568
 msgid "No man or woman may oppose me when I have a bow or sword!"
 msgstr ""
 
 #: A_New_Order/scenarios/11.cfg:287 A_New_Order/scenarios/11.cfg:297
-#: A_New_Order/scenarios/ano_macros.cfg:560
-#: A_New_Order/scenarios/ano_macros.cfg:570
+#: A_New_Order/scenarios/ano_macros.cfg:569
+#: A_New_Order/scenarios/ano_macros.cfg:579
 msgid "Straight into your heart!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:288 A_New_Order/scenarios/ano_macros.cfg:561
+#: A_New_Order/scenarios/11.cfg:288 A_New_Order/scenarios/ano_macros.cfg:570
 msgid "Eat this!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:289 A_New_Order/scenarios/ano_macros.cfg:562
+#: A_New_Order/scenarios/11.cfg:289 A_New_Order/scenarios/ano_macros.cfg:571
 msgid "I always shoot to kill. No need to remind me."
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:290 A_New_Order/scenarios/ano_macros.cfg:563
+#: A_New_Order/scenarios/11.cfg:290 A_New_Order/scenarios/ano_macros.cfg:572
 msgid "I stopped to count killed enemies when I turned 50."
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:291 A_New_Order/scenarios/ano_macros.cfg:564
+#: A_New_Order/scenarios/11.cfg:291 A_New_Order/scenarios/ano_macros.cfg:573
 msgid "Sword or Bow, who is better than me?"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:293 A_New_Order/scenarios/ano_macros.cfg:566
+#: A_New_Order/scenarios/11.cfg:293 A_New_Order/scenarios/ano_macros.cfg:575
 msgid "For honour, in the name of Eloh!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:294 A_New_Order/scenarios/ano_macros.cfg:567
+#: A_New_Order/scenarios/11.cfg:294 A_New_Order/scenarios/ano_macros.cfg:576
 msgid "Strength and honour!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:295 A_New_Order/scenarios/ano_macros.cfg:568
+#: A_New_Order/scenarios/11.cfg:295 A_New_Order/scenarios/ano_macros.cfg:577
 #, fuzzy
 msgid "First kill this day."
 msgstr "Dagens första byte!"
 
-#: A_New_Order/scenarios/11.cfg:296 A_New_Order/scenarios/ano_macros.cfg:569
+#: A_New_Order/scenarios/11.cfg:296 A_New_Order/scenarios/ano_macros.cfg:578
 msgid "Death is my companion, she walks whenever I may roam"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:298 A_New_Order/scenarios/ano_macros.cfg:571
+#: A_New_Order/scenarios/11.cfg:298 A_New_Order/scenarios/ano_macros.cfg:580
 #, fuzzy
 msgid "Killing without hate, dying without fear!"
 msgstr "Aragwaiths dör utan fruktan!"
 
-#: A_New_Order/scenarios/11.cfg:299 A_New_Order/scenarios/ano_macros.cfg:572
+#: A_New_Order/scenarios/11.cfg:299 A_New_Order/scenarios/ano_macros.cfg:581
 #, fuzzy
 msgid "This is the fate which will come to all our enemies."
 msgstr "Det här är slutet som väntar för alla förrädare!"
 
-#: A_New_Order/scenarios/11.cfg:300 A_New_Order/scenarios/ano_macros.cfg:573
+#: A_New_Order/scenarios/11.cfg:300 A_New_Order/scenarios/ano_macros.cfg:582
 msgid "My sword and my honour, two unbreakable things!"
 msgstr ""
 
-#: A_New_Order/scenarios/11.cfg:301 A_New_Order/scenarios/ano_macros.cfg:574
+#: A_New_Order/scenarios/11.cfg:301 A_New_Order/scenarios/ano_macros.cfg:583
 #, fuzzy
 msgid "Death to our enemies!"
 msgstr "Karen dör"
@@ -1090,6 +1092,8 @@ msgstr "Vet du något om fru Lorin?"
 #: A_New_Order/scenarios/14bontom.cfg:401
 #: A_New_Order/scenarios/14bontom.cfg:441
 #: A_New_Order/scenarios/14bontom.cfg:448 A_New_Order/scenarios/12.cfg:12
+#: A_New_Order/scenarios/18.cfg:264 A_New_Order/scenarios/18.cfg:330
+#: A_New_Order/scenarios/18.cfg:448
 msgid "That's all I wanted to know."
 msgstr "Det är allt jag ville veta."
 
@@ -1160,8 +1164,8 @@ msgstr ""
 #: A_New_Order/scenarios/12.cfg:175
 msgid ""
 "I felt we had not enough gold for accomplishing the task which awaited us. "
-"So, I asked others from council of Freetown for help and they had agreed. We "
-"now have 180 golden pieces"
+"So, I asked the others from the council of Freetown for help and they had "
+"agreed. We now have 180 golden pieces"
 msgstr ""
 
 #: A_New_Order/scenarios/12.cfg:179
@@ -1279,10 +1283,11 @@ msgid "Move Gawen to southern edge of the map OR"
 msgstr "Förflytta Gawden till den södra kanten på kartan ELLER"
 
 #: A_New_Order/scenarios/17.cfg:320 A_New_Order/scenarios/12.cfg:206
-#: A_New_Order/scenarios/9.cfg:145
+#: A_New_Order/scenarios/9.cfg:146
 msgid "Kill all enemy leaders."
 msgstr "Döda alla fiendeledare."
 
+#: A_New_Order/scenarios/19oracle.cfg:762
 #: A_New_Order/scenarios/14macros.cfg:23 A_New_Order/scenarios/4.cfg:229
 #: A_New_Order/scenarios/17.cfg:324 A_New_Order/scenarios/15b.cfg:106
 #: A_New_Order/scenarios/8.cfg:163 A_New_Order/scenarios/7.cfg:285
@@ -1298,6 +1303,7 @@ msgstr "Gawen Hagarthen dör"
 msgid "Death of Karen"
 msgstr "Karen dör"
 
+#: A_New_Order/scenarios/19oracle.cfg:766
 #: A_New_Order/scenarios/14macros.cfg:19 A_New_Order/scenarios/17.cfg:328
 #: A_New_Order/scenarios/15b.cfg:102 A_New_Order/scenarios/8.cfg:167
 #: A_New_Order/scenarios/7.cfg:289 A_New_Order/scenarios/12.cfg:218
@@ -1492,12 +1498,13 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/13.cfg:68
+#, fuzzy
 msgid ""
-"I've seen a lot of orcs last time. They are going here and there, "
-"surprisingly disciplined and well-behaved for what I've heard about them. "
-"Well, yes, they killed and ate three of our cows and took our only horse, "
-"but that's what one can expect from any soldiers. Some orcish unit is "
-"garrisoned near Barnon, south from here."
+"I've seen a lot of orcs lately. They are going here and there, surprisingly "
+"disciplined and well-behaved for what I've heard about them. Well, yes, they "
+"killed and ate three of our cows and took our only horse, but that's what "
+"one can expect from any soldiers. Some orcish unit is garrisoned near "
+"Barnon, south from here."
 msgstr ""
 "jag har sett en hel del orcher på sista tiden. De springer både hit och dit, "
 "ovanligt disiplinerade och välordnat i relation till vad jag har hört om "
@@ -1525,7 +1532,7 @@ msgstr "Ingen harm menat, men du har redan frågat mig den frågan."
 msgid "Well, and what do you propose in exchange?"
 msgstr "Nå, och vad föreslår du i utbyte?"
 
-#: A_New_Order/scenarios/13.cfg:86 A_New_Order/scenarios/9.cfg:400
+#: A_New_Order/scenarios/13.cfg:86 A_New_Order/scenarios/9.cfg:401
 msgid "What about this:"
 msgstr "Vad säger du om det här:"
 
@@ -1557,7 +1564,8 @@ msgstr ""
 msgid "And this is good reason, because..?"
 msgstr "Och det här är ett bra skäl därför att...?"
 
-#: A_New_Order/scenarios/13.cfg:98
+#: A_New_Order/scenarios/18.cfg:172 A_New_Order/scenarios/18.cfg:337
+#: A_New_Order/scenarios/18.cfg:455 A_New_Order/scenarios/13.cfg:98
 msgid "Because..."
 msgstr "Därför..."
 
@@ -1776,7 +1784,7 @@ msgstr ""
 "Ärligt talat har jag inte någon bra idee om vad vi borde göra nu. Vi har "
 "redan varit på alla uppenbara platser."
 
-#: A_New_Order/scenarios/18.cfg:49 A_New_Order/scenarios/13.cfg:243
+#: A_New_Order/scenarios/18.cfg:53 A_New_Order/scenarios/13.cfg:243
 msgid "Raedwood Forest"
 msgstr ""
 
@@ -1809,8 +1817,9 @@ msgstr ""
 "riktiga namn. Kalla honom Gaumhaldric."
 
 #: A_New_Order/scenarios/4.cfg:199 A_New_Order/scenarios/15a.cfg:192
-#: A_New_Order/scenarios/14bontom.cfg:486
-#: A_New_Order/scenarios/14saorduc.cfg:298 A_New_Order/scenarios/13.cfg:292
+#: A_New_Order/scenarios/14bontom.cfg:486 A_New_Order/scenarios/18.cfg:296
+#: A_New_Order/scenarios/18.cfg:412 A_New_Order/scenarios/14saorduc.cfg:298
+#: A_New_Order/scenarios/13.cfg:292
 msgid "Why?"
 msgstr "Varför?"
 
@@ -1826,7 +1835,7 @@ msgstr ""
 #: A_New_Order/scenarios/13.cfg:294
 #, fuzzy
 msgid ""
-"Gaumhaldric.. So, this is why my sone is not shaving? He wants to hide his "
+"Gaumhaldric.. So, this is why my son is not shaving? He wants to hide his "
 "real identity under a beard?"
 msgstr ""
 "Gaumhaldric... Så det här är varför min son inte rakar sig? Han vill dölja "
@@ -1839,7 +1848,7 @@ msgstr ""
 "Nejenjnej. Han måste ha ett stort skägg för att alla våra stora kungar har "
 "haft det."
 
-#: A_New_Order/scenarios/18.cfg:77 A_New_Order/scenarios/13.cfg:306
+#: A_New_Order/scenarios/18.cfg:87 A_New_Order/scenarios/13.cfg:306
 msgid ""
 "This is a large-scale map, where you will choose a way to go. You should "
 "move Gawen to any of the signpost or any other location to trigger moving to "
@@ -1879,8 +1888,10 @@ msgstr "Är du säker på att du vill ta dig dit?"
 #: A_New_Order/scenarios/14orcs.cfg:168 A_New_Order/scenarios/14orcs.cfg:228
 #: A_New_Order/scenarios/14orcs.cfg:270 A_New_Order/scenarios/15a.cfg:183
 #: A_New_Order/scenarios/14barnon.cfg:416
-#: A_New_Order/scenarios/14bontom.cfg:313 A_New_Order/scenarios/18.cfg:87
-#: A_New_Order/scenarios/18.cfg:106 A_New_Order/scenarios/18.cfg:123
+#: A_New_Order/scenarios/14bontom.cfg:313 A_New_Order/scenarios/18.cfg:97
+#: A_New_Order/scenarios/18.cfg:119 A_New_Order/scenarios/18.cfg:139
+#: A_New_Order/scenarios/18.cfg:193 A_New_Order/scenarios/18.cfg:346
+#: A_New_Order/scenarios/18.cfg:368 A_New_Order/scenarios/18.cfg:467
 #: A_New_Order/scenarios/14saorduc.cfg:373 A_New_Order/scenarios/13.cfg:339
 #: A_New_Order/scenarios/13.cfg:365 A_New_Order/scenarios/13.cfg:406
 #: A_New_Order/scenarios/13.cfg:685 A_New_Order/scenarios/13.cfg:712
@@ -1890,8 +1901,10 @@ msgstr "Ja, defenitivt."
 
 #: A_New_Order/scenarios/14orcs.cfg:169 A_New_Order/scenarios/15a.cfg:184
 #: A_New_Order/scenarios/14barnon.cfg:417
-#: A_New_Order/scenarios/14bontom.cfg:314 A_New_Order/scenarios/18.cfg:88
-#: A_New_Order/scenarios/18.cfg:107 A_New_Order/scenarios/18.cfg:124
+#: A_New_Order/scenarios/14bontom.cfg:314 A_New_Order/scenarios/18.cfg:98
+#: A_New_Order/scenarios/18.cfg:120 A_New_Order/scenarios/18.cfg:140
+#: A_New_Order/scenarios/18.cfg:194 A_New_Order/scenarios/18.cfg:347
+#: A_New_Order/scenarios/18.cfg:369 A_New_Order/scenarios/18.cfg:468
 #: A_New_Order/scenarios/14saorduc.cfg:374 A_New_Order/scenarios/13.cfg:340
 #: A_New_Order/scenarios/13.cfg:366 A_New_Order/scenarios/13.cfg:407
 #: A_New_Order/scenarios/13.cfg:686 A_New_Order/scenarios/13.cfg:713
@@ -1971,7 +1984,9 @@ msgstr "Så fråga på då"
 #: A_New_Order/scenarios/14bontom.cfg:389
 #: A_New_Order/scenarios/14bontom.cfg:397
 #: A_New_Order/scenarios/14bontom.cfg:436
-#: A_New_Order/scenarios/14bontom.cfg:444 A_New_Order/scenarios/13.cfg:429
+#: A_New_Order/scenarios/14bontom.cfg:444 A_New_Order/scenarios/18.cfg:160
+#: A_New_Order/scenarios/18.cfg:259 A_New_Order/scenarios/18.cfg:325
+#: A_New_Order/scenarios/18.cfg:443 A_New_Order/scenarios/13.cfg:429
 #: A_New_Order/scenarios/13.cfg:442 A_New_Order/scenarios/13.cfg:469
 #: A_New_Order/scenarios/13.cfg:482 A_New_Order/scenarios/13.cfg:502
 #: A_New_Order/scenarios/13.cfg:515
@@ -2027,14 +2042,14 @@ msgstr "Allt för dig, min unge knekt."
 msgid "Free men from Raedwood forest! You are always welcomed here."
 msgstr "De fria männen från Readwood skogen! Ni är alltid välkomna här."
 
-#: A_New_Order/scenarios/18.cfg:166 A_New_Order/scenarios/18.cfg:173
+#: A_New_Order/scenarios/18.cfg:528 A_New_Order/scenarios/18.cfg:535
 #: A_New_Order/scenarios/13.cfg:535 A_New_Order/scenarios/13.cfg:544
 #: A_New_Order/scenarios/13.cfg:554 A_New_Order/scenarios/13.cfg:561
 msgid "I would love to talk to..."
 msgstr "Jag skulle verkligen vilja tala med..."
 
-#: A_New_Order/units/Ruvio.cfg:4 A_New_Order/scenarios/18.cfg:167
-#: A_New_Order/scenarios/18.cfg:174 A_New_Order/scenarios/13.cfg:536
+#: A_New_Order/units/Ruvio.cfg:4 A_New_Order/scenarios/18.cfg:529
+#: A_New_Order/scenarios/18.cfg:536 A_New_Order/scenarios/13.cfg:536
 #: A_New_Order/scenarios/13.cfg:545 A_New_Order/scenarios/13.cfg:555
 #: A_New_Order/scenarios/13.cfg:562
 msgid "Ruvio"
@@ -2046,12 +2061,12 @@ msgstr "Ruvio"
 msgid "Karen"
 msgstr "Karen"
 
-#: A_New_Order/scenarios/18.cfg:168 A_New_Order/scenarios/13.cfg:538
+#: A_New_Order/scenarios/18.cfg:530 A_New_Order/scenarios/13.cfg:538
 #: A_New_Order/scenarios/13.cfg:557
 msgid "Reme"
 msgstr "Reme"
 
-#: A_New_Order/scenarios/18.cfg:169 A_New_Order/scenarios/18.cfg:175
+#: A_New_Order/scenarios/18.cfg:531 A_New_Order/scenarios/18.cfg:537
 #: A_New_Order/scenarios/13.cfg:539 A_New_Order/scenarios/13.cfg:547
 msgid "Lorin"
 msgstr "Fru Lorin"
@@ -2060,13 +2075,13 @@ msgstr "Fru Lorin"
 msgid "Yaranov"
 msgstr "Yaranov"
 
-#: A_New_Order/scenarios/18.cfg:170 A_New_Order/scenarios/18.cfg:176
+#: A_New_Order/scenarios/18.cfg:532 A_New_Order/scenarios/18.cfg:538
 #: A_New_Order/scenarios/13.cfg:541 A_New_Order/scenarios/13.cfg:549
 #: A_New_Order/scenarios/13.cfg:558 A_New_Order/scenarios/13.cfg:564
 msgid "I changed my mind"
 msgstr "Nä,föresten"
 
-#: A_New_Order/scenarios/13.cfg:571
+#: A_New_Order/scenarios/18.cfg:543 A_New_Order/scenarios/13.cfg:571
 msgid "Ruvio, please tell me.."
 msgstr "Ruvio, berätta gärna..."
 
@@ -2074,7 +2089,7 @@ msgstr "Ruvio, berätta gärna..."
 msgid "Where Reme Carrenemoe could possibly be?"
 msgstr "var Reme Carrenemoe skulle tänkas vara?"
 
-#: A_New_Order/scenarios/13.cfg:573
+#: A_New_Order/scenarios/18.cfg:545 A_New_Order/scenarios/13.cfg:573
 msgid "Advice me what could we do now."
 msgstr "Något råd om vad vi skulle kunna göra idag."
 
@@ -2247,7 +2262,8 @@ msgstr "Andrey Yaranov, Lorin är min styvmor."
 msgid "You may start to call me step-father, then."
 msgstr "Då kan du börja kalla mig din styvfar."
 
-#: A_New_Order/scenarios/13.cfg:626 A_New_Order/scenarios/13.cfg:634
+#: A_New_Order/scenarios/18.cfg:566 A_New_Order/scenarios/13.cfg:626
+#: A_New_Order/scenarios/13.cfg:634
 msgid "Mother, can I have a word with you?"
 msgstr "Mamma, kan jag växla ett ord med dig?"
 
@@ -2267,7 +2283,8 @@ msgstr "Vad vet du om orcherna?"
 msgid "How my real mother died?"
 msgstr "Hur min riktiga mor dog?"
 
-#: A_New_Order/scenarios/13.cfg:631 A_New_Order/scenarios/13.cfg:638
+#: A_New_Order/scenarios/18.cfg:570 A_New_Order/scenarios/13.cfg:631
+#: A_New_Order/scenarios/13.cfg:638
 msgid "Never mind"
 msgstr "Ah, bry dig inte om det."
 
@@ -3596,7 +3613,7 @@ msgid ""
 msgstr "Så du har redan förfört denna Gaumhaldric? Eller har jag missat något?"
 
 #: A_New_Order/scenarios/14macros.cfg:11
-#: A_New_Order/scenarios/ano_macros.cfg:219
+#: A_New_Order/scenarios/ano_macros.cfg:228
 msgid "I can't hold my sword anymore.. I can't ..."
 msgstr "Jag kan inte hålla mitt svärd längre... jag kan inte..."
 
@@ -3823,7 +3840,7 @@ msgid ""
 "initial position."
 msgstr "Du kan retirera genom att förflytta Gawen till vägskylten."
 
-#: A_New_Order/scenarios/19oracle.cfg:211 A_New_Order/scenarios/4.cfg:225
+#: A_New_Order/scenarios/19oracle.cfg:754 A_New_Order/scenarios/4.cfg:225
 #: A_New_Order/scenarios/14orcs.cfg:139 A_New_Order/scenarios/14orcs.cfg:150
 #: A_New_Order/scenarios/5b.cfg:134 A_New_Order/scenarios/15b.cfg:98
 #: A_New_Order/scenarios/5a.cfg:127 A_New_Order/scenarios/14saorduc.cfg:216
@@ -5305,7 +5322,7 @@ msgstr "Du får 50 guldbitar."
 
 #: A_New_Order/scenarios/17.cfg:399 A_New_Order/scenarios/17.cfg:413
 #, fuzzy
-msgid "You were worthy opponent, Quivre from Raednons."
+msgid "You were worthy opponent, Quivre from Raednons. It was good fight."
 msgstr "Du var en värdig motståndare, Oyre Mathauri. Hur kan jag hedra dig?"
 
 #: A_New_Order/scenarios/17.cfg:400 A_New_Order/scenarios/17.cfg:414
@@ -5394,6 +5411,7 @@ msgid "Did I heard correctly? What is your name?"
 msgstr ""
 
 #: A_New_Order/scenarios/17.cfg:471 A_New_Order/scenarios/17.cfg:493
+#: A_New_Order/scenarios/18.cfg:243
 #, fuzzy
 msgid "My name is..."
 msgstr "Och hans namn är..."
@@ -5574,72 +5592,747 @@ msgid ""
 "each other. Bor Cryne and his faction slowly but steadily was gaining an "
 "advantage, thanks to help of the orcs. Bandits and rebels - and sometimes "
 "the difference was just in name - were roaming around. The hard times were "
-"ahed."
+"ahead."
 msgstr ""
 
-#: A_New_Order/scenarios/18.cfg:54
+#: A_New_Order/scenarios/18.cfg:27
+msgid ""
+"I wasn't happy with results of our visit to Oracle. None of the so called "
+"'answers' she gave us satisfied me. Still, we had no idea where to search "
+"for Deorien, and the discussion between Lorin and Oracle just confused me. "
+"Lorin refused to talk about this and became much more taciturn, comprising "
+"something in herself."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:58
 #, fuzzy
 msgid "To the Oracle"
 msgstr "John den Skallige"
 
-#: A_New_Order/scenarios/18.cfg:86
+#: A_New_Order/scenarios/18.cfg:96
 #, fuzzy
 msgid "So, should go to the Oracle?"
 msgstr "Så, borde vi attackera orcherna?"
 
-#: A_New_Order/scenarios/18.cfg:91
+#: A_New_Order/scenarios/18.cfg:104
 msgid "My lord, we already visited the Oracle"
 msgstr ""
 
-#: A_New_Order/scenarios/18.cfg:100 A_New_Order/scenarios/18.cfg:117
+#: A_New_Order/scenarios/18.cfg:113 A_New_Order/scenarios/18.cfg:133
 msgid "My lord, I really insist to visit Oracle first"
 msgstr ""
 
-#: A_New_Order/scenarios/18.cfg:101 A_New_Order/scenarios/18.cfg:118
+#: A_New_Order/scenarios/18.cfg:114 A_New_Order/scenarios/18.cfg:134
 #, fuzzy
 msgid "Well, I think that..."
 msgstr "Jag tror att..."
 
-#: A_New_Order/scenarios/18.cfg:102 A_New_Order/scenarios/18.cfg:119
+#: A_New_Order/scenarios/18.cfg:115 A_New_Order/scenarios/18.cfg:135
 #, fuzzy
 msgid "I already know where Deorien may be."
 msgstr "Jag har ingen aning om vr er vän kan tänkas vara."
 
-#: A_New_Order/scenarios/18.cfg:103 A_New_Order/scenarios/18.cfg:120
+#: A_New_Order/scenarios/18.cfg:116 A_New_Order/scenarios/18.cfg:136
 msgid "You are right. Let's go to the Oracle first."
 msgstr ""
 
-#: A_New_Order/scenarios/18.cfg:105 A_New_Order/scenarios/18.cfg:122
+#: A_New_Order/scenarios/18.cfg:118 A_New_Order/scenarios/18.cfg:138
 #, fuzzy
 msgid "So, should we pick that way?"
 msgstr "Så, borde vi attackera orcherna?"
+
+#: A_New_Order/scenarios/18.cfg:153 A_New_Order/scenarios/18.cfg:156
+#: A_New_Order/scenarios/18.cfg:169 A_New_Order/scenarios/18.cfg:178
+#: A_New_Order/scenarios/18.cfg:181 A_New_Order/scenarios/18.cfg:184
+#: A_New_Order/scenarios/18.cfg:187 A_New_Order/scenarios/18.cfg:190
+#: A_New_Order/scenarios/18.cfg:211 A_New_Order/scenarios/18.cfg:217
+#: A_New_Order/scenarios/18.cfg:221 A_New_Order/scenarios/18.cfg:224
+#: A_New_Order/scenarios/18.cfg:227 A_New_Order/scenarios/18.cfg:230
+#: A_New_Order/scenarios/18.cfg:241 A_New_Order/scenarios/18.cfg:249
+#: A_New_Order/scenarios/18.cfg:253 A_New_Order/scenarios/18.cfg:269
+#: A_New_Order/scenarios/18.cfg:283 A_New_Order/scenarios/18.cfg:287
+#: A_New_Order/scenarios/18.cfg:291 A_New_Order/scenarios/18.cfg:294
+#: A_New_Order/scenarios/18.cfg:297 A_New_Order/scenarios/18.cfg:300
+#: A_New_Order/scenarios/18.cfg:302 A_New_Order/scenarios/18.cfg:305
+#: A_New_Order/scenarios/18.cfg:310 A_New_Order/scenarios/18.cfg:321
+#: A_New_Order/scenarios/18.cfg:334 A_New_Order/scenarios/18.cfg:343
+#: A_New_Order/scenarios/18.cfg:365 A_New_Order/scenarios/18.cfg:387
+#: A_New_Order/scenarios/18.cfg:390 A_New_Order/scenarios/18.cfg:393
+#: A_New_Order/scenarios/18.cfg:399 A_New_Order/scenarios/18.cfg:403
+#: A_New_Order/scenarios/18.cfg:407 A_New_Order/scenarios/18.cfg:410
+#: A_New_Order/scenarios/18.cfg:413 A_New_Order/scenarios/18.cfg:418
+#: A_New_Order/scenarios/18.cfg:421 A_New_Order/scenarios/18.cfg:425
+#: A_New_Order/scenarios/18.cfg:436 A_New_Order/scenarios/18.cfg:439
+#: A_New_Order/scenarios/18.cfg:452 A_New_Order/scenarios/18.cfg:461
+#: A_New_Order/scenarios/18.cfg:464 A_New_Order/scenarios/18.cfg:484
+#: A_New_Order/scenarios/18.cfg:487 A_New_Order/scenarios/18.cfg:490
+#: A_New_Order/scenarios/18.cfg:496 A_New_Order/scenarios/18.cfg:500
+#: A_New_Order/scenarios/18.cfg:503 A_New_Order/scenarios/18.cfg:507
+#: A_New_Order/scenarios/18.cfg:510 A_New_Order/scenarios/18.cfg:514
+#, fuzzy
+msgid "Village leader"
+msgstr "Döda alla fiendeledaren."
+
+#: A_New_Order/scenarios/18.cfg:154
+msgid "Welcome to our village, noble travelers."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:155
+msgid "We are freedom fighters searching for mage Deorien."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:157
+msgid ""
+"Freedom fighters? Yea, sure. But please do not fight for freedom here. We "
+"are honest hardworking people."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:161 A_New_Order/scenarios/18.cfg:260
+#: A_New_Order/scenarios/18.cfg:326 A_New_Order/scenarios/18.cfg:444
+#, fuzzy
+msgid "Would you fight for me?"
+msgstr "Skulle du vilja slåss för mig?"
+
+#: A_New_Order/scenarios/18.cfg:162 A_New_Order/scenarios/18.cfg:261
+#: A_New_Order/scenarios/18.cfg:327 A_New_Order/scenarios/18.cfg:445
+#, fuzzy
+msgid "Do you know something about mage Deorien?"
+msgstr "Vet du något om fru Lorin?"
+
+#: A_New_Order/scenarios/18.cfg:163 A_New_Order/scenarios/18.cfg:262
+#: A_New_Order/scenarios/18.cfg:328 A_New_Order/scenarios/18.cfg:446
+#, fuzzy
+msgid "Do you know where Oracle lives?"
+msgstr "vet du var Reme Carrenemoe är?"
+
+#: A_New_Order/scenarios/18.cfg:164 A_New_Order/scenarios/18.cfg:263
+#: A_New_Order/scenarios/18.cfg:329 A_New_Order/scenarios/18.cfg:447
+#, fuzzy
+msgid "Have you heard any interesting news recently?"
+msgstr "Har du hört något om orcherna?"
+
+#: A_New_Order/scenarios/18.cfg:170 A_New_Order/scenarios/18.cfg:335
+#: A_New_Order/scenarios/18.cfg:453
+#, fuzzy
+msgid "Why anyone would want to fight for you?"
+msgstr "Skulle du vilja slåss för mig?"
+
+#: A_New_Order/scenarios/18.cfg:173 A_New_Order/scenarios/18.cfg:338
+#: A_New_Order/scenarios/18.cfg:456
+msgid "You have a chance to fight for you freedom."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:174 A_New_Order/scenarios/18.cfg:339
+#: A_New_Order/scenarios/18.cfg:457
+msgid "I may be your future king."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:175 A_New_Order/scenarios/18.cfg:340
+#: A_New_Order/scenarios/18.cfg:458
+msgid "In army you may change your lot."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:176 A_New_Order/scenarios/18.cfg:341
+#: A_New_Order/scenarios/18.cfg:459
+#, fuzzy
+msgid "Why not?"
+msgstr "Varför?"
+
+#: A_New_Order/scenarios/18.cfg:179
+msgid "In this forest, we are free already."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:182
+msgid "No kidding. I mean, no kidding, your Majesty."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:185 A_New_Order/scenarios/18.cfg:388
+#: A_New_Order/scenarios/18.cfg:485
+#, fuzzy
+msgid "Change my lot? What do you mean?"
+msgstr "Mirakel? vad menar du?"
+
+#: A_New_Order/scenarios/18.cfg:186 A_New_Order/scenarios/18.cfg:389
+#: A_New_Order/scenarios/18.cfg:486
+msgid ""
+"Well, you know, you may earn some gold, and if you are lucky, you may even "
+"became a knight."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:188
+msgid ""
+"A knight? Ha, ha, I thought you were serious. There are only archers in that "
+"village."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:189
+msgid ""
+"Best archers may even earn 45 gold pieces when hired, a twenty golden pieces "
+"for each battle."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:191
+msgid ""
+"Fourty-five golden pieces? Ok, I think there will be a volunteer here. He "
+"will fight for you."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:192
+msgid ""
+"My lord, will we accept that unit into our army? It is not loyal unit, it's "
+"just simple Bowman."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:212 A_New_Order/scenarios/18.cfg:394
+#: A_New_Order/scenarios/18.cfg:491
+msgid "Because we have a lot to do in our own village, for example?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:218 A_New_Order/scenarios/18.cfg:288
+#: A_New_Order/scenarios/18.cfg:400 A_New_Order/scenarios/18.cfg:497
+#, fuzzy
+msgid "I already answered that question."
+msgstr "Ingen harm menat, men du har redan frågat mig den frågan."
+
+#: A_New_Order/scenarios/18.cfg:222
+msgid ""
+"Well, I don't know. But I think he lives in Isle of Anduin, where all mages "
+"live."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:225
+msgid ""
+"You mean you don't know? South from here, east from larger village called "
+"Porkton. If I lived in that village, I would change its name into something "
+"different. Hugton, for example."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:228
+msgid ""
+"Something interesting? Well, young Henry is marrying with Mary from "
+"Buckston. Last storm was so heavy that it broke all trees in Larry's "
+"orchard. Orcs and Akladians are slaughtering themselves. Anything more? "
+"Hmm... I don't think so."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:231 A_New_Order/scenarios/18.cfg:311
+#: A_New_Order/scenarios/18.cfg:426 A_New_Order/scenarios/18.cfg:515
+msgid "Have luck in your travel, stranger. You will need that."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:242
+msgid ""
+"Wesnothians! What are you doing here? If you thought you could pillage our "
+"village, you will be dissapointed!"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:245
+#, fuzzy
+msgid "Gaumhaldric"
+msgstr "Gaumhaldric."
+
+#: A_New_Order/scenarios/18.cfg:250
+msgid "Gawen Hagarthen? No! That would mean.. My king!"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:254
+msgid "Ah, the rebel from Freetown?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:270
+msgid "My king, you do not have to ask. You may order us to join you."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:284
+msgid "Fighting for you? Against my own kin? No joke."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:292 A_New_Order/scenarios/18.cfg:404
+msgid ""
+"Well, I don't know. But I think The Oracle may know, she knows everything."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:295
+msgid ""
+"The holy God's voice is east from here. I've heard she will visit one of our "
+"lords, soon."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:298
+msgid "How should I know? The lords have their own lifes, we have our own."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:301
+msgid ""
+"Well, Akladians from Easkladia were defeated by Wesnothians in battle near "
+"Broken Heart Runlet. I think it is because God hide his face from us. Their "
+"king escaped. If you asked me, I will answer that Easkladia is finished."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:303
+msgid ""
+"We have no king now and because of that, according to custom other "
+"Hagarthens should wait one year until one of them would be invited to rule "
+"Vakladia by either regent or council of lords. But we have no regent either "
+"and lords are fighting amongst themselves. So I think sooner or later "
+"Hagarthens from other kingdoms will invite themselves."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:304
+msgid "Other Hagarthens? How many of them?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:306
+msgid ""
+"There is old Perien from Easkladia, but he has troubles on his own, there "
+"are two brothers: Luc and Gauri from Guilcorta and there is Buffin from "
+"Okladia. Well, there is also gossip that new messiah will come and he will "
+"led Akladians to true greatness..."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:322
+msgid ""
+"My lord! Isn't that this Gaumhaldric, about whom we've heard so many tales?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:344
+#, fuzzy
+msgid "It would be honour to join your army."
+msgstr "Jag kommer vara ärad av att ha dig i min arme."
+
+#: A_New_Order/scenarios/18.cfg:345 A_New_Order/scenarios/18.cfg:367
+#: A_New_Order/scenarios/18.cfg:466
+msgid ""
+"My lord, will we accept that unit into our army? It is loyal unit, but it's "
+"just simple Peasant."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:366
+#, fuzzy
+msgid "Yes, this is good enough reason."
+msgstr "Och det här är ett bra skäl därför att...?"
+
+#: A_New_Order/scenarios/18.cfg:391
+msgid ""
+"Gold? I thought you are fighting for freedom, not gold. I am so dissapointed."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:408
+msgid "East from here."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:411
+msgid "East from here. But please, be hurry."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:414
+msgid ""
+"Large army went there not long ago. Orcs, Akladians, Outlaws. I don't know "
+"what are their intentions, but I think they are not extremely friendly."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:419
+msgid ""
+"The greatest news of them all is that you have saved the Oracle. This - this "
+"is so wonderful I can't find proper words to describe it."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:422
+msgid ""
+"Akladians from other kingdom were defeated by our people in battle near "
+"Broken Heart Runlet. Well, our people - this was army from Blackwater. Large "
+"army recently west east, I think they want harm the Oracle."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:437
+msgid "Who's there? Friend or foe?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:438
+msgid "Friend."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:440
+msgid ""
+"A lot of friend came to us recently. There are Akladians in your army, I "
+"think. Why should I trust you?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:462
+msgid "And die in first fight. No, thank you."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:465
+msgid "Really? Well, If so, one of our boys may join your army."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:488
+msgid "Dead people do not bring gold home."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:501
+msgid "Well, I don't know. He may live in free kingdom of Elensefar."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:504
+msgid "East from here. Near Porkton."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:508
+msgid ""
+"There was battle east from here, in which Akladians, Outlaws and Orcs tried "
+"to captured the Oracle. But they were defeated by some young man, who.. wait "
+"a minute. What was your name, again?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:511
+msgid ""
+"A lot of interesting things happened recently! Two girls were born in my "
+"village, the same day and even the same hour! Fat Robert lost a horse in the "
+"forest, it was robbed by outlaws, I think. "
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:544
+#, fuzzy
+msgid "Why do you dislike Lorin?"
+msgstr "Varför frågar du?"
+
+#: A_New_Order/scenarios/18.cfg:546
+#, fuzzy
+msgid "Tell me about Karen"
+msgstr "Om min mor."
+
+#: A_New_Order/scenarios/18.cfg:549
+msgid ""
+"You must be kidding. This woman is so hard to live near I cannot understand "
+"why Yaranov seemed to have crunch on her."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:553
+msgid ""
+"Weeell, she is my oldest daughter. From her youth she always wanted to be "
+"great fighter, and she always tried to be the best"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:554
+msgid "I'm kind of surprised that she is not here with us."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:555
+msgid ""
+"I ordered Karl to tied here and lock her room. I think this gave us enough "
+"time to escape. This journey is really to dangerous for her. I hope she will "
+"stay safe in Freetown."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:559
+#, fuzzy
+msgid "Hey Reme, what's going on?"
+msgstr "Hallå Karen, vad händer?"
+
+#: A_New_Order/scenarios/18.cfg:560
+msgid ""
+"Nothing really. I think your under.. Wesnothian soldiers started to - well, "
+"maybe not like - but to tolerate me."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:561
+msgid "Nice to hear that."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:563
+#, fuzzy
+msgid "Mother, what's going on?"
+msgstr "Så, vad nu?"
+
+#: A_New_Order/scenarios/18.cfg:564
+#, fuzzy
+msgid "Mother? I think you said I am not your real mother?"
+msgstr "Din mor? Varför frågar du MIG om din mor?"
+
+#: A_New_Order/scenarios/18.cfg:565
+msgid "I'm sorry. I was really angry."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:567
+msgid "What happened that night we left Freetown?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:568
+#, fuzzy
+msgid "What do you think about Karen?"
+msgstr "Vad tror du om Yaranov?"
+
+#: A_New_Order/scenarios/18.cfg:569
+msgid "What Oracle did tell you?"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:573
+#, fuzzy
+msgid "I've told you I will not tell you."
+msgstr "Se, jag sade ju att det kommer vara lätt."
+
+#: A_New_Order/scenarios/18.cfg:575
+msgid "Nice child. In few years she even could pretend to be a woman."
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:577
+msgid ""
+"When I was young, I visited her and she told me.. No, I can't tell you. This "
+"was just between Oracle and me. The first part of her prediction is already "
+"fulfilled. The second part.. I think I will soon know that."
+msgstr ""
 
 #: A_New_Order/scenarios/19oracle.cfg:3
 msgid "The Oracle"
 msgstr ""
 
 #: A_New_Order/scenarios/19oracle.cfg:17
-msgid "BLAH"
+msgid ""
+"The Oracle was the name given to woman living in ruins of old city. For "
+"generations there was always one female mage with foreseeing abilities "
+"living there, so long that no one remembered now how was the city once "
+"called. Now it was just the city of the Oracle."
 msgstr ""
 
-#: A_New_Order/scenarios/19oracle.cfg:81
+#: A_New_Order/scenarios/19oracle.cfg:20
+msgid ""
+"The city now was besieged. Four different armies, each under different "
+"leader, and it seemed this heavily contributed to fact the Oracle still "
+"could defend herself. Each army seemed to siege the city on its own. But "
+"this was almost last moment for a relief."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:103
+#: A_New_Order/scenarios/19oracle.cfg:115
+#: A_New_Order/scenarios/19oracle.cfg:128
+#: A_New_Order/scenarios/19oracle.cfg:141
+#: A_New_Order/scenarios/19oracle.cfg:152
+#: A_New_Order/scenarios/19oracle.cfg:163
+#: A_New_Order/scenarios/19oracle.cfg:175
+#: A_New_Order/scenarios/19oracle.cfg:188
+#: A_New_Order/scenarios/19oracle.cfg:201
+#: A_New_Order/scenarios/19oracle.cfg:214
+#: A_New_Order/scenarios/19oracle.cfg:227
+#: A_New_Order/scenarios/19oracle.cfg:240
+#: A_New_Order/scenarios/19oracle.cfg:253
+#: A_New_Order/scenarios/19oracle.cfg:265
+#: A_New_Order/scenarios/19oracle.cfg:278
+#: A_New_Order/scenarios/19oracle.cfg:291
+#: A_New_Order/scenarios/19oracle.cfg:304
+#: A_New_Order/scenarios/19oracle.cfg:315
+#: A_New_Order/scenarios/19oracle.cfg:328
+#: A_New_Order/scenarios/19oracle.cfg:339
+msgid "Oracle's Guard"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:354
 #, fuzzy
 msgid "Baruk Urk"
 msgstr "Baruk Bar"
 
-#: A_New_Order/scenarios/19oracle.cfg:110
+#: A_New_Order/scenarios/19oracle.cfg:395
+#: A_New_Order/scenarios/19oracle.cfg:408
+#: A_New_Order/scenarios/19oracle.cfg:419
+#: A_New_Order/scenarios/19oracle.cfg:430
+msgid "Orc"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:443
 msgid "Fat Bart"
 msgstr ""
 
-#: A_New_Order/scenarios/19oracle.cfg:139
+#: A_New_Order/scenarios/19oracle.cfg:484
+#: A_New_Order/scenarios/19oracle.cfg:497
+#: A_New_Order/scenarios/19oracle.cfg:510
+#: A_New_Order/scenarios/19oracle.cfg:523
+#: A_New_Order/scenarios/19oracle.cfg:534
+#: A_New_Order/scenarios/19oracle.cfg:545
+#, fuzzy
+msgid "Outlaw"
+msgstr "De Laglösas Bas"
+
+#: A_New_Order/scenarios/19oracle.cfg:558
 #, fuzzy
 msgid "Burke Barien"
 msgstr "Baruk Bar"
 
-#: A_New_Order/scenarios/19oracle.cfg:207
+#: A_New_Order/scenarios/19oracle.cfg:599
+#: A_New_Order/scenarios/19oracle.cfg:612
+#: A_New_Order/scenarios/19oracle.cfg:625
+#: A_New_Order/scenarios/19oracle.cfg:638
+#, fuzzy
+msgid "Barien"
+msgstr "Karen"
+
+#: A_New_Order/scenarios/19oracle.cfg:693
+#: A_New_Order/scenarios/19oracle.cfg:706
+#: A_New_Order/scenarios/19oracle.cfg:719
+msgid "Rebarnon"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:744
 msgid ""
 "Remember, the Oracle must be untouched. Do not kill the woman. Bor Cryne "
 "want to have her untouched."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:745
+msgid ""
+"Bor Cryne may want whatever he wants. But the holy Oracle will be guest of "
+"the noble lord Uri van Roe."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:746
+msgid ""
+"You will settle that later. But everything else inside the city will belong "
+"to us!"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:747
+msgid "Ha, ha, human. Everything, which will be left by us."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:748
+msgid "Wait, I think someone is trying to help the besieged."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:749
+msgid ""
+"Oracle was right, as always! Relief is coming! Faster, dammit, I don't know "
+"how long we can hold!"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:752
+msgid "There are no interrogations in this scenario."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:758
+#, fuzzy
+msgid "Any enemy unit reaches the keep of the Oracle."
+msgstr "Vilken fiendetrupp som helst når den nordöstra vägskylten"
+
+#: A_New_Order/scenarios/19oracle.cfg:789
+msgid "I found her! I found her! The Oracle!"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:790
+#, fuzzy
+msgid "Everything is lost! They captured the Oracle!"
+msgstr "Gud! Allt är förlorat! Spring för livet!"
+
+#: A_New_Order/scenarios/19oracle.cfg:797
+#, fuzzy
+msgid ""
+"Everything is lost! The reinforcements for our enemies arrived! We have no "
+"chance now to win!"
+msgstr ""
+"Se, färska fiendetrupper har anlänt! vi har inte någon chans att vinna nu!"
+
+#: A_New_Order/scenarios/19oracle.cfg:802
+msgid "We've won! Great. Now, where is that famous oracle?"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:803
+msgid "You pronounce that 'the Oracle' by big O. But indeed, where is she?"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:807
+#, fuzzy
+msgid "Oracle"
+msgstr "John den Skallige"
+
+#: A_New_Order/scenarios/19oracle.cfg:812
+msgid ""
+"Here I am. Voice speaking to those, who wants to listen. I know why you are "
+"here. I know who you are. Ask your questions and wait for the answers, for I "
+"know everything which will be and everything which may be."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:813
+msgid ""
+"Everything? Then how it happened that you were besieged and almost captured? "
+"Why you had not escaped or called someone to help you?"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:814
+msgid ""
+"The answer to your question is the answer to your doubts. Why haven't I "
+"escaped? Why haven't I called someone for help? Why are you here?"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:815
+msgid "Lady, we are searching for great mage, Deorien. Maybe you know..."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:816
+msgid ""
+"Search for Deorien in the ruins of the great city, where even wind cries "
+"when bringing back memories of marvelous past. But he will give you answers, "
+"some of which may no delight you."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:817
+msgid ""
+"Ruins of great city? What kind of answer is this? Where is that city? Why "
+"can't you give me straight answer?"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:818
+msgid ""
+"I am Oracle. Why should I give straight answers? Why do you think my answer "
+"is not enough for you? Why do you think I should tell you more?"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:819
+msgid "Oracle.. I.."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:820
+msgid ""
+"I know your questions, Lorin from Gallorae, clan which had more gold in hair "
+"of their daughters than in their treasures. First answer is yes, you are. "
+"Second is yes, he will be. third is no, you will never be."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:821
+msgid "Note to translators : you will never be is plural."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:822
+msgid "No! No!  There has to be better answer!"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:823
+msgid ""
+"As Oracle I have nothing more to say to you. As woman, I have one advise. "
+"There is only one man in this world which may change your future. I think "
+"you know his name. Go and find him. Beg him for forgiveness if you will have "
+"to. Stay with him as long as you can."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:824
+msgid ""
+"Is that all you wanted to tell me? Then know that I've heard, She-wolf of "
+"Haeltin have heard the Oracle, voice of God on earth. She has not heard the "
+"woman which is merely God's tool."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:825
+msgid "Let's go, Gawen. Let's go."
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:826
+msgid ""
+"I had not understand the discussion between you, and I have this feeling it "
+"was important. But why?"
+msgstr ""
+
+#: A_New_Order/scenarios/19oracle.cfg:827
+msgid ""
+"You will understand that one day, young king. I wish you luck in you quest. "
+"I will give you one of my sergeants into your service. He will serve you "
+"loyally."
 msgstr ""
 
 #: A_New_Order/scenarios/3.cfg:3
@@ -6547,19 +7240,26 @@ msgstr ""
 "Du har mindre än 200 guldbitar. Jag vet inte om det kommer vara nog i "
 "framtida göromål."
 
-#: A_New_Order/scenarios/6.cfg:142
+#: A_New_Order/scenarios/6.cfg:143
 msgid ""
 "Good luck, Lady Lorin. It's not far away from here to yours family castle."
 msgstr ""
 "All lycka, fru Lorin. Det är inte långt härifrån till din familjs slott."
 
-#: A_New_Order/scenarios/6.cfg:143
+#: A_New_Order/scenarios/6.cfg:144
 msgid ""
 "My family has denied any ties to me long time ago, and you know that, Reme. "
 "I promise you that you will hear about me."
 msgstr ""
 "Min familj har avsagt sig alla kopplingar till mig för länge sedan, det vet "
 "du redan, Reme. Jag lovar dig att du kommer få höra om mig."
+
+#: A_New_Order/scenarios/6.cfg:187
+msgid ""
+"You had nor choosen, nor recruited five soldiers. I hope you know what you "
+"are doing, since in future it may be hard to find battle-hardened units. Or, "
+"for that matter, Akladians."
+msgstr ""
 
 #: A_New_Order/scenarios/7.cfg:3 A_New_Order/scenarios/7x.cfg:3
 msgid "Ally from the past"
@@ -7272,7 +7972,7 @@ msgstr ""
 "med deras ögon, hår och ansikten som skrek att de var lakejer. Men jag "
 "intalade mig att de bara var svärd: Hyrda svärd."
 
-#: A_New_Order/scenarios/9.cfg:129
+#: A_New_Order/scenarios/9.cfg:130
 msgid ""
 "So, let's put it all together. You agree to pay 15 gold pieces per swordman, "
 "archer or spearman, right?"
@@ -7280,11 +7980,11 @@ msgstr ""
 "Så, låt oss summera. Du lovade att betala 15 guld per svärdskämpe, bågskytt "
 "och spjutsoldat, eller hur?"
 
-#: A_New_Order/scenarios/9.cfg:130
+#: A_New_Order/scenarios/9.cfg:131
 msgid "Yes. And you will do everything I will order you to do."
 msgstr "Ja, varvid du kommer att göra allt jag beordrar dig till."
 
-#: A_New_Order/scenarios/9.cfg:131
+#: A_New_Order/scenarios/9.cfg:132
 msgid ""
 "Nonono. I've explained you already. We are not zombies you can hire to do "
 "anything. We, unlike Akladians, have CODEX. We follow rules."
@@ -7293,11 +7993,11 @@ msgstr ""
 "hyra till vad som helst. Vi, i motsats till Akladierna har en kodex. Vi "
 "följer regler."
 
-#: A_New_Order/scenarios/9.cfg:132
+#: A_New_Order/scenarios/9.cfg:133
 msgid "I don't know why I bear your impertinency, underling."
 msgstr "Jag vet inte varför jag står ut med din uppnosighet, lakej."
 
-#: A_New_Order/scenarios/9.cfg:133
+#: A_New_Order/scenarios/9.cfg:134
 msgid ""
 "One more reference to underling, and you will have to bear it no more. And "
 "then we will see who will fight for you. Even your own family didn't wanted "
@@ -7307,7 +8007,7 @@ msgstr ""
 "kommer vi få se vem som kommer att slåss för dig. Inte ens din egen familj "
 "ville ha dig."
 
-#: A_New_Order/scenarios/9.cfg:134
+#: A_New_Order/scenarios/9.cfg:135
 msgid ""
 "They did wanted me, but I would have to live in shame, in darkest and "
 "deepest part of their castle, to never see light again."
@@ -7315,7 +8015,7 @@ msgstr ""
 "De ville ha mig, men jag var tvungen att leva i skam, i de mörkaste och "
 "djupaste delarna av deras slott, att aldrig se dagsljus igen."
 
-#: A_New_Order/scenarios/9.cfg:135
+#: A_New_Order/scenarios/9.cfg:136
 msgid ""
 "Or they would kill you outright, isn't that the way Akladians deal with "
 "people who they think dishonoured them? Funny thing, that Akladian honor."
@@ -7323,7 +8023,7 @@ msgstr ""
 "Eller så skulle de ha dödat dig direkt, är det inte så Akladiter hanterar "
 "personer som de tror har vanhedrat dem? Rolig sak, den där akladiska äran."
 
-#: A_New_Order/scenarios/9.cfg:136
+#: A_New_Order/scenarios/9.cfg:137
 msgid ""
 "Hmm.. That's not those we were expecting. We have to kill them so they "
 "wouldn't see our guests!"
@@ -7331,17 +8031,17 @@ msgstr ""
 "Hmm... det är inte de som vi förväntade oss. Vi måste döda honom så att de "
 "inte ser våra gäster!"
 
-#: A_New_Order/scenarios/9.cfg:137
+#: A_New_Order/scenarios/9.cfg:138
 msgid "Ok, so the plan is to take over the castle and then... we will see."
 msgstr "Ok, så planen är att ta slottet och sedan... får vi se."
 
-#: A_New_Order/scenarios/9.cfg:138
+#: A_New_Order/scenarios/9.cfg:139
 msgid ""
 "Are you sure you choosed the right castle? He was saying something about the "
 "guests."
 msgstr "Är du säker på att det här är rätt slott? Han sade något om gäster."
 
-#: A_New_Order/scenarios/9.cfg:139
+#: A_New_Order/scenarios/9.cfg:140
 msgid ""
 "Shut up, underling. I don't want anyone to kill their leaders: leave that "
 "privilege to me, I have to interrogate them first!"
@@ -7349,11 +8049,11 @@ msgstr ""
 "Håll trur, lakej. Jag vill inte att någon ska döda deras ledare. lämna det "
 "privilegiet till mig, jag måste förhöra dem först!"
 
-#: A_New_Order/scenarios/9.cfg:140
+#: A_New_Order/scenarios/9.cfg:141
 msgid "One more reference to underling, and I am leaving, do you understand?"
 msgstr "En till referens till lakej så lämnar jag, förstått?"
 
-#: A_New_Order/scenarios/9.cfg:167
+#: A_New_Order/scenarios/9.cfg:168
 msgid ""
 "Before you will kill me, I have to tell you one thing: you are one damn good "
 "fighter, Lorin."
@@ -7361,7 +8061,7 @@ msgstr ""
 "Innan du dödar mig så måste jag berätta en sak: Du är en himla bra "
 "slagskämpe Lorin."
 
-#: A_New_Order/scenarios/9.cfg:174
+#: A_New_Order/scenarios/9.cfg:175
 msgid ""
 "That's LADY Lorin for you. You are going to tell me a lot more. First, who "
 "are those guests you were talking about?"
@@ -7369,7 +8069,7 @@ msgstr ""
 "Det blir FRU Lorin för dig. Du kommer att säga himla mycket mer saker. För "
 "det första, vilka är de där gästerna du talade om?"
 
-#: A_New_Order/scenarios/9.cfg:175
+#: A_New_Order/scenarios/9.cfg:176
 msgid ""
 "I have no idea. We gathered supplies for them for quite a long time. It has "
 "to be quite large army."
@@ -7377,27 +8077,27 @@ msgstr ""
 "Jag har ingen aning. Vi har samlat förnödenheter till dem under ganska bra "
 "tag nu. Det måste vara en ganska stor arme."
 
-#: A_New_Order/scenarios/9.cfg:181
+#: A_New_Order/scenarios/9.cfg:182
 msgid "And now.."
 msgstr "Och nu..."
 
-#: A_New_Order/scenarios/9.cfg:184
+#: A_New_Order/scenarios/9.cfg:185
 msgid "You were fine warrior, Reumario. I want to honour you."
 msgstr "Du var en bra soldat, Reumario. Jag vill hedra dig."
 
-#: A_New_Order/scenarios/9.cfg:190
+#: A_New_Order/scenarios/9.cfg:191
 msgid "Off with your left ear! And now tell me more about this guests!"
 msgstr "Av med ditt vänstra öra! Nu, berätta mer om gästerna!"
 
-#: A_New_Order/scenarios/9.cfg:192
+#: A_New_Order/scenarios/9.cfg:193
 msgid "I told you I know nothing about them! Aaargh!"
 msgstr "Jag berättade att jag inte visste något om dem! Aaargh!"
 
-#: A_New_Order/scenarios/9.cfg:195
+#: A_New_Order/scenarios/9.cfg:196
 msgid "Liar! Speak!"
 msgstr "Lögnare! Tala!"
 
-#: A_New_Order/scenarios/9.cfg:198
+#: A_New_Order/scenarios/9.cfg:199
 msgid ""
 "I do not think he will tell you anything more, my lady. He's dead. By the "
 "way, are you one of those Akladian girls who like leather and whips?"
@@ -7406,31 +8106,31 @@ msgstr ""
 "död. Förresten, är du en av de där akladiska flickorna som gillar läder och "
 "piskor?"
 
-#: A_New_Order/scenarios/9.cfg:201
+#: A_New_Order/scenarios/9.cfg:202
 msgid "Be silent, underling."
 msgstr "Tystnad, lakej."
 
-#: A_New_Order/scenarios/9.cfg:204
+#: A_New_Order/scenarios/9.cfg:205
 msgid "One more reference to underling and I am leaving, do you understand?"
 msgstr "En till referns till lakej så lämnar jag dig, förstått?"
 
-#: A_New_Order/scenarios/9.cfg:208
+#: A_New_Order/scenarios/9.cfg:209
 msgid "Where are those supplies! Speak, or I will cut you to pieces!"
 msgstr "Var finns de där förråden! Tala annars så skär jag dig i småbitar!"
 
-#: A_New_Order/scenarios/9.cfg:222
+#: A_New_Order/scenarios/9.cfg:223
 msgid "Uh, I, I am not sure..."
 msgstr "Uh, jag, jag är inte säker..."
 
-#: A_New_Order/scenarios/9.cfg:225
+#: A_New_Order/scenarios/9.cfg:226
 msgid "Well, what about this:"
 msgstr "Nå vad tror du om det här:"
 
-#: A_New_Order/scenarios/9.cfg:228
+#: A_New_Order/scenarios/9.cfg:229
 msgid "I would be honoured to have you in my army."
 msgstr "Jag kommer vara ärad av att ha dig i min arme."
 
-#: A_New_Order/scenarios/9.cfg:234
+#: A_New_Order/scenarios/9.cfg:235
 msgid ""
 "After this battle you will be able to recruit Akladian Clanmembers, Warriors "
 "and Wisemen again."
@@ -7438,7 +8138,7 @@ msgstr ""
 "Efter den här striden så kommer du att kunna rekrytera Akladianska "
 "klanmedlemmar, krigare och visa män igen."
 
-#: A_New_Order/scenarios/9.cfg:246
+#: A_New_Order/scenarios/9.cfg:247
 msgid ""
 "Uh.. Yes, why not. I can join you. But only after this battle, I do not want "
 "to fight my comrades."
@@ -7446,11 +8146,11 @@ msgstr ""
 "Uh... ja, varför inte. Jag kan slå mig ihop med dig. Men endast efter den "
 "här striden, jag vill inte slåss mot mina kamrater."
 
-#: A_New_Order/scenarios/9.cfg:250
+#: A_New_Order/scenarios/9.cfg:251
 msgid "I would let you live."
 msgstr "Jag skulle låta dig leva."
 
-#: A_New_Order/scenarios/9.cfg:255
+#: A_New_Order/scenarios/9.cfg:256
 msgid ""
 "Thank you, Lorin. Frankly, I had not expected such behavior from you. As a "
 "sign of my gratitude, I will allow some of members of my clan to serve you."
@@ -7459,60 +8159,60 @@ msgstr ""
 "dig. Som ett tecken på min tacksamhet, så kommer jag att låta några av mina "
 "klanmedlemmar att tjäna under dig."
 
-#: A_New_Order/scenarios/9.cfg:259
+#: A_New_Order/scenarios/9.cfg:260
 msgid ""
 "After this battle you will be able to recruit Akladian Clanmembers again."
 msgstr ""
 "Efter den här striden så kommer du att kunna rekrytera akladiska "
 "klanmedlemmar igen."
 
-#: A_New_Order/scenarios/9.cfg:271
+#: A_New_Order/scenarios/9.cfg:272
 msgid "In our magazins and.."
 msgstr "I våra magasin och..."
 
-#: A_New_Order/scenarios/9.cfg:272
+#: A_New_Order/scenarios/9.cfg:273
 msgid ""
 "Do you think I'm stupid? You have to have some hidden magazins or treasury! "
 "Speak!"
 msgstr ""
 "Tror du att jag är dum? Du måste ha några gömda magasin med skatter! Tala!"
 
-#: A_New_Order/scenarios/9.cfg:273
+#: A_New_Order/scenarios/9.cfg:274
 msgid ""
 "Aargh! Yes, we have hidden treasury in my castle, here, I will show you."
 msgstr ""
 "Aargh!  Ja, vi har gömda skatter i mitt slott, här, jag kommer att visa dig."
 
-#: A_New_Order/scenarios/9.cfg:274 A_New_Order/scenarios/9.cfg:551
+#: A_New_Order/scenarios/9.cfg:275 A_New_Order/scenarios/9.cfg:552
 msgid "You received 100 golden pieces."
 msgstr "Du får 100 guldbitar."
 
-#: A_New_Order/scenarios/9.cfg:281
+#: A_New_Order/scenarios/9.cfg:282
 msgid "Would you allow him to leave now?"
 msgstr "Kommer du att tillåta att han lämnar nu?"
 
-#: A_New_Order/scenarios/9.cfg:284
+#: A_New_Order/scenarios/9.cfg:285
 msgid "Yes, he may live."
 msgstr "Ja, han må leva."
 
-#: A_New_Order/scenarios/9.cfg:290
+#: A_New_Order/scenarios/9.cfg:291
 msgid "No, he is too dangerous."
 msgstr "Nej, han är alltför farlig."
 
-#: A_New_Order/scenarios/9.cfg:312
+#: A_New_Order/scenarios/9.cfg:313
 msgid "What did I say about killing their leaders? Huh? Huh?"
 msgstr "Vad sa jag om att döda deras ledare? Huh? Huh?"
 
-#: A_New_Order/scenarios/9.cfg:313
+#: A_New_Order/scenarios/9.cfg:314
 msgid "But.."
 msgstr "Men..."
 
-#: A_New_Order/scenarios/9.cfg:314
+#: A_New_Order/scenarios/9.cfg:315
 msgid ""
 "What? Are you hearing impaired or something? Leave their leaders for me."
 msgstr "Vad? Är du hörselskadat eller något? Lämna deras ledare till mig."
 
-#: A_New_Order/scenarios/9.cfg:326
+#: A_New_Order/scenarios/9.cfg:327
 msgid ""
 "Before I will kill you, I want you to tell me few things. First, you were "
 "talking about some guests, tell me more!"
@@ -7520,7 +8220,7 @@ msgstr ""
 "Innan jag dödar dig så vill jag att du berättar några saker. För det första, "
 "du talade om några gäster innan, berätta mer."
 
-#: A_New_Order/scenarios/9.cfg:327
+#: A_New_Order/scenarios/9.cfg:328
 msgid ""
 "You are afraid, aren't you? They will came here in great numbers: Huge, "
 "Orcish army. Better start to run, witch."
@@ -7528,7 +8228,7 @@ msgstr ""
 "Du är rädd, eller hur? De kommer komma hit i mängder. Stor orchisk arme. "
 "Bäst att du börjar springa, häxa."
 
-#: A_New_Order/scenarios/9.cfg:334
+#: A_New_Order/scenarios/9.cfg:335
 msgid ""
 "Orcs? I fought them already. Good opponents, not like you. I am looking "
 "forward to meet them."
@@ -7536,7 +8236,7 @@ msgstr ""
 "Orcher? De har jag redan slagits mot. Bra motståndare, inte som dig. Jag ser "
 "framemot att få möta dem igen."
 
-#: A_New_Order/scenarios/9.cfg:337
+#: A_New_Order/scenarios/9.cfg:338
 msgid ""
 "Orcs? I've never fought with orcs. I would love to meet them, I've heard "
 "they are good soldiers."
@@ -7544,31 +8244,31 @@ msgstr ""
 "Orcher? Jag har aldrig slagits mot orcher. Jag skulle älska att slåss emot "
 "dem, jag har hört att de är bra soldater."
 
-#: A_New_Order/scenarios/9.cfg:342
+#: A_New_Order/scenarios/9.cfg:343
 msgid "And now, tell me more.."
 msgstr "Och nu, berätta mer..."
 
-#: A_New_Order/scenarios/9.cfg:344
+#: A_New_Order/scenarios/9.cfg:345
 msgid "You were worthy opponent, Oyre Mathauri. How can I honour you?"
 msgstr "Du var en värdig motståndare, Oyre Mathauri. Hur kan jag hedra dig?"
 
-#: A_New_Order/scenarios/9.cfg:346
+#: A_New_Order/scenarios/9.cfg:347
 msgid "By kissing my hairy dirty arse, witch."
 msgstr "genom att kyssa mitt smutsiga håriga archle, häxa."
 
-#: A_New_Order/scenarios/9.cfg:349
+#: A_New_Order/scenarios/9.cfg:350
 msgid "Seem you have wasted your last wish. Now die!"
 msgstr "Verkar som om du har kastat bort din sista önskan. Dö nu!"
 
-#: A_New_Order/scenarios/9.cfg:353
+#: A_New_Order/scenarios/9.cfg:354
 msgid "What orcs are doing here and why are awaiting them?"
 msgstr "Vad gör orcherna här och varför väntar vi på dem?"
 
-#: A_New_Order/scenarios/9.cfg:360
+#: A_New_Order/scenarios/9.cfg:361
 msgid "Where do you hide the gold?"
 msgstr "Var gömmer ni guldet?"
 
-#: A_New_Order/scenarios/9.cfg:374
+#: A_New_Order/scenarios/9.cfg:375
 msgid ""
 "Gold? What gold? I know nothing about AAARGH it's in safe place, I will show "
 "you!"
@@ -7576,11 +8276,11 @@ msgstr ""
 "Guld? Vilket guld? Jag vet inget om något AAAARGH det är på ett säkert "
 "ställe, jag kommer att visa er!"
 
-#: A_New_Order/scenarios/9.cfg:375
+#: A_New_Order/scenarios/9.cfg:376
 msgid "You have received 100 golden pieces."
 msgstr "Du har fått 100 guldbitar."
 
-#: A_New_Order/scenarios/9.cfg:376
+#: A_New_Order/scenarios/9.cfg:377
 msgid ""
 "He isn't able to tell anything more. I can't decide whether I should admire "
 "your ruthlessness or despise your cruelty."
@@ -7588,11 +8288,11 @@ msgstr ""
 "Han har inte möjlighet att berätta mer. Jag kan inte bestämma mig för om jag "
 "ska beundra din hänsynslöshet eller förakta din grymhet."
 
-#: A_New_Order/scenarios/9.cfg:377
+#: A_New_Order/scenarios/9.cfg:378
 msgid "You may admire my generosity."
 msgstr "Du kan få beundra min givmildhet."
 
-#: A_New_Order/scenarios/9.cfg:386
+#: A_New_Order/scenarios/9.cfg:387
 msgid ""
 "Orcs? Bor Cryne told us to wait for them here. We will go then kill every "
 "one who is unworthy of being Akladian. Those, who violated our customs, who "
@@ -7606,7 +8306,7 @@ msgstr ""
 "gudar genom att gifta sig med dem.Endast då kommer gud att återigen gilla "
 "oss och han kommer att slutföra vår errövring av Wesnoth."
 
-#: A_New_Order/scenarios/9.cfg:388
+#: A_New_Order/scenarios/9.cfg:389
 msgid ""
 "Interesting theory. So, basically Bor Cryne wants to eliminate all of his "
 "opponents?"
@@ -7614,7 +8314,7 @@ msgstr ""
 "Intressant teori. Så om man sammanfattar det så vill Bor Cryne elliminera "
 "alla sina motståndare?"
 
-#: A_New_Order/scenarios/9.cfg:394
+#: A_New_Order/scenarios/9.cfg:395
 msgid ""
 "Hey, Reumario, what will you say about that? Akladians allying with orcs to "
 "kill other Akladians? Quite a dishonorable thing, don't you think?"
@@ -7622,27 +8322,27 @@ msgstr ""
 "Hej, Reumario, vad tror du om det? Akladierna allierar sig med orcher för "
 "att döda andra akladier? En ganska ohederlig sak, eller hur?"
 
-#: A_New_Order/scenarios/9.cfg:395
+#: A_New_Order/scenarios/9.cfg:396
 msgid "I didn't know.."
 msgstr "Jag visste inte..."
 
-#: A_New_Order/scenarios/9.cfg:396
+#: A_New_Order/scenarios/9.cfg:397
 msgid "So now you know. And what you will do about it?"
 msgstr "Så nu vet du. Vad kommer du att göra åt det då?"
 
-#: A_New_Order/scenarios/9.cfg:397
+#: A_New_Order/scenarios/9.cfg:398
 msgid "I don't know."
 msgstr "Jag vet inte."
 
-#: A_New_Order/scenarios/9.cfg:402
+#: A_New_Order/scenarios/9.cfg:403
 msgid "I will kill you and rip off your head."
 msgstr "Jag kommer att döda dig och slita av ditt huvud."
 
-#: A_New_Order/scenarios/9.cfg:405
+#: A_New_Order/scenarios/9.cfg:406
 msgid "What about joining us against those orcs?"
 msgstr "Vad säger du om att slå dig ihop med oss mot de där orcherna?"
 
-#: A_New_Order/scenarios/9.cfg:417
+#: A_New_Order/scenarios/9.cfg:418
 msgid ""
 "Will you join us to fight those orcs? Or would you prefer to ally with those "
 "madmen wanting to slaughter their own kin?"
@@ -7650,23 +8350,23 @@ msgstr ""
 "Du kommer med oss för att slåss mot orcherna? Eller föredrar du att alliera "
 "dig med galnningarna som vill slakta sin egen ras?"
 
-#: A_New_Order/scenarios/9.cfg:418
+#: A_New_Order/scenarios/9.cfg:419
 msgid "Yes.. I will join you."
 msgstr "Ja... Jag slår följe med dig."
 
-#: A_New_Order/scenarios/9.cfg:420
+#: A_New_Order/scenarios/9.cfg:421
 msgid "So, we won."
 msgstr "Så, vi vann."
 
-#: A_New_Order/scenarios/9.cfg:421
+#: A_New_Order/scenarios/9.cfg:422
 msgid "Disappointed? Wanted to have more action?"
 msgstr "Besviken? Ville du ha mer spänning?"
 
-#: A_New_Order/scenarios/9.cfg:422
+#: A_New_Order/scenarios/9.cfg:423
 msgid "There will be enough action when orcs will come."
 msgstr "Det kommer vara nog med spänning när orcherna kommer."
 
-#: A_New_Order/scenarios/9.cfg:455
+#: A_New_Order/scenarios/9.cfg:456
 msgid ""
 "What part of the phrase 'do not kill their leaders, leave that for me' have "
 "you not understood?"
@@ -7674,11 +8374,11 @@ msgstr ""
 "Vilken del av frasen 'döda inte deras ledare, lämna det till mig' förstod du "
 "inte?"
 
-#: A_New_Order/scenarios/9.cfg:456
+#: A_New_Order/scenarios/9.cfg:457
 msgid "But it was self-defense!"
 msgstr "Men det var självförsvar!"
 
-#: A_New_Order/scenarios/9.cfg:457
+#: A_New_Order/scenarios/9.cfg:458
 msgid ""
 "Yeah, sure. God, why those males are thinking I can't handle my enemies "
 "myself?"
@@ -7686,20 +8386,20 @@ msgstr ""
 "Ja, visst. Gud, varför tror alla dessa killar att jag inte kan hantera "
 "fienderna själv?"
 
-#: A_New_Order/scenarios/9.cfg:463
+#: A_New_Order/scenarios/9.cfg:464
 msgid "So, we took over the castle. Quite pleasant surprise. What now?"
 msgstr "Så, vi tog slottet. En ganska trevlig överraskning. Vad nu?"
 
-#: A_New_Order/scenarios/9.cfg:464
+#: A_New_Order/scenarios/9.cfg:465
 msgid "Surprise? What do you mean by that?"
 msgstr "Överraskning? Vad menar du med det?"
 
-#: A_New_Order/scenarios/9.cfg:465
+#: A_New_Order/scenarios/9.cfg:466
 msgid ""
 "I meant that I thought we wouldn't be able to take that castle, because..."
 msgstr "Jag menade att jag inte trodde att vi skulle kunna ta slottet, för..."
 
-#: A_New_Order/scenarios/9.cfg:466
+#: A_New_Order/scenarios/9.cfg:467
 #, fuzzy
 msgid ""
 "Because what? You think that just because I am a weak woman I can't take a "
@@ -7708,7 +8408,7 @@ msgstr ""
 "För vaddå? Tror du att bara för att jag är en vek kvinna så kan jag inte "
 "invadera ett slott?"
 
-#: A_New_Order/scenarios/9.cfg:467
+#: A_New_Order/scenarios/9.cfg:468
 msgid ""
 "No, I just.. Oh, heavens, the castle has good defensive position and.. Stop "
 "it. What are you going to do now?"
@@ -7716,7 +8416,7 @@ msgstr ""
 "Nej, jag bara... oh gudars, slottet har ett bra defensiv position och... "
 "Sluta nu. Vad ska du göra nu?"
 
-#: A_New_Order/scenarios/9.cfg:474
+#: A_New_Order/scenarios/9.cfg:475
 msgid ""
 "Well, haven't you heard? Some army, orcish, is coming here. We have to "
 "prepare defense. And then we will think what else."
@@ -7724,7 +8424,7 @@ msgstr ""
 "Nå har du inte hört? En arme, med orcher, är på väg hitåt. Vi måste "
 "förbereda försvaret. Efter det så ska vi tänka på vad som händer sen."
 
-#: A_New_Order/scenarios/9.cfg:477
+#: A_New_Order/scenarios/9.cfg:478
 msgid ""
 "Well, I have my own castle. That's for starters. Now I need more gold, so I "
 "guess we would have to kindly ask our neighbours for some. But we need some "
@@ -7734,7 +8434,7 @@ msgstr ""
 "så jag antar att vi måste fråga våra grannar snällt om lite. Men vi behöver "
 "lite tid att vila och hela de skadade."
 
-#: A_New_Order/scenarios/9.cfg:487
+#: A_New_Order/scenarios/9.cfg:488
 msgid ""
 "Strange thing, but it seems that killing so many of them you gained their "
 "respect."
@@ -7742,17 +8442,17 @@ msgstr ""
 "Det är konstigt men det verkade som om du lyckades få deras respekt när du "
 "dödade så många av dem."
 
-#: A_New_Order/scenarios/9.cfg:488
+#: A_New_Order/scenarios/9.cfg:489
 msgid "What so strange in that?"
 msgstr "Vad är konstigt med det?"
 
-#: A_New_Order/scenarios/9.cfg:489
+#: A_New_Order/scenarios/9.cfg:490
 msgid "Anyway, it seems that some of them could even fight for you."
 msgstr ""
 "Hur som helst, det verkar som om några av dem skulle kunna tänka sig att "
 "slåss för dig."
 
-#: A_New_Order/scenarios/9.cfg:550
+#: A_New_Order/scenarios/9.cfg:551
 msgid ""
 "Inside of the castle we found a lot of supplies. I hope we will find good "
 "use for it."
@@ -7760,23 +8460,23 @@ msgstr ""
 "Inne i slottet hittade vi stora mängder förnödenheter. Jag hoppas att vi kan "
 "hitta bra användningsområden för dem."
 
-#: A_New_Order/scenarios/9.cfg:580
+#: A_New_Order/scenarios/9.cfg:581
 msgid "A woman! Woman killed me! Aaargh!"
 msgstr "En kvinna! En kvinna dödade mig! Aaargh!"
 
-#: A_New_Order/scenarios/9.cfg:581
+#: A_New_Order/scenarios/9.cfg:582
 msgid "What? Is he some kind of misogynist?"
 msgstr "Vad? Är han någon form av kvinnohatare?"
 
-#: A_New_Order/scenarios/9.cfg:590
+#: A_New_Order/scenarios/9.cfg:591
 msgid "I lose to a woman? Nooo..."
 msgstr "Jag förlorar mot en kvinna? Neeeej..."
 
-#: A_New_Order/scenarios/9.cfg:599
+#: A_New_Order/scenarios/9.cfg:600
 msgid "You really can fight. I want to honour you before my death."
 msgstr "Du kan verkligen slåss. Jag vill hedra dig innan jag dör."
 
-#: A_New_Order/scenarios/9.cfg:600
+#: A_New_Order/scenarios/9.cfg:601
 msgid ""
 "What's wrong with you, Akladians? They hated you, you started to kill them "
 "and now they start to like you? Are you all some kind of glutton for "
@@ -7785,15 +8485,15 @@ msgstr ""
 "Vad är felet med er akladiter? De hatade er, ni började döda dem och nu så "
 "har de börjat gilla er? Gillar ni att få stryk på något sätt eller?"
 
-#: A_New_Order/scenarios/9.cfg:609
+#: A_New_Order/scenarios/9.cfg:610
 msgid "She's a fighter! I could even fight for someone like her..."
 msgstr "Hon är en krigare! Jag skulle kunna slåss för någon som henne..."
 
-#: A_New_Order/scenarios/9.cfg:610
+#: A_New_Order/scenarios/9.cfg:611
 msgid "Sorry, I am not a necromancer."
 msgstr "Jag är ledsen men jag är inte en nekromantiker."
 
-#: A_New_Order/scenarios/9.cfg:611
+#: A_New_Order/scenarios/9.cfg:612
 msgid "They seem to respect you now. Strange."
 msgstr "De verkar respektera dig nu. Konstigt."
 
@@ -8468,35 +9168,35 @@ msgstr ""
 "slåss på natten och de är vana vid mörker. Slå ut dem med sköldvakter under "
 "dagen."
 
-#: A_New_Order/scenarios/ano_macros.cfg:24
+#: A_New_Order/scenarios/ano_macros.cfg:33
 msgid "getunit $x1 : $y1 : $ano_tmp.description"
 msgstr "getunit $x1 : $y1 : $ano_tmp.description"
 
-#: A_New_Order/scenarios/ano_macros.cfg:103
+#: A_New_Order/scenarios/ano_macros.cfg:112
 msgid "My ancestors, I am coming to you! I hope I have not failed you.."
 msgstr ""
 
-#: A_New_Order/scenarios/ano_macros.cfg:118
+#: A_New_Order/scenarios/ano_macros.cfg:127
 msgid "I'm not afraid.. I would just want to smoke a little longer.."
 msgstr "Jag är inte rädd... jag ville bara röka lite längre..."
 
-#: A_New_Order/scenarios/ano_macros.cfg:133
+#: A_New_Order/scenarios/ano_macros.cfg:142
 msgid "Aragwaiths die without fear!"
 msgstr "Aragwaiths dör utan fruktan!"
 
-#: A_New_Order/scenarios/ano_macros.cfg:151
+#: A_New_Order/scenarios/ano_macros.cfg:160
 msgid "That's not fair!"
 msgstr "Det är inte rättvist!"
 
-#: A_New_Order/scenarios/ano_macros.cfg:504
+#: A_New_Order/scenarios/ano_macros.cfg:513
 msgid "Father! Father! I am loosing my..."
 msgstr "Pappa! Pappa! Jag tappar min..."
 
-#: A_New_Order/scenarios/ano_macros.cfg:522
+#: A_New_Order/scenarios/ano_macros.cfg:531
 msgid "No! I have still so much to do!"
 msgstr "Nej! Jag har fortfarande så mycket att göra!"
 
-#: A_New_Order/scenarios/ano_macros.cfg:541
+#: A_New_Order/scenarios/ano_macros.cfg:550
 msgid ""
 "There were a lot of bugs in releases of A New Order before 0.0.9. If you "
 "have played beyond scenario 'Battle of Barnon' you may want either to send "
@@ -8506,7 +9206,7 @@ msgid ""
 "forum. My email: adanilecki at cs put poznan pl"
 msgstr ""
 
-#: A_New_Order/scenarios/ano_macros.cfg:576
+#: A_New_Order/scenarios/ano_macros.cfg:585
 #, fuzzy
 msgid ""
 "This is version 0.2.0. Detailed changelog is posted on forum, also you may "
@@ -8523,14 +9223,20 @@ msgstr ""
 "motivera mig att spendera mer tid på den. Nästa version, antagligen mest "
 "bugfixar och balanseringssaker, kommer att komma tisdag, 09-08-2005 - szopen"
 
-#: A_New_Order/scenarios/ano_macros.cfg:580
+#: A_New_Order/scenarios/ano_macros.cfg:586
+msgid ""
+" The campaign is not intended for underaged. It contains elements making it "
+"unsuitable for children. You have been warned."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:590
 msgid ""
 "There was a bug in version pre-0.1.7 which caused Lady Lorin to replace "
 "Gawen as main player. I will try to fix it now! You will be returned to "
 "scenario 13, Scouting"
 msgstr ""
 
-#: A_New_Order/scenarios/ano_macros.cfg:680
+#: A_New_Order/scenarios/ano_macros.cfg:690
 msgid ""
 "There was a bug in release 0.1.0 causing Gawen and his units to lost between "
 "scenarios. Please, either play the scenario Outlaw Base - this with Rob Roe "
@@ -8540,7 +9246,7 @@ msgid ""
 "savegame for you and I will send it back. This warning will appear only once."
 msgstr ""
 
-#: A_New_Order/scenarios/ano_macros.cfg:774
+#: A_New_Order/scenarios/ano_macros.cfg:784
 msgid ""
 "This is not implemented in current version of the scenario. Please, wait at "
 "least one week and download new campaign version from campaign server to see "
@@ -8550,14 +9256,18 @@ msgstr ""
 "vänlig att vänta minst en vecka och sedan testa att ladda ner kampanjen igen "
 "från kampanjservern för att se om det har blivit implementerat."
 
-#: A_New_Order/scenarios/ano_macros.cfg:781
+#: A_New_Order/scenarios/ano_macros.cfg:791
 msgid "This is debug message."
 msgstr "Det här är ett debugmeddelande"
 
-#: A_New_Order/scenarios/ano_macros.cfg:788
+#: A_New_Order/scenarios/ano_macros.cfg:798
 #, fuzzy
 msgid "This is debug message: ' {TEXT} '"
 msgstr "Det här är ett debugmeddelande"
+
+#: A_New_Order/scenarios/ano_macros.cfg:1080
+msgid "The unit $ano_loyal[0].user_description became LOYAL."
+msgstr ""
 
 #: A_New_Order/scenarios/conversations.cfg:4
 msgid ""
@@ -8672,6 +9382,13 @@ msgstr ""
 
 #: A_New_Order/scenarios/elvish_macros.cfg:61
 msgid "Ha! $ano_milildur_$random "
+msgstr ""
+
+#: A_New_Order/scenarios/elvish_macros.cfg:73
+#: A_New_Order/scenarios/elvish_macros.cfg:86
+msgid ""
+"My lord, I fought with you so many battles.. I can accept money from you no "
+"more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
 
 #: A_New_Order/scenarios/final.cfg:30
