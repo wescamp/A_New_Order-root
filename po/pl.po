@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1.6\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-09 12:05+0200\n"
+"POT-Creation-Date: 2005-10-10 21:10+0200\n"
 "PO-Revision-Date: 2005-08-11 15:19+0100\n"
 "Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
@@ -32,9 +32,20 @@ msgstr "Niemożliwy"
 msgid ""
 "The old kingdom of Wesnoth lies in ruins, while barbarians are ruling over "
 "the people dreaming about old legends. Can Gawen Hagarthen unite them all "
-"against the common danger? This supposed to be easy campaign. 7 scenarios "
-"are ready, 4 dialogue scenarios, two are finished though not balanced. Help "
-"with graphics will be appreciated. Version 0.1.3."
+"against the common danger? This supposed to be easy campaign. "
+msgstr ""
+
+#: A_New_Order.cfg:19 A_New_Order/scenarios/ano_macros.cfg:582
+#, fuzzy
+msgid ""
+" The campaign is not intended for underaged. It contains elements making it "
+"unsuitable for children. You have been warned."
+msgstr ""
+"Ta kampania nie jest przeznaczona dla nieletnich. Zawiera elementy czyniące "
+"ją nieodpowiednią dla dzieci. Zostałeś ostrzeżony."
+
+#: A_New_Order.cfg:19
+msgid "Version 0.2.3."
 msgstr ""
 
 #: A_New_Order/scenarios/1-6macros.cfg:15
@@ -3998,7 +4009,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/15a.cfg:126 A_New_Order/scenarios/14saorduc.cfg:10
 #: A_New_Order/scenarios/22.cfg:76 A_New_Order/scenarios/22.cfg:84
-#: A_New_Order/scenarios/22.cfg:99
+#: A_New_Order/scenarios/22.cfg:99 A_New_Order/scenarios/22.cfg:430
 msgid "Well..."
 msgstr ""
 
@@ -4416,7 +4427,7 @@ msgid ""
 "we are sure. We are also sure, that this orcish invasion is just a beginning."
 msgstr ""
 
-#: A_New_Order/scenarios/15.cfg:137
+#: A_New_Order/scenarios/15.cfg:137 A_New_Order/scenarios/22.cfg:537
 msgid "What do you mean by that?"
 msgstr "Co masz na myśli?"
 
@@ -6023,7 +6034,7 @@ msgstr "A więc, czy powinniśmy kontynuować naszą podróż?"
 
 #: A_New_Order/scenarios/19oracle.cfg:797 A_New_Order/scenarios/19a.cfg:180
 #: A_New_Order/scenarios/19b.cfg:167 A_New_Order/scenarios/21bride.cfg:354
-#: A_New_Order/scenarios/22.cfg:464
+#: A_New_Order/scenarios/22.cfg:544
 msgid ""
 "Everything is lost! The reinforcements for our enemies arrived! We have no "
 "chance now to win!"
@@ -6032,7 +6043,7 @@ msgstr ""
 "już szans na zwycięstwo!"
 
 #: A_New_Order/scenarios/19a.cfg:185 A_New_Order/scenarios/19b.cfg:172
-#: A_New_Order/scenarios/22.cfg:469
+#: A_New_Order/scenarios/22.cfg:549
 msgid "We've won! What should we do now?"
 msgstr "Wygraliśmy! Co powinniśmy teraz zrobić?"
 
@@ -7843,34 +7854,255 @@ msgid ""
 "through me, because you are opposing his messiah!"
 msgstr ""
 
+#: A_New_Order/scenarios/22.cfg:412 A_New_Order/scenarios/22.cfg:423
+msgid ""
+"He lost consciousness already? Sigh. I hoped we could ask him few questions. "
+"But then, he didn't seem like guy actually KNOWING anything."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:429
+#, fuzzy
+msgid "What are you waiting for? Finish me!"
+msgstr "Na co czekasz? Dalej, wykończ mnie, wiedźmo."
+
+#: A_New_Order/scenarios/22.cfg:431
+#, fuzzy
+msgid "Then die, if you want!"
+msgstr "To giń, jeśli tego pragniesz."
+
+#: A_New_Order/scenarios/22.cfg:432
+#, fuzzy
+msgid "You were worthy opponent"
+msgstr "Ty również byłeś godnym przeciwnikiem."
+
+#: A_New_Order/scenarios/22.cfg:436
+#, fuzzy
+msgid "If that's your wish"
+msgstr "To ty! Wiedźma!"
+
+#: A_New_Order/scenarios/22.cfg:439
+msgid ""
+"Why should I do that? You fought like a real men, and I respect you. Rauke, "
+"I want you to know that I consider you good warrior and good Akladian. I "
+"will do everything then to bury your body with all honours."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:441
+msgid "Maybe you are worthy to be our king after all..."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:442
+msgid "Please, tell me what happened recently in Vakladia?"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:444 A_New_Order/scenarios/22.cfg:475
+#: A_New_Order/scenarios/22.cfg:486
+msgid ""
+"Nothing changed much. Everyone is fighting with everyone. Bor Cryne and his "
+"allies are trying to introduce themselves are supreme rulers with help of "
+"the orcs, but even their successes with the rebels have not gave them any "
+"authority."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:445 A_New_Order/scenarios/22.cfg:476
+#: A_New_Order/scenarios/22.cfg:487
+msgid ""
+"In Easkladia, king Perien died during final battle with Wesnothians. He "
+"broke through the Wesnothian lines right to their king. He slew him, but he "
+"then was killed by underlings. The battle then ended, undecided, but "
+"Easkladian capital was saved and underlings withdrew without their king."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:446 A_New_Order/scenarios/22.cfg:477
+#: A_New_Order/scenarios/22.cfg:488
+msgid ""
+"There are multiple gossips about messiah who will came and who will unite "
+"all the Akladians and lead them into true greatness... (coughs) .. and... "
+"(coughs)"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:447 A_New_Order/scenarios/22.cfg:478
+#: A_New_Order/scenarios/22.cfg:490
+msgid "He is dead now. Lie in peace, warrior. I will keep my promise"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:452 A_New_Order/scenarios/22.cfg:520
+msgid ""
+"A mage! Mage defeat me! The creature from the dark past allied with you? The "
+"God will punish you!"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:456
+msgid ""
+"Rauke, I like you. And that's why I don't want you to scream in pain and "
+"agony. Could you please help me?"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:457
+msgid "Help yourself, fat witch."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:458
+msgid ""
+"Fat? That's unfair. I am not talking about you being bald. Now, please tell "
+"me what happened recently in Vakladia, and..."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:460
+msgid "You will be avoided of unspeakable pain"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:461
+msgid "I will honour you by burying you properly"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:466
+msgid ""
+"You think you could scare me with that words? Ha! Ha! Ha! I am Akladian "
+"lord, and I am not afraid.. I am half-dead already..."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:467
+msgid "Only half-dead, mind you. It means you can still feel the pain"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:468
+msgid "Aaargh! No! Not here! Aaargh! Stop, stop it!"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:469
+msgid "I won't allow for more of that, mother. Stop it! Stop it right now!"
+msgstr ""
+
 #: A_New_Order/scenarios/22.cfg:470
+msgid ""
+"Oh, rats, I think I lost the woman's touch. My blade slipped and I've killed "
+"him too soon. Sigh."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:473
+msgid "Honour me? That's so.. so unlikely of you, Lorin."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:474
+msgid ""
+"LADY Lorin, if you mind. Well, how do you know what's more like me or not? "
+"You were good warrior, and I am tired of being called emotionless and cruel "
+"by my step-son. Would you please tell me about what happened in Vakladia "
+"recently?"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:483
+msgid ""
+"You were worthy fighter, noble Rauke Harnen. I will do everything to bury "
+"your body properly according to our customs."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:484
+msgid ""
+"So were you, noble Reme. I've heard about the fate of your clan and family - "
+"please, accept my deepest condolations."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:485
+msgid ""
+"People die and join their ancestors. I am happy their death was honourable. "
+"Please, before you die - could you tell me about what happened in Vakladia "
+"recently?"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:515 A_New_Order/scenarios/22.cfg:524
+msgid ""
+"Bal Riddon, before you die, I want you to tell me few things about plans of "
+"your king, Buffin"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:516 A_New_Order/scenarios/22.cfg:525
+msgid "Ask him yourself, then. I won't tell you anything."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:526
+msgid ""
+"Nonono, you have not understood me. I WANT you to tell me few things about "
+"the plans of your king. Now, we will start with the basics."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:527
+msgid ""
+"Wait! I will tell you what I know. King Buffin wants to use the occassion he "
+"sees here, with Gawen dead, Perien dead, and two other Hagarthen in "
+"Guilcorta busy with quarrels. He wants to made some fake election and elect "
+"himself for king of Vakladia."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:528
+msgid "Gawen is not dead, I assure you."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:529
+msgid ""
+"But there is something strange... I've heard strange gossips. Something is "
+"happening at our eastern border. Many of the lords from eastern part of "
+"Okladia have not answered the call of Buffin to arrive to his camp."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:530
+msgid ""
+"Okladian lords are coward, what's so strange about that. Do you know "
+"anything else? No? Die then."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:535
+msgid "You were worthy fighter, noble Bal Riddon"
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:536
+msgid ""
+"So were you, Reme. So were you. You behaved honourably, so before I die, I "
+"want to warn you: you are going straight into the trap."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:538
+msgid ""
+"Army of orcs and Akladians is gathering north from here. They are there "
+"probably because they want to stop army of my king, Buffin. You will be "
+"trapped between those two armies. Go back to Okladia and try to find another "
+"way."
+msgstr ""
+
+#: A_New_Order/scenarios/22.cfg:539
+#, fuzzy
+msgid "We have no choice. We have to pick that way."
+msgstr "Wcale nie 'przegrałam'. Po prostu nie wygrałam."
+
+#: A_New_Order/scenarios/22.cfg:550
 msgid ""
 "Straight to Vattin! Damn, I really feel hungry now. This fight made me "
 "STARVING."
 msgstr ""
 
-#: A_New_Order/scenarios/22.cfg:471
+#: A_New_Order/scenarios/22.cfg:551
 msgid ""
 "I guess, my king, we will go to Freetown, so Wesnothian rebels from Vakladia "
 "could see you and acknowledge as king. We must hurry, because king Buffin is "
 "right behind us."
 msgstr ""
 
-#: A_New_Order/scenarios/22.cfg:472
+#: A_New_Order/scenarios/22.cfg:552
 msgid "Nonono, not to Freetown! There is nothing to see in Freetown!"
 msgstr ""
 
-#: A_New_Order/scenarios/22.cfg:473
+#: A_New_Order/scenarios/22.cfg:553
 msgid ""
 "Yes, there is something worthy to see in that city. In fact, I can't wait to "
 "see her."
 msgstr ""
 
-#: A_New_Order/scenarios/22.cfg:474
+#: A_New_Order/scenarios/22.cfg:554
 msgid "Her?"
 msgstr ""
 
-#: A_New_Order/scenarios/22.cfg:475
+#: A_New_Order/scenarios/22.cfg:555
 msgid "Mother, I will explain it to you later. Let's go!"
 msgstr ""
 
@@ -10359,18 +10591,9 @@ msgid ""
 "find it in the same directory in which campaign files are located. If you "
 "like this campaign post your feedback on www.wesnoth.org/forum. Your input "
 "will help me to make it better and will encourage me to put more work into "
-"it. Next release will contain no new scenarios and only balancing changes. "
-"New scenarios, may be expected at Thursday, 20-10-2005. -  szopen"
+"it. IMPORTANT: No new scenarios will be released until version 0.3.0. All "
+"releases starting with 0.2 will be only balancing issues and bug fixes."
 msgstr ""
-
-#: A_New_Order/scenarios/ano_macros.cfg:582
-#, fuzzy
-msgid ""
-" The campaign is not intended for underaged. It contains elements making it "
-"unsuitable for children. You have been warned."
-msgstr ""
-"Ta kampania nie jest przeznaczona dla nieletnich. Zawiera elementy czyniące "
-"ją nieodpowiednią dla dzieci. Zostałeś ostrzeżony."
 
 #: A_New_Order/scenarios/ano_macros.cfg:598
 msgid ""
