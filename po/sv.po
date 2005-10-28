@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-26 19:01+0200\n"
-"PO-Revision-Date: 2005-10-05 18:44+0200\n"
+"PO-Revision-Date: 2005-10-28 13:06+0200\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,6 @@ msgid "Impossible"
 msgstr "Omöjligt"
 
 #: A_New_Order.cfg:19
-#, fuzzy
 msgid ""
 "The old kingdom of Wesnoth lies in ruins, while barbarians are ruling over "
 "the people dreaming about old legends. Can Gawen Hagarthen unite them all "
@@ -39,8 +38,7 @@ msgstr ""
 "befolkningen som drömmer om gamla legender. Kan Gawen Hagarthen ena dem i "
 "kampen mot den gemensamma fienden?\n"
 "\n"
-"Detta är tänkt att vara en enkel kampanj. Hjälp med grafik uppskattas. "
-"Version 0.1.3."
+"Detta är tänkt att vara en enkel kampanj. "
 
 #: A_New_Order.cfg:19 A_New_Order/scenarios/ano_macros.cfg:574
 msgid ""
@@ -1193,7 +1191,6 @@ msgstr ""
 "hittar vi orcherna, tillfångatar deras ledare och sedan är det klart."
 
 #: A_New_Order/scenarios/12.cfg:175
-#, fuzzy
 msgid ""
 "I felt we had not enough gold for accomplishing the task which awaited us. "
 "So, I asked the others from the council of Freetown for help and they had "
@@ -1201,7 +1198,7 @@ msgid ""
 msgstr ""
 "Jag tyckte att vi inte hade nog med guld för att utföra uppdraget vi har "
 "framför oss. Så jag frågade de andra ur Freetowns råd om hjälp och de "
-"instämde. Nu har vi 180 guldstycken."
+"instämde. Nu har vi 200 guldstycken."
 
 #: A_New_Order/scenarios/12.cfg:179
 msgid "Karen! What are you doing here!"
@@ -3162,7 +3159,6 @@ msgstr "Varför det?"
 #: A_New_Order/scenarios/14healtin.cfg:156
 #: A_New_Order/scenarios/14bontom.cfg:411
 #: A_New_Order/scenarios/14bontom.cfg:458
-#, fuzzy
 msgid "I have no idea."
 msgstr "Jag har ingen aning."
 
@@ -3385,96 +3381,82 @@ msgstr ""
 "så vet jag inte om vi kan försvara oss."
 
 #: A_New_Order/scenarios/14healtin.cfg:82
-#, fuzzy
 msgid ""
 "He is some kind of madman. Attack in the winter? And why we shouldn't be "
 "able to defend ourselves? Anyway, Yaranov, now it's time for you to learn "
 "something. I will convince those Gaumhaldric that attacking us is bad thing "
 "to do."
 msgstr ""
-"Han måste vara någon form av galning. Attackera på vintern? Och varför "
-"skulle inte vi kunna försvara oss? Hursomhelst, Yaranov, nu är tiden för dig "
-"att lära dig något. Jag kommer att övertyga Gaumhaldric att det vore en "
-"dålig idee att attackera oss."
+"Han måste vara någon sorts galning. Anfalla på vintern? Och varför skulle "
+"inte vi kunna försvara oss? Hursomhelst, Yaranov, nu är tiden för dig att "
+"lära dig något. Jag skall övertyga Gaumhaldric att det vore en dålig ide att "
+"anfalla oss."
 
 #: A_New_Order/scenarios/14healtin.cfg:83
-#, fuzzy
 msgid "And how exactly you will do it?"
-msgstr "Och hur exakt hade du tänkt göra det?"
+msgstr "Och exakt hur hade du tänkt göra det?"
 
 #: A_New_Order/scenarios/14healtin.cfg:84
-#, fuzzy
 msgid "I will seduce him."
-msgstr "Jag kommer att förföra honom."
+msgstr "Jag skall förföra honom."
 
 #: A_New_Order/scenarios/14healtin.cfg:91
-#, fuzzy
 msgid ""
 "So this is the place. I am not sure what we should do. The place seems to be "
 "well-fortified. We are not prepared for long siege."
 msgstr ""
-"Så det här är platsen. Jag är inte helt säker på vad vi borde göra. Platsen "
-"verkar välbefäst, men vi är inte förberedda på en lång belägring."
+"Så detta är platsen. Jag är inte säker på vad vi borde göra. Platsen verkar "
+"välbefäst, men vi är inte förberedda på en lång belägring."
 
 #: A_New_Order/scenarios/14healtin.cfg:92
-#, fuzzy
 msgid ""
 "Wait, I think they've send a messenger to us. Before we made any decision, "
 "let's see what that 'She-wolf' wants from us."
 msgstr ""
-"Vänta. Jag tror att de skickar en budbärare till oss. Innan vi gör något val "
-"så kan vi lyssna av 'honvargen' vill oss."
+"Vänta, jag tror att de skickar en budbärare till oss. Innan vi fattar något "
+"beslut, så får vi se vad den där 'hyndan' vill."
 
 #: A_New_Order/scenarios/14healtin.cfg:105
-#, fuzzy
 msgid ""
 "I am so happy to welcome the handsome Gaumhaldric I have heard a lot about, "
 "brave and... oh my God. It's impossible."
 msgstr ""
-"Jag är exalterad över att välkomna den ståtliga Gaumhaldric som jag har hört "
-"så mycket om, modig och... min gud... det är omöjligt."
+"Jag är så glad att välkomna den stiliga Gaumhaldric som jag har hört så "
+"mycket om, modig och... Herregud... Det är omöjligt."
 
 #: A_New_Order/scenarios/14healtin.cfg:106
-#, fuzzy
 msgid "Have you started seducing him already?"
 msgstr "Har du redan förfört honom?"
 
 #: A_New_Order/scenarios/14healtin.cfg:107
-#, fuzzy
 msgid "Why do you both have such stupid looks? You know each other?"
 msgstr "Varför dumstirrar ni båda på varandra? Känner ni varandra?"
 
 #: A_New_Order/scenarios/14healtin.cfg:108
-#, fuzzy
 msgid "Mother?"
 msgstr "Mamma?"
 
 #: A_New_Order/scenarios/14healtin.cfg:109
-#, fuzzy
 msgid "Mother?!?"
 msgstr "Mamma?!?"
 
 #: A_New_Order/scenarios/14healtin.cfg:110
-#, fuzzy
 msgid "That's impossible! How.. how.. You are dead!"
-msgstr "Det är omöjligt! Hur... hur... Du är död!"
+msgstr "Det är omöjligt! Hur... Hur... Du är död!"
 
 #: A_New_Order/scenarios/14healtin.cfg:111
-#, fuzzy
 msgid "Wait a moment. She is your mother?"
-msgstr "Vänta lite nu. Hon är din mor?"
+msgstr "Vänta lite nu. Är hon din mor?"
 
 #: A_New_Order/scenarios/14healtin.cfg:112
-#, fuzzy
 msgid ""
 "Yes, she is my mother... step-mother, actually. This is Lady Lorin. Mother, "
 "this is Ruvio, my friend, and  this is..."
 msgstr ""
-"Ja hon är min mor... styvmoder faktiskt. Det här är fru Lorin. Mamma, det "
-"här är Ruvio, min vän, och detta är..."
+"Ja hon är min mor... Styvmor faktiskt. Det här är fru Lorin. Mamma, det här "
+"är Ruvio, min vän, och detta är..."
 
 #: A_New_Order/scenarios/14healtin.cfg:113
-#, fuzzy
 msgid ""
 "Wait! How it is possible you are alive? You died at battle of Barnon, we've "
 "heard that, I've heard about that, I..."
@@ -3483,140 +3465,123 @@ msgstr ""
 "vi hörde det, jag har hört det, jag..."
 
 #: A_New_Order/scenarios/14healtin.cfg:114
-#, fuzzy
 msgid ""
 "It was this Ruvio who has saved my life. He took away my body from the "
 "battlefield and cared for me until I regained my health. This is his "
 "daughter, Karen."
 msgstr ""
-"Det var Ruvio som räddade mitt liv. Han förde med sig min kropp bort från "
-"slagfältet och vårdade mig tills jag återfick min hälsa. Det här är hans "
-"dotter, Karen."
+"Ruvio räddade mitt liv. Han förde med sig min kropp bort från slagfältet och "
+"vårdade mig tills jag återfick min hälsa. Det här är hans dotter, Karen."
 
 #: A_New_Order/scenarios/14healtin.cfg:115
-#, fuzzy
 msgid ""
 "My God.. I just.. Gawen, I'm so happy.. But those are who were caring for "
 "you, right? Underling, how can I reward you for saving my son's life?"
 msgstr ""
-"Min gud... Jag bara... Gawen, jag är så glad... Med det är de som tog hand "
+"Herregud... Jag bara... Gawen, jag är så glad... Med det är de som tog hand "
 "om dig, eller hur? Lakej, hur kan jag ersätta er för att ni räddade min sons "
 "liv?"
 
 #: A_New_Order/scenarios/14healtin.cfg:116
-#, fuzzy
 msgid ""
 "This is getting more interesting with every moment. Dad, she was talking "
 "about you."
 msgstr "Det här blir mer intressant för varje minut. Pappa, hon talar om dig."
 
 #: A_New_Order/scenarios/14healtin.cfg:117
-#, fuzzy
 msgid ""
 "Oh, and what a nice kid. I didn't know it is in underlings custom to give "
 "children the weapons."
 msgstr ""
-"Oh, vilket sött barn. Jag visste inte att lakejer hade som vana att ge "
-"vapnen till barnen."
+"Oh, vilket sött barn. Jag visste inte att lakejer hade som vana att ge vapen "
+"till barn."
 
 #: A_New_Order/scenarios/14healtin.cfg:118
-#, fuzzy
 msgid ""
 "Nice to meet you, .. Lorin. You are quite good looking for being Gawen's "
 "grand-mother. You had to be quite a lass some forty or fifty years ago."
 msgstr ""
-"Trevligt att träffas... Lorin. Du ser ganska så bra ut, för att vara Gawen "
+"Trevligt att träffas... Lorin. Du ser ganska så bra ut, för att vara Gawens "
 "mormor. Du måste ha varit en riktig kalaspingla för cirka femtio år sedan."
 
 #: A_New_Order/scenarios/14healtin.cfg:119
-#, fuzzy
 msgid "Stop it!"
 msgstr "Sluta!"
 
 #: A_New_Order/scenarios/14healtin.cfg:120
-#, fuzzy
 msgid ""
 "Anyway, go to my castle, Gawen. Your servants will receive gold for helping "
 "you and then they may go, while we will work on getting back your throne!"
 msgstr ""
 "Hursomhelst, gå till mitt slott, Gawen. Dina betjänter får lite guld för att "
-"ha hjälpt dig och sedan kan de gå, medans vi kommer arbeta på att få "
-"tillbaka din tron!"
+"de hjälpt dig och sedan kan de gå, medan vi arbetar på att få tillbaka din "
+"tron!"
 
 #: A_New_Order/scenarios/14healtin.cfg:121
-#, fuzzy
 msgid ""
 "Hey, hey, I think there is some misunderstanding here. Gawen is our rightful "
 "king, and he has to get back his heritage. He is king of Wesnoth."
 msgstr ""
-"Haj, hej, jag tror att det är någon sorts missförstånd här. Gawen är vår "
-"rättmätiga kung och han måste återfå sin arvsrätt. Han är kung av Wesnoth."
+"Hallå där, jag tror att det ligger något sorts missförstånd här. Gawen är "
+"vår rättmätiga kung och han måste få sitt arv. Han är kung av Wesnoth."
 
 #: A_New_Order/scenarios/14healtin.cfg:122
-#, fuzzy
 msgid ""
 "Exactly, with the difference that he is king of Vakladia. So, what do you "
 "want, underling, for saving my son's life? Speak fast, because I and Gawen "
 "had a lot to do, and you are starting to getting on my nerves, and this is "
 "dangerous thing to do."
 msgstr ""
-"Exakt, med skillnaden att han är kung av Vakladia. Så vad vill du ha, lakej, "
-"för att du har räddat min sons liv? Tala snabbt, för jag och Gawen har "
-"mycket att göra och du börjar gå mig på nerverna, vilket är en farlig sak "
-"att göra."
+"Precis så, med den skillnaden att han är kung av Vakladia. Så vad vill du "
+"ha, lakej, för att du har räddat min sons liv? Tala snabbt, för jag och "
+"Gawen har mycket att göra och du börjar gå mig på nerverna, vilket är en "
+"farlig sak att göra."
 
 #: A_New_Order/scenarios/14healtin.cfg:123
-#, fuzzy
 msgid ""
 "Listen, woman, I want nothing from you. Gawen is not going anywhere with "
 "you. He stays with us and he will unite Wesnoth and..."
 msgstr ""
-"Lyssna, kvinna, jag vill inte ha något från dig. Gawen går ingenstanns med "
+"Lyssna, kvinna, jag vill inte ha något från dig. Gawen går ingenstans med "
 "dig. Han stannar med oss och han kommer att ena Wesnoth och..."
 
 #: A_New_Order/scenarios/14healtin.cfg:124
-#, fuzzy
 msgid ""
 "Stop it! Stop it both of you! I am not king. Not king of Vakladia, not king "
 "of Wesnoth, and definetely YOU WON'T DECIDE INSTEAD OF ME what should I do."
 msgstr ""
-"Sluta! Bara sluta båda två! Jag är inte kung. Inte kung över Vakladia, inte "
-"kung över Wesnoth och defenitivt SÅ KOMMER INTE NI ATT BESTÄMMA ÖVER MIG vad "
-"jag kommer att göra."
+"Sluta! Sluta båda två! Jag är inte kung. Inte kung över Vakladia, inte kung "
+"över Wesnoth och definitivt SÅ KOMMER INTE NI ATT BESTÄMMA VAD JAG SKALL "
+"GÖRA."
 
 #: A_New_Order/scenarios/14healtin.cfg:125
-#, fuzzy
 msgid "Now, we will go to the castle. My troops needs to get rest."
 msgstr "Nu går vi till slottet. Mina trupper behöver vila."
 
 #: A_New_Order/scenarios/14healtin.cfg:126
-#, fuzzy
 msgid "My son, your troops are already in the castle, and those underlings..."
-msgstr "Min son, dina trupper är redan i slottet, vad anbefanger lakejerna..."
+msgstr ""
+"Min son, dina trupper är redan i slottet, och vad anbelangar lakejerna..."
 
 #: A_New_Order/scenarios/14healtin.cfg:127
-#, fuzzy
 msgid ""
 "Those are my troops who fought alongside me. Don't call them underlings. "
 "Then, I will want to ask you few questions about the orcs. And then we will "
 "leave the Haeltin. Mother, you will be welcomed to go with us."
 msgstr ""
-"De är mina trupper so har slagits på min sida. Kalla dem inte lakejer. "
-"Senare så kommer jag vilja ställa lite frågor angående orcherna, därefter så "
-"kommer vi att lämna Haeltin. Mamma, du kommer att vara välkommen att följa "
-"med oss."
+"De är mina trupper, de har slagits på min sida. Kalla dem inte lakejer. "
+"Senare vill jag ställa några frågor angående orcherna, och därefter lämnar "
+"vi Haeltin. Mamma, du är välkommen att följa med oss."
 
 #: A_New_Order/scenarios/14healtin.cfg:129
-#, fuzzy
 msgid ""
 "The orcs... well, you know that they were trying to take my castle? We "
 "defeated them. Could you believe that they were allied with Akladians?"
 msgstr ""
-"Orcherna... nåväl, du vet att de försökte ta mitt slott? Vi besegrade dem, "
-"kan du tro att de var allierade med Akladierna?"
+"Orcherna... Nå, du vet att de försökte ta mitt slott? Vi besegrade dem. Kan "
+"du tänka dig, de var allierade med akladierna?"
 
 #: A_New_Order/scenarios/14healtin.cfg:136
-#, fuzzy
 msgid ""
 "Earlier, after the battle at Barnon, we spot orcs in the hills. I had the "
 "occasion to interrogate one of the Orcish leaders. He said that they waited "
@@ -3624,10 +3589,9 @@ msgid ""
 msgstr ""
 "Tidigare, efter striden om Barnon, så såg vi orcher uppe i kullarna. Jag "
 "hade möjligheten att förhöra en av deras ledare. Han sade att de väntade på "
-"en mänsklig konvoj, efter att ha brännt Reme Carrenemoes väns slott."
+"en budbärare, efter att ha bränt Reme Carrenemoes väns slott."
 
 #: A_New_Order/scenarios/14healtin.cfg:145
-#, fuzzy
 msgid ""
 "It seems that Bor Cryne had allied with orcs to kill every Akladian who is "
 "not worthy to be member of our race in Bor Cryne's eyes. It means every "
@@ -3635,71 +3599,61 @@ msgid ""
 "ever farted in the presence of Cryne."
 msgstr ""
 "Det verkar som om Bor Cryne har allierat sig med orcherna för att döda varje "
-"Akladiet som inte är en värdig medlem av vår ras i hans ögon. Det betyder "
-"att varje Akladit som har lakejer till vänner eller är gift med en lakej "
+"akladier som i hans ögon inte är en värdig medlem av vår ras. Det betyder "
+"att varje akladier som har lakejer till vänner eller är gift med en lakej "
 "eller som någonsin har fjärtat i hans närhet."
 
 #: A_New_Order/scenarios/14healtin.cfg:155
-#, fuzzy
 msgid "And what happened to Reme Carrenemoe?"
 msgstr "Och vad hände med Reme Carrenemoe?"
 
 #: A_New_Order/scenarios/14healtin.cfg:165
-#, fuzzy
 msgid ""
 "You will soon met old friend. We were able to free Reme Carrenemoe. He was "
 "captured by enemies, and that close to death... We left him in our camp to "
 "recover."
 msgstr ""
-"Du kommer snart att möta en gammal vän. Vi hade möjlighet att befria Reme "
-"Carrenemoe. Han blev tillfångatagen av fiender och var nära döden... Vi "
-"lämnade honom vid vårat läger för att återhämta sig."
+"Du kommer snart att möta en gammal vän. Vi lyckades befria Reme Carrenemoe. "
+"Han blev tillfångatagen av fiender och var nära döden... Vi lämnade honom i "
+"vårt läger för att återhämta sig."
 
 #: A_New_Order/scenarios/14healtin.cfg:166
-#, fuzzy
 msgid "<whispering> Old friend my arse..."
-msgstr "<viskandes> Gammal vän mitt ärchle..."
+msgstr "<viskande> Gammal vän, så tusan heller..."
 
 #: A_New_Order/scenarios/14healtin.cfg:169
-#, fuzzy
 msgid ""
 "I think you should now that Reme is alive too. We know that he is in enemy "
 "hands. I want to rescue him."
 msgstr ""
-"Jag tror att du borde veta att Reme är vid liv också. Vi vet att han är i "
-"fiendens händer. Jag vill rädda honom."
+"Du borde veta att Reme är vid liv också. Vi vet att han är i fiendens "
+"händer. Jag vill rädda honom."
 
 #: A_New_Order/scenarios/14healtin.cfg:170
-#, fuzzy
 msgid "What for? He had left me. Why not treat him the same way he treated me?"
 msgstr ""
-"varför då? Han lämnade mig. Varför skulle inte jag behandla honom på samma "
+"Varför då? Han lämnade mig. Varför skulle inte jag behandla honom på samma "
 "sätt som han behandlade mig?"
 
 #: A_New_Order/scenarios/14healtin.cfg:176
-#, fuzzy
 msgid ""
 "So, have you seduced this Gaumhaldric already? Or have I missed something?"
-msgstr "Så du har redan förfört denna Gaumhaldric? Eller har jag missat något?"
+msgstr ""
+"Så, du har redan förfört denna Gaumhaldric? Eller har jag missat något?"
 
 #: A_New_Order/scenarios/14macros.cfg:23
-#, fuzzy
 msgid "Death of Andrey Yaranov (if recalled)"
 msgstr "Andrey Yaranov dör (om återkallad)"
 
 #: A_New_Order/scenarios/14macros.cfg:38
-#, fuzzy
 msgid "Scored!"
 msgstr "Poäng!"
 
 #: A_New_Order/scenarios/14macros.cfg:39
-#, fuzzy
 msgid "Don't start again, kid. I won't play that game this time."
-msgstr ""
-"Börja inte nu, unge. Jag kommer inte att spela det spelet den här gången."
+msgstr "Börja inte nu igen. Jag tänker inte tävla den här gången."
 
 #: A_New_Order/scenarios/14macros.cfg:44
-#, fuzzy
 msgid ""
 "Hey, Lorin, or whatever is your name, have you seen this? Now you know why "
 "underlings give weapons to 'children'"
@@ -3708,7 +3662,6 @@ msgstr ""
 "varför lakejer ger vapen till 'barn'."
 
 #: A_New_Order/scenarios/14macros.cfg:47
-#, fuzzy
 msgid ""
 "Ha! Gawen, have you seen that? I already killed two enemies, and that your "
 "step-grand-mother hadn't killed a single one!"
@@ -3717,75 +3670,62 @@ msgstr ""
 "styvmor har inte dödat en enda!"
 
 #: A_New_Order/scenarios/14macros.cfg:49
-#, fuzzy
 msgid "Ha! Scored two!"
 msgstr "Ha! Min andra poäng!"
 
 #: A_New_Order/scenarios/14macros.cfg:50
-#, fuzzy
 msgid "You think it is some kind of competition?"
 msgstr "Tror du att det är någon sorts tävling?"
 
 #: A_New_Order/scenarios/14macros.cfg:54
-#, fuzzy
 msgid ""
 "Hey, Gawen. That she-wolf of yours is pathetic. I scored three while she "
 "hadn't killed a single enemy!"
 msgstr ""
-"Hallå gawen, Den där honvargen är ju patetisk. Jag ligger på tre stycken "
-"medan hon fortfarande inte har lyckats döda en enda fiende!"
+"Hallå, Gawen. Den där hyndan är ju för ynklig. Jag ligger på tre stycken och "
+"hon har fortfarande inte lyckats döda en enda fiende!"
 
 #: A_New_Order/scenarios/14macros.cfg:57 A_New_Order/scenarios/14macros.cfg:60
-#, fuzzy
 msgid "Ha! Scored three!"
-msgstr "Ha! Tredje raka!"
+msgstr "Ha! Tredje!"
 
 #: A_New_Order/scenarios/14macros.cfg:58 A_New_Order/scenarios/14macros.cfg:67
-#, fuzzy
 msgid "So what? I am winning!"
-msgstr "Spela roll, jag vinner ju!"
+msgstr "Än sen, jag vinner ju!"
 
 #: A_New_Order/scenarios/14macros.cfg:61
-#, fuzzy
 msgid "So what?"
-msgstr "Vad spelar det för roll?"
+msgstr "Än sen?"
 
 #: A_New_Order/scenarios/14macros.cfg:66
-#, fuzzy
 msgid "Ha! Another one!"
 msgstr "Ha! Ytterligare en!"
 
 #: A_New_Order/scenarios/14macros.cfg:69
-#, fuzzy
 msgid "I'm a killing machine! And that Lorin should hide back in Haeltin!"
 msgstr "Jag är en dödsmaskin! Den där Lorin borde gömma sig borta i Haeltin!"
 
 #: A_New_Order/scenarios/14macros.cfg:71
-#, fuzzy
 msgid "Ha! I'm winning!"
 msgstr "Ha! Jag vinner!"
 
 #: A_New_Order/scenarios/14macros.cfg:72
-#, fuzzy
 msgid "Impertinent ungodly underling child, the day had not ended!"
-msgstr "Din näsvisa ogudaaktiga lakejunge, dagen är inte slut ännu!"
+msgstr "Din näsvisa ogudaktiga lakejunge, dagen är inte slut ännu!"
 
 #: A_New_Order/scenarios/14macros.cfg:91
-#, fuzzy
 msgid "First kill today!"
 msgstr "Dagens första byte!"
 
 #: A_New_Order/scenarios/14macros.cfg:92
-#, fuzzy
 msgid ""
 "Oh no, mighty Lorin is coming! All children and little furry animals, run "
 "for your life!"
 msgstr ""
-"Oh nej, den mäktiga Lorin kommer! Alla barn och gosiga djur, spring för era "
-"liv!"
+"Oh nej, den mäktiga Lorin kommer! Alla barn och små gosiga djur, spring för "
+"era liv!"
 
 #: A_New_Order/scenarios/14macros.cfg:95
-#, fuzzy
 msgid ""
 "My son, send that little Karen to home. She is useless. I've killed two "
 "enemies already, and what about her?"
@@ -3794,73 +3734,62 @@ msgstr ""
 "fiender redan, och se vad hon har gjort."
 
 #: A_New_Order/scenarios/14macros.cfg:98
-#, fuzzy
 msgid "Scored! And leading the race!"
-msgstr "Ännu en! Och jag leder ligan!"
+msgstr "Ännu en! Jag leder ligan!"
 
 #: A_New_Order/scenarios/14macros.cfg:99
-#, fuzzy
 msgid "And I thought you won't be competing with me."
 msgstr "Och jag som trodde att du inte skulle tävla med mig."
 
 #: A_New_Order/scenarios/14macros.cfg:100
-#, fuzzy
 msgid "I am not competing with you, silly child."
 msgstr "Jag tävlar inte med dig, fåniga unge."
 
 #: A_New_Order/scenarios/14macros.cfg:102
-#, fuzzy
 msgid "Try a little harder, grand-mother. But not bad for you age."
-msgstr "Försök lite hårdare, mormor. Men inte dåligt för din ålder."
+msgstr ""
+"Du måste ansträng dig lite mer, mormor. Men det är inte dåligt för din ålder."
 
 #: A_New_Order/scenarios/14macros.cfg:107
-#, fuzzy
 msgid ""
 "Ha! She-wolf of Haeltin is coming! No underling child would be better than "
 "me!"
 msgstr ""
-"Ha! Honvargen från Haeltin kommer! Ingen lakejunge skulle vara bättre än mig!"
+"Ha! Hyndan från Haeltin är på gång! Ingen liten lakejunge kan vara bättre än "
+"jag!"
 
 #: A_New_Order/scenarios/14macros.cfg:108
-#, fuzzy
 msgid ""
 "She-wolf of Haeltin, don't excite too much, because you will get even more "
 "wrinkles from that."
 msgstr ""
-"Honvargen av Haeltin, hetsa inte upp dig för mycket, du kommer få ännu mer "
-"rynkor av det."
+"Hyndan från Haeltin, hetsa inte upp dig för mycket, du kommer få ännu mer "
+"rynkor."
 
 #: A_New_Order/scenarios/14macros.cfg:110
-#, fuzzy
 msgid "Three!"
 msgstr "Tre!"
 
 #: A_New_Order/scenarios/14macros.cfg:111
-#, fuzzy
 msgid "Pfff! Only three?"
 msgstr "Pfff! Bara tre?"
 
 #: A_New_Order/scenarios/14macros.cfg:115
-#, fuzzy
 msgid "Who's the killing machine now?"
-msgstr "Vem är mördarmaskinen nu?"
+msgstr "Vem är dödsmaskinen nu?"
 
 #: A_New_Order/scenarios/14macros.cfg:117
-#, fuzzy
 msgid "Not bad, but still you have to a lot to learn!"
-msgstr "Inte dåligt men du har fortfarande mycket att lära dig!"
+msgstr "Inte så illa, men du har fortfarande mycket att lära!"
 
 #: A_New_Order/scenarios/14macros.cfg:118
-#, fuzzy
 msgid "Do you think, little child, that I will honour you with answer?"
 msgstr ""
-"Tror du verkligen, lilla unge, att jag kommer bemöda mig med ett svar till "
-"er?"
+"Tror du verkligen, lilla unge, att jag kommer att hedra dig med ett svar?"
 
 #: A_New_Order/scenarios/14macros.cfg:132
-#, fuzzy
 msgid "By the way, I won. Scored $ano_competition_l"
-msgstr "för övrigt så vinner jag, med $ano_competition_l poäng."
+msgstr "Förresten så vann jag, med $ano_competition_l poäng."
 
 #: A_New_Order/scenarios/14macros.cfg:133
 #: A_New_Order/scenarios/14macros.cfg:136
@@ -3869,38 +3798,32 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/14macros.cfg:135
-#, fuzzy
 msgid "By the way, I won. Scored $ano_competition_k"
-msgstr "för övrigt så vinner jag, med $ano_competition_k poäng."
+msgstr "Förresten så vinner jag, med $ano_competition_k poäng."
 
 #: A_New_Order/scenarios/14macros.cfg:138
-#, fuzzy
 msgid "Why that  angry look, Lorin?"
-msgstr "Varför den mulna minen Lorin?"
+msgstr "Varför den sura minen, Lorin?"
 
 #: A_New_Order/scenarios/14macros.cfg:139
-#, fuzzy
 msgid "She lost."
 msgstr "Hon förlorade."
 
 #: A_New_Order/scenarios/14macros.cfg:140
-#, fuzzy
 msgid "I have not lost. I have not won."
 msgstr "Jag förlorade inte. Jag vann inte."
 
 #: A_New_Order/scenarios/14macros.cfg:141
-#, fuzzy
 msgid ""
 "That's what I meant. You have not won, great super killing machine, so you "
 "have lost."
 msgstr ""
-"Det var vad jag menade. Du vann inte, stora supermördarmaskin, så därför har "
-"du förlorat."
+"Det var det jag menade. Du vann inte, stora superdödsmaskin, så därför "
+"förlorade du."
 
 #: A_New_Order/scenarios/14orcs.cfg:3
-#, fuzzy
 msgid "Avenging Ruen"
-msgstr "Hämnas Ruen"
+msgstr "Vedergällningen för Ruen"
 
 #: A_New_Order/scenarios/14orcs.cfg:26
 msgid ""
@@ -3911,22 +3834,19 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/14orcs.cfg:85
-#, fuzzy
 msgid "Baruk Gar"
 msgstr "Baruk Gar"
 
 #: A_New_Order/scenarios/14orcs.cfg:125
-#, fuzzy
 msgid "Revenge!"
 msgstr "Hämnd!"
 
 #: A_New_Order/scenarios/14orcs.cfg:133
-#, fuzzy
 msgid ""
 "I think they keept captured villagers in the dungeons of their castles. It's "
 "time to let them free and kill the orcs!"
 msgstr ""
-"Jag tror att de gömmer de tillfångatagna byborna i slottets katakomber. Det "
+"Jag tror att de har de tillfångatagna byborna i slottets fängelsehålor. Det "
 "är hög tid att befria dem och döda orcherna!"
 
 #: A_New_Order/scenarios/14orcs.cfg:134
@@ -3937,11 +3857,12 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/14orcs.cfg:138 A_New_Order/scenarios/14orcs.cfg:149
-#, fuzzy
 msgid ""
 "You my withdraw by moving Gawen Hagarthen to the signpost south of your "
 "initial position."
-msgstr "Du kan retirera genom att förflytta Gawen till vägskylten."
+msgstr ""
+"Du kan retirera genom att föra Gawen till vägskylten söder om din "
+"startposition."
 
 #: A_New_Order/scenarios/19oracle.cfg:754 A_New_Order/scenarios/4.cfg:229
 #: A_New_Order/scenarios/14orcs.cfg:140 A_New_Order/scenarios/14orcs.cfg:151
@@ -3952,222 +3873,188 @@ msgstr "Du kan retirera genom att förflytta Gawen till vägskylten."
 #: A_New_Order/scenarios/14saorduc.cfg:217
 #: A_New_Order/scenarios/14saorduc.cfg:227
 #: A_New_Order/scenarios/21bride.cfg:292 A_New_Order/scenarios/27.cfg:153
-#, fuzzy
 msgid "Kill all enemy leaders"
-msgstr "Döda alla fiendeledare."
+msgstr "Döda alla fiendeledare"
 
 #: A_New_Order/scenarios/14orcs.cfg:172
 msgid "We have no time and forces to defeat the orcs here. Retreat!"
 msgstr ""
 
 #: A_New_Order/scenarios/14orcs.cfg:180
-#, fuzzy
 msgid ""
 "Hear, hear, big orc in my small hands. Now, how high can big orc sing when I "
 "will use that knife?"
 msgstr ""
-"Hör, hör, stor orch i mina små händer. Nu, hur högt kan den stora orchen "
-"sjunga när jag använder den där kniven?"
 
 #: A_New_Order/scenarios/14orcs.cfg:181
-#, fuzzy
 msgid "Waitwaitwait, human woman. Do orc no harm."
-msgstr "Väntaväntavänta, männskliga kvinna. Gör orch ingen skada."
+msgstr "Vänta vänta vänta, människokvinna. Skada inte orch."
 
 #: A_New_Order/scenarios/14orcs.cfg:182
-#, fuzzy
 msgid ""
 "Human woman will do no harm if orcish idiot will answer all the questions. "
 "Why are you here? Why are you allied with Akladians?"
 msgstr ""
-"Männsklig kvinna kommer inte göra nägon skada om idiotorch svarar på alla "
+"Människokvinna kommer inte göra någon skada om idiotorch svarar på alla "
 "frågor. Varför är du här? Varför är du allierad med akladierna?"
 
 #: A_New_Order/scenarios/14orcs.cfg:183
-#, fuzzy
 msgid ""
 "My boss know everything, I know nothing. We are here for having fun and good "
 "meat I think."
 msgstr ""
-"Min chef vet allt, jag vet ingenting. Vi är här för att ha kul och äta bra "
+"Min boss vet allt, jag vet ingenting. Vi är här för att ha kul och äta bra "
 "kött tror jag."
 
 #: A_New_Order/scenarios/14orcs.cfg:184
-#, fuzzy
 msgid "Hey, hey, don't die so fast, I haven't finished asking you!"
-msgstr "Hej, hej, dö inte så fort, jag är inte klar med att fråga ut dig!"
+msgstr "Hallå, dö inte så fort, jag är inte klar med att fråga ut dig!"
 
 #: A_New_Order/scenarios/14orcs.cfg:186
-#, fuzzy
 msgid ""
 "Ho, ho, how do you call when woman is hugging orcish dead body? Necrophilia?"
 msgstr ""
-"Ho, ho, vad kallas den när en kvinna kramar en död orchisk kropp? Nekrofili?"
+"Ho, ho, vad kallas det när en kvinna kramar en död orchkropp? Nekrofili?"
 
 #: A_New_Order/scenarios/14orcs.cfg:187
-#, fuzzy
 msgid ""
 "In case of Lady Lorin, remembering her age, I would call it rather incest."
 msgstr ""
-"När det gäller fru Lorin, kom ihåg hennes ålder, skulle jag snarare kalla "
-"det incest."
+"När det gäller fru Lorin, skulle jag snarare kalla det incest, med tanke på "
+"hennes ålder."
 
 #: A_New_Order/scenarios/14orcs.cfg:193
-#, fuzzy
 msgid ""
 "I don't want to waste too much time, so answer me fast: There is alliance "
 "between traitors from Akladian race and Orcs. Why?"
 msgstr ""
-"Jag vill inte förlora alltförmycket tid, så svara mig fort: Det finns en "
-"allians mellan förrädiska akladiter och orcher. Varför?"
+"Jag vill inte förlora alltför mycket tid, så svara mig fort: Det finns en "
+"allians mellan förrädiska akladier och orcher. Varför?"
 
 #: A_New_Order/scenarios/14orcs.cfg:194
-#, fuzzy
 msgid "And why should I tell you, stupid woman?"
-msgstr "Varför skulle jag berätta, dumma kvinna?"
+msgstr "Varför skulle jag berätta för dig, dumma kvinna?"
 
 #: A_New_Order/scenarios/14orcs.cfg:195
-#, fuzzy
 msgid "THAT is for calling me stupid woman. And THAT is gratis. Speak!"
-msgstr "DET är för dum kvinna, och DET är gratis. Tala!"
+msgstr "DEN är för dum kvinna, och DEN är gratis. Tala!"
 
 #: A_New_Order/scenarios/14orcs.cfg:196
-#, fuzzy
 msgid ""
 "Don't... We were ordered by Grekulak to hear the Akladians.. Why he ordered "
 "us to ally with them I do not know.."
 msgstr ""
-"Sluta... Vi blev beodrade av Grekulak att lyda akladiterna... Varför han "
-"beodrade oss att alliera med dem vet jag inte..."
+"Sluta... Vi blev beordrade av Grekulak att lyda akladierna... Varför han "
+"beordrade oss att alliera oss med dem vet jag inte..."
 
 #: A_New_Order/scenarios/14orcs.cfg:197
-#, fuzzy
 msgid "Who is that Grekulak? Why he allied with Akladian traitors?"
 msgstr "Vem är Grekulak? Varför är han allierad med de akladiska förrädarna?"
 
 #: A_New_Order/scenarios/14orcs.cfg:198
-#, fuzzy
 msgid "Grekulak.. is.. our.. guide.. he .."
-msgstr "Grekulak... är... vår... guide... han..."
+msgstr "Grekulak... är... vår... guide... Han..."
 
 #: A_New_Order/scenarios/14orcs.cfg:199
-#, fuzzy
 msgid "He? He what? Answer me, come on!"
-msgstr "Vad? han vad? Svara mig, kom igen!"
+msgstr "Vadå? Han vadå? Svara mig, kom igen!"
 
 #: A_New_Order/scenarios/14orcs.cfg:200
-#, fuzzy
 msgid "Lady Lorin, stop it. He is dead. He won't say a word more."
 msgstr "Fru Lorin, sluta. Han är död. Han kommer inte säga ett ord mer."
 
 #: A_New_Order/scenarios/14orcs.cfg:212
-#, fuzzy
 msgid ""
 "But this is what you wanted, right? Know who is behind this alliance. Now "
 "you know, it is some 'Grekulak'"
 msgstr ""
-"Men det här är väl vad du ville, eller? Att veta vem som låg bakom "
-"alliansen. Nu vet du, det är någon 'Grekulak'."
+"Men det här är väl vad du ville, vad? Att veta vem som låg bakom alliansen. "
+"Nu vet du, det är någon 'Grekulak'."
 
 #: A_New_Order/scenarios/14orcs.cfg:213
-#, fuzzy
 msgid "Maybe you are right. We should go back to Freetown then."
-msgstr "Kanske du har rätt. Vi borde återvända till Freetown i så fall."
+msgstr "Kanske har du rätt. Vi borde återvända till Freetown i så fall."
 
 #: A_New_Order/scenarios/14orcs.cfg:221 A_New_Order/scenarios/14orcs.cfg:262
-#, fuzzy
 msgid ""
 "Yes, yes, I will answer, yummie.. liver. What kind of liver it would be? ."
 msgstr ""
-"Ja, ja, jag kommer att svara, mumms... lever. Vilken sorts lever blir det?"
+"Ja, ja, jag kommer att svara, mums... lever. Vilken sorts lever blir det?"
 
 #: A_New_Order/scenarios/14orcs.cfg:222 A_New_Order/scenarios/14orcs.cfg:263
-#, fuzzy
 msgid "What??"
 msgstr "Vad?"
 
 #: A_New_Order/scenarios/14orcs.cfg:223 A_New_Order/scenarios/14orcs.cfg:264
-#, fuzzy
 msgid ""
 "What kind of liver it will be. Human liver, uhmm, or delicious liver of "
 "Elvish woman?"
 msgstr ""
-"Vilken sorts lever blir det. Männsklig lever, uhmm, eller delikat lever från "
-"den alviska kvinnan?"
+"Vilken sorts lever blir det. Människolever, hmm, eller delikat lever från "
+"alvkvinnan?"
 
 #: A_New_Order/scenarios/14orcs.cfg:224
-#, fuzzy
 msgid ""
 "No, no, you did not understand me. I will let you LIVE, not get you LIVER. "
 "Why are you here allied with Akladians?"
 msgstr ""
-"Nej, nej, du förstår mig inte. Jag kommer att låta dig LEVA, inte ge dig "
-"LEVER. Varför är du här allierad med akladiterna?"
+"Nej, nej, du förstår inte. Jag kommer att låta dig LEVA, inte ge dig LEVER. "
+"Varför är ni allierade med akladierna?"
 
 #: A_New_Order/scenarios/14orcs.cfg:225 A_New_Order/scenarios/14orcs.cfg:266
-#, fuzzy
 msgid ""
 "My boss would know. I know nothing, I am great warrior, not great thinker. "
 msgstr ""
-"Min chef vet. Jag vet ingenting, jag är stor krigare, inte stor tänkare."
+"Min boss vet. Jag vet ingenting. Jag är stor krigare, inte stor tänkare."
 
 #: A_New_Order/scenarios/14orcs.cfg:227 A_New_Order/scenarios/14orcs.cfg:268
-#, fuzzy
 msgid ""
 "My lord! Do not let him go! He was beating and killing my friends and people "
 "from my family! If you won't kill him, I will!"
 msgstr ""
-"Min herre! Låt honom inte gå! Han slog och dödade mina vänner och personer "
-"från min familj! Om du inte dödar honom så kommer jag göra det!"
+"Ers nåd! Släpp honom inte! Han slog och dödade mina familj och mina vänner! "
+"Om du inte dödar honom så kommer jag göra det!"
 
 #: A_New_Order/scenarios/14orcs.cfg:229 A_New_Order/scenarios/14orcs.cfg:270
-#, fuzzy
 msgid "Should I spare him?"
-msgstr "Borde jag spara honom?"
+msgstr "Skall jag skona honom?"
 
 #: A_New_Order/scenarios/14orcs.cfg:229 A_New_Order/scenarios/14orcs.cfg:272
-#, fuzzy
 msgid "No."
 msgstr "Nej."
 
 #: A_New_Order/scenarios/14orcs.cfg:231 A_New_Order/scenarios/14orcs.cfg:275
 #: A_New_Order/scenarios/21bride.cfg:337
-#, fuzzy
 msgid "Thank you! Thank you!"
-msgstr "Tackar! Tackar!"
+msgstr "Tack! Tack!"
 
 #: A_New_Order/scenarios/14orcs.cfg:233 A_New_Order/scenarios/14orcs.cfg:277
-#, fuzzy
 msgid "Aaaargh!!"
-msgstr "Aaaargh!!"
+msgstr "Aaaargh!"
 
 #: A_New_Order/scenarios/14orcs.cfg:265
-#, fuzzy
 msgid ""
 "No, no, you did not undestand me. I will let you LIVE, not LIVER. Why are "
 "you here allied with Akladians?"
 msgstr ""
-"Nej, nej, du måste förstå mig. Jag kommer låta dig LEVA, inte LEVER. Varför "
-"är ni allierade med akladiterna?"
+"Nej, nej, du förstå inte. Jag kommer att låta dig LEVA, inte ge dig LEVER. "
+"Varför är ni allierade med akladierna?"
 
 #: A_New_Order/scenarios/14orcs.cfg:309
-#, fuzzy
 msgid "That's what waits for any orcs which will be in my hands!!"
-msgstr "Det är vad som väntar alla orcher som jag kan lägga händerna på!"
+msgstr "Det är vad som väntar alla orcher som kommer i mina händer!"
 
 #: A_New_Order/scenarios/14orcs.cfg:322
-#, fuzzy
 msgid "John the Smith"
-msgstr "John den Skallige"
+msgstr "John Smed"
 
 #: A_New_Order/scenarios/14orcs.cfg:334
 msgid "Paul the Small"
-msgstr ""
+msgstr "Lille Paul"
 
 #: A_New_Order/scenarios/14orcs.cfg:346
-#, fuzzy
 msgid "Quick Herman"
-msgstr "Pikenerare"
+msgstr "Snabbe Herman"
 
 #: A_New_Order/scenarios/14orcs.cfg:355 A_New_Order/scenarios/14orcs.cfg:401
 msgid "Hurray! We are free! Now, death to the orcs!"
@@ -4175,20 +4062,19 @@ msgstr ""
 
 #: A_New_Order/scenarios/14orcs.cfg:368
 msgid "Gonzales the Steelhand"
-msgstr ""
+msgstr "Gonzales Stålhand"
 
 #: A_New_Order/scenarios/14orcs.cfg:380
 msgid "Owaec"
-msgstr ""
+msgstr "Owaec"
 
 #: A_New_Order/scenarios/14orcs.cfg:392
 msgid "Fast Robin"
-msgstr ""
+msgstr "Snabbe Robin"
 
 #: A_New_Order/scenarios/14saorduc.cfg:3
-#, fuzzy
 msgid "Saorduc Swamps"
-msgstr "Saorducs Träsk"
+msgstr "Saorducs träsk"
 
 #: A_New_Order/scenarios/14saorduc.cfg:8
 msgid ""
@@ -4256,29 +4142,24 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/5b.cfg:54 A_New_Order/scenarios/14saorduc.cfg:123
-#, fuzzy
 msgid "Burass"
 msgstr "Burass"
 
 #: A_New_Order/scenarios/14saorduc.cfg:142
-#, fuzzy
 msgid "Ussuh"
 msgstr "Ussuh"
 
 #: A_New_Order/scenarios/14saorduc.cfg:161
-#, fuzzy
 msgid "Rassum"
 msgstr "Rassum"
 
 #: A_New_Order/scenarios/14saorduc.cfg:180
-#, fuzzy
 msgid "Bussur"
 msgstr "Bussur"
 
 #: A_New_Order/scenarios/14saorduc.cfg:215
-#, fuzzy
 msgid " You may withdraw by moving Gawen to signpost."
-msgstr "Du kan retirera genom att förflytta Gawen till vägskylten."
+msgstr "Du kan retirera genom att föra Gawen till vägskylten."
 
 #: A_New_Order/scenarios/14saorduc.cfg:239
 #, fuzzy
@@ -4295,19 +4176,16 @@ msgid "Be calm, you are amongsst friendss, no humanss here..."
 msgstr "Var lugn, du bland vänner, inga männissskor här."
 
 #: A_New_Order/scenarios/14saorduc.cfg:242
-#, fuzzy
 msgid "Lizards!"
 msgstr "Ödlor!"
 
 #: A_New_Order/scenarios/14saorduc.cfg:243
-#, fuzzy
 msgid "Oh no!!"
-msgstr "Oh nej!!"
+msgstr "Åh nej!"
 
 #: A_New_Order/scenarios/14saorduc.cfg:244
-#, fuzzy
 msgid "Prepare to be exterminated!"
-msgstr "Förbered er på att bli utrotade!"
+msgstr "Bered er på er utrotning!"
 
 #: A_New_Order/scenarios/14saorduc.cfg:245
 #, fuzzy
@@ -13477,9 +13355,8 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/final.cfg:30
-#, fuzzy
 msgid "Final"
-msgstr "Slutgiltig"
+msgstr ""
 
 #: A_New_Order/scenarios/final.cfg:44
 #, fuzzy
@@ -13572,12 +13449,10 @@ msgid "You don't know who brought Orcs to Wesnoth"
 msgstr "Du vet inte vem som förde orcher till Wesnoth"
 
 #: A_New_Order/scenarios/final.cfg:110
-#, fuzzy
 msgid "Total points: $points "
 msgstr "Totalt antal poäng: $points"
 
 #: A_New_Order/terrain.cfg:5 A_New_Order/terrain.cfg:12
-#, fuzzy
 msgid "Crater"
 msgstr "Krater"
 
@@ -13601,7 +13476,6 @@ msgstr "Akladisk Hövding_c"
 #: A_New_Order/units/Lord_Hagarthen.cfg:10
 #: A_New_Order/units/Akladian_Chieftain-c.cfg:15
 #: A_New_Order/units/Akladian_Lord.cfg:10
-#, fuzzy
 msgid "leadership"
 msgstr "ledarskap"
 
@@ -13645,7 +13519,6 @@ msgstr "De bästa Akladiska krigarna blir valda för att leda deras klaner."
 #: A_New_Order/units/Aragwaith-Dragonghunter.cfg:75
 #: A_New_Order/units/Akladian_Lord.cfg:23
 #: A_New_Order/units/Akladian_Raider.cfg:20
-#, fuzzy
 msgid "sword"
 msgstr "svärd"
 
@@ -13687,9 +13560,8 @@ msgstr "svärd"
 #: A_New_Order/units/Aragwaith-Dragonghunter.cfg:76
 #: A_New_Order/units/Akladian_Lord.cfg:24
 #: A_New_Order/units/Akladian_Raider.cfg:21
-#, fuzzy
 msgid "blade"
-msgstr "blad"
+msgstr "hugg"
 
 #: A_New_Order/units/Akladian_Chieftain-g.cfg:4
 #, fuzzy
@@ -13728,9 +13600,8 @@ msgstr ""
 #: A_New_Order/units/Akladian_Clanmember-c.cfg:21
 #: A_New_Order/units/Akladian_Clanmember.cfg:21
 #: A_New_Order/units/Akladian_Clanmember-g.cfg:21
-#, fuzzy
 msgid "short spear"
-msgstr "kortspjut"
+msgstr "kort spjut"
 
 #: A_New_Order/units/Aragwaith-Guardian.cfg:55
 #: A_New_Order/units/Human-ranger.cfg:61
@@ -13758,7 +13629,6 @@ msgstr "kortspjut"
 #: A_New_Order/units/Akladian_Clanmember-g.cfg:22
 #: A_New_Order/units/Aragwaith-Pikeman.cfg:55
 #: A_New_Order/units/Akladian_Warrior-g.cfg:21
-#, fuzzy
 msgid "pierce"
 msgstr "stick"
 
@@ -13822,9 +13692,8 @@ msgstr ""
 #: A_New_Order/units/Akladian_LightInfantry.cfg:26
 #: A_New_Order/units/City_Militia.cfg:43
 #: A_New_Order/units/Aragwaith-Pikeman.cfg:60
-#, fuzzy
 msgid "firststrike"
-msgstr "snabbslag"
+msgstr "första slaget"
 
 #: A_New_Order/units/Akladian_Holyman.cfg:4
 #, fuzzy
@@ -13835,9 +13704,8 @@ msgstr "Akladisk Helig man"
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:128
 #: A_New_Order/units/Akladian_Holyman.cfg:18
 #: A_New_Order/units/Akladian_Wonderman.cfg:18
-#, fuzzy
 msgid "cures"
-msgstr "läker"
+msgstr "helar"
 
 #: A_New_Order/units/Akladian_Holyman.cfg:19
 #, fuzzy
@@ -13853,7 +13721,6 @@ msgstr ""
 #: A_New_Order/units/Akladian_Wiseman.cfg:22
 #: A_New_Order/units/Akladian_Holyman.cfg:22
 #: A_New_Order/units/Akladian_Wonderman.cfg:22 A_New_Order/units/Medic.cfg:21
-#, fuzzy
 msgid "staff"
 msgstr "stav"
 
@@ -13872,7 +13739,6 @@ msgstr "stav"
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:57
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:174
 #: A_New_Order/units/Akladian_Wonderman.cfg:23 A_New_Order/units/Medic.cfg:22
-#, fuzzy
 msgid "impact"
 msgstr "kross"
 
@@ -13898,7 +13764,7 @@ msgstr ""
 #: A_New_Order/units/Akladian_Lady.cfg:4
 #, fuzzy
 msgid "female^Akladian Lady"
-msgstr "kvinnlig^Akladisk Dam"
+msgstr "female^Akladisk Dam"
 
 #: A_New_Order/units/Akladian_Lady.cfg:21
 #, fuzzy
@@ -13965,7 +13831,6 @@ msgstr ""
 #: A_New_Order/units/City_Militia.cfg:37
 #: A_New_Order/units/Aragwaith-Pikeman.cfg:54
 #: A_New_Order/units/Akladian_Warrior-g.cfg:20
-#, fuzzy
 msgid "spear"
 msgstr "spjut"
 
@@ -13990,9 +13855,8 @@ msgstr ""
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:4
 #: A_New_Order/units/Akladian_Pikeneer.cfg:4
 #: A_New_Order/units/Akladian_Pikeneer-c.cfg:4
-#, fuzzy
 msgid "Akladian Pikeneer"
-msgstr "Akladisk Pikenerare"
+msgstr "Akladisk pikenerare"
 
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:20
 #: A_New_Order/units/Akladian_Pikeneer.cfg:20
@@ -14012,14 +13876,12 @@ msgstr ""
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:23
 #: A_New_Order/units/Akladian_Pikeneer.cfg:23
 #: A_New_Order/units/Akladian_Pikeneer-c.cfg:23
-#, fuzzy
 msgid "pike"
 msgstr "pik"
 
 #: A_New_Order/units/Akladian_Princess.cfg:4
-#, fuzzy
 msgid "female^Akladian Princess"
-msgstr "kvinnlig^Akladisk Princessa"
+msgstr "female^Akladisk princessa"
 
 #: A_New_Order/units/Akladian_Princess.cfg:20
 #: A_New_Order/units/Akladian_Queen.cfg:20
@@ -14044,9 +13906,8 @@ msgstr ""
 "sin egen codex, de ägnar hela sina liv åt att beskydda sina klaner."
 
 #: A_New_Order/units/Akladian_Queen.cfg:4
-#, fuzzy
 msgid "female^Queen"
-msgstr "kvinnlig^Drottning"
+msgstr "female^Drottning"
 
 #: A_New_Order/units/Akladian_Queen.cfg:18
 msgid "leadership,skirmisher"
@@ -14146,9 +14007,8 @@ msgstr "Akladiska Visa Män"
 
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:18
 #: A_New_Order/units/Akladian_Wiseman.cfg:18
-#, fuzzy
 msgid "heals"
-msgstr "helar"
+msgstr "vårdar"
 
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:19
 #: A_New_Order/units/Akladian_Wiseman.cfg:19
@@ -14177,12 +14037,10 @@ msgstr ""
 "Wesnothianernas erfarenheter och lär sig därför ytterligare användbara knep."
 
 #: A_New_Order/units/Akladian_Wonderman.cfg:34
-#, fuzzy
 msgid "lightbeam"
 msgstr "ljusbåge"
 
 #: A_New_Order/units/Akladian_Wonderman.cfg:35
-#, fuzzy
 msgid "holy"
 msgstr "helig"
 
@@ -14196,12 +14054,10 @@ msgstr "helig"
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:72
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:189
 #: A_New_Order/units/Akladian_Wonderman.cfg:37
-#, fuzzy
 msgid "magical"
 msgstr "magisk"
 
 #: A_New_Order/units/Aragwaith-Archer.cfg:3
-#, fuzzy
 msgid "Archer"
 msgstr "Bågskytt"
 
@@ -14222,7 +14078,6 @@ msgstr ""
 #: A_New_Order/units/Aragwaith-Hunter.cfg:106
 #: A_New_Order/units/Aragwaith-Stormbringer.cfg:126
 #: A_New_Order/units/Aragwaith-Dragonghunter.cfg:103
-#, fuzzy
 msgid "bow"
 msgstr "båge"
 
@@ -14293,7 +14148,6 @@ msgstr ""
 "har underskattat dem och fick betala det högsta priset för det."
 
 #: A_New_Order/units/Aragwaith-Hunter.cfg:3
-#, fuzzy
 msgid "Hunter"
 msgstr "Jägare"
 
@@ -14312,7 +14166,6 @@ msgstr ""
 "vågar attackera med ett regn av pilar."
 
 #: A_New_Order/units/Aragwaith-Lancer.cfg:4
-#, fuzzy
 msgid "Lancer"
 msgstr "Lansiär"
 
@@ -14331,7 +14184,6 @@ msgstr ""
 "på kroppsbyggnad med en smidig natur."
 
 #: A_New_Order/units/Aragwaith-Pikeman.cfg:4
-#, fuzzy
 msgid "Pikeman"
 msgstr "Pikenerare"
 
@@ -14381,9 +14233,8 @@ msgstr "Besvärjare"
 
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:11
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:128
-#, fuzzy
 msgid "cures,teleport"
-msgstr "helar,teleporterar"
+msgstr "helar, teleporterar"
 
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:53
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:170
@@ -14404,7 +14255,6 @@ msgstr ""
 #: A_New_Order/units/Aragwaith-Warlock.cfg:167
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:56
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:173
-#, fuzzy
 msgid "touch"
 msgstr "beröring"
 
@@ -14414,9 +14264,8 @@ msgstr "beröring"
 #: A_New_Order/units/Aragwaith-Warlock.cfg:180
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:69
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:186
-#, fuzzy
 msgid "fireball"
-msgstr "eldboll"
+msgstr "eldklot"
 
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:70
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:187
@@ -14424,7 +14273,6 @@ msgstr "eldboll"
 #: A_New_Order/units/Aragwaith-Warlock.cfg:181
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:70
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:187
-#, fuzzy
 msgid "fire"
 msgstr "eld"
 
@@ -14460,9 +14308,8 @@ msgstr ""
 "har överlevt den långa marchen."
 
 #: A_New_Order/units/Aragwaith-Swordman.cfg:4
-#, fuzzy
 msgid "Swordman"
-msgstr "Svärdskämpe"
+msgstr "Svärdssoldat"
 
 #: A_New_Order/units/Aragwaith-Swordman.cfg:17
 #, fuzzy
@@ -14480,7 +14327,6 @@ msgstr ""
 "vapen som morgonstjärnor eller yxor."
 
 #: A_New_Order/units/Aragwaith-Swordmaster.cfg:4
-#, fuzzy
 msgid "Swordmaster"
 msgstr "Svärdsmästare"
 
@@ -14501,7 +14347,7 @@ msgstr ""
 #: A_New_Order/units/Aragwaith-Warlock.cfg:118
 #, fuzzy
 msgid "Warlock"
-msgstr "Krigsmagiker"
+msgstr "Stridsmagiker"
 
 #: A_New_Order/units/Aragwaith-Warlock.cfg:50
 #: A_New_Order/units/Aragwaith-Warlock.cfg:164
@@ -14517,7 +14363,6 @@ msgstr ""
 
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:4
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:121
-#, fuzzy
 msgid "Wizzard"
 msgstr "Trollkarl"
 
@@ -14555,17 +14400,14 @@ msgstr ""
 "händiga med dem."
 
 #: A_New_Order/units/Brigand.cfg:23
-#, fuzzy
 msgid "sickle"
 msgstr "skära"
 
 #: A_New_Order/units/Ruvio.cfg:40 A_New_Order/units/Brigand.cfg:45
-#, fuzzy
 msgid "crossbow"
 msgstr "armborst"
 
 #: A_New_Order/units/City_Militia.cfg:4
-#, fuzzy
 msgid "City Militia"
 msgstr "Stadsmilitia"
 
@@ -14579,7 +14421,6 @@ msgstr ""
 "roll är vanligtvis att patrullera städerna och vakta stadsmurarna."
 
 #: A_New_Order/units/Fugitive.cfg:4
-#, fuzzy
 msgid "Fugitive"
 msgstr "Flykting"
 
@@ -14598,19 +14439,16 @@ msgstr ""
 
 #: A_New_Order/units/Highwayman.cfg:28 A_New_Order/units/Fugitive.cfg:27
 #: A_New_Order/units/Fugitive.cfg:99
-#, fuzzy
 msgid "mace"
-msgstr "morgonstjärna"
+msgstr "spikklubba"
 
 #: A_New_Order/units/Fugitive.cfg:45 A_New_Order/units/Fugitive.cfg:117
-#, fuzzy
 msgid "sling"
 msgstr "slunga"
 
 #: A_New_Order/units/Fugitive.cfg:76
-#, fuzzy
 msgid "female^Fugitive"
-msgstr "kvinnlig^Flykting"
+msgstr "female^Flykting"
 
 #: A_New_Order/units/Fugitive.cfg:96
 #, fuzzy
@@ -14624,7 +14462,6 @@ msgstr ""
 "deras skönhet är endast överskriden av deras farlighet."
 
 #: A_New_Order/units/Hagarthen.cfg:4
-#, fuzzy
 msgid "Hagarthen"
 msgstr "Hagarthen"
 
@@ -14659,12 +14496,10 @@ msgstr ""
 "större klubba eller kasta saker, men inte både och."
 
 #: A_New_Order/units/Henchman.cfg:27
-#, fuzzy
 msgid "club"
 msgstr "klubba"
 
 #: A_New_Order/units/Highwayman.cfg:5
-#, fuzzy
 msgid "Highwayman"
 msgstr "Stråtrövare"
 
@@ -14678,9 +14513,8 @@ msgstr ""
 "träffa på på en övergiven väg sent på natten."
 
 #: A_New_Order/units/Human-ranger.cfg:4
-#, fuzzy
 msgid "Ranger"
-msgstr "Stigfinnare"
+msgstr "Skogvaktare"
 
 #: A_New_Order/units/Human-ranger.cfg:24
 #, fuzzy
@@ -14690,20 +14524,18 @@ msgid ""
 "the cover of night.  Most rulers are afraid of rangers and would rather put "
 "them in the dungeon than put their abilities to use."
 msgstr ""
-"Skogsvaktarna är vilda män som bemästrar skog och mark. De är utmärkta "
+"Skogvaktarna är vilda män som bemästrar skog och mark. De är utmärkta "
 "spårare, scouter och bågskyttar. De rör sig obehindrat genom landskapen "
 "nattetid. De flesta kungar och ledare är rädda för skogsvaktarna och skulle "
 "hellre sätta dem i fängelse än att använda deras kunskaper."
 
 #: A_New_Order/units/Human-ranger.cfg:63
-#, fuzzy
 msgid "marksman"
-msgstr "Skarpskytt"
+msgstr "skarpskytt"
 
 #: A_New_Order/units/Huntsman.cfg:4
-#, fuzzy
 msgid "Huntsman"
-msgstr "Jägare"
+msgstr "Pälsjägare"
 
 #: A_New_Order/units/Huntsman.cfg:23
 #, fuzzy
@@ -14713,12 +14545,11 @@ msgid ""
 "including people.  Bandit gangs hire them for their ability to bring down "
 "any prey."
 msgstr ""
-"Jägare har spenderat sitt liv i skogarna och träsken vid deras hem. De kan "
-"spåra vad som än rör sig i deras område, inklusive personer. Banditgäng hyr "
-"dem för deras förmåga att jaga alla villbråd."
+"Pälsjägare har spenderat sitt liv i skogarna och träsken vid deras hem. De "
+"kan spåra vad som än rör sig i deras område, inklusive personer. Banditgäng "
+"hyr dem för deras förmåga att jaga alla villbråd."
 
 #: A_New_Order/units/Huntsman.cfg:35
-#, fuzzy
 msgid "dagger"
 msgstr "dolk"
 
@@ -14735,9 +14566,8 @@ msgstr ""
 "öde i livet."
 
 #: A_New_Order/units/Lord_Hagarthen.cfg:4
-#, fuzzy
 msgid "Lord Hagarthen"
-msgstr "Herr Hagarthen"
+msgstr "Furst Hagarthen"
 
 #: A_New_Order/units/Lord_Hagarthen.cfg:19
 #, fuzzy
@@ -14749,77 +14579,62 @@ msgstr ""
 "värdiga att bli kungar. Sådana Hagarthen klanmedlemmar kallas herrar."
 
 #: A_New_Order/units/Medic.cfg:4
-#, fuzzy
 msgid "Medic"
 msgstr "Läkare"
 
 #: A_New_Order/units/Medic.cfg:18
-#, fuzzy
 msgid "Medics are non-combat units, devoted to helping wounded."
 msgstr ""
-"Läkare är inte stridstrupper snarare är de fokuserade på att hjälpa sårade."
 
 #: A_New_Order/units/Rogue_Mage.cfg:4
-#, fuzzy
 msgid "Rogue Mage"
-msgstr "Skurkmagiker"
+msgstr "Rövarmagiker"
 
 #: A_New_Order/units/Rogue_Mage.cfg:21 A_New_Order/units/Shadow_Mage.cfg:27
-#, fuzzy
 msgid "short sword"
 msgstr "kortsvärd"
 
 #: A_New_Order/units/Rogue_Mage.cfg:53
-#, fuzzy
 msgid "missile"
-msgstr "missile"
+msgstr "projektil"
 
 #: A_New_Order/units/Rogue_Mage.cfg:54 A_New_Order/units/Shadow_Mage.cfg:51
 #: A_New_Order/units/Shadow_Lord.cfg:101
-#, fuzzy
 msgid "cold"
-msgstr "kyla"
+msgstr "frost"
 
 #: A_New_Order/units/Ruvio.cfg:19
-#, fuzzy
 msgid ""
 "Always loyally serving royal family of Wesnoth, Ruvio skills in sword and "
 "crossbow became better than above average, to say it modestly; Even though "
 "the age had its impact on Ruvio, he still is dangerous opponent."
-msgstr "Alltid en lojaj "
+msgstr ""
 
 #: A_New_Order/units/Shadow_Lord.cfg:4
-#, fuzzy
 msgid "Shadow Lord"
-msgstr "Skuggmästare"
+msgstr "Skuggfurste"
 
 #: A_New_Order/units/Shadow_Lord.cfg:67
-#, fuzzy
 msgid "astral blade"
-msgstr "Andeblad"
+msgstr "andeklinga"
 
 #: A_New_Order/units/Shadow_Lord.cfg:100
-#, fuzzy
 msgid "shadow bolt"
-msgstr "skuggvig"
+msgstr "skuggvigg"
 
 #: A_New_Order/units/Shadow_Lord.cfg:139
-#, fuzzy
 msgid "shadow blast"
-msgstr "skuggexplosion"
+msgstr "skuggstöt"
 
 #: A_New_Order/units/Shadow_Mage.cfg:4
-#, fuzzy
 msgid "Shadow Mage"
 msgstr "Skuggmagiker"
 
 #: A_New_Order/units/Shadow_Mage.cfg:50
-#, fuzzy
 msgid "ice blast"
-msgstr "isexplosion"
+msgstr "isstöt"
 
 #: A_New_Order/units/YoungHagarthen.cfg:4
-#, fuzzy
 msgid "Young Hagarthen"
 msgstr "Unge Hagarthen"
 
@@ -14835,14 +14650,5 @@ msgstr ""
 "resultat) att bli bättre krigare än andra."
 
 #: A_New_Order/units/YoungHagarthen.cfg:23
-#, fuzzy
 msgid "training sword"
 msgstr "träningssvärd"
-
-#, fuzzy
-#~ msgid "This is debug message."
-#~ msgstr "Det här är ett debugmeddelande"
-
-#, fuzzy
-#~ msgid "This is debug message: ' {TEXT} '"
-#~ msgstr "Det här är ett debugmeddelande"
