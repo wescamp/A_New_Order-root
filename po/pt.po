@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-28 17:38+0200\n"
+"POT-Creation-Date: 2005-11-04 16:22+0100\n"
 "PO-Revision-Date: 2005-10-28 17:38+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -250,7 +250,8 @@ msgstr ""
 #: A_New_Order/scenarios/21bride.cfg:308 A_New_Order/scenarios/22.cfg:354
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:490
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:368
-#: A_New_Order/scenarios/27.cfg:331 A_New_Order/scenarios/9.cfg:154
+#: A_New_Order/scenarios/27.cfg:621 A_New_Order/scenarios/27.cfg:888
+#: A_New_Order/scenarios/9.cfg:154
 msgid "Death of Lady Lorin"
 msgstr ""
 
@@ -648,16 +649,16 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/19oracle.cfg:49 A_New_Order/scenarios/26.cfg:48
-#: A_New_Order/scenarios/30.cfg:93 A_New_Order/scenarios/14orcs.cfg:44
+#: A_New_Order/scenarios/30.cfg:104 A_New_Order/scenarios/14orcs.cfg:44
 #: A_New_Order/scenarios/17.cfg:137 A_New_Order/scenarios/15a.cfg:29
 #: A_New_Order/scenarios/15.cfg:39 A_New_Order/scenarios/11.cfg:32
 #: A_New_Order/scenarios/15b.cfg:40 A_New_Order/scenarios/19a.cfg:34
 #: A_New_Order/scenarios/14healtin.cfg:31 A_New_Order/scenarios/8.cfg:34
 #: A_New_Order/scenarios/21haunted.cfg:35 A_New_Order/scenarios/24.cfg:65
 #: A_New_Order/scenarios/16.cfg:53 A_New_Order/scenarios/19b.cfg:34
-#: A_New_Order/scenarios/21weldyn-b.cfg:94 A_New_Order/scenarios/final.cfg:55
+#: A_New_Order/scenarios/21weldyn-b.cfg:94 A_New_Order/scenarios/final.cfg:87
 #: A_New_Order/scenarios/14bontom.cfg:66 A_New_Order/scenarios/21weldyn.cfg:60
-#: A_New_Order/scenarios/7.cfg:37 A_New_Order/scenarios/29.cfg:42
+#: A_New_Order/scenarios/7.cfg:37 A_New_Order/scenarios/29.cfg:46
 #: A_New_Order/scenarios/20.cfg:59 A_New_Order/scenarios/12.cfg:71
 #: A_New_Order/scenarios/3.cfg:50 A_New_Order/scenarios/25.cfg:206
 #: A_New_Order/scenarios/18.cfg:41 A_New_Order/scenarios/18.cfg:244
@@ -677,7 +678,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/15a.cfg:55 A_New_Order/scenarios/15.cfg:65
 #: A_New_Order/scenarios/11.cfg:58 A_New_Order/scenarios/24.cfg:76
-#: A_New_Order/scenarios/29.cfg:102
+#: A_New_Order/scenarios/29.cfg:106
 msgid "Huon Ryedric"
 msgstr ""
 
@@ -947,7 +948,12 @@ msgstr ""
 #: A_New_Order/scenarios/14bontom.cfg:448 A_New_Order/scenarios/20.cfg:271
 #: A_New_Order/scenarios/20.cfg:327 A_New_Order/scenarios/20.cfg:375
 #: A_New_Order/scenarios/12.cfg:12 A_New_Order/scenarios/25.cfg:694
-#: A_New_Order/scenarios/25.cfg:722 A_New_Order/scenarios/18.cfg:165
+#: A_New_Order/scenarios/25.cfg:722 A_New_Order/scenarios/20macros.cfg:419
+#: A_New_Order/scenarios/20macros.cfg:424
+#: A_New_Order/scenarios/20macros.cfg:430
+#: A_New_Order/scenarios/20macros.cfg:439
+#: A_New_Order/scenarios/20macros.cfg:444
+#: A_New_Order/scenarios/20macros.cfg:450 A_New_Order/scenarios/18.cfg:165
 #: A_New_Order/scenarios/18.cfg:264 A_New_Order/scenarios/18.cfg:330
 #: A_New_Order/scenarios/18.cfg:448 A_New_Order/scenarios/21bride.cfg:18
 #: A_New_Order/scenarios/21bride.cfg:44 A_New_Order/scenarios/21bride.cfg:409
@@ -1123,7 +1129,7 @@ msgstr ""
 #: A_New_Order/scenarios/22.cfg:346
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:486
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:364
-#: A_New_Order/scenarios/27.cfg:327
+#: A_New_Order/scenarios/27.cfg:617 A_New_Order/scenarios/27.cfg:884
 msgid "Death of Gawen Hagarthen"
 msgstr ""
 
@@ -1141,7 +1147,7 @@ msgstr ""
 #: A_New_Order/scenarios/7.cfg:289 A_New_Order/scenarios/28.cfg:550
 #: A_New_Order/scenarios/12.cfg:218 A_New_Order/scenarios/25.cfg:444
 #: A_New_Order/scenarios/21bride.cfg:276 A_New_Order/scenarios/21bride.cfg:304
-#: A_New_Order/scenarios/27.cfg:339
+#: A_New_Order/scenarios/27.cfg:629 A_New_Order/scenarios/27.cfg:896
 msgid "Death of Ruvio"
 msgstr ""
 
@@ -1376,8 +1382,9 @@ msgstr ""
 msgid "And this is good reason, because..?"
 msgstr ""
 
-#: A_New_Order/scenarios/18.cfg:172 A_New_Order/scenarios/18.cfg:337
-#: A_New_Order/scenarios/18.cfg:455 A_New_Order/scenarios/13.cfg:98
+#: A_New_Order/scenarios/20macros.cfg:400 A_New_Order/scenarios/18.cfg:172
+#: A_New_Order/scenarios/18.cfg:337 A_New_Order/scenarios/18.cfg:455
+#: A_New_Order/scenarios/13.cfg:98
 msgid "Because..."
 msgstr ""
 
@@ -2359,6 +2366,8 @@ msgid "He doesn't know anything. Let him go"
 msgstr ""
 
 #: A_New_Order/scenarios/14barnon.cfg:277
+#: A_New_Order/scenarios/20macros.cfg:547
+#: A_New_Order/scenarios/20macros.cfg:606
 msgid "Aaargh!"
 msgstr ""
 
@@ -3386,7 +3395,8 @@ msgstr ""
 #: A_New_Order/scenarios/21haunted.cfg:163 A_New_Order/scenarios/28.cfg:534
 #: A_New_Order/scenarios/25.cfg:436 A_New_Order/scenarios/5a.cfg:127
 #: A_New_Order/scenarios/14saorduc.cfg:217
-#: A_New_Order/scenarios/14saorduc.cfg:227 A_New_Order/scenarios/27.cfg:323
+#: A_New_Order/scenarios/14saorduc.cfg:227 A_New_Order/scenarios/27.cfg:613
+#: A_New_Order/scenarios/27.cfg:880
 msgid "Kill all enemy leaders"
 msgstr ""
 
@@ -3580,6 +3590,7 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/15a.cfg:126 A_New_Order/scenarios/25.cfg:19
+#: A_New_Order/scenarios/20macros.cfg:379
 #: A_New_Order/scenarios/23macros.cfg:16
 #: A_New_Order/scenarios/14saorduc.cfg:10 A_New_Order/scenarios/22.cfg:82
 #: A_New_Order/scenarios/22.cfg:90 A_New_Order/scenarios/22.cfg:105
@@ -6302,14 +6313,20 @@ msgid ""
 "throne without the 'help' of him and under... others."
 msgstr ""
 
+#: A_New_Order/scenarios/20macros.cfg:142
+#: A_New_Order/scenarios/20macros.cfg:157
+#: A_New_Order/scenarios/20macros.cfg:172
+msgid "A Former Friend"
+msgstr ""
+
 #: A_New_Order/scenarios/25.cfg:627 A_New_Order/scenarios/25.cfg:641
-#: A_New_Order/scenarios/25.cfg:655 A_New_Order/scenarios/20macros.cfg:103
-#: A_New_Order/scenarios/20macros.cfg:119
-#: A_New_Order/scenarios/20macros.cfg:137
-#: A_New_Order/scenarios/20macros.cfg:156
-#: A_New_Order/scenarios/20macros.cfg:175
-#: A_New_Order/scenarios/20macros.cfg:191
-#: A_New_Order/scenarios/20macros.cfg:206
+#: A_New_Order/scenarios/25.cfg:655 A_New_Order/scenarios/20macros.cfg:201
+#: A_New_Order/scenarios/20macros.cfg:220
+#: A_New_Order/scenarios/20macros.cfg:238
+#: A_New_Order/scenarios/20macros.cfg:257
+#: A_New_Order/scenarios/20macros.cfg:276
+#: A_New_Order/scenarios/20macros.cfg:292
+#: A_New_Order/scenarios/20macros.cfg:307
 #: A_New_Order/scenarios/23macros.cfg:500
 #: A_New_Order/scenarios/23macros.cfg:514
 #: A_New_Order/scenarios/23macros.cfg:528
@@ -6319,20 +6336,727 @@ msgstr ""
 #: A_New_Order/scenarios/5b.cfg:184 A_New_Order/scenarios/5b.cfg:225
 #: A_New_Order/scenarios/21haunted.cfg:229 A_New_Order/scenarios/25.cfg:632
 #: A_New_Order/scenarios/25.cfg:646 A_New_Order/scenarios/25.cfg:660
-#: A_New_Order/scenarios/20macros.cfg:108
-#: A_New_Order/scenarios/20macros.cfg:124
-#: A_New_Order/scenarios/20macros.cfg:142
-#: A_New_Order/scenarios/20macros.cfg:161
-#: A_New_Order/scenarios/20macros.cfg:180
-#: A_New_Order/scenarios/20macros.cfg:196
-#: A_New_Order/scenarios/20macros.cfg:211
+#: A_New_Order/scenarios/20macros.cfg:206
+#: A_New_Order/scenarios/20macros.cfg:225
+#: A_New_Order/scenarios/20macros.cfg:243
+#: A_New_Order/scenarios/20macros.cfg:262
+#: A_New_Order/scenarios/20macros.cfg:281
+#: A_New_Order/scenarios/20macros.cfg:297
+#: A_New_Order/scenarios/20macros.cfg:312
 #: A_New_Order/scenarios/23macros.cfg:505
 #: A_New_Order/scenarios/23macros.cfg:533 A_New_Order/scenarios/22.cfg:548
 msgid "You have received 50 gold pieces"
 msgstr ""
 
-#: A_New_Order/scenarios/20macros.cfg:299
+#: A_New_Order/scenarios/20macros.cfg:208
+msgid "OOPOS"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:319
+msgid ""
+"False king - do you enjoying your frail victory? Ha, ha, go to that witch, "
+"your step-mother, and screw her until you still have time..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:320
+msgid ""
+"I've never tortured any prisoner and I've never hurt anyone who was "
+"innocent, as far as I know. But you, Cryne... You have killed Karen."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:321
+msgid "You think I am afraid?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:322
+msgid ""
+"I won't hurt you - I will give you to children of those Wesnothians murdered "
+"at Freetown. Great warrior killed by children - what about it?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:323
+msgid ""
+"You won't do it, mixling. I've heard a lot about you and I knew you before. "
+"It does not suit you. You are walking honour brought to life."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:324
+msgid "Don't test me, Cryne."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:328
+msgid "Bor Cryne, tell me..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:329
+msgid "Who have hired assassin who was sent after me?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:330
+msgid "Why you allied with orcs and Grekulak?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:331
+msgid "Who poisoned my mother?"
+msgstr ""
+
+#: A_New_Order/scenarios/8.cfg:361 A_New_Order/scenarios/20macros.cfg:332
+msgid "That's all I wanted to know"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:337
+msgid ""
+"You really don't know? Ha, ha! I forgot - you are so away from the real "
+"life. Gallorae's did. The clan of your step-mother. Ha, ha, ha! You really "
+"didn't know! I wish I could see Lorin's face, when you will skin her alive!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:340
+msgid "To purify the world and prepare it for the coming of God's messiah!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:341
+msgid "Do you really believe in that? Do you, Bor?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:342
+msgid ""
+"And do you believe you are messiah? We would kill all underling's friends "
+"and anything would be as it should be. Grekulak would rule the world, we, "
+"Akladians would rule the humans and I would rule Akladians..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:345
+msgid ""
+"I did! And I regret he failed - but what one can expect from underling..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:356
+msgid ""
+"Uri van Roe - do you remember that day on Barnon, when you have betrayed me?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:357
+msgid ""
+"You? Betrayed you? You mixling, you underling, you never were my king - no "
+"Akladian worth of this word could serve creature like you!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:358
+msgid "Do you believe in God, Uri?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:359
+msgid "I... what?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:360
+msgid ""
+"Why I was able to win? Why I am able to defeat people like you? Why "
+"Akladians, who allied with so called 'underlings' are alive and well, and "
+"those, who were with you and Bor, are cursed by all Akladian and Wesnothian "
+"people alike?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:361
+msgid ""
+"God withdraw his support from us, because we abandoned his paths, and he is "
+"punishing us."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:362
+msgid ""
+"Think about it, Uri. Indeed, you have abandoned his paths. Because it is you "
+"who are punished, not those, who are with me."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:367
+msgid "Human.. killed me.. Human..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:368
+msgid "Listen, orc.."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:369
+msgid "I won't stop until the last one of you is killed"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:370
+msgid "I feel no hate for you"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:373
+msgid ""
+"Human killed you - and human will kill all your soldiers, to the last orc..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:375
+msgid "I feel no hate for you. You fought well."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:376
+msgid ""
+"I've never heard human talking like this to orcs.. It is said that there is "
+"eternal hatred between our kinds, and our two races cannot live together on "
+"this world created by Mother Earth."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:377
+msgid ""
+"How can I hate the orcs after what I've heard from Deorien? Die in peace, "
+"warrior."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:378
+msgid ""
+"No, wait.. before I die.. My soldiers were dying her, and now I am asking "
+"myself, what for? Why should more of them die here? They would die here "
+"gaining nothing for ourselves. Would you allow my warriors to leave?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:380
+msgid "I'm sorry, I can't risk."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:381
+msgid "I agree."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:384
+msgid ""
+"I'm sorry, but I can't risk. If I would allow your soldiers to leave, they "
+"will surely go back one day and strike us."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:386
+msgid "Yes, I will agree. I will let your soldiers out."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:387
+msgid "Thank you, human. My soldiers, stop fighting and return to your homes!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:397
+msgid "Aargh! I feel... cold..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:398
+msgid "No, wait, don't die yet - please, answer me few questions..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:399
+msgid "And why.. should I do i?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:401
+msgid "They are different kinds of death."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:402
+msgid "Because your king ask you"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:406
+msgid ""
+"You are trying to scare me? Ha, ha.. I am dying already... And I won't tell "
+"you anything."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:408
+msgid "My king? Ha, ha, that's funny.. I have no king..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:409
+msgid "Then tell me because I made you laugh before death."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:410
+msgid "All right then. Ask me, young king."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:416
+#: A_New_Order/scenarios/20macros.cfg:422
+#: A_New_Order/scenarios/20macros.cfg:428
+#: A_New_Order/scenarios/20macros.cfg:436
+#: A_New_Order/scenarios/20macros.cfg:442
+#: A_New_Order/scenarios/20macros.cfg:448
+msgid "Please tell me.."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:417
+#: A_New_Order/scenarios/20macros.cfg:437
+msgid "Who have hired assassin who was sent to kill me?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:418
+#: A_New_Order/scenarios/20macros.cfg:423
+#: A_New_Order/scenarios/20macros.cfg:429
+msgid "Do you sell the poisons?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:438
+#: A_New_Order/scenarios/20macros.cfg:443
+#: A_New_Order/scenarios/20macros.cfg:449
+msgid "You sold poison to Lorin's clan once."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:458
+msgid "Lorin's clan once bought the poison from the outlaws. Do you know why?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:459
+msgid "Yes.. I remember it. Indeed, they bought poison from us. <cough>"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:460
+msgid "But why? And when?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:461
+msgid ""
+"I don't know for sure, but it was just before your mother was poisoned. The "
+"poison we sold them was very specific - it's hard to mistake the symptoms."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:462
+msgid ""
+"Everything I've heard about your mother's death, fits perfectly our poison. "
+"I can't be sure, of course, but I think Lorin's clan bought the poison to "
+"kill your mother... <cough>"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:465
+msgid ""
+"As outlaw, you know probably a lot about poisons.. My mother was poisoned.. "
+"Do you know who could do it?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:466
+msgid ""
+"I'm sorry, but I cannot help you here. Akladian clans do buy poison from us "
+"here and there, but if you can't give me some clues, I won't be able to help "
+"you."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:468
+msgid ""
+"There was assassin who was send after me. He was interrogated and he "
+"testified he was send from Outlaw Place. It was almost two years ago - can "
+"you remember who have hired him?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:469
+msgid ""
+"Of course.. I remembered it, because it was such unusual for Akladians to "
+"ask us for such a thing.. And it started our contacts."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:470
+msgid "Akladian? Who was is then?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:471
+msgid ""
+"And who if not Bor Cryne... <cough> If you have any other questions, hurry, "
+"because I can feel the death is just few steps from me..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:484
+msgid ""
+"One necromant goes down - the world seems a little bit happier because of "
+"this."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:485
+msgid ""
+"I am not really dying! I am just switching my existence to another level..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:490
+msgid ""
+"Wait! You could be my right hand. You could be second just to the God ruling "
+"the world. All gold of all continents, all woman and everything you could "
+"dream for... "
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:491
+msgid ""
+"There is only one thing I was dreaming about, and you could do nothing do "
+"make it real."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:492
+msgid ""
+"Was it a woman? I know people all too well, I was amongst them for hundred "
+"years. She died, and you wish she would be with you? I can make it real. I "
+"can bring her back."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:493
+msgid ""
+"You could bring back only a thing which would be mockery of her former self. "
+"There is no place under the sun for things you would want to do."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:494
+#: A_New_Order/scenarios/20macros.cfg:567
+#: A_New_Order/scenarios/20macros.cfg:589
+#: A_New_Order/scenarios/20macros.cfg:808
+msgid ""
+"Curse you, whole Akladian race! Curse you! And I put my curse on you, Gawen "
+"Hagarthen!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:495
+#: A_New_Order/scenarios/20macros.cfg:568
+#: A_New_Order/scenarios/20macros.cfg:590
+#: A_New_Order/scenarios/20macros.cfg:809
+msgid "Oh no! Our spiritual leader is dead! Run for your life!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:496
+#: A_New_Order/scenarios/20macros.cfg:569
+#: A_New_Order/scenarios/20macros.cfg:591
+#: A_New_Order/scenarios/20macros.cfg:810
+msgid "Master! Master! Without your will, our army will stop to exist! Noooo!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:505
+msgid "I am dying, human, but you will be dead too, soon!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:506
+msgid ""
+"Why that hate? I do not hate you. Why you are fighting us? the fruits of our "
+"defeat will be harvested by Grekulak alone."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:507
+msgid ""
+"And Grekulak is our spiritual leader, stupid human. He will lead our race to "
+"greatness!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:508
+msgid "Isn't Grekulak human? And isn't he leading undead for greatness!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:509
+msgid ""
+"No.. Stop trying to fool me.. I will die loyal to our spiritual leader..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:514
+msgid "From all people on the world, it had to be you!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:515
+msgid "Yes, Bor. It have to be me. You know it have to be me."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:516
+msgid "Lorin... Do it fast."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:517
+msgid "Why? You are afraid of pain?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:518
+msgid "Of pain? Never. But I don't want underlings to see me screaming"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:519
+msgid "That one wish I can grat you, Bor."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:524
+msgid "Uri! Oh, How I am happy to see your face again!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:525
+msgid ""
+"Shut up, your witch. You betrayed our race - you are allied to that mixling, "
+"and fight alongside underlings!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:526
+msgid ""
+"Betrayed? You know, what I've learned? Many of those underlings are far "
+"better than many of people from our race. Many of them better know the "
+"meaning of the words like honour, courage than many of our people."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:527
+msgid ""
+"Ha, ha, and who is speaking that? Hey, Gawen, have you ever asked Lorin "
+"about how your mother died? Have you.. aaargh!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:528
+msgid "Be queiet, stupid man. No one wants to hear your lies."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:533
+msgid "I know you - I've heard about you! She-wolf of Haeltin!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:534
+msgid "Oh thank you, yes, I am she-wolf of Haeltin."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:535
+msgid "Then it is not that graet disgrace as I thought..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:536
+#: A_New_Order/scenarios/20macros.cfg:581
+msgid "Frankly, I don't care."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:541
+msgid "Outlaw now, outlife soon."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:542
+msgid "Mother, wait! Don't kill him! I would want to ask him few questions!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:543
+msgid "What questions?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:544
+msgid "And who said I will answer any your qeustion?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:545
+msgid ""
+"Underling, keep your mouth shut. When I will want you to give me the "
+"answers, you will. I am master of the sword - but calling me the master of "
+"the knife would be far underestimating my skills, when it comes to getting "
+"people to talk."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:546
+msgid ""
+"My true mother... Ask him whether he knows who poisoned my true mother? "
+"And..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:548
+msgid "Oh, my God! He was more heavily wounded than I thought. He just passed."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:564
+msgid ""
+"Ha! Bald man, you look quite nice without hair - wonder how you would look "
+"without ears."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:565
+msgid ""
+"Stupid woman, I am your God! I created you! Whole your race! You are mine, "
+"you will be mine always!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:566
+msgid ""
+"...aaand if I will cut you also the nose, you will look like an egg with "
+"hands and legs! Awesome idea!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:578
+msgid "Oh nooo... Woman.. Human woman has killed me.."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:579
+msgid ""
+"That human woman already killed dozens of other orcs, foul creature. And "
+"every one of them was saying the same."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:580
+msgid ""
+"Wait a moment! You are She-wolf of Haeltin? Then it is not that graet "
+"disgrace as I thought..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:586
+msgid ""
+"Grekulak, it is time for you to find final rest. Too many ages you were "
+"wandering this earth. Too many tears felt on the earth because of you."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:587
+msgid ""
+"You know nothing, stupid man. My goals.. And plans.. you can't even graps "
+"their greatness."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:588
+msgid ""
+"Greatness? I can see only the madness in everything you did. Die now... and "
+"despite whole evil you did on this earth, I hope your spiri will find the "
+"path to the light."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:600
+msgid "What will you say now, Cryne? Heinous gelding, you.. you.."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:601
+msgid ""
+"Ha, ha, ha! I spit on you, underling! Nothing will change the fact that I "
+"had you wife and all daughters! Your spirit will straggle for the end of "
+"eternity in the land of ancestors, for no one will care for you memory and "
+"you will leave no heir!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:602
+msgid "Neither will you."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:603
+msgid "I have a son, stupid underling!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:604
+msgid "He won't care for your memory. I will make sure of that, I promise you."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:605
+msgid "Ruvio!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:607
+msgid ""
+"What did you mean, Ruvio? I won't allow for punishing Cryne's children for "
+"his father's sins."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:608
+msgid ""
+"I won't do nothing to Cryne's son, my lord - I won't to adopt him and raise "
+"him as Wesnothian."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:609
+msgid "You have my promise I will help you, Ruvio."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:615
+msgid ""
+"Ha, underling! Before I die, I will spit on you and your whole worthless "
+"race!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:616
+msgid ""
+"Whatever you will do, you will be dead, and with you all your ideas, every "
+"theory you believed in will be dead as well. Wesnoth will be restored, and "
+"Akladians and Wesnothians will live in peace."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:617
+msgid ""
+"Wesnothians! Bunch of flabby wimps! Band of stinking lobs! <coughs> You... "
+"you..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:618
+msgid ""
+"Yes, foam and float, nobody will listen to you... And, by the way, give me "
+"your sword."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:619
+msgid "No! No! Where do you go... go back! I can't die without sword in hand!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:627
 msgid "Oh no! My most loyal slave is killed!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:641
+msgid "Arise, my slave, arise!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:648
+msgid "Shadow of Mal-Raylal"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:682
+#: A_New_Order/scenarios/20macros.cfg:696
+msgid "Arise, my slave, arise! Why you are deaf to my calls?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:683
+#: A_New_Order/scenarios/20macros.cfg:697
+msgid "Who dies from my hand, is dead forever."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:712
+msgid "Bor, I am calling to you! Arise, arise!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:719
+msgid "Undead Bor Cryne"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:746
+msgid "No! How many times I will have to kill you!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:748
+msgid "So I will have a chance to kill you anyway!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:762
+msgid "Be gone now, creature of the night!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:774
+msgid ""
+"Oh how I am scared! Ha! Ha! You came to me because you want to join your "
+"family, underling? Come and taste my blade!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:775
+msgid ""
+"I will wipe that smile from your face - my wife and daughters, I will avenge "
+"you!!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:788
+msgid ""
+"Why.. Why... I asked only for one thing, and yet it was refused to me..."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:838
+msgid "Rise up, rise up! Join my army! Why you are not rising up!?"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:839
+msgid ""
+"You overestimate your strength, Grekulak. White mages and Mages of Light "
+"will protect fallen units from being resurrected by you!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:841
+msgid "How can this be? He is rising our dead!"
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:842
+msgid ""
+"My lord, fortunately this Grekulak is not as good as I was afraid of. He "
+"cannot rise people, who died while being close to white magi or magi of "
+"light."
+msgstr ""
+
+#: A_New_Order/scenarios/20macros.cfg:875
+msgid "I think it's time to get use of all our reserves!"
 msgstr ""
 
 #: A_New_Order/scenarios/21bride.cfg:3
@@ -6484,7 +7208,7 @@ msgstr ""
 #: A_New_Order/scenarios/21haunted.cfg:155 A_New_Order/scenarios/28.cfg:546
 #: A_New_Order/scenarios/25.cfg:452 A_New_Order/scenarios/23macros.cfg:594
 #: A_New_Order/scenarios/21bride.cfg:284 A_New_Order/scenarios/22.cfg:350
-#: A_New_Order/scenarios/27.cfg:335
+#: A_New_Order/scenarios/27.cfg:625 A_New_Order/scenarios/27.cfg:892
 msgid "Death of Deorien"
 msgstr ""
 
@@ -8617,7 +9341,7 @@ msgid "Yeah! OH MY GOD, I am agreeing with an underling!"
 msgstr ""
 
 #: A_New_Order/scenarios/28.cfg:554 A_New_Order/scenarios/25.cfg:456
-#: A_New_Order/scenarios/27.cfg:343
+#: A_New_Order/scenarios/27.cfg:633 A_New_Order/scenarios/27.cfg:900
 msgid "Death of Huon Ryedric"
 msgstr ""
 
@@ -8758,7 +9482,7 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/28.cfg:657 A_New_Order/scenarios/25.cfg:669
-#: A_New_Order/scenarios/27.cfg:419
+#: A_New_Order/scenarios/27.cfg:753
 msgid "Aaargh! I haven't revenged my family!"
 msgstr ""
 
@@ -8984,93 +9708,328 @@ msgstr ""
 
 #: A_New_Order/scenarios/27.cfg:16
 msgid ""
-"This is for now just dummy scenario, so you have chance to save game. You "
-"will be transferred to temporary final. BTW, the campaign is ALMOST finished "
-"- I am preparing just two another combat and one non-combat scenarios."
+"Gawen and his army marched out of Vattin. Bor Cryne wasn't waiting - "
+"realising, that his only chance is to join with Grekulak hordes advancing "
+"from east, he left his hide with all forces he could gather. Many Akladian "
+"lords and large part of orcs already abandoned him by this time."
 msgstr ""
 
-#: A_New_Order/scenarios/28.cfg:120 A_New_Order/scenarios/27.cfg:121
+#: A_New_Order/scenarios/27.cfg:19
+msgid ""
+"Both forces met at the fields which were later called Orannon, which in "
+"Akladian means 'battlefield'. This day was to be remembered for many "
+"generations to come - also by crows and wolves, who by decades couldn't "
+"expect for such abundant amount of bodies."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:120 A_New_Order/scenarios/27.cfg:124
 msgid "Borlug"
 msgstr ""
 
-#: A_New_Order/scenarios/28.cfg:155 A_New_Order/scenarios/27.cfg:156
+#: A_New_Order/scenarios/28.cfg:155 A_New_Order/scenarios/27.cfg:159
 msgid "Uri van Roe"
 msgstr ""
 
-#: A_New_Order/scenarios/28.cfg:208 A_New_Order/scenarios/27.cfg:209
+#: A_New_Order/scenarios/28.cfg:208 A_New_Order/scenarios/27.cfg:212
 msgid "Robert the Hefty"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:295
+#: A_New_Order/scenarios/28.cfg:240 A_New_Order/scenarios/27.cfg:244
+msgid "Mal-Raylal"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:321 A_New_Order/scenarios/27.cfg:326
+msgid "Grekulak"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:402 A_New_Order/scenarios/27.cfg:408
+msgid "Warh Arug"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:585
 msgid "Remember the Freetown!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:302 A_New_Order/scenarios/27.cfg:304
+#: A_New_Order/scenarios/27.cfg:592 A_New_Order/scenarios/27.cfg:594
 msgid ""
 "My lord, our scouts reported that Grekulak is much closer than we thought. "
 "He is just two days of march from here - two days from undead army that is, "
 "since they can march without the rest night and day."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:306
+#: A_New_Order/scenarios/27.cfg:596
 msgid "Two days? It's impossible to defeat them within two days."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:307
+#: A_New_Order/scenarios/27.cfg:597
 msgid ""
 "Then kill as many of them as it is possible and choose good defensive "
 "position until Grekulak's army will come here."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:308
+#: A_New_Order/scenarios/27.cfg:598
 msgid ""
 "Indeed. We will have no time to rest and cure our wounded. But maybe it "
 "won't be necessary, we should negotiate first.."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:310
+#: A_New_Order/scenarios/27.cfg:600
 msgid "Hey, who's there? The little boy with his mommy!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:311
+#: A_New_Order/scenarios/27.cfg:601
 msgid ""
-"Bor Cryne - finally I meet you. You will pay me for everything you have done"
+"Bor Cryne - finally I meet you. You will pay me for everything you have done."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:312
+#: A_New_Order/scenarios/27.cfg:602
 msgid ""
 "Oh how am I scared. And there, isn't that the famous rebel leader, Ruvio? "
 "Unfortunately he was such a coward he abandoned his family in Freetown when "
 "he heard we are coming for them."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:313
+#: A_New_Order/scenarios/27.cfg:603
 msgid "My lord.. Please.. I want to kill him. Leave him to me.."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:314
+#: A_New_Order/scenarios/27.cfg:604
 msgid ""
 "I wish you were as pretty as your daughters, Ruvio. I could do to you the "
 "same I've done to them. Especially the redhead, what was her name? The "
 "fighting one. She was the best."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:315
+#: A_New_Order/scenarios/27.cfg:605
 msgid "Kill them. Kill them all. Have no mercy."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:316
+#: A_New_Order/scenarios/27.cfg:606
 msgid ""
 "My lord, we should try negotiations first. Grekulak is enemy of every one, "
 "and..."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:317
+#: A_New_Order/scenarios/27.cfg:607
 msgid "Remember the Freetown! Remember the Freetown! Kill them all!"
 msgstr ""
 
-#: A_New_Order/scenarios/28.cfg:530 A_New_Order/scenarios/27.cfg:321
+#: A_New_Order/scenarios/28.cfg:530 A_New_Order/scenarios/27.cfg:611
+#: A_New_Order/scenarios/27.cfg:878
 msgid "In this scenario, only Gawen and Lorin may interrogate enemy leaders"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:663
+msgid "Luc Hagarthen"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:677
+msgid "Gauri Hagarthen"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:703
+msgid ""
+"Aaaah, we were late! Our cousin had all the fun and left nothing for us!"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:704
+msgid "We would be here earlier, if not you, brother!"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:705
+msgid ""
+"Me? And who wanted to check whether the wine in Vakladia tastes differently "
+"than in Guilcorta?"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:706
+msgid "And what about the girls in that town?"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:707
+msgid "Who are you? Friend or foe?"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:708
+msgid ""
+"We are Luc and Gauri Hagarthens, your loyal swords from Guilcorta, your "
+"cousins, dear... uhmm.. how should we address you, your majesty, cousin, or "
+"maybe.. messiah?"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:709
+msgid "My king would be enough. You are welcomed here, even if a bit late."
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:863
+msgid "Ha ha! You are doomed!"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:864
+msgid ""
+"I am your new master. Recognise me as your lord and you will be spared. Try "
+"to oppose me and you will be killed and raised as my mindless slaves."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:521 A_New_Order/scenarios/27.cfg:867
+msgid "Lady Lorin, are you sure you can participate in a battle?"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:522 A_New_Order/scenarios/27.cfg:868
+msgid "And why not, foul and rude mage?"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:869
+msgid ""
+"As I said before, I KNOW. I also know that ANY effort may be extremely "
+"dangerous for you."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:524 A_New_Order/scenarios/27.cfg:870
+msgid ""
+"I am LORIN, foul mage, that's for one. And for two, I am not Wesnothian "
+"woman, the kind you are used to, but Akladian. I can fight until.. as long "
+"as I want."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:525 A_New_Order/scenarios/27.cfg:871
+msgid ""
+"My king, please take my advise. Order Lorin to withdraw into the castle. No "
+"matter how she will boast and flaunt with her being Akladian woman, I am "
+"quite sure she shouldn't be here."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:526 A_New_Order/scenarios/27.cfg:872
+msgid ""
+"But why? I don't understand. Besides, Lorin is fine warrior, and withdrawing "
+"her from battle may be.."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:527 A_New_Order/scenarios/27.cfg:873
+msgid "I am mage, my king. Believe me, withdraw her into our castle."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:528 A_New_Order/scenarios/27.cfg:874
+msgid "FOUL mage. You should have said: 'I am FOUL mage'."
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:915
+msgid ""
+"\n"
+"Forces of Darkness, come to my aid -\n"
+"\n"
+"Let there will be eternal night;\n"
+"\n"
+"Let your eyes will become blind -\n"
+"\n"
+"Forces of Darkness will consume your mind."
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:983
+msgid "NO! Avaunt, the darkness, avaunt, the night!"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:1008
+msgid "How is it possible? Who could break my enchantment so easily?"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:1009
+msgid ""
+"Even a child could do it, so weak it was, as all of your heinous black "
+"magic; for all your power comes from lies and deceit solely."
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:1010
+msgid "Brave word - and who is uttering them?"
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:1011
+msgid "Deorien, mage of light - whose might will defeat the night."
+msgstr ""
+
+#: A_New_Order/scenarios/27.cfg:1012
+msgid ""
+"Good mage, but awful poet. Deorien, you will be mine before this battle will "
+"end."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:564 A_New_Order/scenarios/27.cfg:1019
+msgid "Aaaah!"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:565 A_New_Order/scenarios/27.cfg:1020
+msgid "What happened? Mother?"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:566 A_New_Order/scenarios/27.cfg:1021
+msgid "It's nothing.. It's nothing... I just.. I can't..."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:567 A_New_Order/scenarios/27.cfg:1022
+msgid "Ekhm."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:568 A_New_Order/scenarios/27.cfg:1023
+msgid "Shut up, mage. I will fight, I just have to rest for a moment..."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:569 A_New_Order/scenarios/27.cfg:1024
+msgid ""
+"No, you can't. My lord, withdraw Lorin to our castle's keep immedietely. She "
+"is unable to fight now."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:581 A_New_Order/scenarios/27.cfg:1036
+msgid "I AM in a castle's keep, you idiot."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:582 A_New_Order/scenarios/27.cfg:1037
+msgid ""
+"Good. Now, go to bedroom. I will sent someone to take care of you "
+"immedietely."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:591 A_New_Order/scenarios/28.cfg:597
+#: A_New_Order/scenarios/27.cfg:1046 A_New_Order/scenarios/27.cfg:1052
+msgid "Shut up, I can fight, I just have to get some rest!"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:593 A_New_Order/scenarios/28.cfg:599
+#: A_New_Order/scenarios/27.cfg:1048 A_New_Order/scenarios/27.cfg:1054
+msgid ""
+"You have to withdraw Lady Lorin to your initial castle's keep within 6 turns."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:613 A_New_Order/scenarios/27.cfg:1068
+msgid "I really can fight!"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:614 A_New_Order/scenarios/27.cfg:1069
+msgid "Yes, you can. But what about IT?"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:615 A_New_Order/scenarios/27.cfg:1070
+msgid "IT?"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:631 A_New_Order/scenarios/27.cfg:1087
+msgid "Aaah! I can't handle this pain!"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:632 A_New_Order/scenarios/27.cfg:1088
+msgid "What happened? What?"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:633 A_New_Order/scenarios/27.cfg:1089
+msgid "I've told you. She miscarried."
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:634 A_New_Order/scenarios/27.cfg:1090
+msgid "She WHAT?"
+msgstr ""
+
+#: A_New_Order/scenarios/28.cfg:635 A_New_Order/scenarios/27.cfg:1091
+msgid "Noooooo!"
 msgstr ""
 
 #: A_New_Order/scenarios/28.cfg:3
@@ -9081,331 +10040,217 @@ msgstr ""
 msgid "No story yet"
 msgstr ""
 
-#: A_New_Order/scenarios/28.cfg:240
-msgid "Mal-Raylal"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:321
-msgid "Grekulak"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:402
-msgid "Warh Arug"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:521
-msgid "Lady Lorin, are you sure you can participate in a battle?"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:522
-msgid "And why not, foul and rude mage?"
-msgstr ""
-
 #: A_New_Order/scenarios/28.cfg:523
 msgid ""
 "As I said before, I KNOW. I also know that any effort for you maybe "
 "extremely dangerous."
 msgstr ""
 
-#: A_New_Order/scenarios/28.cfg:524
-msgid ""
-"I am LORIN, foul mage, that's for one. And for two, I am not Wesnothian "
-"woman, the kind you are used to, but Akladian. I can fight until.. as long "
-"as I want."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:525
-msgid ""
-"My king, please take my advise. Order Lorin to withdraw into the castle. No "
-"matter how she will boast and flaunt with her being Akladian woman, I am "
-"quite sure she shouldn't be here."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:526
-msgid ""
-"But why? I don't understand. Besides, Lorin is fine warrior, and withdrawing "
-"her from battle may be.."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:527
-msgid "I am mage, my king. Believe me, withdraw her into our castle."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:528
-msgid "FOUL mage. You should have said: 'I am FOUL mage'."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:564
-msgid "Aaaah!"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:565
-msgid "What happened? Mother?"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:566
-msgid "It's nothing.. It's nothing... I just.. I can't..."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:567
-msgid "Ekhm."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:568
-msgid "Shut up, mage. I will fight, I just have to rest for a moment..."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:569
-msgid ""
-"No, you can't. My lord, withdraw Lorin to our castle's keep immedietely. She "
-"is unable to fight now."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:581
-msgid "I AM in a castle's keep, you idiot."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:582
-msgid ""
-"Good. Now, go to bedroom. I will sent someone to take care of you "
-"immedietely."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:591 A_New_Order/scenarios/28.cfg:597
-msgid "Shut up, I can fight, I just have to get some rest!"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:593 A_New_Order/scenarios/28.cfg:599
-msgid ""
-"You have to withdraw Lady Lorin to your initial castle's keep within 6 turns."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:613
-msgid "I really can fight!"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:614
-msgid "Yes, you can. But what about IT?"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:615
-msgid "IT?"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:631
-msgid "Aaah! I can't handle this pain!"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:632
-msgid "What happened? What?"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:633
-msgid "I've told you. She miscarried."
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:634
-msgid "She WHAT?"
-msgstr ""
-
-#: A_New_Order/scenarios/28.cfg:635
-msgid "Noooooo!"
-msgstr ""
-
 #: A_New_Order/scenarios/29.cfg:13
-msgid "No story"
-msgstr ""
-
-#: A_New_Order/scenarios/29.cfg:154
 msgid ""
-"What does supposed to mean? Where is my step-mother? What have you done to "
-"her and why? Speak, I demand explanation!"
+"When I came back to the castle, it looked like a beehive with so many "
+"Akladians running here and there. When I asked, where is Lady Lorin, they "
+"were avoiding my eyes and were muttering something incoherently."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:155
+#: A_New_Order/scenarios/29.cfg:16
 msgid ""
-"My king, I apologise. People acted are little bit too fast. I hope you won't "
-"take it as offense of your majesty."
-msgstr ""
-
-#: A_New_Order/scenarios/29.cfg:156
-msgid "To heck with my majesty, where is she?"
-msgstr ""
-
-#: A_New_Order/scenarios/29.cfg:157
-msgid "Well, I don't know how to say it. Lady Lorin is..."
+"Finally one of them said that Lady Lorin commited some kind of terrible "
+"crime, and she was caught by the guards; she tried to defend herself, but "
+"was still too weak after this strange accident on the battlefield and was "
+"easily overcomed."
 msgstr ""
 
 #: A_New_Order/scenarios/29.cfg:158
-msgid "The witch is pregnant."
+msgid ""
+"What's it supposed to mean? Where is my step-mother? What have you done to "
+"her and why? Speak, I demand explanation!"
 msgstr ""
 
 #: A_New_Order/scenarios/29.cfg:159
-msgid "She's what?!"
+msgid ""
+"My king, I apologise. People acted a little bit too fast. I hope you won't "
+"take it as offense of your majesty."
 msgstr ""
 
 #: A_New_Order/scenarios/29.cfg:160
-msgid ""
-"She is pregnant. Since soon almost two years will pass since her husband "
-"died, that means she betrayed her husband."
+msgid "To hell with my majesty, where is she?"
 msgstr ""
 
 #: A_New_Order/scenarios/29.cfg:161
+msgid "Well, I don't know how to say it. Lady Lorin is..."
+msgstr ""
+
+#: A_New_Order/scenarios/29.cfg:162
+msgid "The witch is pregnant."
+msgstr ""
+
+#: A_New_Order/scenarios/29.cfg:163
+msgid "She's what?!"
+msgstr ""
+
+#: A_New_Order/scenarios/29.cfg:164
+msgid ""
+"She is pregnant. Since almost two years will pass soon since her husband, "
+"and your father, died, that means she betrayed him."
+msgstr ""
+
+#: A_New_Order/scenarios/29.cfg:165
 msgid ""
 "Our customs are very specific about that. Widow cannot marry any other man, "
 "and cannot know any other man in physical way."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:162
+#: A_New_Order/scenarios/29.cfg:166
 msgid "In other words, the witch must die."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:163
+#: A_New_Order/scenarios/29.cfg:167
 msgid "Remember, that she's king's step-mother."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:164
+#: A_New_Order/scenarios/29.cfg:168
 msgid "That's ridiculous. I want her to be released immedietely, and then ..."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:165
+#: A_New_Order/scenarios/29.cfg:169
 msgid ""
 "You want to start your rule with violation of our customs? We agreed for "
-"some rights for Wesnothians, we tolerate MAGE here and ELVES, but changing "
-"OUR way of life?"
+"some rights for Wesnothians, we tolerate MAGE here and even the ELVES, but "
+"changing OUR way of life?"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:166
+#: A_New_Order/scenarios/29.cfg:170
 msgid ""
 "I am messiah, dammit. I declare that those customs are no longer valid. "
 "Release her"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:167
+#: A_New_Order/scenarios/29.cfg:171
 msgid "If you will, then I couldn't be loyal to you."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:168
+#: A_New_Order/scenarios/29.cfg:172
 msgid "Neither me."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:169
+#: A_New_Order/scenarios/29.cfg:173
 msgid "Or me. That would be offense for your father."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:171
+#: A_New_Order/scenarios/29.cfg:175
 msgid ""
 "That's ridiculous! If that would be some other woman, you would not be so "
 "stringent about it!"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:172
+#: A_New_Order/scenarios/29.cfg:176
 msgid ""
-"This is not some other woman, but this is wife of one king and mother of "
+"This is not some other woman, but wife of one king and step-mother of "
 "another."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:173
+#: A_New_Order/scenarios/29.cfg:177
 msgid "That's... Ruvio, Huon!"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:174
+#: A_New_Order/scenarios/29.cfg:178
 msgid ""
 "My king, we cannot risk another civil war because of one woman. You should "
 "listen to those.. noble lords. You are king of both Akladians and "
 "Wesnothians and you should respect the customs of both nations."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:175
+#: A_New_Order/scenarios/29.cfg:179
 msgid ""
 "For God's sake, Huon, it was not her who gave the location of Freetown to "
 "Bor Cryne!"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:176
+#: A_New_Order/scenarios/29.cfg:180
 msgid ""
 "You must to decide, my lord. Also, we have to find the father of the child. "
 "He would have to be killed as well, because such man is unworthy to be alive "
 "since his life is offense to God's eyes."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:177
+#: A_New_Order/scenarios/29.cfg:181
 msgid "<whispering to himself> Oh my God, Yaranov..."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:178
+#: A_New_Order/scenarios/29.cfg:182
 msgid "My lord?"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:179
+#: A_New_Order/scenarios/29.cfg:183
 msgid "Nothing."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:180
+#: A_New_Order/scenarios/29.cfg:184
 msgid ""
 "Noble lords, my king. I am mage. I know what you feel about me. However, I "
-"have one proposition, which should make happy both you and at least king."
+"have one proposal, which should make happy both you and, I hope, the king."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:181
+#: A_New_Order/scenarios/29.cfg:185
 msgid ""
 "Why to kill her? I know your customs. I've heard about woman which were left "
-"alive, and only hers eyes were taken."
+"alive after betraying their husbands, and only hers eyes were taken."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:182
+#: A_New_Order/scenarios/29.cfg:186
 msgid ""
 "It's the same. Man or woman who cannot see is dead, since he belongs to the "
 "darkness."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:183
+#: A_New_Order/scenarios/29.cfg:187
 msgid "Exactly. So, take the eyes of Lorin and leave her alive."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:184
-msgid "Leave her alive, so she could live here, amongst us? No, that's..."
+#: A_New_Order/scenarios/29.cfg:188
+msgid "Leave her alive, so she could be here, amongst us? No, that's..."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:185
+#: A_New_Order/scenarios/29.cfg:189
 msgid "She could be exiled."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:186
+#: A_New_Order/scenarios/29.cfg:190
 msgid ""
 "One more thing: why to punish innocent child for the crime of the father and "
 "mother? Let the child live."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:187
+#: A_New_Order/scenarios/29.cfg:191
 msgid "But if we will blind Lorin, she will surely miscarry."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:188
+#: A_New_Order/scenarios/29.cfg:192
 msgid "I am mage. I know the ways to shield the child and protect it."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:189
+#: A_New_Order/scenarios/29.cfg:193
 msgid ""
 "Stop it! Deorien, I don't know who is more cruel - those Akladian lords, or "
 "you, who should, as white mage, protect every life."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:190
+#: A_New_Order/scenarios/29.cfg:194
 msgid ""
 "No, my king. I protect Wesnoth. One woman is not worth civil war. And you "
 "know it."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:191
+#: A_New_Order/scenarios/29.cfg:195
 msgid "Bring her."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:207
+#: A_New_Order/scenarios/29.cfg:211
 msgid "My mother.. Lorin... You..."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:208
+#: A_New_Order/scenarios/29.cfg:212
 msgid ""
 "You betrayed the spirit of your husband. Only your blood may make him happy. "
 "Your eyes will be taken away, and you will never see the light, neither here "
@@ -9413,41 +10258,41 @@ msgid ""
 "possible way."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:209
+#: A_New_Order/scenarios/29.cfg:213
 msgid "Drab doxy, who is the father of the child?"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:210
+#: A_New_Order/scenarios/29.cfg:214
 msgid "The wind and the rain. I don't know the father's name."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:211
+#: A_New_Order/scenarios/29.cfg:215
 msgid "Take her to the torture chamber!"
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:212
+#: A_New_Order/scenarios/29.cfg:216
 msgid ""
 "You are in my castle, Luc. Lady Lorin said she don't know the father's name. "
 "Let's leave it at that."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:213
+#: A_New_Order/scenarios/29.cfg:217
 msgid ""
 "Deorien... Before they kill me.. My child.. You are mage, can you do "
 "something so it..."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:214
+#: A_New_Order/scenarios/29.cfg:218
 msgid ""
 "You wouldn't be killed, Lorin. Only your eyes will taken and you will be "
 "exiled. I will do everything to make sure your child would survive this."
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:215
+#: A_New_Order/scenarios/29.cfg:219
 msgid "Mage... I.. Lorin is thanking you. "
 msgstr ""
 
-#: A_New_Order/scenarios/29.cfg:216
+#: A_New_Order/scenarios/29.cfg:220
 msgid "The king wants to be alone."
 msgstr ""
 
@@ -9618,22 +10463,21 @@ msgid ""
 "you everything. You have to know.."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:15
+#: A_New_Order/scenarios/30.cfg:16
 msgid ""
 "When I was still young girl, my family took me to the Oracle. I asked her "
 "about my future and I got the answer which I had not expected, and which "
 "greatly excited my family."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:18
+#: A_New_Order/scenarios/30.cfg:20
 msgid ""
-"The Oracle said I will once marry a Hagarthen, became a queen, and that I "
-"will bear a son to Hagarthen.  We.. my clan.. helped... somehow.. the "
-"prediction to be fulfilled... When I married your father, I was sure the "
-"Oracle was right."
+"The Oracle said I will marry a Hagarthen, become a queen, and that I will "
+"give Hagarthen a son.  We.. my clan.. helped... somehow.. the prediction to "
+"be fulfilled... When I married your father, I was sure the Oracle was right."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:21
+#: A_New_Order/scenarios/30.cfg:24
 msgid ""
 "But your father never called me to his bed. He had never even touched me. "
 "You have no idea how I hated him .. and you. And you have no idea about the "
@@ -9641,13 +10485,13 @@ msgid ""
 "you. Always."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:24
+#: A_New_Order/scenarios/30.cfg:28
 msgid ""
-"When your father was dead, I felt deceived, fooled. How can I bear a son to "
-"Hagarthen if he is dead?"
+"When your father was dead, I felt deceived, fooled. How can I have "
+"Hagarthen's son if he is dead?"
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:27
+#: A_New_Order/scenarios/30.cfg:32
 msgid ""
 "But then... I realised.. that the Oracle didn't say it would be the same "
 "Hagarthen I was married to. I was afraid of those thoughts, during all these "
@@ -9656,7 +10500,7 @@ msgid ""
 "mean, I thought you were killed after the Barnon, and..."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:30
+#: A_New_Order/scenarios/30.cfg:36
 msgid ""
 "But then.. we met again and.. you don't remember it, probably, but Ruvio "
 "once said - that Oracle's predictions will only be fullfilled if they would "
@@ -9664,18 +10508,18 @@ msgid ""
 "searching for Deorien?"
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:33
+#: A_New_Order/scenarios/30.cfg:40
 msgid ""
 "I was drunk... And... Yaranov tried to stop me at corridor, maybe he thought "
 "that drinking some more wine will make him more attractive, I beat him "
 "senseless. Then I went to Karen's room, I took her dancer's outfit..."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:36
-msgid "Yes, Gawen. This child.. it is your first born son."
+#: A_New_Order/scenarios/30.cfg:44
+msgid "Yes, Gawen. This child.. it will be your first born son."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:40
+#: A_New_Order/scenarios/30.cfg:48
 msgid ""
 "I made a lot of evil in this world. I know I have no hope for redemption. If "
 "I would say that you are the child's father, this would mean another war. "
@@ -9684,7 +10528,7 @@ msgid ""
 "forgiveness."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:43
+#: A_New_Order/scenarios/30.cfg:52
 msgid ""
 "But I hope.. you will find a mercy in your heart. I know.. I cannot count "
 "for your love.. but.. maybe..  just maybe.. you will.. just touch me once, "
@@ -9692,7 +10536,7 @@ msgid ""
 "will remember it when I will go into the exile with your child."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:46
+#: A_New_Order/scenarios/30.cfg:56
 msgid ""
 "Do not try to stop me. You know it is impossible. For the good of the "
 "Wesnoth - I, Lorin, order you to forget about me and our child.  Isn't that "
@@ -9700,12 +10544,13 @@ msgid ""
 "as new, united nation?  Look at me, I am laughing. I... I am laughing.... "
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:49
+#: A_New_Order/scenarios/30.cfg:60
 msgid ""
-"The moments are slowly turning into hours, as I am slipping into darkness..."
+"The moments are slowly turning into hours, as I am slipping into the "
+"darkness..."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:52
+#: A_New_Order/scenarios/30.cfg:63
 msgid ""
 "Gawen Hagarthen is said to never smile after the great battle. Some say, he "
 "mourned the deaths of all good warriors who died fighting the undead menace. "
@@ -9715,28 +10560,28 @@ msgid ""
 "uniting almost whole Wesnoth as it was once in old times."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:55
+#: A_New_Order/scenarios/30.cfg:66
 msgid ""
 "It is also said that he never called his wife mavourneen; he never treat her "
 "as husband should treat his wife. Whatever was true in that gossip, the fact "
 "remains that he died childlessly."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:58
+#: A_New_Order/scenarios/30.cfg:69
 msgid ""
 "The elves believed, that with his death the curse of Haldric which was put "
 "long ago upon the Wesnoth and descendants of Haldric was finally relieved. "
 "Mithrandil, the only elf ever with wrinkles, finally could die, gleefully. "
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:61
+#: A_New_Order/scenarios/30.cfg:72
 msgid ""
 "Lorin with her son went to sietches of Aragwaithi, searching for Boris "
 "Yaranov. He took care of her and her child, raising him as if it was his own "
 "son."
 msgstr ""
 
-#: A_New_Order/scenarios/30.cfg:64
+#: A_New_Order/scenarios/30.cfg:75
 msgid ""
 " This is the end of the story of Lorin from Gallorae's and Gawen Hagarthen."
 msgstr ""
@@ -9917,19 +10762,19 @@ msgid ""
 "No, he is not dead, he is just heavily wounded and he lost his consciousness!"
 msgstr ""
 
-#: A_New_Order/scenarios/4.cfg:550 A_New_Order/scenarios/4.cfg:560
-#: A_New_Order/scenarios/4.cfg:570
+#: A_New_Order/scenarios/4.cfg:550 A_New_Order/scenarios/4.cfg:561
+#: A_New_Order/scenarios/4.cfg:571
 msgid ""
 "How did you manage to do it? This should not happened. It means the level is "
 "too easy. Mail adanilecki at cs put poznan pl with your savegame and replay "
 "so I could made it harder"
 msgstr ""
 
-#: A_New_Order/scenarios/4.cfg:580 A_New_Order/scenarios/4.cfg:601
+#: A_New_Order/scenarios/4.cfg:581 A_New_Order/scenarios/4.cfg:602
 msgid "Ah! He's coming for me! Friends, send me reinforcements!"
 msgstr ""
 
-#: A_New_Order/scenarios/4.cfg:581 A_New_Order/scenarios/4.cfg:602
+#: A_New_Order/scenarios/4.cfg:582 A_New_Order/scenarios/4.cfg:603
 msgid ""
 "My lord, we really should try to escape, this battle is impossible to win!"
 msgstr ""
@@ -10792,10 +11637,6 @@ msgstr ""
 msgid ""
 "The guy from city of Barnon? No, though from what I've heard about him he "
 "could do it - if he could think more himself."
-msgstr ""
-
-#: A_New_Order/scenarios/8.cfg:361
-msgid "That's all I wanted to know"
 msgstr ""
 
 #: A_New_Order/scenarios/8.cfg:387
@@ -11889,8 +12730,8 @@ msgid ""
 "This is version 0.5.0. Detailed changelog is posted on forum, also you may "
 "find it in the same directory in which campaign files are located. If you "
 "like this campaign post your feedback on www.wesnoth.org/forum. Campaign is "
-"considered complete. Further releases will only containt translation "
-"updates, typo and grammar error corrections, graphic updates etc. "
+"considered complete. Further releases will only contain translation updates, "
+"typo and grammar error corrections, graphic updates etc. "
 msgstr ""
 
 #: A_New_Order/scenarios/ano_macros.cfg:590
@@ -12122,72 +12963,151 @@ msgid ""
 "more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:30
+#: A_New_Order/scenarios/final.cfg:47
 msgid "Final"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:44
+#: A_New_Order/scenarios/final.cfg:76
 msgid ""
-"Actually, this is not a final, because campaign is not finished yet. But "
-"this is how it will look in the future. Also, do not forget to check "
-"campaign server at least once in a week to check for new releases."
+"\n"
+"The 'A New Order' campaign was brought to you by:\n"
+"\n"
+"Arkadiusz D. Danilecki 'szopen' : storyline, coding, story images, "
+"portraits, original sprites for Akladians, Polish translation.\n"
+"\n"
+"Wayfarer/Shadow : sprites for Aragwaithi and corrections of Akladian "
+"sprites\n"
+"\n"
+"Capitol and Tephlon : swedish translation\n"
+"\n"
+"Geoffroy Douillie : french translation \n"
+"\n"
+"unsung, ott, capitol, ave, tomsik, teldar: bug reports, english errors "
+"corrections.\n"
+"\n"
+"Outlaw level 3 pack is maintained by scott and shadow \n"
+"Many thanks to Torangan and ivanovic for patience and explaining how wescamp "
+"works; Jetryl and Pickslide for art advises; elvish pillager and turin for "
+"hints on wml and unit stats; and all others from wesnoth forum.\n"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:72
+#: A_New_Order/scenarios/final.cfg:104
 msgid ""
 "You have interrogated assassin sent to kill Gawen Hagarthen, and find out "
 "that it was one of the Akladian lords who hired him."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:75
+#: A_New_Order/scenarios/final.cfg:107
 msgid ""
 "Moreover, you have find out that it was Bor Cryne who hired assassin to kill "
 "Gawen Hagarthen."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:78
+#: A_New_Order/scenarios/final.cfg:110
 msgid "But you have not find out which one of Akladian lords did that and why."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:81
+#: A_New_Order/scenarios/final.cfg:113
 msgid "You have not find out who hired assassin to kill Gawen Hagarthen."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:85
-msgid ""
-"You find out that Lorin clan bought poison from Outlaws, but you don't know "
-"why >don't worry- currently you have no chance to find out why<"
+#: A_New_Order/scenarios/final.cfg:118
+msgid "You find out that Lorin clan bought poison from Outlaws."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:90
+#: A_New_Order/scenarios/final.cfg:120
+msgid ""
+"You find out that Lorin clan bought poison from Outlaws, but you don't know "
+"why."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:126
 msgid "You have found out who poisoned Gawen's mother."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:93
-msgid ""
-"You had not find out who poisoned Gawen's mother >don't worry- currently you "
-"have no chance to find out why<"
+#: A_New_Order/scenarios/final.cfg:129
+msgid "You had not find out who poisoned Gawen's mother."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:97
+#: A_New_Order/scenarios/final.cfg:133
 msgid "You have saved Reme Carrenemoe."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:100
+#: A_New_Order/scenarios/final.cfg:136
 msgid "You have not saved Reme Carrenemoe."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:104
+#: A_New_Order/scenarios/final.cfg:140
 msgid ""
-"You have find out that it was Bor Cryne who brought Orcs to Wesnoth, "
+"You have find out that it was Bor Cryne who brought Orcs to Vakladia, "
 "planning to purify Akladian race from anyone he considered 'unworthy'."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:107
-msgid "You don't know who brought Orcs to Wesnoth"
+#: A_New_Order/scenarios/final.cfg:143
+msgid "You don't know who brought Orcs to Vakladia."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:110
+#: A_New_Order/scenarios/final.cfg:154
+msgid ""
+"Level three units (easy level): $ano_level_count units, $level_point points"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:159
+msgid ""
+"Level three units (normal level): $ano_level_count units, $level_point points"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:162
+msgid ""
+"Level three units (hard level): $ano_level_count units, $level_point points"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:179
+msgid "Gold: (easy level): $ano_gawen_gold golden pieces, $level_point points"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:185
+msgid ""
+"Gold: (normal level): $ano_gawen_gold golden pieces, $level_point points"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:190
+msgid "Gold: (hard level): $ano_gawen_gold golden pieces, $level_point points"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:199
+msgid ""
+"Additional point for forcing Hoyre to run at 'Scouting near Barnon' scenario."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:204
+msgid ""
+"Additional point for finding out gossips about messiah in `Sneaking out of "
+"Raedwood` and `Start of the quest` scenarios."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:209
+msgid "Additional point for hiring Rob Roe."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:214
+msgid ""
+"Additional point for heroical way of winning `Siege of Haeltin` scenario."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:217
+msgid "And one more for doing it at `hard` level."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:223
+msgid "Additional point for sparing Raban Harnen."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:226
+msgid "Additional point for letting leave Raban Harnen."
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:231
 msgid "Total points: $points "
 msgstr ""
 
