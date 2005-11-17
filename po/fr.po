@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-16 14:37+0100\n"
-"PO-Revision-Date: 2005-11-12 12:56+0100\n"
-"Last-Translator: Geoffroy Douillie <geoffroy.douillie@etca.alcatel.be>\n"
+"POT-Creation-Date: 2005-11-17 23:19+0100\n"
+"PO-Revision-Date: 2005-11-17 14:01+0100\n"
+"Last-Translator: Geoffroy Douillié <geoffroy.douillié@etca.alcatel.be>\n"
 "Language-Team: Geoffroy Douillie <geoffroy.douillie@etca.alcatel.be>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +39,7 @@ msgstr ""
 "le peuple qui ne rêve qu'aux vielles légendes. Gawen Hagarthen peut-il les "
 "unir tous contre le danger commun? Cette campagne est supposée être facile."
 
-#: A_New_Order/scenarios/ano_macros.cfg:574 A_New_Order.cfg:19
+#: A_New_Order.cfg:19 A_New_Order/scenarios/ano_macros.cfg:574
 msgid ""
 " The campaign is not intended for underaged. It contains elements making it "
 "unsuitable for children. You have been warned."
@@ -290,24 +290,24 @@ msgstr ""
 "considéré par ses soldats comme un lâche. Vous recevrez un bonus pour chaque "
 "tour auquel vous résistez au delà de la limite requise."
 
-#: A_New_Order/scenarios/1-6macros.cfg:329 A_New_Order/scenarios/10.cfg:202
-#: A_New_Order/scenarios/14macros.cfg:19 A_New_Order/scenarios/17.cfg:332
 #: A_New_Order/scenarios/19oracle.cfg:770
-#: A_New_Order/scenarios/21bride.cfg:281 A_New_Order/scenarios/21bride.cfg:309
+#: A_New_Order/scenarios/14macros.cfg:19 A_New_Order/scenarios/4.cfg:229
+#: A_New_Order/scenarios/17.cfg:332 A_New_Order/scenarios/5b.cfg:130
 #: A_New_Order/scenarios/21haunted.cfg:151
-#: A_New_Order/scenarios/21haunted.cfg:175 A_New_Order/scenarios/22.cfg:354
-#: A_New_Order/scenarios/23macros.cfg:598 A_New_Order/scenarios/25.cfg:448
-#: A_New_Order/scenarios/27.cfg:621 A_New_Order/scenarios/27.cfg:888
-#: A_New_Order/scenarios/28.cfg:542 A_New_Order/scenarios/4.cfg:229
-#: A_New_Order/scenarios/5a.cfg:123 A_New_Order/scenarios/5b.cfg:130
-#: A_New_Order/scenarios/9.cfg:154
+#: A_New_Order/scenarios/21haunted.cfg:175 A_New_Order/scenarios/10.cfg:202
+#: A_New_Order/scenarios/28.cfg:542 A_New_Order/scenarios/1-6macros.cfg:329
+#: A_New_Order/scenarios/25.cfg:448 A_New_Order/scenarios/23macros.cfg:598
+#: A_New_Order/scenarios/5a.cfg:123 A_New_Order/scenarios/21bride.cfg:281
+#: A_New_Order/scenarios/21bride.cfg:309 A_New_Order/scenarios/22.cfg:354
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:482
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:373
+#: A_New_Order/scenarios/27.cfg:621 A_New_Order/scenarios/27.cfg:888
+#: A_New_Order/scenarios/9.cfg:154
 msgid "Death of Lady Lorin"
 msgstr "Mort de Lady Lorin"
 
-#: A_New_Order/scenarios/1-6macros.cfg:333 A_New_Order/scenarios/4.cfg:233
-#: A_New_Order/scenarios/5a.cfg:127 A_New_Order/scenarios/5b.cfg:134
+#: A_New_Order/scenarios/4.cfg:233 A_New_Order/scenarios/5b.cfg:134
+#: A_New_Order/scenarios/1-6macros.cfg:333 A_New_Order/scenarios/5a.cfg:127
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:486
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:377
 msgid "Death of Reme Carrenemoe"
@@ -366,9 +366,9 @@ msgstr ""
 "performance de Lorin durant ce siège qu'il se battra gratuitement pour "
 "elle . Il devient LOYAL"
 
-#: A_New_Order/scenarios/10.cfg:30 A_New_Order/scenarios/9.cfg:512
 #: A_New_Order/scenarios/ano_macros.cfg:994
-#: A_New_Order/scenarios/ano_macros.cfg:997
+#: A_New_Order/scenarios/ano_macros.cfg:997 A_New_Order/scenarios/10.cfg:30
+#: A_New_Order/scenarios/9.cfg:512
 msgid "loyal"
 msgstr "loyal"
 
@@ -396,8 +396,8 @@ msgstr ""
 "homme. Ou alors voulait-elle être si fatiguée qu'elle en oubliait ses "
 "souvenirs."
 
+#: A_New_Order/scenarios/6.cfg:30 A_New_Order/scenarios/5b.cfg:33
 #: A_New_Order/scenarios/10.cfg:65 A_New_Order/scenarios/5a.cfg:35
-#: A_New_Order/scenarios/5b.cfg:33 A_New_Order/scenarios/6.cfg:30
 #: A_New_Order/scenarios/9.cfg:49
 msgid "Lady Lorin"
 msgstr "Lady Lorin"
@@ -519,7 +519,7 @@ msgstr ""
 "Nous avons moins de 300 pièces d'or. Êtes-vous sur que nous pourrons "
 "survivre au premier assaut avec si peu?"
 
-#: A_New_Order/scenarios/10.cfg:190 A_New_Order/scenarios/14barnon.cfg:6
+#: A_New_Order/scenarios/14barnon.cfg:6 A_New_Order/scenarios/10.cfg:190
 #: A_New_Order/scenarios/14bontom.cfg:274
 #: A_New_Order/scenarios/14bontom.cfg:289
 msgid "HEROIC: Kill all enemy leaders OR"
@@ -795,37 +795,36 @@ msgstr ""
 "attendaient Ruvio, pour lui demander d'aller à la réunion des chefs de "
 "Libreville."
 
-#: A_New_Order/scenarios/11.cfg:32 A_New_Order/scenarios/12.cfg:71
-#: A_New_Order/scenarios/13.cfg:229 A_New_Order/scenarios/14bontom.cfg:66
-#: A_New_Order/scenarios/14healtin.cfg:31 A_New_Order/scenarios/14orcs.cfg:36
-#: A_New_Order/scenarios/14saorduc.cfg:104 A_New_Order/scenarios/15.cfg:39
-#: A_New_Order/scenarios/15a.cfg:29 A_New_Order/scenarios/15b.cfg:32
-#: A_New_Order/scenarios/16.cfg:53 A_New_Order/scenarios/17.cfg:137
+#: A_New_Order/scenarios/19oracle.cfg:49 A_New_Order/scenarios/26.cfg:48
+#: A_New_Order/scenarios/30.cfg:104 A_New_Order/scenarios/14orcs.cfg:36
+#: A_New_Order/scenarios/17.cfg:137 A_New_Order/scenarios/15a.cfg:29
+#: A_New_Order/scenarios/15.cfg:39 A_New_Order/scenarios/11.cfg:32
+#: A_New_Order/scenarios/15b.cfg:32 A_New_Order/scenarios/19a.cfg:34
+#: A_New_Order/scenarios/14healtin.cfg:31 A_New_Order/scenarios/8.cfg:34
+#: A_New_Order/scenarios/21haunted.cfg:35 A_New_Order/scenarios/24.cfg:65
+#: A_New_Order/scenarios/16.cfg:53 A_New_Order/scenarios/19b.cfg:34
+#: A_New_Order/scenarios/21weldyn-b.cfg:94 A_New_Order/scenarios/final.cfg:101
+#: A_New_Order/scenarios/14bontom.cfg:66 A_New_Order/scenarios/21weldyn.cfg:60
+#: A_New_Order/scenarios/7.cfg:37 A_New_Order/scenarios/29.cfg:46
+#: A_New_Order/scenarios/20.cfg:59 A_New_Order/scenarios/12.cfg:71
+#: A_New_Order/scenarios/3.cfg:50 A_New_Order/scenarios/25.cfg:206
 #: A_New_Order/scenarios/18.cfg:41 A_New_Order/scenarios/18.cfg:244
-#: A_New_Order/scenarios/19a.cfg:34 A_New_Order/scenarios/19b.cfg:34
-#: A_New_Order/scenarios/19oracle.cfg:49 A_New_Order/scenarios/20.cfg:59
-#: A_New_Order/scenarios/21bride.cfg:106
-#: A_New_Order/scenarios/21haunted.cfg:35
-#: A_New_Order/scenarios/21weldyn-b.cfg:94
-#: A_New_Order/scenarios/21weldyn.cfg:60 A_New_Order/scenarios/22.cfg:125
-#: A_New_Order/scenarios/23macros.cfg:86 A_New_Order/scenarios/24.cfg:65
-#: A_New_Order/scenarios/25.cfg:206 A_New_Order/scenarios/26.cfg:48
-#: A_New_Order/scenarios/29.cfg:46 A_New_Order/scenarios/3.cfg:50
-#: A_New_Order/scenarios/30.cfg:104 A_New_Order/scenarios/7.cfg:37
-#: A_New_Order/scenarios/8.cfg:34
+#: A_New_Order/scenarios/23macros.cfg:86
+#: A_New_Order/scenarios/14saorduc.cfg:104
+#: A_New_Order/scenarios/21bride.cfg:106 A_New_Order/scenarios/22.cfg:125
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:67
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:64
-#: A_New_Order/scenarios/final.cfg:101
+#: A_New_Order/scenarios/13.cfg:229
 msgid "Gawen Hagarthen"
 msgstr "Gawen Hagarthen"
 
-#: A_New_Order/scenarios/11.cfg:42 A_New_Order/scenarios/15.cfg:49
-#: A_New_Order/scenarios/15a.cfg:39
+#: A_New_Order/scenarios/15a.cfg:39 A_New_Order/scenarios/15.cfg:49
+#: A_New_Order/scenarios/11.cfg:42
 msgid "Gwidle Turlin"
 msgstr "Gwidle Turlin"
 
-#: A_New_Order/scenarios/11.cfg:58 A_New_Order/scenarios/15.cfg:65
-#: A_New_Order/scenarios/15a.cfg:55 A_New_Order/scenarios/24.cfg:76
+#: A_New_Order/scenarios/15a.cfg:55 A_New_Order/scenarios/15.cfg:65
+#: A_New_Order/scenarios/11.cfg:58 A_New_Order/scenarios/24.cfg:76
 #: A_New_Order/scenarios/29.cfg:106
 msgid "Huon Ryedric"
 msgstr "Huon Ryedric"
@@ -1023,7 +1022,7 @@ msgstr "Vos ennemis sont les miens."
 msgid "The honor is mine."
 msgstr "Tout l'honneur est pour moi."
 
-#: A_New_Order/scenarios/11.cfg:246 A_New_Order/scenarios/15a.cfg:213
+#: A_New_Order/scenarios/15a.cfg:213 A_New_Order/scenarios/11.cfg:246
 msgid ""
 "Karen, you will stay here, with mother and sisters. It's too dangerous for "
 "you."
@@ -1031,7 +1030,7 @@ msgstr ""
 "Karen, tu resteras ici, avec ta mère et tes soeurs. C'est trop dangereux "
 "pour toi."
 
-#: A_New_Order/scenarios/11.cfg:247 A_New_Order/scenarios/15a.cfg:214
+#: A_New_Order/scenarios/15a.cfg:214 A_New_Order/scenarios/11.cfg:247
 msgid "Of courrrrrse."
 msgstr "Biensurrrr"
 
@@ -1136,22 +1135,22 @@ msgstr "Que savez-vous au sujet des orcs?"
 msgid "Do you know anything about Lady Lorin?"
 msgstr "Que sais-tu à propos de Lady Lorin?"
 
-#: A_New_Order/scenarios/12.cfg:12 A_New_Order/scenarios/14bontom.cfg:394
+#: A_New_Order/scenarios/17.cfg:46 A_New_Order/scenarios/17.cfg:80
+#: A_New_Order/scenarios/14bontom.cfg:394
 #: A_New_Order/scenarios/14bontom.cfg:401
 #: A_New_Order/scenarios/14bontom.cfg:441
-#: A_New_Order/scenarios/14bontom.cfg:448 A_New_Order/scenarios/17.cfg:46
-#: A_New_Order/scenarios/17.cfg:80 A_New_Order/scenarios/18.cfg:165
-#: A_New_Order/scenarios/18.cfg:264 A_New_Order/scenarios/18.cfg:330
-#: A_New_Order/scenarios/18.cfg:448 A_New_Order/scenarios/20.cfg:271
+#: A_New_Order/scenarios/14bontom.cfg:448 A_New_Order/scenarios/20.cfg:271
 #: A_New_Order/scenarios/20.cfg:327 A_New_Order/scenarios/20.cfg:375
-#: A_New_Order/scenarios/20macros.cfg:419
+#: A_New_Order/scenarios/12.cfg:12 A_New_Order/scenarios/25.cfg:694
+#: A_New_Order/scenarios/25.cfg:722 A_New_Order/scenarios/20macros.cfg:419
 #: A_New_Order/scenarios/20macros.cfg:424
 #: A_New_Order/scenarios/20macros.cfg:430
 #: A_New_Order/scenarios/20macros.cfg:439
 #: A_New_Order/scenarios/20macros.cfg:444
-#: A_New_Order/scenarios/20macros.cfg:450 A_New_Order/scenarios/21bride.cfg:18
+#: A_New_Order/scenarios/20macros.cfg:450 A_New_Order/scenarios/18.cfg:165
+#: A_New_Order/scenarios/18.cfg:264 A_New_Order/scenarios/18.cfg:330
+#: A_New_Order/scenarios/18.cfg:448 A_New_Order/scenarios/21bride.cfg:18
 #: A_New_Order/scenarios/21bride.cfg:44 A_New_Order/scenarios/21bride.cfg:410
-#: A_New_Order/scenarios/25.cfg:694 A_New_Order/scenarios/25.cfg:722
 msgid "That's all I wanted to know."
 msgstr "C'est tout ce que je voulais savoir"
 
@@ -1355,43 +1354,42 @@ msgstr ""
 msgid "Move Gawen to southern edge of the map OR"
 msgstr "Déplacez Gawen à la limite sud de la carte, OU"
 
-#: A_New_Order/scenarios/12.cfg:206 A_New_Order/scenarios/17.cfg:320
+#: A_New_Order/scenarios/17.cfg:320 A_New_Order/scenarios/12.cfg:206
 #: A_New_Order/scenarios/9.cfg:146
 msgid "Kill all enemy leaders."
 msgstr "Tuez tous les chefs ennemis."
 
-#: A_New_Order/scenarios/12.cfg:210 A_New_Order/scenarios/14macros.cfg:9
-#: A_New_Order/scenarios/15b.cfg:98 A_New_Order/scenarios/17.cfg:324
-#: A_New_Order/scenarios/19a.cfg:149 A_New_Order/scenarios/19b.cfg:136
-#: A_New_Order/scenarios/19oracle.cfg:762
+#: A_New_Order/scenarios/19oracle.cfg:762 A_New_Order/scenarios/14macros.cfg:9
+#: A_New_Order/scenarios/4.cfg:225 A_New_Order/scenarios/17.cfg:324
+#: A_New_Order/scenarios/15b.cfg:98 A_New_Order/scenarios/19a.cfg:149
+#: A_New_Order/scenarios/8.cfg:163 A_New_Order/scenarios/21haunted.cfg:143
+#: A_New_Order/scenarios/21haunted.cfg:167 A_New_Order/scenarios/19b.cfg:136
+#: A_New_Order/scenarios/7.cfg:285 A_New_Order/scenarios/28.cfg:538
+#: A_New_Order/scenarios/12.cfg:210 A_New_Order/scenarios/25.cfg:440
+#: A_New_Order/scenarios/23macros.cfg:590
 #: A_New_Order/scenarios/21bride.cfg:273 A_New_Order/scenarios/21bride.cfg:301
-#: A_New_Order/scenarios/21haunted.cfg:143
-#: A_New_Order/scenarios/21haunted.cfg:167 A_New_Order/scenarios/22.cfg:346
-#: A_New_Order/scenarios/23macros.cfg:590 A_New_Order/scenarios/25.cfg:440
-#: A_New_Order/scenarios/27.cfg:617 A_New_Order/scenarios/27.cfg:884
-#: A_New_Order/scenarios/28.cfg:538 A_New_Order/scenarios/4.cfg:225
-#: A_New_Order/scenarios/7.cfg:285 A_New_Order/scenarios/8.cfg:163
+#: A_New_Order/scenarios/22.cfg:346
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:478
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:369
+#: A_New_Order/scenarios/27.cfg:617 A_New_Order/scenarios/27.cfg:884
 msgid "Death of Gawen Hagarthen"
 msgstr "Mort de Gawen Hagarthen"
 
-#: A_New_Order/scenarios/12.cfg:214 A_New_Order/scenarios/14macros.cfg:13
-#: A_New_Order/scenarios/15b.cfg:102 A_New_Order/scenarios/7.cfg:293
-#: A_New_Order/scenarios/8.cfg:171
+#: A_New_Order/scenarios/14macros.cfg:13 A_New_Order/scenarios/15b.cfg:102
+#: A_New_Order/scenarios/8.cfg:171 A_New_Order/scenarios/7.cfg:293
+#: A_New_Order/scenarios/12.cfg:214
 msgid "Death of Karen"
 msgstr "Mort de Karen"
 
-#: A_New_Order/scenarios/12.cfg:218 A_New_Order/scenarios/14macros.cfg:5
-#: A_New_Order/scenarios/15b.cfg:94 A_New_Order/scenarios/17.cfg:328
-#: A_New_Order/scenarios/19a.cfg:153 A_New_Order/scenarios/19b.cfg:140
-#: A_New_Order/scenarios/19oracle.cfg:766
-#: A_New_Order/scenarios/21bride.cfg:277 A_New_Order/scenarios/21bride.cfg:305
+#: A_New_Order/scenarios/19oracle.cfg:766 A_New_Order/scenarios/14macros.cfg:5
+#: A_New_Order/scenarios/17.cfg:328 A_New_Order/scenarios/15b.cfg:94
+#: A_New_Order/scenarios/19a.cfg:153 A_New_Order/scenarios/8.cfg:167
 #: A_New_Order/scenarios/21haunted.cfg:147
-#: A_New_Order/scenarios/21haunted.cfg:171 A_New_Order/scenarios/25.cfg:444
+#: A_New_Order/scenarios/21haunted.cfg:171 A_New_Order/scenarios/19b.cfg:140
+#: A_New_Order/scenarios/7.cfg:289 A_New_Order/scenarios/28.cfg:550
+#: A_New_Order/scenarios/12.cfg:218 A_New_Order/scenarios/25.cfg:444
+#: A_New_Order/scenarios/21bride.cfg:277 A_New_Order/scenarios/21bride.cfg:305
 #: A_New_Order/scenarios/27.cfg:629 A_New_Order/scenarios/27.cfg:896
-#: A_New_Order/scenarios/28.cfg:550 A_New_Order/scenarios/7.cfg:289
-#: A_New_Order/scenarios/8.cfg:167
 msgid "Death of Ruvio"
 msgstr "Mort de Ruvio"
 
@@ -1699,9 +1697,9 @@ msgstr ""
 msgid "And this is good reason, because..?"
 msgstr "Et c'est une bonne raison, car..."
 
-#: A_New_Order/scenarios/13.cfg:98 A_New_Order/scenarios/18.cfg:172
+#: A_New_Order/scenarios/20macros.cfg:400 A_New_Order/scenarios/18.cfg:172
 #: A_New_Order/scenarios/18.cfg:337 A_New_Order/scenarios/18.cfg:455
-#: A_New_Order/scenarios/20macros.cfg:400
+#: A_New_Order/scenarios/13.cfg:98
 msgid "Because..."
 msgstr "Parce que..."
 
@@ -1920,7 +1918,7 @@ msgstr ""
 "Franchement, je n'ai aucune idée de quoi faire maintenant. Nous avons déjà "
 "été dans tous les endroits évidents."
 
-#: A_New_Order/scenarios/13.cfg:243 A_New_Order/scenarios/18.cfg:53
+#: A_New_Order/scenarios/18.cfg:53 A_New_Order/scenarios/13.cfg:243
 msgid "Raedwood Forest"
 msgstr "La Foret de Raedwood"
 
@@ -1948,10 +1946,10 @@ msgstr ""
 "Il est extrêmement important que chacun se souvienne de ne pas faire "
 "référence à Gawen par son vrai nom. Appelez-le Gaumhaldric."
 
-#: A_New_Order/scenarios/13.cfg:296 A_New_Order/scenarios/14bontom.cfg:486
-#: A_New_Order/scenarios/14saorduc.cfg:291 A_New_Order/scenarios/15a.cfg:192
-#: A_New_Order/scenarios/18.cfg:296 A_New_Order/scenarios/18.cfg:412
-#: A_New_Order/scenarios/4.cfg:195
+#: A_New_Order/scenarios/4.cfg:195 A_New_Order/scenarios/15a.cfg:192
+#: A_New_Order/scenarios/14bontom.cfg:486 A_New_Order/scenarios/18.cfg:296
+#: A_New_Order/scenarios/18.cfg:412 A_New_Order/scenarios/14saorduc.cfg:291
+#: A_New_Order/scenarios/13.cfg:296
 msgid "Why?"
 msgstr "Pourquoi?"
 
@@ -1978,8 +1976,8 @@ msgstr ""
 "Non non non. Il doit porter la barbe parce que tous nos grands rois en "
 "avaient une."
 
-#: A_New_Order/scenarios/13.cfg:310 A_New_Order/scenarios/18.cfg:89
-#: A_New_Order/scenarios/20.cfg:126
+#: A_New_Order/scenarios/20.cfg:126 A_New_Order/scenarios/18.cfg:89
+#: A_New_Order/scenarios/13.cfg:310
 msgid ""
 "This is a large-scale map, where you will choose a way to go. You should "
 "move Gawen to any of the signpost or any other location to trigger moving to "
@@ -2016,38 +2014,38 @@ msgstr "Nous avons déjà été à Haeltin. Où irons-nous maintenant?"
 msgid "Are you sure you want to go there?"
 msgstr "Êtes-vous sûr de vouloir aller là-bas?"
 
-#: A_New_Order/scenarios/13.cfg:343 A_New_Order/scenarios/13.cfg:369
-#: A_New_Order/scenarios/13.cfg:410 A_New_Order/scenarios/13.cfg:689
-#: A_New_Order/scenarios/13.cfg:716 A_New_Order/scenarios/13.cfg:743
-#: A_New_Order/scenarios/14barnon.cfg:417
-#: A_New_Order/scenarios/14bontom.cfg:313 A_New_Order/scenarios/14orcs.cfg:161
-#: A_New_Order/scenarios/14orcs.cfg:221 A_New_Order/scenarios/14orcs.cfg:263
-#: A_New_Order/scenarios/14saorduc.cfg:366 A_New_Order/scenarios/15a.cfg:183
-#: A_New_Order/scenarios/18.cfg:99 A_New_Order/scenarios/18.cfg:121
-#: A_New_Order/scenarios/18.cfg:140 A_New_Order/scenarios/18.cfg:193
-#: A_New_Order/scenarios/18.cfg:346 A_New_Order/scenarios/18.cfg:368
-#: A_New_Order/scenarios/18.cfg:467 A_New_Order/scenarios/19a.cfg:163
-#: A_New_Order/scenarios/19b.cfg:150 A_New_Order/scenarios/20.cfg:142
-#: A_New_Order/scenarios/20.cfg:159 A_New_Order/scenarios/20.cfg:175
-#: A_New_Order/scenarios/20.cfg:192 A_New_Order/scenarios/20.cfg:214
-#: A_New_Order/scenarios/21bride.cfg:359
+#: A_New_Order/scenarios/14orcs.cfg:161 A_New_Order/scenarios/14orcs.cfg:221
+#: A_New_Order/scenarios/14orcs.cfg:263 A_New_Order/scenarios/15a.cfg:183
+#: A_New_Order/scenarios/14barnon.cfg:417 A_New_Order/scenarios/19a.cfg:163
+#: A_New_Order/scenarios/19b.cfg:150 A_New_Order/scenarios/14bontom.cfg:313
+#: A_New_Order/scenarios/20.cfg:142 A_New_Order/scenarios/20.cfg:159
+#: A_New_Order/scenarios/20.cfg:175 A_New_Order/scenarios/20.cfg:192
+#: A_New_Order/scenarios/20.cfg:214 A_New_Order/scenarios/18.cfg:99
+#: A_New_Order/scenarios/18.cfg:121 A_New_Order/scenarios/18.cfg:140
+#: A_New_Order/scenarios/18.cfg:193 A_New_Order/scenarios/18.cfg:346
+#: A_New_Order/scenarios/18.cfg:368 A_New_Order/scenarios/18.cfg:467
+#: A_New_Order/scenarios/14saorduc.cfg:366
+#: A_New_Order/scenarios/21bride.cfg:359 A_New_Order/scenarios/13.cfg:343
+#: A_New_Order/scenarios/13.cfg:369 A_New_Order/scenarios/13.cfg:410
+#: A_New_Order/scenarios/13.cfg:689 A_New_Order/scenarios/13.cfg:716
+#: A_New_Order/scenarios/13.cfg:743
 msgid "Yes, definetely."
 msgstr "Oui, absolument."
 
-#: A_New_Order/scenarios/13.cfg:344 A_New_Order/scenarios/13.cfg:370
-#: A_New_Order/scenarios/13.cfg:411 A_New_Order/scenarios/13.cfg:690
-#: A_New_Order/scenarios/13.cfg:717 A_New_Order/scenarios/13.cfg:744
-#: A_New_Order/scenarios/14barnon.cfg:418
-#: A_New_Order/scenarios/14bontom.cfg:314 A_New_Order/scenarios/14orcs.cfg:162
-#: A_New_Order/scenarios/14saorduc.cfg:367 A_New_Order/scenarios/15a.cfg:184
-#: A_New_Order/scenarios/18.cfg:100 A_New_Order/scenarios/18.cfg:122
-#: A_New_Order/scenarios/18.cfg:141 A_New_Order/scenarios/18.cfg:194
-#: A_New_Order/scenarios/18.cfg:347 A_New_Order/scenarios/18.cfg:369
-#: A_New_Order/scenarios/18.cfg:468 A_New_Order/scenarios/19a.cfg:164
-#: A_New_Order/scenarios/19b.cfg:151 A_New_Order/scenarios/20.cfg:143
-#: A_New_Order/scenarios/20.cfg:160 A_New_Order/scenarios/20.cfg:176
-#: A_New_Order/scenarios/20.cfg:193 A_New_Order/scenarios/20.cfg:215
-#: A_New_Order/scenarios/21bride.cfg:360
+#: A_New_Order/scenarios/14orcs.cfg:162 A_New_Order/scenarios/15a.cfg:184
+#: A_New_Order/scenarios/14barnon.cfg:418 A_New_Order/scenarios/19a.cfg:164
+#: A_New_Order/scenarios/19b.cfg:151 A_New_Order/scenarios/14bontom.cfg:314
+#: A_New_Order/scenarios/20.cfg:143 A_New_Order/scenarios/20.cfg:160
+#: A_New_Order/scenarios/20.cfg:176 A_New_Order/scenarios/20.cfg:193
+#: A_New_Order/scenarios/20.cfg:215 A_New_Order/scenarios/18.cfg:100
+#: A_New_Order/scenarios/18.cfg:122 A_New_Order/scenarios/18.cfg:141
+#: A_New_Order/scenarios/18.cfg:194 A_New_Order/scenarios/18.cfg:347
+#: A_New_Order/scenarios/18.cfg:369 A_New_Order/scenarios/18.cfg:468
+#: A_New_Order/scenarios/14saorduc.cfg:367
+#: A_New_Order/scenarios/21bride.cfg:360 A_New_Order/scenarios/13.cfg:344
+#: A_New_Order/scenarios/13.cfg:370 A_New_Order/scenarios/13.cfg:411
+#: A_New_Order/scenarios/13.cfg:690 A_New_Order/scenarios/13.cfg:717
+#: A_New_Order/scenarios/13.cfg:744
 msgid "Well, maybe not."
 msgstr "Et bien, peut-être pas."
 
@@ -2122,16 +2120,16 @@ msgstr ""
 msgid "So go an' ask us"
 msgstr "Très bien, allez-y"
 
-#: A_New_Order/scenarios/13.cfg:433 A_New_Order/scenarios/13.cfg:446
-#: A_New_Order/scenarios/13.cfg:473 A_New_Order/scenarios/13.cfg:486
-#: A_New_Order/scenarios/13.cfg:506 A_New_Order/scenarios/13.cfg:519
 #: A_New_Order/scenarios/14bontom.cfg:389
 #: A_New_Order/scenarios/14bontom.cfg:397
 #: A_New_Order/scenarios/14bontom.cfg:436
-#: A_New_Order/scenarios/14bontom.cfg:444 A_New_Order/scenarios/18.cfg:160
-#: A_New_Order/scenarios/18.cfg:259 A_New_Order/scenarios/18.cfg:325
-#: A_New_Order/scenarios/18.cfg:443 A_New_Order/scenarios/20.cfg:267
+#: A_New_Order/scenarios/14bontom.cfg:444 A_New_Order/scenarios/20.cfg:267
 #: A_New_Order/scenarios/20.cfg:323 A_New_Order/scenarios/20.cfg:371
+#: A_New_Order/scenarios/18.cfg:160 A_New_Order/scenarios/18.cfg:259
+#: A_New_Order/scenarios/18.cfg:325 A_New_Order/scenarios/18.cfg:443
+#: A_New_Order/scenarios/13.cfg:433 A_New_Order/scenarios/13.cfg:446
+#: A_New_Order/scenarios/13.cfg:473 A_New_Order/scenarios/13.cfg:486
+#: A_New_Order/scenarios/13.cfg:506 A_New_Order/scenarios/13.cfg:519
 msgid "Please, tell me..."
 msgstr "S'il vous plaît, dites moi..."
 
@@ -2178,51 +2176,49 @@ msgstr "Je ne m'habitue toujours pas à ce qu'ils m'appellent Gaumhaldric."
 msgid "Cute name, isn't it?"
 msgstr "Joli nom, n'est-ce pas? "
 
-# A vérifier dans le contexte.
 #: A_New_Order/scenarios/13.cfg:468
-#, fuzzy
 msgid "Everything for you, young knight."
-msgstr "Tout pour vous, jeune chevalier"
+msgstr "Tout ce que vous voudrez, jeune chevalier"
 
 #: A_New_Order/scenarios/13.cfg:502
 msgid "Free men from Raedwood forest! You are always welcomed here."
 msgstr ""
 "Hommes libres des forets de Raedwood! Vous êtes toujours les bienvenus ici."
 
-#: A_New_Order/scenarios/13.cfg:539 A_New_Order/scenarios/13.cfg:548
-#: A_New_Order/scenarios/13.cfg:558 A_New_Order/scenarios/13.cfg:565
-#: A_New_Order/scenarios/18.cfg:528 A_New_Order/scenarios/18.cfg:535
 #: A_New_Order/scenarios/20.cfg:404 A_New_Order/scenarios/20.cfg:412
 #: A_New_Order/scenarios/20.cfg:421 A_New_Order/scenarios/20.cfg:428
+#: A_New_Order/scenarios/18.cfg:528 A_New_Order/scenarios/18.cfg:535
+#: A_New_Order/scenarios/13.cfg:539 A_New_Order/scenarios/13.cfg:548
+#: A_New_Order/scenarios/13.cfg:558 A_New_Order/scenarios/13.cfg:565
 msgid "I would love to talk to..."
 msgstr "J'aimerais parler à..."
 
-#: A_New_Order/scenarios/13.cfg:540 A_New_Order/scenarios/13.cfg:549
-#: A_New_Order/scenarios/13.cfg:559 A_New_Order/scenarios/13.cfg:566
-#: A_New_Order/scenarios/18.cfg:529 A_New_Order/scenarios/18.cfg:536
-#: A_New_Order/scenarios/20.cfg:405 A_New_Order/scenarios/20.cfg:413
-#: A_New_Order/scenarios/20.cfg:422 A_New_Order/scenarios/20.cfg:429
-#: A_New_Order/units/Ruvio.cfg:4
+#: A_New_Order/units/Ruvio.cfg:4 A_New_Order/scenarios/20.cfg:405
+#: A_New_Order/scenarios/20.cfg:413 A_New_Order/scenarios/20.cfg:422
+#: A_New_Order/scenarios/20.cfg:429 A_New_Order/scenarios/18.cfg:529
+#: A_New_Order/scenarios/18.cfg:536 A_New_Order/scenarios/13.cfg:540
+#: A_New_Order/scenarios/13.cfg:549 A_New_Order/scenarios/13.cfg:559
+#: A_New_Order/scenarios/13.cfg:566
 msgid "Ruvio"
 msgstr "Ruvio"
 
+#: A_New_Order/units/Karen.cfg:4 A_New_Order/units/Ruvios_Daughter.cfg:4
 #: A_New_Order/scenarios/13.cfg:541 A_New_Order/scenarios/13.cfg:550
 #: A_New_Order/scenarios/13.cfg:560 A_New_Order/scenarios/13.cfg:567
-#: A_New_Order/units/Karen.cfg:4 A_New_Order/units/Ruvios_Daughter.cfg:4
 msgid "Karen"
 msgstr "Karen"
 
-#: A_New_Order/scenarios/13.cfg:542 A_New_Order/scenarios/13.cfg:561
-#: A_New_Order/scenarios/18.cfg:530 A_New_Order/scenarios/20.cfg:406
-#: A_New_Order/scenarios/20.cfg:414
+#: A_New_Order/scenarios/20.cfg:406 A_New_Order/scenarios/20.cfg:414
+#: A_New_Order/scenarios/18.cfg:530 A_New_Order/scenarios/13.cfg:542
+#: A_New_Order/scenarios/13.cfg:561
 msgid "Reme"
 msgstr "Reme"
 
-#: A_New_Order/scenarios/13.cfg:543 A_New_Order/scenarios/13.cfg:551
-#: A_New_Order/scenarios/18.cfg:531 A_New_Order/scenarios/18.cfg:537
-#: A_New_Order/scenarios/20.cfg:407 A_New_Order/scenarios/20.cfg:415
-#: A_New_Order/scenarios/20.cfg:424 A_New_Order/scenarios/20.cfg:430
-#: A_New_Order/scenarios/29.cfg:3
+#: A_New_Order/scenarios/29.cfg:3 A_New_Order/scenarios/20.cfg:407
+#: A_New_Order/scenarios/20.cfg:415 A_New_Order/scenarios/20.cfg:424
+#: A_New_Order/scenarios/20.cfg:430 A_New_Order/scenarios/18.cfg:531
+#: A_New_Order/scenarios/18.cfg:537 A_New_Order/scenarios/13.cfg:543
+#: A_New_Order/scenarios/13.cfg:551
 msgid "Lorin"
 msgstr "Lorin"
 
@@ -2230,16 +2226,16 @@ msgstr "Lorin"
 msgid "Yaranov"
 msgstr "Yaranov"
 
-#: A_New_Order/scenarios/13.cfg:545 A_New_Order/scenarios/13.cfg:553
-#: A_New_Order/scenarios/13.cfg:562 A_New_Order/scenarios/13.cfg:568
-#: A_New_Order/scenarios/18.cfg:532 A_New_Order/scenarios/18.cfg:538
 #: A_New_Order/scenarios/20.cfg:409 A_New_Order/scenarios/20.cfg:416
 #: A_New_Order/scenarios/20.cfg:425 A_New_Order/scenarios/20.cfg:431
+#: A_New_Order/scenarios/18.cfg:532 A_New_Order/scenarios/18.cfg:538
+#: A_New_Order/scenarios/13.cfg:545 A_New_Order/scenarios/13.cfg:553
+#: A_New_Order/scenarios/13.cfg:562 A_New_Order/scenarios/13.cfg:568
 msgid "I changed my mind"
 msgstr "J'ai changé d'avis."
 
-#: A_New_Order/scenarios/13.cfg:575 A_New_Order/scenarios/18.cfg:543
-#: A_New_Order/scenarios/20.cfg:437
+#: A_New_Order/scenarios/20.cfg:437 A_New_Order/scenarios/18.cfg:543
+#: A_New_Order/scenarios/13.cfg:575
 msgid "Ruvio, please tell me.."
 msgstr "Ruvio, s'il te plaît, dis moi..."
 
@@ -2247,7 +2243,7 @@ msgstr "Ruvio, s'il te plaît, dis moi..."
 msgid "Where Reme Carrenemoe could possibly be?"
 msgstr "Où Reme Carrenmoe pourrait-il bien être ?"
 
-#: A_New_Order/scenarios/13.cfg:577 A_New_Order/scenarios/18.cfg:545
+#: A_New_Order/scenarios/18.cfg:545 A_New_Order/scenarios/13.cfg:577
 msgid "Advice me what could we do now."
 msgstr "Conseille moi sur ce qu'on pourrait faire maintenant."
 
@@ -2427,8 +2423,8 @@ msgstr "Andrey Yaranov, Lorin est ma belle-mère."
 msgid "You may start to call me step-father, then."
 msgstr "Alors, tu peux commencer à m'appeler beau-père."
 
+#: A_New_Order/scenarios/20.cfg:468 A_New_Order/scenarios/18.cfg:566
 #: A_New_Order/scenarios/13.cfg:630 A_New_Order/scenarios/13.cfg:638
-#: A_New_Order/scenarios/18.cfg:566 A_New_Order/scenarios/20.cfg:468
 msgid "Mother, can I have a word with you?"
 msgstr "Mère, est-ce qu'on peut discuter un instant?"
 
@@ -2448,9 +2444,9 @@ msgstr "Que savez-vous au sujet des orcs?"
 msgid "How my real mother died?"
 msgstr "Comment ma vrai mère est-elle morte?"
 
-#: A_New_Order/scenarios/13.cfg:635 A_New_Order/scenarios/13.cfg:642
-#: A_New_Order/scenarios/18.cfg:570 A_New_Order/scenarios/20.cfg:471
-#: A_New_Order/scenarios/20.cfg:485
+#: A_New_Order/scenarios/20.cfg:471 A_New_Order/scenarios/20.cfg:485
+#: A_New_Order/scenarios/18.cfg:570 A_New_Order/scenarios/13.cfg:635
+#: A_New_Order/scenarios/13.cfg:642
 msgid "Never mind"
 msgstr "Peu importe"
 
@@ -2691,11 +2687,11 @@ msgstr ""
 msgid "Baruk Bar"
 msgstr "Baruk Bar"
 
-#: A_New_Order/scenarios/14barnon.cfg:155 A_New_Order/scenarios/4.cfg:128
+#: A_New_Order/scenarios/4.cfg:128 A_New_Order/scenarios/14barnon.cfg:155
 msgid "Castle of Barnon"
 msgstr "Château de Barnon"
 
-#: A_New_Order/scenarios/14barnon.cfg:159 A_New_Order/scenarios/4.cfg:132
+#: A_New_Order/scenarios/4.cfg:132 A_New_Order/scenarios/14barnon.cfg:159
 msgid "City of Barnon"
 msgstr "Cité de Barnon"
 
@@ -2759,15 +2755,13 @@ msgstr ""
 msgid "My lord, some army is approaching us!"
 msgstr "Mon Seigneur, une armée approche."
 
-# Je ne suis pas sur de La traduction de 'deal' par 'faire du commerce'.
 #: A_New_Order/scenarios/14barnon.cfg:188
-#, fuzzy
 msgid ""
 "Oh, do not worry. Probably those are our people returning from making deal "
 "with outlaw underlings."
 msgstr ""
 "Oh, n'aie pas peur, c'est probablement notre peuple qui rentre d'avoir fait "
-"du commerce avec les inférieurs hors-la-loi."
+"des affaires avec les inférieurs hors-la-loi."
 
 #: A_New_Order/scenarios/14barnon.cfg:195
 msgid ""
@@ -2888,8 +2882,8 @@ msgstr "Aaargh!"
 msgid "Mother..."
 msgstr "Mère..."
 
-#: A_New_Order/scenarios/14barnon.cfg:279 A_New_Order/scenarios/7.cfg:526
 #: A_New_Order/scenarios/conversations.cfg:47
+#: A_New_Order/scenarios/14barnon.cfg:279 A_New_Order/scenarios/7.cfg:526
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:656
 msgid "What?"
 msgstr "Quoi?"
@@ -2912,11 +2906,8 @@ msgstr ""
 "Attends, j'ai une dernière question. As-tu entendu parlé de Reme Carrenmoe? "
 "Sais-tu ce qui lui est arrivé?"
 
-# J'hésite pour la traduction de settlements entre 'territoires', 'village', ou 'campement'.
-# Cela dépent du reste de l'histoire que je ne connais pas encore.
 #: A_New_Order/scenarios/14barnon.cfg:295
 #: A_New_Order/scenarios/14barnon.cfg:315
-#, fuzzy
 msgid ""
 "Yes! His clan settlements were attacked by outlaws. They captured him and "
 "they keep him in some place called Bontom. They will trade him to Bor Cryne, "
@@ -2977,12 +2968,12 @@ msgstr ""
 "Non, je ne vous laisserez pas faire. Orc, dis moi tout ce que tu sais et je "
 "te laisserai en vie."
 
+#: A_New_Order/scenarios/14orcs.cfg:235 A_New_Order/scenarios/14orcs.cfg:279
 #: A_New_Order/scenarios/14barnon.cfg:336
 #: A_New_Order/scenarios/14barnon.cfg:363
 #: A_New_Order/scenarios/14barnon.cfg:391
 #: A_New_Order/scenarios/14bontom.cfg:533
-#: A_New_Order/scenarios/14bontom.cfg:555 A_New_Order/scenarios/14orcs.cfg:235
-#: A_New_Order/scenarios/14orcs.cfg:279
+#: A_New_Order/scenarios/14bontom.cfg:555
 msgid ""
 "I don't know much - only that this was the wish of our guide, Grekulak. He "
 "wished Akladians to be allied with us."
@@ -2990,7 +2981,11 @@ msgstr ""
 "Je ne sais pas grand'chose, seulement que c'est le souhait de notre guide, "
 "Grekulak. Il voulait s'allier aux Akladiens."
 
-#: A_New_Order/scenarios/14barnon.cfg:338
+#: A_New_Order/scenarios/14orcs.cfg:194 A_New_Order/scenarios/14orcs.cfg:197
+#: A_New_Order/scenarios/14orcs.cfg:200 A_New_Order/scenarios/14orcs.cfg:237
+#: A_New_Order/scenarios/14orcs.cfg:240 A_New_Order/scenarios/14orcs.cfg:243
+#: A_New_Order/scenarios/14orcs.cfg:281 A_New_Order/scenarios/14orcs.cfg:284
+#: A_New_Order/scenarios/14orcs.cfg:287 A_New_Order/scenarios/14barnon.cfg:338
 #: A_New_Order/scenarios/14barnon.cfg:341
 #: A_New_Order/scenarios/14barnon.cfg:344
 #: A_New_Order/scenarios/14barnon.cfg:365
@@ -3007,11 +3002,7 @@ msgstr ""
 #: A_New_Order/scenarios/14bontom.cfg:541
 #: A_New_Order/scenarios/14bontom.cfg:557
 #: A_New_Order/scenarios/14bontom.cfg:560
-#: A_New_Order/scenarios/14bontom.cfg:563 A_New_Order/scenarios/14orcs.cfg:194
-#: A_New_Order/scenarios/14orcs.cfg:197 A_New_Order/scenarios/14orcs.cfg:200
-#: A_New_Order/scenarios/14orcs.cfg:237 A_New_Order/scenarios/14orcs.cfg:240
-#: A_New_Order/scenarios/14orcs.cfg:243 A_New_Order/scenarios/14orcs.cfg:281
-#: A_New_Order/scenarios/14orcs.cfg:284 A_New_Order/scenarios/14orcs.cfg:287
+#: A_New_Order/scenarios/14bontom.cfg:563
 msgid ""
 "Grekulak! I know that name. We should go back to Freetown and report that, "
 "that's all we had to know!"
@@ -3019,13 +3010,13 @@ msgstr ""
 "Grekulak! Je connais ce nom. Nous devons rentrer à Libreville pour rapporter "
 "cette information. Nous en savons assez."
 
+#: A_New_Order/scenarios/14orcs.cfg:247 A_New_Order/scenarios/14orcs.cfg:291
 #: A_New_Order/scenarios/14barnon.cfg:348
 #: A_New_Order/scenarios/14barnon.cfg:375
 #: A_New_Order/scenarios/14barnon.cfg:403
 #: A_New_Order/scenarios/14bontom.cfg:518
 #: A_New_Order/scenarios/14bontom.cfg:545
-#: A_New_Order/scenarios/14bontom.cfg:567 A_New_Order/scenarios/14orcs.cfg:247
-#: A_New_Order/scenarios/14orcs.cfg:291
+#: A_New_Order/scenarios/14bontom.cfg:567
 msgid ""
 "Grekulak? That's something to report. We should go back to Freetown then."
 msgstr ""
@@ -3052,20 +3043,18 @@ msgstr ""
 "Écoute, ça ne marchera pas! Je le sais. Interroger des prisonniers est un "
 "métier, pas un truc d'amateurs... C'est..."
 
-# la traduction pourrait-être tout différente suivant le contexte.
 #: A_New_Order/scenarios/14barnon.cfg:376
 #: A_New_Order/scenarios/14barnon.cfg:404
-#, fuzzy
 msgid "Amazing. Simply, amazing."
 msgstr "Fascinant. Tout simplement fascinant."
 
-#: A_New_Order/scenarios/14barnon.cfg:416 A_New_Order/scenarios/14orcs.cfg:160
+#: A_New_Order/scenarios/14orcs.cfg:160 A_New_Order/scenarios/14barnon.cfg:416
 #: A_New_Order/scenarios/14saorduc.cfg:365
 msgid "My lord, are you sure you want to retreat?"
 msgstr "Mon seigneur, vous voulez vraiment battre en retraite ?"
 
-#: A_New_Order/scenarios/14barnon.cfg:426
-#: A_New_Order/scenarios/14bontom.cfg:604 A_New_Order/scenarios/14orcs.cfg:398
+#: A_New_Order/scenarios/14orcs.cfg:398 A_New_Order/scenarios/14barnon.cfg:426
+#: A_New_Order/scenarios/14bontom.cfg:604
 #: A_New_Order/scenarios/14saorduc.cfg:468
 msgid ""
 "Oh no! New reinforcements arrived to help our enemies, now we have no "
@@ -3079,9 +3068,8 @@ msgid "Ha! The orcs were hiding here some gold!"
 msgstr "Ah! Les orcs avaient caché de l'or ici ! "
 
 #: A_New_Order/scenarios/14barnon.cfg:437
-#: A_New_Order/scenarios/14bontom.cfg:579
-#: A_New_Order/scenarios/14saorduc.cfg:382 A_New_Order/scenarios/20.cfg:243
-#: A_New_Order/scenarios/20.cfg:315
+#: A_New_Order/scenarios/14bontom.cfg:579 A_New_Order/scenarios/20.cfg:243
+#: A_New_Order/scenarios/20.cfg:315 A_New_Order/scenarios/14saorduc.cfg:382
 msgid "You have received 50 golden pieces"
 msgstr "Vous recevez 50 pièces d'or."
 
@@ -3342,15 +3330,15 @@ msgstr "Sais-tu pourquoi les orcs sont ici ?"
 msgid "They are allied with Akladians."
 msgstr "Ils sont alliés aux Akladiens."
 
-#: A_New_Order/scenarios/14bontom.cfg:410
+#: A_New_Order/scenarios/16.cfg:126 A_New_Order/scenarios/14bontom.cfg:410
 #: A_New_Order/scenarios/14bontom.cfg:457
-#: A_New_Order/scenarios/14bontom.cfg:484 A_New_Order/scenarios/16.cfg:126
+#: A_New_Order/scenarios/14bontom.cfg:484
 msgid "But why?"
 msgstr "Mais pourquoi?"
 
+#: A_New_Order/scenarios/14healtin.cfg:156
 #: A_New_Order/scenarios/14bontom.cfg:411
 #: A_New_Order/scenarios/14bontom.cfg:458
-#: A_New_Order/scenarios/14healtin.cfg:156
 msgid "I have no idea."
 msgstr "Je n'en ai aucune idée."
 
@@ -3444,9 +3432,7 @@ msgstr "Parce que c'est mal de torturer les gens."
 msgid "Because... ah..."
 msgstr "Parce que... Euh..."
 
-# Probablement une expression. Je ne l'avais jamais rencontrée. La traduction est probablement à côté de la plaque.
 #: A_New_Order/scenarios/14bontom.cfg:488
-#, fuzzy
 msgid "Gawen, she is Akladian. You can teach old dog new tricks."
 msgstr ""
 "Gawen, c'est une Akladienne. Ce n'est pas à un vieux singe qu'on apprend à "
@@ -3456,15 +3442,13 @@ msgstr ""
 msgid "Whom do you call OLD?!"
 msgstr "QUI traitez-vous de VIEUX ? "
 
-# J'ai peur que le sens de l'original ne soit pas correct.
 #: A_New_Order/scenarios/14bontom.cfg:494
-#, fuzzy
 msgid ""
 "You were good opponent. What is your name, please tell me, so I could told "
 "spirits of ancestors who defeated me?"
 msgstr ""
-"Tu as été un bon adversaire. Dis moi quel est ton nom, que je puisse en "
-"parler aux esprits des anciens qui m'ont abattu"
+"Tu as été un bon adversaire. Dis moi quel est ton nom, que je puisse dire "
+"aux esprits des ancêtres qui m'a abattu"
 
 #: A_New_Order/scenarios/14bontom.cfg:495
 msgid "Gau.. Gawen. Gawen Hagarthen."
@@ -3546,22 +3530,22 @@ msgstr ""
 msgid "And she looks cool in armour, too."
 msgstr "Et en plus, elle est si attirante en armure."
 
+#: A_New_Order/scenarios/14orcs.cfg:212 A_New_Order/scenarios/14orcs.cfg:232
+#: A_New_Order/scenarios/14orcs.cfg:253 A_New_Order/scenarios/14orcs.cfg:276
 #: A_New_Order/scenarios/14bontom.cfg:530
-#: A_New_Order/scenarios/14bontom.cfg:552 A_New_Order/scenarios/14orcs.cfg:212
-#: A_New_Order/scenarios/14orcs.cfg:232 A_New_Order/scenarios/14orcs.cfg:253
-#: A_New_Order/scenarios/14orcs.cfg:276
+#: A_New_Order/scenarios/14bontom.cfg:552
 msgid "I will allow you to live, if you will tell me few things."
 msgstr "Je te laisserai vivre si tu me dis quelque petites choses."
 
+#: A_New_Order/scenarios/14orcs.cfg:233 A_New_Order/scenarios/14orcs.cfg:277
 #: A_New_Order/scenarios/14bontom.cfg:531
-#: A_New_Order/scenarios/14bontom.cfg:553 A_New_Order/scenarios/14orcs.cfg:233
-#: A_New_Order/scenarios/14orcs.cfg:277
+#: A_New_Order/scenarios/14bontom.cfg:553
 msgid "Ask then, human."
 msgstr "Alors demande les, humain."
 
+#: A_New_Order/scenarios/14orcs.cfg:234 A_New_Order/scenarios/14orcs.cfg:278
 #: A_New_Order/scenarios/14bontom.cfg:532
-#: A_New_Order/scenarios/14bontom.cfg:554 A_New_Order/scenarios/14orcs.cfg:234
-#: A_New_Order/scenarios/14orcs.cfg:278
+#: A_New_Order/scenarios/14bontom.cfg:554
 msgid "Why are you allied with Akladians?"
 msgstr "Pourquoi êtes-vous alliés aux akladiens ?"
 
@@ -3827,9 +3811,7 @@ msgstr ""
 "attendaient des émissaires humains, après avoir brûlé le château de l'ami de "
 "Reme Carrenmoe."
 
-# La traduction de 'farted' par plaisenté est probablement fausse.
 #: A_New_Order/scenarios/14healtin.cfg:145
-#, fuzzy
 msgid ""
 "It seems that Bor Cryne had allied with orcs to kill every Akladian who is "
 "not worthy to be member of our race in Bor Cryne's eyes. It means every "
@@ -3885,9 +3867,7 @@ msgstr ""
 msgid "Death of Andrey Yaranov (if recalled)"
 msgstr "Mort d'Andrey Yaranov (si il avait été rappelé)"
 
-# dépend du contexte...
 #: A_New_Order/scenarios/14macros.cfg:38
-#, fuzzy
 msgid "Scored!"
 msgstr "Touché!"
 
@@ -4122,15 +4102,15 @@ msgstr ""
 "Vous pouvez battre en retraite en déplaçant Gawen Hagarthen sur le panneau "
 "indicateur au sud de votre position initiale."
 
+#: A_New_Order/scenarios/19oracle.cfg:754 A_New_Order/scenarios/4.cfg:221
 #: A_New_Order/scenarios/14orcs.cfg:132 A_New_Order/scenarios/14orcs.cfg:143
-#: A_New_Order/scenarios/14saorduc.cfg:209
-#: A_New_Order/scenarios/14saorduc.cfg:219 A_New_Order/scenarios/15b.cfg:90
-#: A_New_Order/scenarios/19oracle.cfg:754
+#: A_New_Order/scenarios/5b.cfg:126 A_New_Order/scenarios/15b.cfg:90
 #: A_New_Order/scenarios/21haunted.cfg:139
-#: A_New_Order/scenarios/21haunted.cfg:163 A_New_Order/scenarios/25.cfg:436
-#: A_New_Order/scenarios/27.cfg:613 A_New_Order/scenarios/27.cfg:880
-#: A_New_Order/scenarios/28.cfg:534 A_New_Order/scenarios/4.cfg:221
-#: A_New_Order/scenarios/5a.cfg:119 A_New_Order/scenarios/5b.cfg:126
+#: A_New_Order/scenarios/21haunted.cfg:163 A_New_Order/scenarios/28.cfg:534
+#: A_New_Order/scenarios/25.cfg:436 A_New_Order/scenarios/5a.cfg:119
+#: A_New_Order/scenarios/14saorduc.cfg:209
+#: A_New_Order/scenarios/14saorduc.cfg:219 A_New_Order/scenarios/27.cfg:613
+#: A_New_Order/scenarios/27.cfg:880
 msgid "Kill all enemy leaders"
 msgstr "Tuez tous les chefs ennemis."
 
@@ -4367,11 +4347,12 @@ msgstr ""
 "Note: Si vous acceptez l'offre des lézards, aucun bonus pour fin anticipée "
 "ne sera donné."
 
-#: A_New_Order/scenarios/14saorduc.cfg:10 A_New_Order/scenarios/15a.cfg:126
-#: A_New_Order/scenarios/20macros.cfg:379 A_New_Order/scenarios/22.cfg:82
+#: A_New_Order/scenarios/15a.cfg:126 A_New_Order/scenarios/25.cfg:19
+#: A_New_Order/scenarios/20macros.cfg:379
+#: A_New_Order/scenarios/23macros.cfg:16
+#: A_New_Order/scenarios/14saorduc.cfg:10 A_New_Order/scenarios/22.cfg:82
 #: A_New_Order/scenarios/22.cfg:90 A_New_Order/scenarios/22.cfg:105
-#: A_New_Order/scenarios/22.cfg:473 A_New_Order/scenarios/23macros.cfg:16
-#: A_New_Order/scenarios/25.cfg:19
+#: A_New_Order/scenarios/22.cfg:473
 msgid "Well..."
 msgstr "Et bien..."
 
@@ -4423,7 +4404,7 @@ msgstr ""
 "Saorduc. Mais ça n'arrêta pas Gawen. Il se disait que, l'hivers, les marais "
 "seraient gelés et que les lézards seraient plus faciles à vaincre."
 
-#: A_New_Order/scenarios/14saorduc.cfg:115 A_New_Order/scenarios/5b.cfg:46
+#: A_New_Order/scenarios/5b.cfg:46 A_New_Order/scenarios/14saorduc.cfg:115
 msgid "Burass"
 msgstr "Burass"
 
@@ -5193,8 +5174,8 @@ msgstr "J'ai changé d'avis."
 msgid "Bowman"
 msgstr "Un archer"
 
-#: A_New_Order/scenarios/15a.cfg:160
 #: A_New_Order/units/Aragwaith-Spearman.cfg:4
+#: A_New_Order/scenarios/15a.cfg:160
 msgid "Spearman"
 msgstr "Un lancier"
 
@@ -5769,9 +5750,7 @@ msgstr ""
 "épouser une femme wesnothienne après tout ? Si notre vieux roi a pu le "
 "faire, pourquoi pas nous, le petit peuple ? "
 
-# je ne trouve pas la traduction de mixling ou de ten days.
 #: A_New_Order/scenarios/17.cfg:304
-#, fuzzy
 msgid ""
 "King is dead. I think God have punished him for mixing our holy blood with "
 "underling woman. And Raban, you should really expell your, as you called "
@@ -5783,8 +5762,8 @@ msgstr ""
 "béni avec cette femme inférieure. Et Raban, tu devrais vraiment répudier ta "
 "femme, comme tu l'appelles. Il y a une rumeur qui dit qui tous ceux qui ont "
 "abandonné nos vielles coutumes et qui sont trop amis avec les inférieurs "
-"seront bientôt aussi morts que notre vieux roi. Ou que ce croisement, ce roi "
-"de dix jours, Gawen"
+"seront bientôt aussi morts que notre vieux roi. Ou que ce mélange, ce roi de "
+"dix jours, Gawen"
 
 #: A_New_Order/scenarios/17.cfg:305
 msgid ""
@@ -5898,13 +5877,11 @@ msgstr "On dirait qu'il y avait de l'or dans son château."
 msgid "You receive 50 golden pieces."
 msgstr "Vous recevez 50 pièces d'or."
 
-# Trouver la traduction de Quivre
 #: A_New_Order/scenarios/17.cfg:399 A_New_Order/scenarios/17.cfg:413
-#, fuzzy
 msgid "You were worthy opponent, Quivre from Raednons. It was good fight."
 msgstr ""
-"Vous avez été des adversaires coriaces, gens de Raednon. C'était un beau "
-"combat."
+"Tu as été un adversaire coriace, Quivre du clan des Raednons. C'était un "
+"beau combat."
 
 #: A_New_Order/scenarios/17.cfg:400 A_New_Order/scenarios/17.cfg:414
 msgid "Yes, it was."
@@ -6285,34 +6262,6 @@ msgstr "Tu as raison, allons d'abord voir l'Oracle."
 msgid "So, should we pick that way?"
 msgstr "Alors, devons nous aller par là ?"
 
-#: A_New_Order/scenarios/18.cfg:153 A_New_Order/scenarios/18.cfg:156
-#: A_New_Order/scenarios/18.cfg:169 A_New_Order/scenarios/18.cfg:178
-#: A_New_Order/scenarios/18.cfg:181 A_New_Order/scenarios/18.cfg:184
-#: A_New_Order/scenarios/18.cfg:187 A_New_Order/scenarios/18.cfg:190
-#: A_New_Order/scenarios/18.cfg:211 A_New_Order/scenarios/18.cfg:217
-#: A_New_Order/scenarios/18.cfg:221 A_New_Order/scenarios/18.cfg:224
-#: A_New_Order/scenarios/18.cfg:227 A_New_Order/scenarios/18.cfg:230
-#: A_New_Order/scenarios/18.cfg:241 A_New_Order/scenarios/18.cfg:249
-#: A_New_Order/scenarios/18.cfg:253 A_New_Order/scenarios/18.cfg:269
-#: A_New_Order/scenarios/18.cfg:283 A_New_Order/scenarios/18.cfg:287
-#: A_New_Order/scenarios/18.cfg:291 A_New_Order/scenarios/18.cfg:294
-#: A_New_Order/scenarios/18.cfg:297 A_New_Order/scenarios/18.cfg:300
-#: A_New_Order/scenarios/18.cfg:302 A_New_Order/scenarios/18.cfg:305
-#: A_New_Order/scenarios/18.cfg:310 A_New_Order/scenarios/18.cfg:321
-#: A_New_Order/scenarios/18.cfg:334 A_New_Order/scenarios/18.cfg:343
-#: A_New_Order/scenarios/18.cfg:365 A_New_Order/scenarios/18.cfg:387
-#: A_New_Order/scenarios/18.cfg:390 A_New_Order/scenarios/18.cfg:393
-#: A_New_Order/scenarios/18.cfg:399 A_New_Order/scenarios/18.cfg:403
-#: A_New_Order/scenarios/18.cfg:407 A_New_Order/scenarios/18.cfg:410
-#: A_New_Order/scenarios/18.cfg:413 A_New_Order/scenarios/18.cfg:418
-#: A_New_Order/scenarios/18.cfg:421 A_New_Order/scenarios/18.cfg:425
-#: A_New_Order/scenarios/18.cfg:436 A_New_Order/scenarios/18.cfg:439
-#: A_New_Order/scenarios/18.cfg:452 A_New_Order/scenarios/18.cfg:461
-#: A_New_Order/scenarios/18.cfg:464 A_New_Order/scenarios/18.cfg:484
-#: A_New_Order/scenarios/18.cfg:487 A_New_Order/scenarios/18.cfg:490
-#: A_New_Order/scenarios/18.cfg:496 A_New_Order/scenarios/18.cfg:500
-#: A_New_Order/scenarios/18.cfg:503 A_New_Order/scenarios/18.cfg:507
-#: A_New_Order/scenarios/18.cfg:510 A_New_Order/scenarios/18.cfg:514
 #: A_New_Order/scenarios/20.cfg:236 A_New_Order/scenarios/20.cfg:240
 #: A_New_Order/scenarios/20.cfg:251 A_New_Order/scenarios/20.cfg:258
 #: A_New_Order/scenarios/20.cfg:260 A_New_Order/scenarios/20.cfg:273
@@ -6325,7 +6274,35 @@ msgstr "Alors, devons nous aller par là ?"
 #: A_New_Order/scenarios/20.cfg:356 A_New_Order/scenarios/20.cfg:364
 #: A_New_Order/scenarios/20.cfg:367 A_New_Order/scenarios/20.cfg:377
 #: A_New_Order/scenarios/20.cfg:380 A_New_Order/scenarios/20.cfg:383
-#: A_New_Order/scenarios/20.cfg:386
+#: A_New_Order/scenarios/20.cfg:386 A_New_Order/scenarios/18.cfg:153
+#: A_New_Order/scenarios/18.cfg:156 A_New_Order/scenarios/18.cfg:169
+#: A_New_Order/scenarios/18.cfg:178 A_New_Order/scenarios/18.cfg:181
+#: A_New_Order/scenarios/18.cfg:184 A_New_Order/scenarios/18.cfg:187
+#: A_New_Order/scenarios/18.cfg:190 A_New_Order/scenarios/18.cfg:211
+#: A_New_Order/scenarios/18.cfg:217 A_New_Order/scenarios/18.cfg:221
+#: A_New_Order/scenarios/18.cfg:224 A_New_Order/scenarios/18.cfg:227
+#: A_New_Order/scenarios/18.cfg:230 A_New_Order/scenarios/18.cfg:241
+#: A_New_Order/scenarios/18.cfg:249 A_New_Order/scenarios/18.cfg:253
+#: A_New_Order/scenarios/18.cfg:269 A_New_Order/scenarios/18.cfg:283
+#: A_New_Order/scenarios/18.cfg:287 A_New_Order/scenarios/18.cfg:291
+#: A_New_Order/scenarios/18.cfg:294 A_New_Order/scenarios/18.cfg:297
+#: A_New_Order/scenarios/18.cfg:300 A_New_Order/scenarios/18.cfg:302
+#: A_New_Order/scenarios/18.cfg:305 A_New_Order/scenarios/18.cfg:310
+#: A_New_Order/scenarios/18.cfg:321 A_New_Order/scenarios/18.cfg:334
+#: A_New_Order/scenarios/18.cfg:343 A_New_Order/scenarios/18.cfg:365
+#: A_New_Order/scenarios/18.cfg:387 A_New_Order/scenarios/18.cfg:390
+#: A_New_Order/scenarios/18.cfg:393 A_New_Order/scenarios/18.cfg:399
+#: A_New_Order/scenarios/18.cfg:403 A_New_Order/scenarios/18.cfg:407
+#: A_New_Order/scenarios/18.cfg:410 A_New_Order/scenarios/18.cfg:413
+#: A_New_Order/scenarios/18.cfg:418 A_New_Order/scenarios/18.cfg:421
+#: A_New_Order/scenarios/18.cfg:425 A_New_Order/scenarios/18.cfg:436
+#: A_New_Order/scenarios/18.cfg:439 A_New_Order/scenarios/18.cfg:452
+#: A_New_Order/scenarios/18.cfg:461 A_New_Order/scenarios/18.cfg:464
+#: A_New_Order/scenarios/18.cfg:484 A_New_Order/scenarios/18.cfg:487
+#: A_New_Order/scenarios/18.cfg:490 A_New_Order/scenarios/18.cfg:496
+#: A_New_Order/scenarios/18.cfg:500 A_New_Order/scenarios/18.cfg:503
+#: A_New_Order/scenarios/18.cfg:507 A_New_Order/scenarios/18.cfg:510
+#: A_New_Order/scenarios/18.cfg:514
 msgid "Village leader"
 msgstr "Le chef du village."
 
@@ -6347,17 +6324,17 @@ msgstr ""
 "Combattants pour la liberté ? Oui, bien sur. Mais ne vous battez pas pour la "
 "liberté ici, s'il vous plaît. Nous sommes des gens honnêtes et travailleurs."
 
-#: A_New_Order/scenarios/18.cfg:161 A_New_Order/scenarios/18.cfg:260
-#: A_New_Order/scenarios/18.cfg:326 A_New_Order/scenarios/18.cfg:444
 #: A_New_Order/scenarios/20.cfg:268 A_New_Order/scenarios/20.cfg:324
-#: A_New_Order/scenarios/20.cfg:372
+#: A_New_Order/scenarios/20.cfg:372 A_New_Order/scenarios/18.cfg:161
+#: A_New_Order/scenarios/18.cfg:260 A_New_Order/scenarios/18.cfg:326
+#: A_New_Order/scenarios/18.cfg:444
 msgid "Would you fight for me?"
 msgstr "Voudriez-vous vous battre pour moi ?"
 
-#: A_New_Order/scenarios/18.cfg:162 A_New_Order/scenarios/18.cfg:261
-#: A_New_Order/scenarios/18.cfg:327 A_New_Order/scenarios/18.cfg:445
 #: A_New_Order/scenarios/20.cfg:269 A_New_Order/scenarios/20.cfg:325
-#: A_New_Order/scenarios/20.cfg:373 A_New_Order/scenarios/21bride.cfg:17
+#: A_New_Order/scenarios/20.cfg:373 A_New_Order/scenarios/18.cfg:162
+#: A_New_Order/scenarios/18.cfg:261 A_New_Order/scenarios/18.cfg:327
+#: A_New_Order/scenarios/18.cfg:445 A_New_Order/scenarios/21bride.cfg:17
 #: A_New_Order/scenarios/21bride.cfg:43 A_New_Order/scenarios/21bride.cfg:409
 msgid "Do you know something about mage Deorien?"
 msgstr "Que savez-vous au sujet du mage Déorien ?"
@@ -6367,10 +6344,10 @@ msgstr "Que savez-vous au sujet du mage Déorien ?"
 msgid "Do you know where Oracle lives?"
 msgstr "Savez-vous où l'Oracle habite ?"
 
-#: A_New_Order/scenarios/18.cfg:164 A_New_Order/scenarios/18.cfg:263
-#: A_New_Order/scenarios/18.cfg:329 A_New_Order/scenarios/18.cfg:447
 #: A_New_Order/scenarios/20.cfg:270 A_New_Order/scenarios/20.cfg:326
-#: A_New_Order/scenarios/20.cfg:374
+#: A_New_Order/scenarios/20.cfg:374 A_New_Order/scenarios/18.cfg:164
+#: A_New_Order/scenarios/18.cfg:263 A_New_Order/scenarios/18.cfg:329
+#: A_New_Order/scenarios/18.cfg:447
 msgid "Have you heard any interesting news recently?"
 msgstr "Avez-vous entendu des nouvelles intéressantes récemment ? "
 
@@ -6718,15 +6695,15 @@ msgstr ""
 "sont nées dans mon village, le même jour à la même heure ! Gros-Robert a "
 "perdu un cheval en foret, je pense qu'il a été volé par des hors-la-loi."
 
-#: A_New_Order/scenarios/18.cfg:544 A_New_Order/scenarios/20.cfg:438
+#: A_New_Order/scenarios/20.cfg:438 A_New_Order/scenarios/18.cfg:544
 msgid "Why do you dislike Lorin?"
 msgstr "Pourquoi est-ce que tu n'aimes pas Lorin ? "
 
-#: A_New_Order/scenarios/18.cfg:546 A_New_Order/scenarios/20.cfg:440
+#: A_New_Order/scenarios/20.cfg:440 A_New_Order/scenarios/18.cfg:546
 msgid "Tell me about Karen"
 msgstr "Parle moi de Karen"
 
-#: A_New_Order/scenarios/18.cfg:549 A_New_Order/scenarios/20.cfg:443
+#: A_New_Order/scenarios/20.cfg:443 A_New_Order/scenarios/18.cfg:549
 msgid ""
 "You must be kidding. This woman is so hard to live near I cannot understand "
 "why Yaranov seemed to have crunch on her."
@@ -6735,7 +6712,7 @@ msgstr ""
 "femme que je ne peux pas comprendre pourquoi Yaranov semble tellement "
 "s'accrocher à elle."
 
-#: A_New_Order/scenarios/18.cfg:553 A_New_Order/scenarios/20.cfg:449
+#: A_New_Order/scenarios/20.cfg:449 A_New_Order/scenarios/18.cfg:553
 msgid ""
 "Weeell, she is my oldest daughter. From her youth she always wanted to be "
 "great fighter, and she always tried to be the best."
@@ -6744,11 +6721,11 @@ msgstr ""
 "voulu devenir une grande guerrière, et elle essaie toujours d'être la "
 "meilleure en tout."
 
-#: A_New_Order/scenarios/18.cfg:554 A_New_Order/scenarios/20.cfg:450
+#: A_New_Order/scenarios/20.cfg:450 A_New_Order/scenarios/18.cfg:554
 msgid "I'm kind of surprised that she is not here with us."
 msgstr "Je suis plutôt surpris qu'elle ne soit pas ici avec nous."
 
-#: A_New_Order/scenarios/18.cfg:555 A_New_Order/scenarios/20.cfg:451
+#: A_New_Order/scenarios/20.cfg:451 A_New_Order/scenarios/18.cfg:555
 msgid ""
 "I ordered Karl to tied here and lock her room. I think this gave us enough "
 "time to escape. This journey is really to dangerous for her. I hope she will "
@@ -6759,8 +6736,8 @@ msgstr ""
 "vraiment trop dangereux pour elle. J'espère qu'elle sera en sécurité à "
 "Libreville."
 
-#: A_New_Order/scenarios/18.cfg:559 A_New_Order/scenarios/20.cfg:456
-#: A_New_Order/scenarios/20.cfg:460
+#: A_New_Order/scenarios/20.cfg:456 A_New_Order/scenarios/20.cfg:460
+#: A_New_Order/scenarios/18.cfg:559
 msgid "Hey Reme, what's going on?"
 msgstr "Hé, Reme, quoi de neuf ?"
 
@@ -6772,19 +6749,19 @@ msgstr ""
 "Pas grand'chose. Je crois que vos infé... soldats wesnothiens commencent à - "
 "peut-être pas m'aimer - mais me tolérer."
 
-#: A_New_Order/scenarios/18.cfg:561 A_New_Order/scenarios/20.cfg:462
+#: A_New_Order/scenarios/20.cfg:462 A_New_Order/scenarios/18.cfg:561
 msgid "Nice to hear that."
 msgstr "Je suis très heureux de l'entendre."
 
-#: A_New_Order/scenarios/18.cfg:563 A_New_Order/scenarios/20.cfg:465
+#: A_New_Order/scenarios/20.cfg:465 A_New_Order/scenarios/18.cfg:563
 msgid "Mother, what's going on?"
 msgstr "Mère, que se passe-t'il ? "
 
-#: A_New_Order/scenarios/18.cfg:564 A_New_Order/scenarios/20.cfg:466
+#: A_New_Order/scenarios/20.cfg:466 A_New_Order/scenarios/18.cfg:564
 msgid "Mother? I think you said I am not your real mother?"
 msgstr "Mère ? Je pensais que tu avais dis que je ne suis pas ta vraie mère ?"
 
-#: A_New_Order/scenarios/18.cfg:565 A_New_Order/scenarios/20.cfg:467
+#: A_New_Order/scenarios/20.cfg:467 A_New_Order/scenarios/18.cfg:565
 msgid "I'm sorry. I was really angry."
 msgstr "Pardon, j'étais en colère."
 
@@ -6832,15 +6809,15 @@ msgstr "Raul de Barnon"
 msgid "Marlin Barrae"
 msgstr "Marlin Barrae"
 
-#: A_New_Order/scenarios/19a.cfg:139 A_New_Order/scenarios/19b.cfg:126
-#: A_New_Order/scenarios/19oracle.cfg:752
-#: A_New_Order/scenarios/23macros.cfg:580
+#: A_New_Order/scenarios/19oracle.cfg:752 A_New_Order/scenarios/19a.cfg:139
+#: A_New_Order/scenarios/19b.cfg:126 A_New_Order/scenarios/23macros.cfg:580
 msgid "There are no interrogations in this scenario."
 msgstr "Il n'y a aucun interrogatoire dans ce scénario."
 
 #: A_New_Order/scenarios/19a.cfg:141 A_New_Order/scenarios/19b.cfg:128
+#: A_New_Order/scenarios/23macros.cfg:582
 #: A_New_Order/scenarios/21bride.cfg:265 A_New_Order/scenarios/21bride.cfg:293
-#: A_New_Order/scenarios/22.cfg:338 A_New_Order/scenarios/23macros.cfg:582
+#: A_New_Order/scenarios/22.cfg:338
 msgid "Kill all enemy leaders OR"
 msgstr "Tuez tous les chefs ennemis OU"
 
@@ -6852,10 +6829,10 @@ msgstr "atteignez le panneau indicateur avec Gawen."
 msgid "So, should continue our journey?"
 msgstr "Alors, devons nous continuer notre voyage ?"
 
-#: A_New_Order/scenarios/19a.cfg:172 A_New_Order/scenarios/19b.cfg:159
-#: A_New_Order/scenarios/19oracle.cfg:797
+#: A_New_Order/scenarios/19oracle.cfg:797 A_New_Order/scenarios/19a.cfg:172
+#: A_New_Order/scenarios/19b.cfg:159 A_New_Order/scenarios/25.cfg:465
 #: A_New_Order/scenarios/21bride.cfg:381 A_New_Order/scenarios/22.cfg:615
-#: A_New_Order/scenarios/22.cfg:678 A_New_Order/scenarios/25.cfg:465
+#: A_New_Order/scenarios/22.cfg:678
 msgid ""
 "Everything is lost! The reinforcements for our enemies arrived! We have no "
 "chance now to win!"
@@ -7243,9 +7220,9 @@ msgstr "Le lieu hanté"
 msgid "The Road Back to Vakladia"
 msgstr "Retour à Vakladia."
 
-#: A_New_Order/scenarios/20.cfg:84 A_New_Order/scenarios/20.cfg:408
-#: A_New_Order/scenarios/20.cfg:423 A_New_Order/scenarios/21weldyn-b.cfg:104
-#: A_New_Order/scenarios/21weldyn.cfg:72
+#: A_New_Order/scenarios/21weldyn-b.cfg:104
+#: A_New_Order/scenarios/21weldyn.cfg:72 A_New_Order/scenarios/20.cfg:84
+#: A_New_Order/scenarios/20.cfg:408 A_New_Order/scenarios/20.cfg:423
 msgid "Deorien"
 msgstr "Déorien"
 
@@ -7810,7 +7787,8 @@ msgstr ""
 msgid "A Former Friend"
 msgstr "Un ancien ami."
 
-#: A_New_Order/scenarios/20macros.cfg:201
+#: A_New_Order/scenarios/25.cfg:627 A_New_Order/scenarios/25.cfg:641
+#: A_New_Order/scenarios/25.cfg:655 A_New_Order/scenarios/20macros.cfg:201
 #: A_New_Order/scenarios/20macros.cfg:220
 #: A_New_Order/scenarios/20macros.cfg:238
 #: A_New_Order/scenarios/20macros.cfg:257
@@ -7819,11 +7797,13 @@ msgstr "Un ancien ami."
 #: A_New_Order/scenarios/20macros.cfg:307
 #: A_New_Order/scenarios/23macros.cfg:500
 #: A_New_Order/scenarios/23macros.cfg:514
-#: A_New_Order/scenarios/23macros.cfg:528 A_New_Order/scenarios/25.cfg:627
-#: A_New_Order/scenarios/25.cfg:641 A_New_Order/scenarios/25.cfg:655
+#: A_New_Order/scenarios/23macros.cfg:528
 msgid "Ha! They were hiding some gold here!"
 msgstr "Ah! Ils avaient caché de l'or ici ! "
 
+#: A_New_Order/scenarios/5b.cfg:176 A_New_Order/scenarios/5b.cfg:217
+#: A_New_Order/scenarios/21haunted.cfg:229 A_New_Order/scenarios/25.cfg:632
+#: A_New_Order/scenarios/25.cfg:646 A_New_Order/scenarios/25.cfg:660
 #: A_New_Order/scenarios/20macros.cfg:206
 #: A_New_Order/scenarios/20macros.cfg:225
 #: A_New_Order/scenarios/20macros.cfg:243
@@ -7831,17 +7811,16 @@ msgstr "Ah! Ils avaient caché de l'or ici ! "
 #: A_New_Order/scenarios/20macros.cfg:281
 #: A_New_Order/scenarios/20macros.cfg:297
 #: A_New_Order/scenarios/20macros.cfg:312
-#: A_New_Order/scenarios/21haunted.cfg:229 A_New_Order/scenarios/22.cfg:548
 #: A_New_Order/scenarios/23macros.cfg:505
-#: A_New_Order/scenarios/23macros.cfg:533 A_New_Order/scenarios/25.cfg:632
-#: A_New_Order/scenarios/25.cfg:646 A_New_Order/scenarios/25.cfg:660
-#: A_New_Order/scenarios/5b.cfg:176 A_New_Order/scenarios/5b.cfg:217
+#: A_New_Order/scenarios/23macros.cfg:533 A_New_Order/scenarios/22.cfg:548
 msgid "You have received 50 gold pieces"
 msgstr "Vous avez reçu 50 pièces d'or."
 
+# aucune idée de ce que ça veut dire...
 #: A_New_Order/scenarios/20macros.cfg:208
+#, fuzzy
 msgid "OOPOS"
-msgstr ""
+msgstr "OOPOS"
 
 #: A_New_Order/scenarios/20macros.cfg:319
 msgid ""
@@ -7900,7 +7879,7 @@ msgstr "Pourquoi êtes-vous alliés aux orcs et à Grekulak ?"
 msgid "Who poisoned my mother?"
 msgstr "Qui a empoisonné ma mère ?"
 
-#: A_New_Order/scenarios/20macros.cfg:332 A_New_Order/scenarios/8.cfg:361
+#: A_New_Order/scenarios/8.cfg:361 A_New_Order/scenarios/20macros.cfg:332
 msgid "That's all I wanted to know"
 msgstr "C'est tout ce que je voulais savoir."
 
@@ -8891,11 +8870,10 @@ msgstr ""
 "Libérez la paysanne qui est gardée en cage et déplacez la à la limite nord "
 "de la carte."
 
-#: A_New_Order/scenarios/21bride.cfg:285
-#: A_New_Order/scenarios/21haunted.cfg:155 A_New_Order/scenarios/22.cfg:350
-#: A_New_Order/scenarios/23macros.cfg:594 A_New_Order/scenarios/25.cfg:452
+#: A_New_Order/scenarios/21haunted.cfg:155 A_New_Order/scenarios/28.cfg:546
+#: A_New_Order/scenarios/25.cfg:452 A_New_Order/scenarios/23macros.cfg:594
+#: A_New_Order/scenarios/21bride.cfg:285 A_New_Order/scenarios/22.cfg:350
 #: A_New_Order/scenarios/27.cfg:625 A_New_Order/scenarios/27.cfg:892
-#: A_New_Order/scenarios/28.cfg:546
 msgid "Death of Deorien"
 msgstr "Mort de Déorien"
 
@@ -10467,8 +10445,8 @@ msgstr ""
 "Gee, ne panique pas. Ce n'est que l'avant garde de l'armée du roi Buffin. Je "
 "t'assure que nous avons encore toutes les chances de gagner."
 
-#: A_New_Order/scenarios/23a.cfg:3 A_New_Order/scenarios/23b.cfg:3
-#: A_New_Order/scenarios/23c.cfg:3 A_New_Order/scenarios/23d.cfg:3
+#: A_New_Order/scenarios/23c.cfg:3 A_New_Order/scenarios/23a.cfg:3
+#: A_New_Order/scenarios/23d.cfg:3 A_New_Order/scenarios/23b.cfg:3
 msgid "Trapped"
 msgstr "Piégés."
 
@@ -10536,21 +10514,21 @@ msgstr ""
 "Ha, Reumario. Est-ce que ça n'a pas une petit goût de déjà vu ? Que disais-"
 "tu déjà ? Ah, que mon heure était venue."
 
-#: A_New_Order/scenarios/23a.cfg:36 A_New_Order/scenarios/23b.cfg:35
-#: A_New_Order/scenarios/23c.cfg:50
+#: A_New_Order/scenarios/23c.cfg:50 A_New_Order/scenarios/23a.cfg:36
+#: A_New_Order/scenarios/23b.cfg:35
 msgid "I am not affraid, old hag. I am dying anyway."
 msgstr "Je n'ai pas peur, vielle paux. Je meurt déjà de toutes façons."
 
-#: A_New_Order/scenarios/23a.cfg:37 A_New_Order/scenarios/23c.cfg:51
+#: A_New_Order/scenarios/23c.cfg:51 A_New_Order/scenarios/23a.cfg:37
 msgid "Different are the kinds of death, Reumario."
 msgstr "Il y a différentes façons de mourir, Reumario."
 
-#: A_New_Order/scenarios/23a.cfg:38 A_New_Order/scenarios/23b.cfg:37
-#: A_New_Order/scenarios/23c.cfg:52
+#: A_New_Order/scenarios/23c.cfg:52 A_New_Order/scenarios/23a.cfg:38
+#: A_New_Order/scenarios/23b.cfg:37
 msgid "Mother, put down that knife! This is an order."
 msgstr "Mère, déposer ce couteau par terre ! C'est un ordre."
 
-#: A_New_Order/scenarios/23a.cfg:39 A_New_Order/scenarios/23c.cfg:53
+#: A_New_Order/scenarios/23c.cfg:53 A_New_Order/scenarios/23a.cfg:39
 msgid "What knife?"
 msgstr "Quel couteau ?"
 
@@ -11235,6 +11213,11 @@ msgid ""
 "their mothers.  Impaled girls and men on the crosses. People burned in their "
 "houses. And still, no matter how stupid it seems, I still had the hope."
 msgstr ""
+"Dès le premier moment, nous avons su que Libreville n'avait pas été prise "
+"par des orcs. Les orcs n'auraient pas pu être si atrôces. Les enfants tués "
+"avec leur mère. Les filles empalées et les hommes sur des croix. Des gens "
+"brûlés dans leur maison. Et pourtant, aussi stupide que cela puisse "
+"paraître, j'avais encore de l'espoir."
 
 #: A_New_Order/scenarios/24.cfg:21
 msgid ""
@@ -11245,12 +11228,21 @@ msgid ""
 "vengeance, but I felt nothing. My wife, my daughters, dead? It was too "
 "impossible to be believable."
 msgstr ""
+"Son visage, bien que plein de poussières et de sang, était intact. Elle "
+"gisait dans une position qui montrait clairement quel avait été son fardeau "
+"avant de recevoir le dernier coup de la compassion. Je m'agenouillais à côté "
+"d'elle, carressant ses cheveux comme je le faisais quand elle était enfant. "
+"Je n'ai rien ressenti. J'aurais du ressentir de l'angoisse, du désespoir, "
+"j'aurais du hurler à la vangeance, mais je n'ai rien ressenti. Ma femme, mes "
+"filles, mortes ? C'était impossible à croire."
 
 #: A_New_Order/scenarios/24.cfg:25
 msgid ""
 "I tried to protect them, I tried so hard. I wanted Karen to be safe, in "
 "Freetown. If not my orders, maybe at least she..."
 msgstr ""
+"J'ai essayé de les protéger, j'ai essayé si fort. Je voulais que Karen soit "
+"à l'abris, à Libreville. Si pas mes ordre, au moins elle..."
 
 #: A_New_Order/scenarios/24.cfg:29
 msgid ""
@@ -11260,6 +11252,11 @@ msgid ""
 "some dynastic marriage one day - I even foolishly dreamt you could found a "
 "new dynasty."
 msgstr ""
+"Gawen, je crois que Karen vous aimait. Je ne sais pas quels étaient vos "
+"sentiments pour elle, mais j'ai toujours espéré que vous soyez heureux "
+"ensemble, et malgré que je sache que c'était impossible - malgré que je "
+"sache que vous auriez sûrement fait un jour un mariage plus 'dynastique' - "
+"je révais même naïvement que vous auriez pu fonder une nouvelle dynastie ."
 
 #: A_New_Order/scenarios/24.cfg:33
 msgid ""
@@ -11267,6 +11264,9 @@ msgid ""
 "have taken everything from me. First they took your mother from me. Then "
 "they killed her. And now, they killed my whole family."
 msgstr ""
+"Je ne sais pas combien de temps je suis resté la-bas. Plus rien n'avait "
+"d'importance. Les akladiens m'ont tout pris. D'abord, ils m'ont pris votre "
+"mère. Ensuite, ils l'ont tuée. Et maintenant, ils ont tué toute ma famille."
 
 #: A_New_Order/scenarios/24.cfg:37
 msgid " I am an empty shell. Nothing is left inside me. "
@@ -11277,6 +11277,9 @@ msgid ""
 "Welcome to Freetown, Hagarthen. Why you came here? Why you brought here your "
 "mother? You wanted to admire the destruction caused by your kin?"
 msgstr ""
+"Bienvenue à Libreville, Hagarthen. Pourquoi êtes-vous venu ici ? Pourquoi "
+"avez-vous amené votre mère ici ? Vous vouliez admirez la destruction causée "
+"par votre race ?"
 
 #: A_New_Order/scenarios/24.cfg:96
 msgid "How dare you speak that way to your king!"
@@ -11288,6 +11291,9 @@ msgid ""
 "mouths, I don't know what I would do to you. Amongst my army are people who "
 "had families here. I, myself..."
 msgstr ""
+"Huon, si je ne savias pas que c'est la colère qui met ces mots dans votre "
+"bouche, je ne sais pas ce que je vous ferais. En plus du fait que mon armée "
+"possède des gens qui ont leur famille ici, moi-même..."
 
 #: A_New_Order/scenarios/24.cfg:98
 msgid ""
@@ -11295,18 +11301,25 @@ msgid ""
 "families of those beasts who did that! All you Akladians should be killed, "
 "all you should be expelled, all you should..."
 msgstr ""
+"Quoi, Vous-même ? Et parmis les gens de votre armée, il y a aussi des gens "
+"qui font partie des familles des animaux qui ont fait ça ! Vous, les "
+"akladiens, on devrait vous tuer, on devrait vous expulser, on devrait vous..."
 
 #: A_New_Order/scenarios/24.cfg:99
 msgid ""
 "Silence, underling. You are unworthy of being called man. Stop crying like "
 "Wesnothian woman"
 msgstr ""
+"Silence, inférieur. Tu n'es pas digne du titre d'homme. Arrête de "
+"pleurnicher comme une femme wesnothienne."
 
 #: A_New_Order/scenarios/24.cfg:100
 msgid ""
 "And she! How Akladians knew where Freetown is located? Who told them? Who, "
 "if not that witch? Let's kill her, and then let's..."
 msgstr ""
+"Et elle ! Comment les akladiens ont-ils su où Libreville est située ? Qui "
+"leur a dit ? Qui sinon cette sorcière ? Tuons la, et ensuite nous..."
 
 #: A_New_Order/scenarios/24.cfg:101
 msgid ""
@@ -11314,10 +11327,14 @@ msgid ""
 "her. But if you want to just blindly kill anyone with Akladian drop of blood "
 "in his veins, I won't stop you. Start with me, your king."
 msgstr ""
+"Voici mon épée, Huon. J'ai moi aussi perdu quelqu'un ici, et je veux la "
+"vanger. Mais si vous voulez juste aveuglément tuer tous ceux qui ont une "
+"goutte de sang akladien dans les veines, je ne vous arrêtrai pas. Commencez "
+"donc par moi, votre roi."
 
 #: A_New_Order/scenarios/24.cfg:102
 msgid "You are not my king! You are.. You are..."
-msgstr ""
+msgstr "Vous n'êtes pas mon roi ! Vous êtes... Vous êtes..."
 
 #: A_New_Order/scenarios/24.cfg:103
 msgid ""
@@ -11326,6 +11343,11 @@ msgid ""
 "Gawen Haldric Hagarthen, and this is my country. My sword will punish the "
 "wicked. My sword will defend defenseless."
 msgstr ""
+"Oui, Maintenant je vois. Déorien, maintenant, je comprends ce que vous avez "
+"essayé de me dire. Il n'y a aucun avenir pour une guerre civile entre les "
+"akladiens et les wesnothiens. Je suis le roi Gawen Haldric Hagarthen, et "
+"ceci est mon pays. Mon épée punira les coupables. Mon épée défendra les sans-"
+"défense."
 
 #: A_New_Order/scenarios/24.cfg:104
 msgid "My king..."
@@ -11337,42 +11359,55 @@ msgid ""
 "daughter, but I would be grateful if I could find you next me in battles "
 "which await me."
 msgstr ""
+"Ruvio, mon ami... Je vais avoir besoin de vous à mes côtés. Je sais que vous "
+"voulez faire le deuil de votre fille, mais je serai reconnaissant de vous "
+"avoir près de moi dans les batailles qui m'attendent."
 
 #: A_New_Order/scenarios/24.cfg:106
 msgid "Gawen... My sword is your sword."
-msgstr ""
+msgstr "Gawen... Mon épée est votre épée."
 
 #: A_New_Order/scenarios/24.cfg:107
 msgid ""
 "But what about your step-mother? She's Akladian wild beast. I bet it was she "
 "who passed the location of Freetown to Bor Cryne and his slayers."
 msgstr ""
+"Mais et que faisons-nous de votre belle-mère ? Elle est une bête sauvage "
+"akladienne. JE parie que c'est elle qui a révélé la position de Libreville à "
+"Bor Cryne et ses tueurs."
 
 #: A_New_Order/scenarios/24.cfg:108
 msgid ""
 "Why should I do that? And when? I was with Gawen all the time far away from "
 "here!"
 msgstr ""
+"Pourquoi est-ce que j'aurais fiat ça ? J'étais avec Gawen tout le temps, "
+"très loin d'ici."
 
 #: A_New_Order/scenarios/24.cfg:109
 msgid "Huon, stop accusing her. You have no proof."
-msgstr ""
+msgstr "Huon, arrêtez de l'accuser. Vous n'avez pas de preuve."
 
 #: A_New_Order/scenarios/24.cfg:110
 msgid ""
 "She could do that, from what I've heard about her. She could do that. I have "
 "no proof, but you will never be sure whether it was she or not."
 msgstr ""
+"Elle pourrait le faire, de ce que j'ai entendu d'elle. Elle pourrait le "
+"faire. Je n'ai pas de preuve, mais vous ne serez jamais sûr si c'était elle "
+"ou pas."
 
 #: A_New_Order/scenarios/24.cfg:111
 msgid ""
 "That's ridiculous! How can you accuse.. Gawen, tell him you don't believe in "
 "that bullshit! Gawen! ... Gawen?"
 msgstr ""
+"C'est ridicule ! Comment peux-tu accuser... Gawen, dis lui que tu ne crois "
+"pas à ces ballivernes ! Gawen ! ... Gawen ?"
 
 #: A_New_Order/scenarios/24.cfg:112
 msgid "I want to be... alone for a moment."
-msgstr ""
+msgstr "J'ai besoin d'être ... seul pour un moment."
 
 #: A_New_Order/scenarios/24.cfg:114
 msgid ""
@@ -11380,12 +11415,18 @@ msgid ""
 "Wesnothians, you may again recruit Fencers, Spearmen, Bowmen, Akladian "
 "Clanmembers, Akladian Warriors, Akladian Homeguards, Akladian Wisemen."
 msgstr ""
+"Comme vous avez été déclaré messie par l'Oracle et reconnu comme roi par les "
+"Wesnothiens, vous pouvez à nouveau recruter des escrimeurs, des lanciers, "
+"des archers, des membres du clan akaldiens, des guerriers akladiens, des "
+"gardiens de maison akladiens et des sages akladiens."
 
 #: A_New_Order/scenarios/24.cfg:116
 msgid ""
 "Also, since you were joined by Rob Roe in the past, you may again recruit "
 "Thugs, Henchmen, Thiefs and Footpads."
 msgstr ""
+"Et, comme vous avez été rejoint par Rob Roe dans le passé, vous pouvez aussi "
+"recruter des voyoux, des acolytes, des voleurs et des footpads."
 
 #: A_New_Order/scenarios/25.cfg:3
 msgid "The Awakening"
@@ -11393,11 +11434,12 @@ msgstr "Le réveil."
 
 #: A_New_Order/scenarios/25.cfg:16
 msgid "My Lord! My lord is dead!"
-msgstr ""
+msgstr "Mon seigneur ! Mon seigneur est mort ! "
 
 #: A_New_Order/scenarios/25.cfg:17
 msgid "Well, noble lord, do you think I proved I am worthy to be your king?"
 msgstr ""
+"Et bien, noble seigneur, pensez-vous que j'ai prouvé être digne d'être roi ?"
 
 #: A_New_Order/scenarios/25.cfg:18
 #, fuzzy
@@ -11421,16 +11463,18 @@ msgid ""
 "Long live our king Gawen Haldric! It will be honour to fight for you, my "
 "king!"
 msgstr ""
+"Longue vie à notre roi Gawen Haldric ! Ce sera un honneur de me battre pour "
+"vous, mon roi !"
 
 #: A_New_Order/scenarios/25.cfg:42
 msgid "Death to enemies of our king! Long live our king Gawen Haldric!"
-msgstr ""
+msgstr "Mort aux ennemis de notre roi ! Longue vie à notre roi Gawen Haldric !"
 
 #: A_New_Order/scenarios/25.cfg:61 A_New_Order/scenarios/25.cfg:75
 #: A_New_Order/scenarios/25.cfg:89 A_New_Order/scenarios/25.cfg:103
 #: A_New_Order/scenarios/25.cfg:117 A_New_Order/scenarios/25.cfg:131
 msgid "Peasant"
-msgstr ""
+msgstr "Paysan"
 
 #: A_New_Order/scenarios/25.cfg:160
 msgid "Akladian Peasant"
@@ -11444,6 +11488,12 @@ msgid ""
 "unopposed through the land, murdering and raping both Akladians and "
 "Wesnothians, invited here by the traitors sick from the hatred."
 msgstr ""
+"Peuple de Vakladia ! Peuple de Wesnoth ! Il y a longtemps que vous attendez "
+"la venue d'un messie. Il y a longtemps que vous attendez la venue d'un roi "
+"qui unifiera la nation et mettra fin aux guerres qui empoisonnent le pays. "
+"Les orcs ravagent tout le pays sans oposition, tuant et pillant aussi bien "
+"les akladiens que les wesnothiens. Ils ont été invité ici par des traîtres "
+"malades de haîne."
 
 #: A_New_Order/scenarios/25.cfg:179
 msgid ""
@@ -11452,6 +11502,10 @@ msgid ""
 "a man, who is sent here to stop the undead menace and to defeat the evil "
 "inside the very heart of our country. "
 msgstr ""
+"Vous avez entendu parler des morts-vivants qui envahissent le royaume voisin "
+"d'Okladia. Certains ont perdu l'espoir. Mais ne vous inquiétez pas, il y a "
+"un homme qui a été envoyé ici pour arrêter la menace des morts-vivant et "
+"pour détruire le mal au coeur même de notre pays."
 
 #: A_New_Order/scenarios/25.cfg:183
 msgid ""
@@ -11460,6 +11514,10 @@ msgid ""
 "his crown. All hail the king! All hail the messiah! All hail Gawen Haldric "
 "Hagarthen!"
 msgstr ""
+"Vous avez entendu parler de lui. Fils d'un roi akladien et d'une reine "
+"wesnothienne. Grand guerrier et grand chef. Faites-lui savoir que vous "
+"voulez qu'il vienne ici prendre sa couronne. Acclamez tous le roi ! Acclamez "
+"tous le messie ! Acclamez tous Gawen Haldric Hagarthen !"
 
 #: A_New_Order/scenarios/25.cfg:249
 msgid "Barhoon Urk"
@@ -11475,7 +11533,7 @@ msgstr "Bar Urien"
 
 #: A_New_Order/scenarios/25.cfg:406
 msgid "Are there any news from Bor Cryne?"
-msgstr ""
+msgstr "A-t'on des nouvelles de Bor Cryne ?"
 
 #: A_New_Order/scenarios/25.cfg:407
 msgid "Nothing new, my lord."
@@ -11483,21 +11541,23 @@ msgstr "Rien de neuf, mon Seigneur."
 
 #: A_New_Order/scenarios/25.cfg:408
 msgid "He should already be here! Where is he?"
-msgstr ""
+msgstr "Il devrait déjà être ici ! Où est-il ?"
 
 #: A_New_Order/scenarios/25.cfg:409
 msgid "My lord... This man, they call a messiah.."
-msgstr ""
+msgstr "Mon seigneur... Cet homme, qu'ils appellent le messie..."
 
 #: A_New_Order/scenarios/25.cfg:410
 msgid ""
 "This underling! Creature who has usurped the holy name and who will be "
 "punished by God!"
 msgstr ""
+"Cet inférieur ! Cette créature qui a usurpé ce nom sacré qui qui sera puni "
+"par Dieu ! "
 
 #: A_New_Order/scenarios/25.cfg:411
 msgid "But.. What about if he really IS messiah?"
-msgstr ""
+msgstr "Mais... Et si il était VRAIMENT le messie ?"
 
 #: A_New_Order/scenarios/25.cfg:412
 msgid ""
@@ -11505,16 +11565,21 @@ msgid ""
 "spirits since my youth and God had sent me many messages. Gawen is not "
 "messiah. He is mixling, who is unworthy of even honourable death."
 msgstr ""
+"Il n'en est pas question. Crois-moi, Bar Urien, j'écoute les esprits depuis "
+"mon enfance et Dieu m'a envoyé beaucoup de messages. Gawen n'est pas le "
+"messie. Il est un batard, il est même indigne d'une mort honorable."
 
 #: A_New_Order/scenarios/25.cfg:413
 msgid "But, I thought, let's just assume for the moment he IS..."
-msgstr ""
+msgstr "Mais, je me disais, imaginons un instant qu'il le SOIT..."
 
 #: A_New_Order/scenarios/25.cfg:414
 msgid ""
 "Bar, you are fine warrior and you were serving our clan loyally. But leave "
 "thinking to me."
 msgstr ""
+"Bar, tu es un bon soldat et tu as servi notre clan loyallement. Mais laisse "
+"la réflection à d'autres..."
 
 #: A_New_Order/scenarios/25.cfg:415
 msgid "But the Oracle..."
@@ -11525,23 +11590,31 @@ msgid ""
 "There is no 'but'. I have long suspected the Oracle is tool of the evil, not "
 "God's."
 msgstr ""
+"Il n'y a pas de 'mais'. Il y a longtemps que je suspect l'Oracle d'être "
+"l'instrument du mal, pas celui de Dieu."
 
 #: A_New_Order/scenarios/25.cfg:417
 msgid ""
 "I don't want to interrupt you your interesting discussion, but _I_ think you "
 "will have chance to ask this Gawen directly about everything."
 msgstr ""
+"Je ne voudrais pas interrompre votre interressante conversation, mais je "
+"pense que vous allez avoir l'occasion de demander tout cela à Gawen "
+"directement."
 
 #: A_New_Order/scenarios/25.cfg:418
 msgid ""
 "Akladians - open the way for me and my army. I am your rightful king, I am "
 "messiah, the hand of God on this earth. Whoever opposes me opposes the God."
 msgstr ""
+"Akladiens, ouvrez moi le chemin, ainsi qu'à mon armée. Je suis votre roi "
+"légitime , je suis le messie, la main de Dieu sur cette terre. Qui s'oppose "
+"à moi, s'oppose à Dieu."
 
 #: A_New_Order/scenarios/25.cfg:419
 msgid ""
 "Stop this blasphemies, foul mixling! You are nothing but a flabby underling."
-msgstr ""
+msgstr "Arrêtes ces blasphèmes, sale batard ! Tu n'es qu'un inférieur flasque."
 
 #: A_New_Order/scenarios/25.cfg:421
 msgid ""
@@ -11549,67 +11622,84 @@ msgid ""
 "times you were fighting me; This time you will be dead on the battlefield, "
 "unless you will recognise me as your king."
 msgstr ""
+"Tu as déjà oublié comment tu me fuais, vénérable Hoyre ? Par deux fois, tu "
+"m'as combattu; Cette fois, tu mourra sur le champs de bataille, à moins que "
+"tu ne me reconnaisses comme ton roi."
 
 #: A_New_Order/scenarios/25.cfg:423
 msgid "I am your king, Hoyre. Admit that or I will be forced to kill you."
-msgstr ""
+msgstr "Je suis ton roi, Hoyre. Admets-le ou je serai obligé de te tuer."
 
 #: A_New_Order/scenarios/25.cfg:425
 msgid ""
 "My king? My king, you? Never! I will rip your heart off! I will cut your "
 "hands and feed the crows with them!"
 msgstr ""
+"Mon roi ? Mon roi, toi ? Jamais ! Je vais t'arracher la tête ! je te "
+"couperais les mains, et je les jeterais aux corbeaux ! "
 
 #: A_New_Order/scenarios/25.cfg:426
 msgid ""
 "My lord, Bor Cryne may be just not far away from here. It isn't wise to "
 "fight alone against rebels' army."
 msgstr ""
+"Mon seigneur, Bor Cryne ne devrait pas être loin d'ici. Il n'est pas sage de "
+"se battre seul contre l'armée rebelle."
 
 #: A_New_Order/scenarios/25.cfg:427
 msgid ""
 "What about you, noble lord? Will you oppose your king and messiah declared "
 "by the Oracle?"
 msgstr ""
+"Et vous, noble seigneur ? Allez-vous vous opposez à votre roi et au messie "
+"déclaré par l'Oracle ?"
 
 #: A_New_Order/scenarios/25.cfg:428
 msgid ""
 "I don't know what to think. But there IS one way to determine whether you "
 "are really what you claim to be. If you will be able to defeat us.. "
 msgstr ""
+"Je ne sais plus quoi penser. Mais il y a un moyen de déterminer si tu es "
+"vraiment ce que tu prétends être. Si tu nous vaincs..."
 
 #: A_New_Order/scenarios/25.cfg:429
 msgid ""
 "By the way, Gawen, you started to be really convincing in your role. You "
 "seem to like it, despite what you were telling earlier."
 msgstr ""
+"Finalement, Gawen, vous commencez à être vraiment convaincant dans votre "
+"rôle. On dirait que vous l'aimer, malgré ce que vous disiez auparavant."
 
 #: A_New_Order/scenarios/25.cfg:430
 msgid "Stop this talk. We have to kill our enemies. To arms!"
-msgstr ""
+msgstr "Arrêtons de parler. Nous avons des ennemis à tuer. Aux armes ! "
 
 #: A_New_Order/scenarios/25.cfg:431
 msgid "Yeah! OH MY GOD, I am agreeing with an underling!"
-msgstr ""
+msgstr "Ouai ! OH MON DIEU, je suis d'accord avec un inférieur ! "
 
-#: A_New_Order/scenarios/25.cfg:456 A_New_Order/scenarios/27.cfg:633
-#: A_New_Order/scenarios/27.cfg:900 A_New_Order/scenarios/28.cfg:554
+#: A_New_Order/scenarios/28.cfg:554 A_New_Order/scenarios/25.cfg:456
+#: A_New_Order/scenarios/27.cfg:633 A_New_Order/scenarios/27.cfg:900
 msgid "Death of Huon Ryedric"
 msgstr "Mort d'Huon Ryedric"
 
 #: A_New_Order/scenarios/25.cfg:515
 msgid "Damn! We are too late."
-msgstr ""
+msgstr "Merde ! Nous arrivons trop tard."
 
 #: A_New_Order/scenarios/25.cfg:516
 msgid "Should we attack, my lord?"
 msgstr "Doit-on attaquer, mon seigneur ?"
 
+# je ne comprends pas le sens de screw dans ce contexte.
 #: A_New_Order/scenarios/25.cfg:517
+#, fuzzy
 msgid ""
 "No. Hoyre as usual screwed everything he could. We will withdraw to the "
 "north, and wait until Grekulak will come here to help us."
 msgstr ""
+"Non. Hoyre, à son habitude, a secoué tout ce qu'il pouvait. Nous allons "
+"battre en retraite vers le nord et attendre que Grekulak viennent nous aider."
 
 #: A_New_Order/scenarios/25.cfg:520
 msgid ""
@@ -11617,33 +11707,47 @@ msgid ""
 "the revenge on their own. Few Akladian villages were massacred south from "
 "Freetown. What will you do?"
 msgstr ""
+"Mon roi, J'ai entendu que des gens de Wesnoth ont déjà commencé à prendre "
+"eux-même leur revenche. Quelques villages ont été massacré au sud de "
+"Librevelle. Qu'allez-vous faire ?"
 
 #: A_New_Order/scenarios/25.cfg:521
 msgid "And what do you think he could do? People want a revenge, so..."
 msgstr ""
+"Et que penses-tu qu'il puisse faire ? Les gens veulent une revenche, donc..."
 
 #: A_New_Order/scenarios/25.cfg:522
 msgid "Revenge on whom? Innocent woman and children?"
-msgstr ""
+msgstr "Une revenche sur qui ? Les femmes et les enfants innocents ? "
 
 #: A_New_Order/scenarios/25.cfg:523
 msgid ""
 "Innocent? No Akladian is innocent. Even if they had not participated in "
 "massacres, maybe their husbands or uncles did, and..."
 msgstr ""
+"Innocent ? Aucun akladien n'est innocent. Même si ils n'ont pas participé "
+"aux massacres, leur mari ou leur oncle l'a probablemet fait, et..."
 
+# le sens de raise from the dead ... 
 #: A_New_Order/scenarios/25.cfg:524
+#, fuzzy
 msgid ""
 "How many Wesnothians were raised from dead by killing Akladian children, "
 "Huon? I lost whole family in Freetown. But I don't want to revenge them by "
 "killing families of innocent people."
 msgstr ""
+"Combien de wesnothiens se sont parjurés en tuant des enfants akladiens, "
+"Huon ?J'ai perdu toute ma famille à Libreville. Mais je ne veut pas me "
+"vanger en tuant les familles de gens innocents."
 
 #: A_New_Order/scenarios/25.cfg:525
 msgid ""
 "Anyway, you have to react, my king. If you won't stop this, Akladians with "
 "turn away from you and this will be another round of civil war."
 msgstr ""
+"De toutes façons, vous devez réagir, mon roi. Si vous n'arrêtez pas ceci, "
+"les akladiens se détourneront de vous et on repartira pour un autre tour de "
+"guerre civile."
 
 #: A_New_Order/scenarios/25.cfg:526
 msgid ""
@@ -11651,6 +11755,10 @@ msgid ""
 "whole families from hands of Akladians, how can you punish them? And if you "
 "do, a lot of Wesnothians will turn away from you..."
 msgstr ""
+"Les punir ? Pourquoi ? Ils ont agitpar désespoir et par colère, ils ont "
+"perdu toute leur famille des mains des akladiens, comment est-ce que vous "
+"pourriez les punir ? Mais si vous le faites, beacoup de wesnothiens se "
+"détourneront de vous..."
 
 #: A_New_Order/scenarios/25.cfg:527
 msgid ""
@@ -11659,20 +11767,26 @@ msgid ""
 "already committed crimes should go to pilgrimage to the Oracle to ask for "
 "forgiveness."
 msgstr ""
+"Je déclare l'amnystie pour tous. Mais dès à présent, tous ceux qui veulent "
+"verser du sang innocent sera chassé de mon peuple. Ceux qui ont déjà commis "
+"des crimes doivent aller en péllérinage auprès de l'Oracle pour demander "
+"pardon."
 
 #: A_New_Order/scenarios/25.cfg:528
 msgid "This supposed to be punishment? Akladians won't like it."
-msgstr ""
+msgstr "C'est sencé être une punission ? Les akladiens ne vont pas aimer ça."
 
 #: A_New_Order/scenarios/25.cfg:529
 msgid ""
 "I am the messiah. Akladians who would contest my words are tools of the evil "
 "and will never be admitted to the land of the ancestors."
 msgstr ""
+"Je suis le messie. Les akladiens qui contestent mes mots sont les "
+"instruments du mal et ne seront jamais admis au pays de leurs ancètres."
 
 #: A_New_Order/scenarios/25.cfg:530
 msgid "Messiah? You do not actually believe in that?"
-msgstr ""
+msgstr "Messie ? Vous ne croyez pas vraiment à ça ?"
 
 #: A_New_Order/scenarios/25.cfg:531
 msgid ""
@@ -11681,10 +11795,15 @@ msgid ""
 "against their king and they can definetely rebel against king of mixed "
 "blood. But they cannot rebel against the hand of God on earth."
 msgstr ""
+"Huon, la manière convenable de s'addresser à votre roi est 'votre majesté' "
+"ou au moins 'mon roi'. Déorien avait raison depuis le début, maintenant, je "
+"le constate. Les akladiens peuvent se rebeller contre leur roi et il peuvent "
+"définitivement se rebeller contre un roi au sang mélé. Mais il ne peuvent "
+"pas se rebeller contre la main de Dieu sur terre."
 
 #: A_New_Order/scenarios/25.cfg:532
 msgid "The way to Vattin is free of enemies. Let's go."
-msgstr ""
+msgstr "La route de Vattin est vide d'ennemis. Allons-y."
 
 #: A_New_Order/scenarios/25.cfg:598
 msgid "My king, we could really use some help."
@@ -11693,6 +11812,7 @@ msgstr "Mon roi, nous pourrions vraiment utiliser de l'aide."
 #: A_New_Order/scenarios/25.cfg:600
 msgid "We are under heavy attack, my king. We really could use some help."
 msgstr ""
+"Nous subissons une forte attaque, mon toi. Nous avons vraiment besoin d'aide."
 
 #: A_New_Order/scenarios/25.cfg:610
 msgid "Aaah!"
@@ -11704,21 +11824,23 @@ msgstr "Quoi ? Mère, vous êtes blessée ?"
 
 #: A_New_Order/scenarios/25.cfg:612
 msgid "No... I'm ok.. I'm ok... It was nothing."
-msgstr ""
+msgstr "No... Je vais bien... Je vais bien... Ce n'était rien."
 
 #: A_New_Order/scenarios/25.cfg:613
 msgid "But what that? You are wounded?"
-msgstr ""
+msgstr "Mais, c'est quoi, ça ? Vous êtes blessé ?"
 
 #: A_New_Order/scenarios/25.cfg:614
 msgid "No, Gawen, I've told you I'm OK!"
-msgstr ""
+msgstr "Non, Gawen, je vous ai dit que j'allais bien ! "
 
 #: A_New_Order/scenarios/25.cfg:615
 msgid ""
 "Probably the witch mistakenly drunk a poison she has prepared for someone "
 "else."
 msgstr ""
+"Peut-être que la sorcière a bu par erreur un poison qu'elle avait préparé "
+"pour quelqu'un d'autre."
 
 #: A_New_Order/scenarios/25.cfg:616
 msgid ""
@@ -11726,22 +11848,28 @@ msgid ""
 "she does not want to tell you, neither will I. But be prepared that she may "
 "not be able to fight in battles which await us in future."
 msgstr ""
+"Non, mon seigneur. Je pense que je sais ce qui est arrivé à votre belle-"
+"mère, mais si elle ne veut rien vous dire, je ne le ferai pas non plus. "
+"Préparez-vous, elle pourrait ne plus être capable de participer aux "
+"batailles qui nous attendent."
 
 #: A_New_Order/scenarios/25.cfg:617
 msgid ""
 "Underling, be silent. You know nothing. You all know nothing. Lorin will "
 "fight."
 msgstr ""
+"Inférieur, silence. Tu ne sais rien. Personne ne sais rien. Lorin se battra."
 
-#: A_New_Order/scenarios/25.cfg:669 A_New_Order/scenarios/27.cfg:753
-#: A_New_Order/scenarios/28.cfg:657
+#: A_New_Order/scenarios/28.cfg:657 A_New_Order/scenarios/25.cfg:669
+#: A_New_Order/scenarios/27.cfg:753
 msgid "Aaargh! I haven't revenged my family!"
-msgstr ""
+msgstr "Aaaargh ! Je n'ai pas vangé ma famille !"
 
 #: A_New_Order/scenarios/25.cfg:677
 msgid ""
 "Stop! Don't kill me! I will give you a lot of gold if you will spare me!"
 msgstr ""
+"Arrêtez ! Ne me tuez pas ! Je vous donnerai plein d'or si vous m'épargnez ! "
 
 #: A_New_Order/scenarios/25.cfg:678
 msgid "Were you at Freetown?"
@@ -11749,7 +11877,7 @@ msgstr "Etiez-vous à Libreville. ?"
 
 #: A_New_Order/scenarios/25.cfg:679
 msgid "NO! It was Bor Cryne! Don't kill me!"
-msgstr ""
+msgstr "NON ! C'était Bor Cryne ! Ne me tuez pas !"
 
 #: A_New_Order/scenarios/25.cfg:680
 msgid "I am an empty shell."
@@ -11760,10 +11888,12 @@ msgid ""
 "Before you will pass, I want to ask you one, simple, very simple question. "
 "Were you with Akladian army which burned Barnon?"
 msgstr ""
+"Avant que tu ne passes, je veux te poser une toute simple question. Étais-tu "
+"avec l'armée akladienne qui a brûlé Barnon ?"
 
 #: A_New_Order/scenarios/25.cfg:687
 msgid "No! No! That was Bor Cryne, I swear! I wasn't there!"
-msgstr ""
+msgstr "Non ! Non ! C'était Bor Cryne, je le jure ! Je n'étais pas là !"
 
 #: A_New_Order/scenarios/25.cfg:690 A_New_Order/scenarios/25.cfg:719
 msgid "Well.."
@@ -11775,7 +11905,7 @@ msgstr "Où est Bor Cryne ?"
 
 #: A_New_Order/scenarios/25.cfg:692 A_New_Order/scenarios/25.cfg:721
 msgid "Who gave you the location of Freetown?"
-msgstr ""
+msgstr "Qui a révélé la position de Libreville ?"
 
 #: A_New_Order/scenarios/25.cfg:693
 msgid "Do you know who poisoned my mother?"
@@ -11783,40 +11913,47 @@ msgstr "Sais-tu qui a empoisonné ma mère ?"
 
 #: A_New_Order/scenarios/25.cfg:697 A_New_Order/scenarios/25.cfg:725
 msgid "Whenever he is, he should be here!"
-msgstr ""
+msgstr "Quoi qu'il en soit, il devrait être ici !"
 
 #: A_New_Order/scenarios/25.cfg:699 A_New_Order/scenarios/25.cfg:727
 msgid "I do not know! I wasn't at Freetown, really!"
-msgstr ""
+msgstr "Je ne sais pas ! Je n'étais pas à Libreville, vraiment !"
 
 #: A_New_Order/scenarios/25.cfg:701
 msgid ""
 "I do not know! Uri van Roe or Bor Cryne may know something about that..."
 msgstr ""
+"Je ne sais pas ! Uri van Roe ou Bor Cryne devrait savoir quelque chose à ce "
+"sujet..."
 
 #: A_New_Order/scenarios/25.cfg:714
 msgid ""
 "Don't kill me, Lorin! I know you where you still were little child, I played "
 "with you when you were small..."
 msgstr ""
+"Ne me tuez pas, Lorin ! Je vous ai connu alors que vous n'étiez qu'une "
+"petite enfant, j'ai joué avec vous quand vous étiez petite."
 
 #: A_New_Order/scenarios/25.cfg:715
 msgid "You should've killed me then, when you still have the chance."
 msgstr ""
+"Vous auriez du me tuer à ce moment, quand vous aviez encore une chance."
 
 #: A_New_Order/scenarios/25.cfg:741
 msgid ""
 "You truly are worthy to be our king! Oracle was right! I never should listen "
 "to Hoyre...."
 msgstr ""
+"Vous êtes vraiment digne d'être notre roi ! l'Oracle avait raison ! je "
+"n'écouterai plus Hoyre..."
 
 #: A_New_Order/scenarios/25.cfg:760
 msgid "How this could be possible?"
-msgstr ""
+msgstr "Comment est-ce possible ?"
 
 #: A_New_Order/scenarios/25.cfg:769
 msgid "I should've stayed in hills in the north..."
-msgstr ""
+msgstr "J'aurais dû rester dans les collines au nord..."
 
 #: A_New_Order/scenarios/26.cfg:3
 msgid "Return of the king"
@@ -11830,6 +11967,11 @@ msgid ""
 "acknowleding him as king, both Wesnothians and Akladians, not to mention he "
 "was growing a beard."
 msgstr ""
+"Encore une fois, j'étais dans l'enceinte de Vattin. J'ai souvent révé à ce "
+"moment, mais je n'avais jamais pensé que ce serait aussi... terrifiant. "
+"Gawen avait son trône et il était en train d'accepter les émissaires de tous "
+"les coins de Vakladia, qui le reconnaissaient comme roi, aussi bien les "
+"wesnothiens que les akladiens, sans parler de sa barbe qui poussait."
 
 #: A_New_Order/scenarios/26.cfg:16
 msgid ""
@@ -11839,6 +11981,12 @@ msgid ""
 "just pretending they don't? This were strange days, when I felt both happy "
 "and terrified, when I was both escaping from and waiting for every hour."
 msgstr ""
+"Mais j'étais comme un animal chassé. Partout où je regardais, je rencontrais "
+"des yeux plein de méfiance et de dédain. Je n'étais pas sûr de combien de "
+"temps je pourrais garder mon secret; j'ai essayé, dur, mais c'était plus dur "
+"chaque jour. Le savent-ils déjà ? Ils font peut-être juste semblant de ne "
+"pas le savoir ? Ce furent des jours étranges, j'étais à la fois heureuse et "
+"terrifiée, j'attendais chaque heure et en même temps je la fuyais."
 
 #: A_New_Order/scenarios/26.cfg:19
 msgid ""
@@ -11848,19 +11996,31 @@ msgid ""
 "surprise also Gawen's cousins, Luc and Gauri Hagarthens from Guilcorta sent "
 "their own messengers."
 msgstr ""
+"Rapidement, les émissaires vinrent aussi des autres royaumes akladiens. "
+"Eastkladia n'avait pas de roi, et on demandait à Gawen de reprendre ce qu'il "
+"restait de ce royaume. D'autres vinrent d'Okladia, mais ce n'étaient pas des "
+"émissaires, mais des réfugiés. Finallement, la surprise vint également des "
+"cousins de Gawen, Luc et Gauri Hagarthens de Guicorta, car ils envoyèrent "
+"leurs propres messagers."
 
 #: A_New_Order/scenarios/26.cfg:161
 msgid ""
 "Welcome, noble lords, my friends, my swords. We gathered here to discuss our "
 "situation."
 msgstr ""
+"Bienvenus, nobles seigneurs, mes amis, mes épées. Nous sommes ici pour "
+"discuter de notre situation."
 
 #: A_New_Order/scenarios/26.cfg:162
+#, fuzzy
 msgid ""
 "As far as I can tell, all rebels I know about acknowledged you as king. "
 "Cities and remaining Wesnothian nobility are busy sending to you "
 "declarations of loyalty."
 msgstr ""
+"De ce que je vois, tous les rebels que je connais vous on reconnu comme roi. "
+"Les cités et la noblesse wesnothienne restante vous envoie des déclarations "
+"de loyauté."
 
 #: A_New_Order/scenarios/26.cfg:163
 msgid ""
@@ -11868,18 +12028,27 @@ msgid ""
 "the hills. Bor Cryne is there, gathering an army. I think he waits until "
 "Grekulak's allies, orcs and undead will come here from the Okladia."
 msgstr ""
+"Le peu de seigneurs akladiens qui ont refusé de croire l'Oracle se sont "
+"repliés dans les collines. Bor Cryne est là-bas. Il monte une armée. Je "
+"pense qu'il attends que les alliés de Grekulak, les orcs et les morts-"
+"vivants viennent ici d'Okladia."
 
 #: A_New_Order/scenarios/26.cfg:164
 msgid "And when that will happen?"
-msgstr ""
+msgstr "Et quand cela se produira-t'il ?"
 
 #: A_New_Order/scenarios/26.cfg:166
+#, fuzzy
 msgid ""
 "Soon, my lord. I talked to the refugees from Okladia. King Buffin is dead. "
 "Some Akladian lords are still defending themselves, locked in their castles, "
 "but I doubt Grekulak will wait until they will be defeated. He will march "
 "here immedietely."
 msgstr ""
+"Rapidement, mon seigneur, j'ai parlé avec les réfugiés d'Okladia. Le roi "
+"Buffin est mort. Qulques seigneurs akladiens se défendent encore, enfermés "
+"dans leur château, mais je doute que Grekulak attende qu'ils soient vaincus. "
+"Il marchera directement vers nous."
 
 #: A_New_Order/scenarios/26.cfg:168
 msgid ""
@@ -11888,12 +12057,18 @@ msgid ""
 "but I doubt Grekulak will wait untill they will be defeated. He will march "
 "here immedietely."
 msgstr ""
+"Rapidement, mon seigneur, j'ai parlé avec les réfugiés d'Okladia. Le roi "
+"Buffin est mort. Qulques seigneurs akladiens se défendent encore, enfermés "
+"dans leur château, mais je doute que Grekulak attende qu'ils soient vaincus. "
+"Il marchera directement vers nous."
 
 #: A_New_Order/scenarios/26.cfg:170
 msgid ""
 "Noble Lutr Moric from Guilcorta, I believe you have a message for us from "
 "your kings"
 msgstr ""
+"Noble Lutr Moric de Guilcorta, je crois que vous avez un message pour nous "
+"de la part de vos rois."
 
 #: A_New_Order/scenarios/26.cfg:171
 msgid ""
@@ -11902,14 +12077,19 @@ msgid ""
 "delighted with all your laws about Wesnothian emancipation, but we respect "
 "the will of God's voice and messiah."
 msgstr ""
+"Oui, Luc et Gauri vont tous les deux vous reconnaitre comme roi supérieur de "
+"tous les royaumes akladiens. L'oracle n'a pas pu se tromper en vous "
+"déclarant messie. Nous ne sommes pas ravis de toutes vos lois concernant "
+"l'émmancipation des wesnothiens, mais nous respectons la volonté de la voix "
+"de Dieu et le messie."
 
 #: A_New_Order/scenarios/26.cfg:172
 msgid "Good. Ruvio, what's your advise? Ruvio.."
-msgstr ""
+msgstr "Bien. Ruvio, quel est votre conseil? Ruvio..."
 
 #: A_New_Order/scenarios/26.cfg:173
 msgid "I'm sorry.. Yes.."
-msgstr ""
+msgstr "Pardon... Oui..."
 
 #: A_New_Order/scenarios/26.cfg:174
 msgid ""
@@ -11917,6 +12097,9 @@ msgid ""
 "their way here. Bor Cryne is preparing an army in hills, he will join "
 "Grekulak's army."
 msgstr ""
+"Les morts-vivants et les orcs vont arriver de l'est tres rapidement. Ils "
+"sont peut-être déjà en route. Bor Cryne monte une armée dans les collines, "
+"il rejoindra l'armée de Grekulak."
 
 #: A_New_Order/scenarios/26.cfg:175
 msgid ""
@@ -11925,19 +12108,25 @@ msgid ""
 "weakest of this two enemies, so I hope you will agree with me that he is the "
 "best target."
 msgstr ""
+"On ne pourra pas vaincre ces trois forces quand elles seront réunies. Je "
+"propose d'ataquer maintenant, tant qu'elles sont encore séparées. Bor Cryne "
+"est le plus faible de nos deux ennemis, donc j'espère que vous serez "
+"d'accord avec moi qu'il est la meilleur cible."
 
 #: A_New_Order/scenarios/26.cfg:176
 msgid "The words of messiah cannot be doubted."
-msgstr ""
+msgstr "Les mots du messie ne peuvent-être mis en doute."
 
 #: A_New_Order/scenarios/26.cfg:177
 msgid "What help can be expected from our dear cousins from Guilcorta?"
-msgstr ""
+msgstr "Quel aide peut-on espérer de nos cousins de Guilcorta ?"
 
 #: A_New_Order/scenarios/26.cfg:178
 msgid ""
 "We are preparing the defenses ourselves and cannot spare any soldier,..."
 msgstr ""
+"Nous préparons notre propre défense et nous ne pouvons nous passer d'aucun "
+"soldat..."
 
 #: A_New_Order/scenarios/26.cfg:179
 msgid ""
@@ -11945,12 +12134,17 @@ msgid ""
 "risk weaken their armies, because the one beloved brother would then cut the "
 "second beloved brother his beloved throat."
 msgstr ""
+"<A elle-même> Ou alors, ils ont si peur l'un de l'autre, qu'ils ne peuvent "
+"pas risquer d'affaiblir leur armée, parceque le frère bien aimé pourrait "
+"trancher la bien aimée gorge de l'autre frère bien aimé."
 
 #: A_New_Order/scenarios/26.cfg:180
 msgid ""
 ".. but I brought here gold, 100 golden pieces from Luc and 100 golden pieces "
 "from Gauri."
 msgstr ""
+"... mais je vous amène de l'or, 100 pièce d'or de Luc et 100 pièces d'or de "
+"Gauri."
 
 #: A_New_Order/scenarios/26.cfg:185
 msgid "You have received 200 gold pieces"
@@ -11961,10 +12155,12 @@ msgid ""
 "<To herself> 200 golden pieces! Wow, I'm impressed. I bet they will be "
 "forced to beg now, losing so ENORMOUS amount of gold."
 msgstr ""
+"<A elle-même> 200 pièces d'or ! Waow, je suis impressionnée. Je parie qu'il "
+"vont être obligés de mendier maintenant, perdre une somme d'or aussi énorme."
 
 #: A_New_Order/scenarios/27.cfg:3
 msgid "Orannon"
-msgstr ""
+msgstr "Orannon"
 
 #: A_New_Order/scenarios/27.cfg:16
 msgid ""
@@ -11973,6 +12169,11 @@ msgid ""
 "from east, he left his hide with all forces he could gather. Many Akladian "
 "lords and large part of orcs already abandoned him by this time."
 msgstr ""
+"Gawen et son armée marchèrent hors de Vattin. Bor Cryne ne s'attendait pas, "
+"ne réalisait pas que sa seule chance était de rejoindre les hordes de "
+"Grekulak qui avancçaient de l'est. Il quitta son repère avec toutes les "
+"forces q'il put rassembler. Beaucoup de seigneurs akladiens et un grande "
+"partie des orcs l'avaient déjà abandonnés à ce moment."
 
 #: A_New_Order/scenarios/27.cfg:19
 msgid ""
@@ -11981,30 +12182,35 @@ msgid ""
 "generations to come - also by crows and wolves, who by decades couldn't "
 "expect for such abundant amount of bodies."
 msgstr ""
+"Les deux forces se recontraire dans la plaine que ont appellera plus tard "
+"Orannon, ce qui veut dire 'champs de bataille' en akladien. On se souvint de "
+"ses jours pendant de nombreuses générations - aussi par les corbeau et les "
+"loups, qui, par décénie, ne pouvaient pas espérer une telle abondance de "
+"corps."
 
-#: A_New_Order/scenarios/27.cfg:124 A_New_Order/scenarios/28.cfg:120
+#: A_New_Order/scenarios/28.cfg:120 A_New_Order/scenarios/27.cfg:124
 msgid "Borlug"
-msgstr ""
+msgstr "Borlug"
 
-#: A_New_Order/scenarios/27.cfg:159 A_New_Order/scenarios/28.cfg:155
+#: A_New_Order/scenarios/28.cfg:155 A_New_Order/scenarios/27.cfg:159
 msgid "Uri van Roe"
 msgstr "Uri van Roe"
 
-#: A_New_Order/scenarios/27.cfg:212 A_New_Order/scenarios/28.cfg:208
+#: A_New_Order/scenarios/28.cfg:208 A_New_Order/scenarios/27.cfg:212
 msgid "Robert the Hefty"
-msgstr ""
+msgstr "Robert le costaux"
 
-#: A_New_Order/scenarios/27.cfg:244 A_New_Order/scenarios/28.cfg:240
+#: A_New_Order/scenarios/28.cfg:240 A_New_Order/scenarios/27.cfg:244
 msgid "Mal-Raylal"
 msgstr "Mal-Raylal"
 
-#: A_New_Order/scenarios/27.cfg:326 A_New_Order/scenarios/28.cfg:321
+#: A_New_Order/scenarios/28.cfg:321 A_New_Order/scenarios/27.cfg:326
 msgid "Grekulak"
-msgstr ""
+msgstr "Grekulak"
 
-#: A_New_Order/scenarios/27.cfg:408 A_New_Order/scenarios/28.cfg:402
+#: A_New_Order/scenarios/28.cfg:402 A_New_Order/scenarios/27.cfg:408
 msgid "Warh Arug"
-msgstr ""
+msgstr "Warh Arug"
 
 #: A_New_Order/scenarios/27.cfg:585
 msgid "Remember the Freetown!"
@@ -12016,31 +12222,42 @@ msgid ""
 "He is just two days of march from here - two days from undead army that is, "
 "since they can march without the rest night and day."
 msgstr ""
+"Mon seigneur, nos éclaireurs nous rapportent que Grekulak est beaucoup plus "
+"près que nous le pensions. Il n'est qu'à deux jours de marche d'ici - deux "
+"jours pour une armé de morts-vivants qui peuvent marcher jour et nuit sans "
+"se reposer."
 
 #: A_New_Order/scenarios/27.cfg:596
 msgid "Two days? It's impossible to defeat them within two days."
-msgstr ""
+msgstr "Deux jours ? Il est impossible de les vaincre en deux jours."
 
 #: A_New_Order/scenarios/27.cfg:597
 msgid ""
 "Then kill as many of them as it is possible and choose good defensive "
 "position until Grekulak's army will come here."
 msgstr ""
+"Alors essayez d'en tuer le plus possible, et choississez une bonne position "
+"défensive jusqu'à ce que l'armée de Grekulak arrive ici."
 
 #: A_New_Order/scenarios/27.cfg:598
 msgid ""
 "Indeed. We will have no time to rest and cure our wounded. But maybe it "
 "won't be necessary, we should negotiate first.."
 msgstr ""
+"Oui, en effet. Nous n'aurons pas le temps de nous reposer et de soigner nos "
+"blessés. Mais peut-être que ce ne sera pas nécessaire. Nous devrions "
+"négocier en premier lieu..."
 
 #: A_New_Order/scenarios/27.cfg:600
 msgid "Hey, who's there? The little boy with his mommy!"
-msgstr ""
+msgstr "Hey, qui est là ? Le petit garçon et sa môman ! "
 
 #: A_New_Order/scenarios/27.cfg:601
 msgid ""
 "Bor Cryne - finally I meet you. You will pay me for everything you have done."
 msgstr ""
+"Bor Cryne. Enfin, je te retrouve. Tu vas me payer pour tout ce que tu as "
+"fais."
 
 #: A_New_Order/scenarios/27.cfg:602
 msgid ""
@@ -12048,10 +12265,13 @@ msgid ""
 "Unfortunately he was such a coward he abandoned his family in Freetown when "
 "he heard we are coming for them."
 msgstr ""
+"Oh, comme j'ai peur ! Et là, n'est-ce pas le célèbre chef rebel, Ruvio ? "
+"Malheureusement, il est si peurreux qu'il a abandonné sa famille à "
+"Libreville quand il a entendu que nous arrivions pour eux."
 
 #: A_New_Order/scenarios/27.cfg:603
 msgid "My lord.. Please.. I want to kill him. Leave him to me.."
-msgstr ""
+msgstr "Mon seigneur... S'il vous plaît... Je veux le tuer. Laissez-le moi..."
 
 #: A_New_Order/scenarios/27.cfg:604
 msgid ""
@@ -12059,6 +12279,9 @@ msgid ""
 "same I've done to them. Especially the redhead, what was her name? The "
 "fighting one. She was the best."
 msgstr ""
+"J'aurais souhaité que tu sois aussi joli que tes filles, Ruvio. J'aurais pu "
+"te faire la même chose que ce que je leur ai fait. En particulier la rousse, "
+"c'était quoi son nom ? La combattante. Elle a été la meilleure."
 
 #: A_New_Order/scenarios/27.cfg:605
 msgid "Kill them. Kill them all. Have no mercy."
@@ -12069,15 +12292,19 @@ msgid ""
 "My lord, we should try negotiations first. Grekulak is enemy of every one, "
 "and..."
 msgstr ""
+"Mon seigneur, nous devrions d'abord essayer de négocier. Grekulak est "
+"l'ennemis de tous, et..."
 
 #: A_New_Order/scenarios/27.cfg:607
 msgid "Remember the Freetown! Remember the Freetown! Kill them all!"
 msgstr ""
+"Souvenez-vous de Libreville ! Souvenez-vous de Libreville ! Tuez les tous !"
 
-#: A_New_Order/scenarios/27.cfg:611 A_New_Order/scenarios/27.cfg:878
-#: A_New_Order/scenarios/28.cfg:530
+#: A_New_Order/scenarios/28.cfg:530 A_New_Order/scenarios/27.cfg:611
+#: A_New_Order/scenarios/27.cfg:878
 msgid "In this scenario, only Gawen and Lorin may interrogate enemy leaders"
 msgstr ""
+"Dans ce scenario, seuls Gawen et Lorin peuvent interroger les chefs ennemis."
 
 #: A_New_Order/scenarios/27.cfg:663
 msgid "Luc Hagarthen"
@@ -12091,20 +12318,24 @@ msgstr "Gauri Hagarthen"
 msgid ""
 "Aaaah, we were late! Our cousin had all the fun and left nothing for us!"
 msgstr ""
+"Aaaah, nous somme trop tard. Notre cousin a eu tout le plaisir et ne nous a "
+"rien laissé !"
 
 #: A_New_Order/scenarios/27.cfg:704
 msgid "We would be here earlier, if not you, brother!"
-msgstr ""
+msgstr "Nous aurions été ici plus tôt, sans toi, frère !"
 
 #: A_New_Order/scenarios/27.cfg:705
 msgid ""
 "Me? And who wanted to check whether the wine in Vakladia tastes differently "
 "than in Guilcorta?"
 msgstr ""
+"Moi ? Et qui a voulu savoir si le vin de Vakladia avait un goût différent de "
+"celui de Guilcorta ?"
 
 #: A_New_Order/scenarios/27.cfg:706
 msgid "And what about the girls in that town?"
-msgstr ""
+msgstr "Et que fais-tu des filles de cette ville ?"
 
 #: A_New_Order/scenarios/27.cfg:707
 msgid "Who are you? Friend or foe?"
@@ -12116,10 +12347,13 @@ msgid ""
 "cousins, dear... uhmm.. how should we address you, your majesty, cousin, or "
 "maybe.. messiah?"
 msgstr ""
+"Nous sommes Luc et Gauri Hagarthens, vos loyales épées de Guilcorta, vos "
+"cousin, cher... hum... comment devons-nous vous appeler, votre majesté, "
+"cousin, ou peut-être ... messie ?"
 
 #: A_New_Order/scenarios/27.cfg:709
 msgid "My king would be enough. You are welcomed here, even if a bit late."
-msgstr ""
+msgstr "Mon roi sera suffisant. Soyez ici les bienvenu, même un peu en retard."
 
 #: A_New_Order/scenarios/27.cfg:863
 msgid "Ha ha! You are doomed!"
@@ -12130,49 +12364,62 @@ msgid ""
 "I am your new master. Recognise me as your lord and you will be spared. Try "
 "to oppose me and you will be killed and raised as my mindless slaves."
 msgstr ""
+"Je suis votre nouveau maître. Reconnaissez moi comme votre seigneur et vous "
+"serez épargnés. Essayez de vous opposer à moi et vous serez tués et relevés "
+"pour devenir mes esclaves sans esprit."
 
-#: A_New_Order/scenarios/27.cfg:867 A_New_Order/scenarios/28.cfg:521
+#: A_New_Order/scenarios/28.cfg:521 A_New_Order/scenarios/27.cfg:867
 msgid "Lady Lorin, are you sure you can participate in a battle?"
 msgstr ""
 "Lady Lorin, Êtes-vous vraiment sure de pouvoir participer à une bataille ?"
 
-#: A_New_Order/scenarios/27.cfg:868 A_New_Order/scenarios/28.cfg:522
+#: A_New_Order/scenarios/28.cfg:522 A_New_Order/scenarios/27.cfg:868
 msgid "And why not, foul and rude mage?"
-msgstr ""
+msgstr "Et pourquoi pas, mage fou et grossier ?"
 
 #: A_New_Order/scenarios/27.cfg:869
 msgid ""
 "As I said before, I KNOW. I also know that ANY effort may be extremely "
 "dangerous for you."
 msgstr ""
+"Comme je l'ai déjà dit, je SAIS. Je sais aussi que CHAQUE effort peut être "
+"extrèmement dangereux."
 
-#: A_New_Order/scenarios/27.cfg:870 A_New_Order/scenarios/28.cfg:524
+#: A_New_Order/scenarios/28.cfg:524 A_New_Order/scenarios/27.cfg:870
 msgid ""
 "I am LORIN, foul mage, that's for one. And for two, I am not Wesnothian "
 "woman, the kind you are used to, but Akladian. I can fight until.. as long "
 "as I want."
 msgstr ""
+"Je suis LORIN, mage fou, premièrement. Et deuxièmement, je ne suis pas une "
+"femme wesnothienne, le genre dont tu as l'habitude, mais akladienne. Je peux "
+"me battre jusqu'à... aussi longtemps que je veux."
 
-#: A_New_Order/scenarios/27.cfg:871 A_New_Order/scenarios/28.cfg:525
+#: A_New_Order/scenarios/28.cfg:525 A_New_Order/scenarios/27.cfg:871
 msgid ""
 "My king, please take my advise. Order Lorin to withdraw into the castle. No "
 "matter how she will boast and flaunt with her being Akladian woman, I am "
 "quite sure she shouldn't be here."
 msgstr ""
+"Mon roi, s'il vous plaît, écoutez mon conseil. Donnez l'ordre à Lorin de "
+"retourner au château. Peu importe qu'elle se vante d'être une femme "
+"akladienne, je suis à peu prêt sûr qu'elle ne devrait pas être là."
 
-#: A_New_Order/scenarios/27.cfg:872 A_New_Order/scenarios/28.cfg:526
+#: A_New_Order/scenarios/28.cfg:526 A_New_Order/scenarios/27.cfg:872
 msgid ""
 "But why? I don't understand. Besides, Lorin is fine warrior, and withdrawing "
 "her from battle may be.."
 msgstr ""
+"Mais pourquoi ? Je ne comprends pas. Lorin est une bonne combattante, et la "
+"retirer de la bataille pourrait..."
 
-#: A_New_Order/scenarios/27.cfg:873 A_New_Order/scenarios/28.cfg:527
+#: A_New_Order/scenarios/28.cfg:527 A_New_Order/scenarios/27.cfg:873
 msgid "I am mage, my king. Believe me, withdraw her into our castle."
-msgstr ""
+msgstr "Je suis un mage, mon roi. Croyez moi, renvoyez-la dans notre château."
 
-#: A_New_Order/scenarios/27.cfg:874 A_New_Order/scenarios/28.cfg:528
+#: A_New_Order/scenarios/28.cfg:528 A_New_Order/scenarios/27.cfg:874
 msgid "FOUL mage. You should have said: 'I am FOUL mage'."
-msgstr ""
+msgstr "Un mage FOU Tu aurais dû dire : 'Je suis un mage FOU'."
 
 #: A_New_Order/scenarios/27.cfg:915
 msgid ""
@@ -12185,20 +12432,32 @@ msgid ""
 "\n"
 "Forces of Darkness will consume your mind."
 msgstr ""
+"\n"
+"Forces des ténèbres, venez à mon aide -\n"
+"\n"
+"Qu'il y ait la nuit éternelle;\n"
+"\n"
+"Que vos yeux deviennent aveugles -\n"
+"\n"
+"Les forces des ténèbre consumeront votre esprit."
 
 #: A_New_Order/scenarios/27.cfg:983
 msgid "NO! Avaunt, the darkness, avaunt, the night!"
-msgstr ""
+msgstr "NON ! Envolés les ténèbres, envolée la nuit ! "
 
 #: A_New_Order/scenarios/27.cfg:1008
 msgid "How is it possible? Who could break my enchantment so easily?"
 msgstr ""
+"Comment est-ce possible ? Qui a pu casser mon enchantement aussi facilement ?"
 
 #: A_New_Order/scenarios/27.cfg:1009
 msgid ""
 "Even a child could do it, so weak it was, as all of your heinous black "
 "magic; for all your power comes from lies and deceit solely."
 msgstr ""
+"Même un enfant aurait pu le faire, tant il était faible, comme toute ta "
+"détestable magie noire; car tout ton pouvoir ne vient que du mensonge et de "
+"la tromperie."
 
 #: A_New_Order/scenarios/27.cfg:1010
 msgid "Brave word - and who is uttering them?"
@@ -12206,90 +12465,98 @@ msgstr "Ce sont des mots courageux - Et qui les a pronomcés ?"
 
 #: A_New_Order/scenarios/27.cfg:1011
 msgid "Deorien, mage of light - whose might will defeat the night."
-msgstr ""
+msgstr "Déorien, mage de lumière - dont le pouvoir peut vaincre la nuit."
 
 #: A_New_Order/scenarios/27.cfg:1012
 msgid ""
 "Good mage, but awful poet. Deorien, you will be mine before this battle will "
 "end."
 msgstr ""
+"Un bon mage, mais un horrible poète. Déorien, tu seras à moi avant la fin de "
+"la bataille."
 
-#: A_New_Order/scenarios/27.cfg:1019 A_New_Order/scenarios/28.cfg:564
+#: A_New_Order/scenarios/28.cfg:564 A_New_Order/scenarios/27.cfg:1019
 msgid "Aaaah!"
 msgstr "Aaaah!"
 
-#: A_New_Order/scenarios/27.cfg:1020 A_New_Order/scenarios/28.cfg:565
+#: A_New_Order/scenarios/28.cfg:565 A_New_Order/scenarios/27.cfg:1020
 msgid "What happened? Mother?"
 msgstr "Que s'est-il passé ? Mère ?"
 
-#: A_New_Order/scenarios/27.cfg:1021 A_New_Order/scenarios/28.cfg:566
+#: A_New_Order/scenarios/28.cfg:566 A_New_Order/scenarios/27.cfg:1021
 msgid "It's nothing.. It's nothing... I just.. I can't..."
-msgstr ""
+msgstr "Ce n'est rien... Ce n'est rien... J'ai juste... Je ne peux plus..."
 
-#: A_New_Order/scenarios/27.cfg:1022 A_New_Order/scenarios/28.cfg:567
+#: A_New_Order/scenarios/28.cfg:567 A_New_Order/scenarios/27.cfg:1022
 msgid "Ekhm."
-msgstr ""
+msgstr "Ekhm."
 
-#: A_New_Order/scenarios/27.cfg:1023 A_New_Order/scenarios/28.cfg:568
+#: A_New_Order/scenarios/28.cfg:568 A_New_Order/scenarios/27.cfg:1023
 msgid "Shut up, mage. I will fight, I just have to rest for a moment..."
 msgstr ""
+"Tais-toi, mage. Je combattrais, j'ai juste besoin de me reposer un peu..."
 
-#: A_New_Order/scenarios/27.cfg:1024 A_New_Order/scenarios/28.cfg:569
+#: A_New_Order/scenarios/28.cfg:569 A_New_Order/scenarios/27.cfg:1024
 msgid ""
 "No, you can't. My lord, withdraw Lorin to our castle's keep immedietely. She "
 "is unable to fight now."
 msgstr ""
+"Non, vous ne pouvez pas. Mon seigneur, ramenez Lorin à notre château "
+"immédiatement. Elle est incapable de combattre maintenant."
 
-#: A_New_Order/scenarios/27.cfg:1036 A_New_Order/scenarios/28.cfg:581
+#: A_New_Order/scenarios/28.cfg:581 A_New_Order/scenarios/27.cfg:1036
 msgid "I AM in a castle's keep, you idiot."
-msgstr ""
+msgstr "Je SUIS dans un château, idiot !"
 
-#: A_New_Order/scenarios/27.cfg:1037 A_New_Order/scenarios/28.cfg:582
+#: A_New_Order/scenarios/28.cfg:582 A_New_Order/scenarios/27.cfg:1037
 msgid ""
 "Good. Now, go to bedroom. I will sent someone to take care of you "
 "immedietely."
 msgstr ""
+"Bien, maintenant aller dans une chambre. J'envoie immédiatement quelqu'un "
+"pour s'occuper de vous."
 
-#: A_New_Order/scenarios/27.cfg:1046 A_New_Order/scenarios/27.cfg:1052
 #: A_New_Order/scenarios/28.cfg:591 A_New_Order/scenarios/28.cfg:597
+#: A_New_Order/scenarios/27.cfg:1046 A_New_Order/scenarios/27.cfg:1052
 msgid "Shut up, I can fight, I just have to get some rest!"
-msgstr ""
+msgstr "Tais-toi, je peux me battre, je dois juste me reposer un peu !"
 
-#: A_New_Order/scenarios/27.cfg:1048 A_New_Order/scenarios/27.cfg:1054
 #: A_New_Order/scenarios/28.cfg:593 A_New_Order/scenarios/28.cfg:599
+#: A_New_Order/scenarios/27.cfg:1048 A_New_Order/scenarios/27.cfg:1054
 msgid ""
 "You have to withdraw Lady Lorin to your initial castle's keep within 6 turns."
 msgstr ""
+"Lady Lorin, vous devez rentrer dans votre château de départ dans les 6 tours."
 
-#: A_New_Order/scenarios/27.cfg:1068 A_New_Order/scenarios/28.cfg:613
+#: A_New_Order/scenarios/28.cfg:613 A_New_Order/scenarios/27.cfg:1068
 msgid "I really can fight!"
-msgstr ""
+msgstr "Je peux vraiment me battre !"
 
-#: A_New_Order/scenarios/27.cfg:1069 A_New_Order/scenarios/28.cfg:614
+#: A_New_Order/scenarios/28.cfg:614 A_New_Order/scenarios/27.cfg:1069
 msgid "Yes, you can. But what about IT?"
-msgstr ""
+msgstr "Oui, vous pouvez. Mais que pensez vous de CA ?"
 
-#: A_New_Order/scenarios/27.cfg:1070 A_New_Order/scenarios/28.cfg:615
+#: A_New_Order/scenarios/28.cfg:615 A_New_Order/scenarios/27.cfg:1070
 msgid "IT?"
-msgstr ""
+msgstr "CA ?"
 
-#: A_New_Order/scenarios/27.cfg:1087 A_New_Order/scenarios/28.cfg:631
+#: A_New_Order/scenarios/28.cfg:631 A_New_Order/scenarios/27.cfg:1087
 msgid "Aaah! I can't handle this pain!"
-msgstr ""
+msgstr "Aaaah ! Je ne peux pas suporter cette douleur !"
 
-#: A_New_Order/scenarios/27.cfg:1088 A_New_Order/scenarios/28.cfg:632
+#: A_New_Order/scenarios/28.cfg:632 A_New_Order/scenarios/27.cfg:1088
 msgid "What happened? What?"
 msgstr "Que c'est-il passé ? Quoi ?"
 
-#: A_New_Order/scenarios/27.cfg:1089 A_New_Order/scenarios/28.cfg:633
+#: A_New_Order/scenarios/28.cfg:633 A_New_Order/scenarios/27.cfg:1089
 msgid "I've told you. She miscarried."
-msgstr ""
+msgstr "Je vous l'avais dit. Elle fait une fausse couche."
 
-#: A_New_Order/scenarios/27.cfg:1090 A_New_Order/scenarios/28.cfg:634
+#: A_New_Order/scenarios/28.cfg:634 A_New_Order/scenarios/27.cfg:1090
 msgid "She WHAT?"
-msgstr ""
+msgstr "Elle QUOI ?"
 
-#: A_New_Order/scenarios/27.cfg:1091 A_New_Order/scenarios/28.cfg:635
+#: A_New_Order/scenarios/28.cfg:635 A_New_Order/scenarios/27.cfg:1091
 msgid "Noooooo!"
 msgstr "Nonnnnnn !"
 
@@ -12299,13 +12566,15 @@ msgstr "Bataille finale"
 
 #: A_New_Order/scenarios/28.cfg:16
 msgid "No story yet"
-msgstr ""
+msgstr "Pas encore d'histoire."
 
 #: A_New_Order/scenarios/28.cfg:523
 msgid ""
 "As I said before, I KNOW. I also know that any effort for you maybe "
 "extremely dangerous."
 msgstr ""
+"Comme je l'ai déjà dit, je SAIS. Je sais aussi que chaque effort que vous "
+"faites peut-être extrèmement dangereux."
 
 #: A_New_Order/scenarios/29.cfg:13
 msgid ""
@@ -12313,6 +12582,9 @@ msgid ""
 "Akladians running here and there. When I asked, where is Lady Lorin, they "
 "were avoiding my eyes and were muttering something incoherently."
 msgstr ""
+"Quand je revint au château, il ressemblait à une ruche avec tous ces "
+"akladiens courrant ici et là. Quand je demandai, où est Lady Lorin, ils "
+"évitaient mes yeux et murmuraient quelque chose d'incohérent. "
 
 #: A_New_Order/scenarios/29.cfg:16
 msgid ""
@@ -12321,30 +12593,38 @@ msgid ""
 "was still too weak after this strange accident on the battlefield and was "
 "easily overcomed."
 msgstr ""
+"Finalement l'un d'eux me dit que Lady Lorin avait commis une sorte de crime "
+"terrible, et qu'elle avait été attrapée par les guardes; elle avait éssayé "
+"de se défendre, mais elle était trop faible après son étrange accident sur "
+"le champs de bataille et fut facilement maitrisée."
 
 #: A_New_Order/scenarios/29.cfg:158
 msgid ""
 "What's it supposed to mean? Where is my step-mother? What have you done to "
 "her and why? Speak, I demand explanation!"
 msgstr ""
+"Qu'est-ce que cela est supposé vouloir dire ? Où est ma belle-mère ? Que lui "
+"avez-vous fait et pourquoi ? Parlez, je demande des explications !"
 
 #: A_New_Order/scenarios/29.cfg:159
 msgid ""
 "My king, I apologise. People acted a little bit too fast. I hope you won't "
 "take it as offense of your majesty."
 msgstr ""
+"Mon roi, je vous demande pardon. Les gens ont réagit un peu trop vite. "
+"J'espère que vous ne le prendrez pas comme une offense à votre majesté."
 
 #: A_New_Order/scenarios/29.cfg:160
 msgid "To hell with my majesty, where is she?"
-msgstr ""
+msgstr "Allez au diable avec ma majesté, où est-elle ?"
 
 #: A_New_Order/scenarios/29.cfg:161
 msgid "Well, I don't know how to say it. Lady Lorin is..."
-msgstr ""
+msgstr "Et bien, je ne sais pas comment le dire. Lady Lorin est..."
 
 #: A_New_Order/scenarios/29.cfg:162
 msgid "The witch is pregnant."
-msgstr ""
+msgstr "La sorcière est enceinte."
 
 #: A_New_Order/scenarios/29.cfg:163
 msgid "She's what?!"
@@ -12355,12 +12635,16 @@ msgid ""
 "She is pregnant. Since almost two years will pass soon since her husband, "
 "and your father, died, that means she betrayed him."
 msgstr ""
+"Elle est enceinte. Cela fait presque deux ans que son mari, et votre père, "
+"est mort, ça veut donc dire qu'elle l'a trahit."
 
 #: A_New_Order/scenarios/29.cfg:165
 msgid ""
 "Our customs are very specific about that. Widow cannot marry any other man, "
 "and cannot know any other man in physical way."
 msgstr ""
+"Nos coutumes sont très spécifiques à ce sujet. Une veuve ne peut épouser "
+"aucun autre homme et ne peut connaître physiquement aucun autre homme."
 
 #: A_New_Order/scenarios/29.cfg:166
 msgid "In other words, the witch must die."
@@ -12372,7 +12656,7 @@ msgstr "N'oubliez-pas que vous parlez de la mère du roi."
 
 #: A_New_Order/scenarios/29.cfg:168
 msgid "That's ridiculous. I want her to be released immedietely, and then ..."
-msgstr ""
+msgstr "C'est ridicule. Je veux qu'on la libère immédiatement, et ensuite..."
 
 #: A_New_Order/scenarios/29.cfg:169
 msgid ""
@@ -12380,40 +12664,49 @@ msgid ""
 "some rights for Wesnothians, we tolerate MAGE here and even the ELVES, but "
 "changing OUR way of life?"
 msgstr ""
+"Vous voulez commencer à régner en violant nos coutumes ? Nous avons été "
+"d'accord pour donner des droits aux wesnothiens, nous tolérons des mages "
+"ici, et même les elfes. Mais changer NOTRE façon de vivre ?"
 
 #: A_New_Order/scenarios/29.cfg:170
 msgid ""
 "I am messiah, dammit. I declare that those customs are no longer valid. "
 "Release her"
 msgstr ""
+"Je suis le messie, que diable. Je déclare que ces coutumes ne sont plus "
+"valides. Relachez-la."
 
 #: A_New_Order/scenarios/29.cfg:171
 msgid "If you will, then I couldn't be loyal to you."
-msgstr ""
+msgstr "Si vous voulez, mais alors je ne pourrais plus être loyal envers vous."
 
 #: A_New_Order/scenarios/29.cfg:172
 msgid "Neither me."
-msgstr ""
+msgstr "moi non plus"
 
 #: A_New_Order/scenarios/29.cfg:173
 msgid "Or me. That would be offense for your father."
-msgstr ""
+msgstr "Ni moi. Ce serait une offense à votre père."
 
 #: A_New_Order/scenarios/29.cfg:175
 msgid ""
 "That's ridiculous! If that would be some other woman, you would not be so "
 "stringent about it!"
 msgstr ""
+"C'est ridicule ! Si il s'était s'agit d'une autre femme, vous ne seriez pas "
+"aussi strictes."
 
 #: A_New_Order/scenarios/29.cfg:176
 msgid ""
 "This is not some other woman, but wife of one king and step-mother of "
 "another."
 msgstr ""
+"Elle n'est pas une autre femme, mais la femme d'un roi et la belle-mère d'un "
+"autre."
 
 #: A_New_Order/scenarios/29.cfg:177
 msgid "That's... Ruvio, Huon!"
-msgstr ""
+msgstr "C'est... Ruvio, Huon !"
 
 #: A_New_Order/scenarios/29.cfg:178
 msgid ""
@@ -12421,12 +12714,18 @@ msgid ""
 "listen to those.. noble lords. You are king of both Akladians and "
 "Wesnothians and you should respect the customs of both nations."
 msgstr ""
+"Mon roi, nous ne pouvons pas risquer une autre guerre civile à cause d'une "
+"femme. Vous devriez écouter ces... nobles seigneurs. Vous êtes le roi des "
+"akladiens et des wesnothiens et vous devriez respecter les coutumes des deux "
+"nations."
 
 #: A_New_Order/scenarios/29.cfg:179
 msgid ""
 "For God's sake, Huon, it was not her who gave the location of Freetown to "
 "Bor Cryne!"
 msgstr ""
+"Pour l'amour de Dieu, Huon, ce n'est pas elle qui a donné l'emplacement de "
+"Libreville à Bor Cryne !"
 
 #: A_New_Order/scenarios/29.cfg:180
 msgid ""
@@ -12434,6 +12733,9 @@ msgid ""
 "He would have to be killed as well, because such man is unworthy to be alive "
 "since his life is offense to God's eyes."
 msgstr ""
+"Vous devez décider, mon seigneur. Nous devons aussi trouver le père de "
+"l'enfant. Il devrait être tué aussi, parce qu'un tel homme n'est pas digne "
+"de vivre depuis que sa vie est une offense aux yeux de Dieu."
 
 #: A_New_Order/scenarios/29.cfg:181
 msgid "<whispering to himself> Oh my God, Yaranov..."
@@ -12452,26 +12754,35 @@ msgid ""
 "Noble lords, my king. I am mage. I know what you feel about me. However, I "
 "have one proposal, which should make happy both you and, I hope, the king."
 msgstr ""
+"Nobles seigneurs, mon roi. Je suis un mage. Je sais ce que vous ressentez à "
+"mon égars. Néanmoins, j'ai une proposition qui devrait vous convenir à tous "
+"les deux, et, je l'espère au roi."
 
 #: A_New_Order/scenarios/29.cfg:185
 msgid ""
 "Why to kill her? I know your customs. I've heard about woman which were left "
 "alive after betraying their husbands, and only hers eyes were taken."
 msgstr ""
+"Pourquoi la tuer ? Je connais vos coutumes. J'ai entendu parler de femmes "
+"qui ont été laissées en vie après avoir trahis leur mari, on a seulement "
+"pris leurs yeux."
 
 #: A_New_Order/scenarios/29.cfg:186
 msgid ""
 "It's the same. Man or woman who cannot see is dead, since he belongs to the "
 "darkness."
 msgstr ""
+"C'est pareil. Un homme ou une femme qui ne peut pas voir est mort, puisqu'il "
+"appartient aux ténèbres."
 
 #: A_New_Order/scenarios/29.cfg:187
 msgid "Exactly. So, take the eyes of Lorin and leave her alive."
-msgstr ""
+msgstr "Exactement. Donc, prenez les yeux de Lorin et laissez la en vie."
 
 #: A_New_Order/scenarios/29.cfg:188
 msgid "Leave her alive, so she could be here, amongst us? No, that's..."
 msgstr ""
+"La laisser en vie, pour qu'elle puisse être ici, parmis nous ? Non, c'est..."
 
 #: A_New_Order/scenarios/29.cfg:189
 msgid "She could be exiled."
@@ -12482,26 +12793,34 @@ msgid ""
 "One more thing: why to punish innocent child for the crime of the father and "
 "mother? Let the child live."
 msgstr ""
+"Une autre chose: pourquoi punir un enfant innocent pour le crime de son père "
+"et de sa mère ? Laissez l'enfant vivre."
 
 #: A_New_Order/scenarios/29.cfg:191
 msgid "But if we will blind Lorin, she will surely miscarry."
 msgstr ""
+"Mais si nous aveuglons Lorin, elle va surement faire une fausse couche."
 
 #: A_New_Order/scenarios/29.cfg:192
 msgid "I am mage. I know the ways to shield the child and protect it."
-msgstr ""
+msgstr "Je suis un mage. Je connais le moyen de protéger l'enfant."
 
 #: A_New_Order/scenarios/29.cfg:193
 msgid ""
 "Stop it! Deorien, I don't know who is more cruel - those Akladian lords, or "
 "you, who should, as white mage, protect every life."
 msgstr ""
+"Arrêtez ! Déorien, je ne sais pas qui est le plus cruel - ces seigneurs "
+"akladiens, ou vous, vous qui, en tant que mage blanc, devriez protéger toute "
+"vie."
 
 #: A_New_Order/scenarios/29.cfg:194
 msgid ""
 "No, my king. I protect Wesnoth. One woman is not worth civil war. And you "
 "know it."
 msgstr ""
+"Non, mon roi, je protège Wesnoth. Une femme ne vaut pas une guerre civile, "
+"et vous le savez."
 
 #: A_New_Order/scenarios/29.cfg:195
 msgid "Bring her."
@@ -12518,14 +12837,17 @@ msgid ""
 "or in the lands of the ancestors. May the God punish you in the worst "
 "possible way."
 msgstr ""
+"Vous avez trahis l'esprit votre mari. Seul votre sang peut l'appaiser. Vos "
+"yeux seront pris, et vous ne reverrez plus la lumière, ni ici, ni dans le "
+"pays de vos ancètres. Que Dieu vous punisse de la pire façon possible."
 
 #: A_New_Order/scenarios/29.cfg:213
 msgid "Drab doxy, who is the father of the child?"
-msgstr ""
+msgstr "Maintenant, qui est le père de l'enfant ?"
 
 #: A_New_Order/scenarios/29.cfg:214
 msgid "The wind and the rain. I don't know the father's name."
-msgstr ""
+msgstr "La pluie et le vent. Je ne connais pas le nom du père."
 
 #: A_New_Order/scenarios/29.cfg:215
 msgid "Take her to the torture chamber!"
@@ -12536,26 +12858,32 @@ msgid ""
 "You are in my castle, Luc. Lady Lorin said she don't know the father's name. "
 "Let's leave it at that."
 msgstr ""
+"Vous êtes dans mon château, Luc. Lady Lorin a dit qu'elle ne savait pas le "
+"nom du père. Nous devons faire avec ça."
 
 #: A_New_Order/scenarios/29.cfg:217
 msgid ""
 "Deorien... Before they kill me.. My child.. You are mage, can you do "
 "something so it..."
 msgstr ""
+"Déorien... Avant qu'ils ne me tuent... Mon enfant... Vous êtes un mage, "
+"pouvez-vous faire quelque chose pour qu'il..."
 
 #: A_New_Order/scenarios/29.cfg:218
 msgid ""
 "You wouldn't be killed, Lorin. Only your eyes will taken and you will be "
 "exiled. I will do everything to make sure your child would survive this."
 msgstr ""
+"Vous ne devriez pas mourrir, Lorin, Seuls vos yeux serons pris et vous serez "
+"exilée. Je ferai tout pour m'assurer que votre enfant survivra à ça."
 
 #: A_New_Order/scenarios/29.cfg:219
 msgid "Mage... I.. Lorin is thanking you. "
-msgstr ""
+msgstr "Mage... Je... Lorin vous remercie."
 
 #: A_New_Order/scenarios/29.cfg:220
 msgid "The king wants to be alone."
-msgstr ""
+msgstr "Le roi veut être seul."
 
 #: A_New_Order/scenarios/3.cfg:3
 msgid "Conversation"
@@ -12770,7 +13098,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/30.cfg:3
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilogue"
 
 #: A_New_Order/scenarios/30.cfg:12
 msgid ""
@@ -12778,6 +13106,9 @@ msgid ""
 "the Vattin forever.. I wish I could see you this last time... I want to tell "
 "you everything. You have to know.."
 msgstr ""
+"Qui est là ? Gawen ? J'espérais que tu me rendes visite avant que je ne "
+"quitte Vattin pour toujours... J'aurais voulu te voir cette dernière fois... "
+"Je veux tout te dire. Tu dois savoir..."
 
 #: A_New_Order/scenarios/30.cfg:16
 msgid ""
@@ -12785,6 +13116,9 @@ msgid ""
 "about my future and I got the answer which I had not expected, and which "
 "greatly excited my family."
 msgstr ""
+"Quand j'étais encore une petite fille, ma famille m'a enmené voir l'Oracle. "
+"Je lui ai demandé comment serait mon futur et j'ai reç une réponse à "
+"laquelle je ne m'attendais pas, et qui a beaucoups excité ma famille. "
 
 #: A_New_Order/scenarios/30.cfg:20
 msgid ""
@@ -12792,6 +13126,10 @@ msgid ""
 "give Hagarthen a son.  We.. my clan.. helped... somehow.. the prediction to "
 "be fulfilled... When I married your father, I was sure the Oracle was right."
 msgstr ""
+"L'Oracle m'a dit que j'épouserais un Hagarthen, que je deviendrais reine et "
+"que je donnerai un fils au Hagarthen. Nous... mon clan... a aidé... un "
+"peu... à ce que la prédiction se réalise... Quand j'ai époousé ton père, "
+"j'étais sûre que l'Oracle avait vu juste."
 
 #: A_New_Order/scenarios/30.cfg:24
 msgid ""
@@ -12800,12 +13138,19 @@ msgid ""
 "dreams which were in my head then. And yet, I felt.. something strange about "
 "you. Always."
 msgstr ""
+"Mais ton père ne m'a jamais appelée dans son lit. IL ne m'a même jamais "
+"touchée. Tu n'imagines pas à quel point je le détestais pour ça... et toi "
+"aussi. Et tu n'imagines pas non plus les rèves qui trainaient dans ma tête à "
+"ce moment. Et pourtant, je ressentait... quelque chose d'étrange à ton "
+"sujet. Depuis toujours."
 
 #: A_New_Order/scenarios/30.cfg:28
 msgid ""
 "When your father was dead, I felt deceived, fooled. How can I have "
 "Hagarthen's son if he is dead?"
 msgstr ""
+"Quand ton père est mort, je me suis sentie déçue, flouée. Comment pourrais-"
+"je avoir un fils de Hagarthen si il est mort ?"
 
 #: A_New_Order/scenarios/30.cfg:32
 msgid ""
@@ -12815,6 +13160,12 @@ msgid ""
 "years ago. I tried to push those thoughts away, and .. anyway, you died.. I "
 "mean, I thought you were killed after the Barnon, and..."
 msgstr ""
+"Mais alors... J'ai compris... que l'Oracle n'avait pas dit que ce serait le "
+"même Hagarthen que celui avec lequel j'étais marrié. J'avais peur de ses "
+"pensées, pendant tout ce temps où j'ai pris soin de toi, quand tu avais "
+"perdu conscience, il y a à peu près deux ans. J'ai essayé d'effacer ces "
+"pensées, et ... de toutes façons, tu es mort... Je veux dire, je pensais que "
+"tu avais été tué apres Barnon, et..."
 
 #: A_New_Order/scenarios/30.cfg:36
 msgid ""
@@ -12823,6 +13174,11 @@ msgid ""
 "be helped.. So.. do you remember the night, the feast before we left "
 "searching for Deorien?"
 msgstr ""
+"Mans ensuite... Nous nous sommes de nouveau rencontré... tu ne t'en souviens "
+"probablement pas, mais Ruvio a dit une fois que les prédictions de l'Oracle "
+"seraient remplies si nous aidions un peu les choses... Donc... tu te "
+"souviens de la nuit, de la fête avant notre départ à la recherche de "
+"Déorien ?"
 
 #: A_New_Order/scenarios/30.cfg:40
 msgid ""
@@ -12830,6 +13186,10 @@ msgid ""
 "that drinking some more wine will make him more attractive, I beat him "
 "senseless. Then I went to Karen's room, I took her dancer's outfit..."
 msgstr ""
+"J'avais bu... Et... Yaranov a essayé de m'arrêter au corridor, peut-être "
+"qu'il a pensé que comme j'avais bu un peu plus de vin, cela le rendrait plus "
+"attractif, je l'ai frappé sans raison. Ensuite, je suis allé dans la chambre "
+"de Karen, et j'ai pris son costume de danseuse."
 
 #: A_New_Order/scenarios/30.cfg:44
 msgid "Yes, Gawen. This child.. it will be your first born son."
@@ -12843,6 +13203,12 @@ msgid ""
 "know I sinned in the eyes of our God. He has no mercy. He knows no "
 "forgiveness."
 msgstr ""
+"J'ai fait beaucoup de mal dans ce monde. Je sais que je n'ai aucun espoir de "
+"rédemption. Si j'avais dit que tu es le père de l'enfant, cela aurait voulu "
+"dire une autre guerre civile. Casser les coutumes akladienne voudrait "
+"surement dire que les akladiens t'abandonneraient. Et... Je sais que j'ai "
+"pécher aux yeux de notre Dieu. Il n'a pas de pitié. Il ne connait pas le "
+"pardon."
 
 #: A_New_Order/scenarios/30.cfg:52
 msgid ""
@@ -12851,6 +13217,11 @@ msgid ""
 "like you were touching in that night... I will carry that touch with me, I "
 "will remember it when I will go into the exile with your child."
 msgstr ""
+"Mais j'espère... que tu trouveras la pitié dans ton coeur. Je sais... que je "
+"ne peux pas compter sur ton amour... mais... peut-être... juste peut-être... "
+"que tu me toucheras une fois, comme tu m'as touchée cette nuit là... Je "
+"garderai cette caresse avec moi, et je m'en souviendrai quand je partirai en "
+"exil avec ton enfant."
 
 #: A_New_Order/scenarios/30.cfg:56
 msgid ""
@@ -12859,6 +13230,10 @@ msgid ""
 "funny - me, Lorin, sacrifising herself for something as abstract as the idea "
 "as new, united nation?  Look at me, I am laughing. I... I am laughing.... "
 msgstr ""
+"N'essaye pas de m'arrêter. Tu sais que c'est impossible. Pour le bien de "
+"Wesnoth, je, Lorin, t'ordonne de nous oublier moi et notre enfant. N'est-ce "
+"pas amusant ? Moi, Lorin, se sacrifiant pour quelque chose d'aussi abstrait "
+"que l'idée d'une nouvelle nation unie. Regardfe moi, je ris. Je ... je ris..."
 
 #: A_New_Order/scenarios/30.cfg:60
 msgid ""
@@ -12877,13 +13252,26 @@ msgid ""
 "vassalise Aragwaithi sietches and most of former Wesnothian kingdoms, "
 "uniting almost whole Wesnoth as it was once in old times."
 msgstr ""
+"Il est dit que Gawen Hagarthen ne sourit plus jamais apres la grande "
+"bataille. Certains disent qu'il portait le deuil de tous les bons "
+"combattants morts contre la menace des morts-vivants. Il épousa une "
+"princesse wesnothienne d'Elensefar. Il unifia trois royaumes akladiens, "
+"tandis que le quatrième - Guilcorta - devint son fief. Il put prendre le "
+"contrôle des tributs aragwaiti et de la plupars des anciens royaumes "
+"wesnothiens, unifiant presque tout Wesnoth, comme c'était dans les temps "
+"ancients."
 
+# mavourneen ?
 #: A_New_Order/scenarios/30.cfg:66
+#, fuzzy
 msgid ""
 "It is also said that he never called his wife mavourneen; he never treat her "
 "as husband should treat his wife. Whatever was true in that gossip, the fact "
 "remains that he died childlessly."
 msgstr ""
+"Il est aussi dit qu'il n'appela jamais sa femme à ses côté; il ne la traita "
+"jamais comme un mari devrait traiter sa femme. Quelque soit la vérité dans "
+"ses rumeurs, le fait est qu'il mourru sans enfant."
 
 #: A_New_Order/scenarios/30.cfg:69
 msgid ""
@@ -12891,6 +13279,10 @@ msgid ""
 "long ago upon the Wesnoth and descendants of Haldric was finally relieved. "
 "Mithrandil, the only elf ever with wrinkles, finally could die, gleefully. "
 msgstr ""
+"Les elves crurent, que par cette mort, la malédiction d'Haldric qui avait "
+"été lancer tres longtemps auparavant sur Wesnoth et les descendants "
+"d'Haldric fut finalement levée. Mithrandil, le seul elfe ridé, put "
+"finalement mourir, plein de joie."
 
 #: A_New_Order/scenarios/30.cfg:72
 msgid ""
@@ -12898,11 +13290,15 @@ msgid ""
 "Yaranov. He took care of her and her child, raising him as if it was his own "
 "son."
 msgstr ""
+"Lorin alla dans les tributs aragwaithi avec son enfant, cherchant Boris "
+"Yaranov. Il pris soin d'elle et de son enfant, l'élevant comme si il était "
+"son propre fils."
 
 #: A_New_Order/scenarios/30.cfg:75
 msgid ""
 " This is the end of the story of Lorin from Gallorae's and Gawen Hagarthen."
 msgstr ""
+"Ceci est la fin de l'histoire de Lorin de Gallorae et de Gawen Hagarthen."
 
 #: A_New_Order/scenarios/4.cfg:3
 msgid "Battle of Barnon"
@@ -13163,7 +13559,7 @@ msgstr ""
 "Mon seigneur, nous devrions vraiment essayer de fuir, cette bataille est "
 "impossible à gagner!"
 
-#: A_New_Order/scenarios/5a-x.cfg:3 A_New_Order/scenarios/5a.cfg:3
+#: A_New_Order/scenarios/5a.cfg:3 A_New_Order/scenarios/5a-x.cfg:3
 msgid "Unexpected guests"
 msgstr "Des invités inattendus."
 
@@ -13405,7 +13801,7 @@ msgstr ""
 "pour les fantômes de nos amis. Vous devriez garder le reste de l'or, vous en "
 "aurez besoin."
 
-#: A_New_Order/scenarios/5b-x.cfg:3 A_New_Order/scenarios/5b.cfg:3
+#: A_New_Order/scenarios/5b.cfg:3 A_New_Order/scenarios/5b-x.cfg:3
 msgid "The swamp things"
 msgstr "Dans les marais."
 
@@ -14305,7 +14701,7 @@ msgstr "Vous pouvez recruter quatre lanciers ou archers de plus."
 msgid "It seems that Outlaws had small hidden treasury here."
 msgstr "On dirait que les Hors-la-loi ont caché un petit trésor, ici."
 
-#: A_New_Order/scenarios/9.cfg:3 A_New_Order/scenarios/9x.cfg:3
+#: A_New_Order/scenarios/9x.cfg:3 A_New_Order/scenarios/9.cfg:3
 msgid "Hired Swords"
 msgstr "Des épées cachées."
 
@@ -15708,12 +16104,16 @@ msgid ""
 "This is debug message. If you see it, then it means I forgot to delete it "
 "from release scenario."
 msgstr ""
+"Ceci est un message de debug. SI vous le voyez, ça veut dire que j'ai oublié "
+"de l'effacer de ce scénario."
 
 #: A_New_Order/scenarios/ano_macros.cfg:698
 msgid ""
 "This is debug message.  If you see it, then it means I forgot to delete it "
 "from release scenario: ' {TEXT} '"
 msgstr ""
+"Ceci est un message de debug. SI vous le voyez, ça veut dire que j'ai oublié "
+"de l'effacer de ce scénario : ' {TEXT} '"
 
 #: A_New_Order/scenarios/ano_macros.cfg:993
 msgid "The unit $ano_loyal[0].user_description became LOYAL."
@@ -15982,6 +16382,7 @@ msgid "Final"
 msgstr "Final"
 
 #: A_New_Order/scenarios/final.cfg:73
+#, fuzzy
 msgid ""
 "\n"
 "The 'A New Order' campaign was brought to you by:\n"
@@ -16001,6 +16402,27 @@ msgid ""
 "works; Jetryl and Pickslide for art advises; elvish pillager and turin for "
 "hints on wml and unit stats; and all others from wesnoth forum.\n"
 msgstr ""
+"\n"
+"La campagne 'Un Nouvel Ordre vous a été proposée par:\n"
+"\n"
+"Arkadiusz D. Danilecki 'szopen' : histoire, codage, images d'histoire, "
+"portraits,  sprites original pour les akladiens, traduction polonaise.\n"
+"\n"
+"Wayfarer/Shadow : sprites pour les aragwaithi et corrections des prites des  "
+"akladiens\n"
+"\n"
+"Capitol and Tephlon : traduction suédoise.\n"
+"\n"
+"Geoffroy Douillié : traduction française. \n"
+"\n"
+"unsung, ott, capitol, ave, tomsik, teldar: rapports de bugs, corrections des "
+"erreures d'anglais.\n"
+"\n"
+"Le pack des hors-la-loi de niveau 3 est maintenu par scott et shadow \n"
+"Merci beaucoup à Toragan et Ivanovic pour leur patience et les explications "
+"sur la façon dont Wescamp fonctionne; Jetryl et Pickslide pour leurs "
+"conseils en matière d'art; elvish pillager et turin pour les astuces en wml "
+"et les tatistiques des unités; et à tous les autres du forum de Wesnoth.\n"
 
 #: A_New_Order/scenarios/final.cfg:78
 msgid ""
@@ -16090,61 +16512,74 @@ msgstr "Vous ne savez pas qui a amené les orcs à Wesnoth."
 msgid ""
 "Level three units (easy level): $ano_level_count units, $level_point points"
 msgstr ""
+"Unités de niveau trois (niveau facile) : $ano_level_count units, "
+"$level_point points"
 
 #: A_New_Order/scenarios/final.cfg:173
 msgid ""
 "Level three units (normal level): $ano_level_count units, $level_point points"
 msgstr ""
+"Unités de niveau trois (niveau normal): $ano_level_count units, $level_point "
+"points"
 
 #: A_New_Order/scenarios/final.cfg:176
 msgid ""
 "Level three units (hard level): $ano_level_count units, $level_point points"
 msgstr ""
+"Unités de niveau trois (niveau difficile): $ano_level_count units, "
+"$level_point points"
 
 #: A_New_Order/scenarios/final.cfg:193
 msgid "Gold: (easy level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
+"Or (niveau facile) : $ano_gawen_gold golden pieces, $level_point points"
 
 #: A_New_Order/scenarios/final.cfg:199
 msgid ""
 "Gold: (normal level): $ano_gawen_gold golden pieces, $level_point points"
-msgstr ""
+msgstr "Or (niveau normal): $ano_gawen_gold golden pieces, $level_point points"
 
 #: A_New_Order/scenarios/final.cfg:204
 msgid "Gold: (hard level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
+"Or (niveau difficile): $ano_gawen_gold golden pieces, $level_point points"
 
 #: A_New_Order/scenarios/final.cfg:213
 msgid ""
 "Additional point for forcing Hoyre to run at 'Scouting near Barnon' scenario."
 msgstr ""
+"Point additionel pour avoir forcé Hoyre à courrir lors du scénario "
+"'exploration aux environs de Barnon'"
 
 #: A_New_Order/scenarios/final.cfg:218
 msgid ""
 "Additional point for finding out gossips about messiah in `Sneaking out of "
 "Raedwood` and `Start of the quest` scenarios."
 msgstr ""
+"Point additionel pour avoir entendu parler des rumeurs à propos du messie "
+"dans les scénarios ' Sortie de Raedwood ' et 'Démararge de la quête'"
 
 #: A_New_Order/scenarios/final.cfg:223
 msgid "Additional point for hiring Rob Roe."
-msgstr ""
+msgstr "Point additionel pour avoir recruté Rob Roe."
 
 #: A_New_Order/scenarios/final.cfg:228
 msgid ""
 "Additional point for heroical way of winning `Siege of Haeltin` scenario."
 msgstr ""
+"Point additionel pour la victoire héroïque du scénario 'Le siège d'Haeltin'"
 
 #: A_New_Order/scenarios/final.cfg:231
 msgid "And one more for doing it at `hard` level."
-msgstr ""
+msgstr "Point additionel pour avoir joué au niveau difficile."
 
 #: A_New_Order/scenarios/final.cfg:237
 msgid "Additional point for sparing Raban Harnen."
-msgstr ""
+msgstr "Point additionel pour avoir épargné Raban Harnen."
 
 #: A_New_Order/scenarios/final.cfg:240
 msgid "Additional point for letting leave Raban Harnen."
-msgstr ""
+msgstr "Point additionel pour avoir laisser partir Raban Harnen."
 
 #: A_New_Order/scenarios/final.cfg:245
 msgid "Total points: $points "
@@ -16158,104 +16593,105 @@ msgstr "Cratère"
 msgid "Akladian Chieftain_c"
 msgstr "Chef_c de clan akladien"
 
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:15
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:15
-#: A_New_Order/units/Akladian_Chieftain.cfg:15
-#: A_New_Order/units/Akladian_Lady.cfg:19
-#: A_New_Order/units/Akladian_Leader.cfg:16
-#: A_New_Order/units/Akladian_Lord-c.cfg:10
 #: A_New_Order/units/Akladian_Lord-g.cfg:10
-#: A_New_Order/units/Akladian_Lord.cfg:10
-#: A_New_Order/units/Akladian_Princess.cfg:18
+#: A_New_Order/units/Akladian_Leader.cfg:16
 #: A_New_Order/units/Akladian_Warlord.cfg:14
-#: A_New_Order/units/Hagarthen.cfg:11 A_New_Order/units/Karen.cfg:18
-#: A_New_Order/units/Lord_Hagarthen.cfg:10 A_New_Order/units/Ruvio.cfg:10
+#: A_New_Order/units/Akladian_Lady.cfg:19 A_New_Order/units/Ruvio.cfg:10
+#: A_New_Order/units/Akladian_Chieftain.cfg:15
+#: A_New_Order/units/Akladian_Lord-c.cfg:10
+#: A_New_Order/units/YoungHagarthen.cfg:11 A_New_Order/units/Hagarthen.cfg:11
+#: A_New_Order/units/Shadow_Mage.cfg:15
+#: A_New_Order/units/Akladian_Princess.cfg:18 A_New_Order/units/Karen.cfg:18
+#: A_New_Order/units/Shadow_Lord.cfg:55
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:15
 #: A_New_Order/units/Ruvios_Daughter.cfg:17
-#: A_New_Order/units/Shadow_Lord.cfg:55 A_New_Order/units/Shadow_Mage.cfg:15
-#: A_New_Order/units/YoungHagarthen.cfg:11
+#: A_New_Order/units/Lord_Hagarthen.cfg:10
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:15
+#: A_New_Order/units/Akladian_Lord.cfg:10
 msgid "leadership"
 msgstr "leadership"
 
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:19
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:19
 #: A_New_Order/units/Akladian_Chieftain.cfg:19
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:19
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:19
 msgid "The best of Akladian warriors are choosed to lead their clans."
 msgstr ""
 "Les meilleurs des guerriers akladiens sont choisi pour diriger leur clan."
 
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:22
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:22
-#: A_New_Order/units/Akladian_Chieftain.cfg:22
-#: A_New_Order/units/Akladian_Darknite.cfg:20
-#: A_New_Order/units/Akladian_Fastfoot.cfg:20
-#: A_New_Order/units/Akladian_Homeguard-c.cfg:20
-#: A_New_Order/units/Akladian_Homeguard-g.cfg:20
-#: A_New_Order/units/Akladian_Homeguard.cfg:20
-#: A_New_Order/units/Akladian_Lady.cfg:24
-#: A_New_Order/units/Akladian_Leader.cfg:22
-#: A_New_Order/units/Akladian_Lord-c.cfg:23
-#: A_New_Order/units/Akladian_Lord-g.cfg:23
-#: A_New_Order/units/Akladian_Lord.cfg:23
-#: A_New_Order/units/Akladian_Princess.cfg:23
-#: A_New_Order/units/Akladian_Protector.cfg:20
-#: A_New_Order/units/Akladian_Queen.cfg:23
-#: A_New_Order/units/Akladian_Raider-c.cfg:20
-#: A_New_Order/units/Akladian_Raider-g.cfg:20
-#: A_New_Order/units/Akladian_Raider.cfg:20
-#: A_New_Order/units/Akladian_Shieldguard.cfg:20
 #: A_New_Order/units/Akladian_Sturmknight.cfg:20
-#: A_New_Order/units/Akladian_Warlord.cfg:26
-#: A_New_Order/units/Aragwaith-Archer.cfg:85
-#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:75
-#: A_New_Order/units/Aragwaith-Guard.cfg:83
-#: A_New_Order/units/Aragwaith-Hunter.cfg:80
-#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:74
-#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:61
-#: A_New_Order/units/Aragwaith-Swordman.cfg:78
 #: A_New_Order/units/Aragwaith-Swordmaster.cfg:66
-#: A_New_Order/units/Hagarthen.cfg:23 A_New_Order/units/Human-ranger.cfg:38
-#: A_New_Order/units/Karen.cfg:23 A_New_Order/units/Lord_Hagarthen.cfg:23
-#: A_New_Order/units/Ruvio.cfg:22 A_New_Order/units/Ruvios_Daughter.cfg:22
+#: A_New_Order/units/Akladian_Shieldguard.cfg:20
+#: A_New_Order/units/Akladian_Darknite.cfg:20
+#: A_New_Order/units/Akladian_Homeguard-c.cfg:20
+#: A_New_Order/units/Akladian_Protector.cfg:20
+#: A_New_Order/units/Human-ranger.cfg:38
+#: A_New_Order/units/Akladian_Homeguard-g.cfg:20
+#: A_New_Order/units/Akladian_Lord-g.cfg:23
+#: A_New_Order/units/Akladian_Raider-g.cfg:20
+#: A_New_Order/units/Akladian_Leader.cfg:22
+#: A_New_Order/units/Aragwaith-Archer.cfg:85
+#: A_New_Order/units/Akladian_Warlord.cfg:26
+#: A_New_Order/units/Akladian_Lady.cfg:24
+#: A_New_Order/units/Aragwaith-Hunter.cfg:80 A_New_Order/units/Ruvio.cfg:22
+#: A_New_Order/units/Akladian_Chieftain.cfg:22
+#: A_New_Order/units/Akladian_Lord-c.cfg:23 A_New_Order/units/Hagarthen.cfg:23
+#: A_New_Order/units/Akladian_Fastfoot.cfg:20
+#: A_New_Order/units/Akladian_Homeguard.cfg:20
+#: A_New_Order/units/Akladian_Princess.cfg:23 A_New_Order/units/Karen.cfg:23
+#: A_New_Order/units/Aragwaith-Guard.cfg:83
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:22
+#: A_New_Order/units/Ruvios_Daughter.cfg:22
+#: A_New_Order/units/Lord_Hagarthen.cfg:23
+#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:61
+#: A_New_Order/units/Akladian_Queen.cfg:23
+#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:74
+#: A_New_Order/units/Aragwaith-Swordman.cfg:78
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:22
+#: A_New_Order/units/Akladian_Raider-c.cfg:20
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:75
+#: A_New_Order/units/Akladian_Lord.cfg:23
+#: A_New_Order/units/Akladian_Raider.cfg:20
 msgid "sword"
 msgstr "épée"
 
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:23
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:23
-#: A_New_Order/units/Akladian_Chieftain.cfg:23
-#: A_New_Order/units/Akladian_Darknite.cfg:21
-#: A_New_Order/units/Akladian_Fastfoot.cfg:21
-#: A_New_Order/units/Akladian_Homeguard-c.cfg:21
-#: A_New_Order/units/Akladian_Homeguard-g.cfg:21
-#: A_New_Order/units/Akladian_Homeguard.cfg:21
-#: A_New_Order/units/Akladian_Lady.cfg:25
-#: A_New_Order/units/Akladian_Leader.cfg:23
-#: A_New_Order/units/Akladian_Lord-c.cfg:24
-#: A_New_Order/units/Akladian_Lord-g.cfg:24
-#: A_New_Order/units/Akladian_Lord.cfg:24
-#: A_New_Order/units/Akladian_Princess.cfg:24
-#: A_New_Order/units/Akladian_Protector.cfg:21
-#: A_New_Order/units/Akladian_Queen.cfg:24
-#: A_New_Order/units/Akladian_Raider-c.cfg:21
-#: A_New_Order/units/Akladian_Raider-g.cfg:21
-#: A_New_Order/units/Akladian_Raider.cfg:21
-#: A_New_Order/units/Akladian_Shieldguard.cfg:21
 #: A_New_Order/units/Akladian_Sturmknight.cfg:21
-#: A_New_Order/units/Akladian_Warlord.cfg:27
-#: A_New_Order/units/Aragwaith-Archer.cfg:86
-#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:76
-#: A_New_Order/units/Aragwaith-Guard.cfg:84
-#: A_New_Order/units/Aragwaith-Hunter.cfg:81
-#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:75
-#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:62
-#: A_New_Order/units/Aragwaith-Stormbringer.cfg:76
-#: A_New_Order/units/Aragwaith-Swordman.cfg:79
 #: A_New_Order/units/Aragwaith-Swordmaster.cfg:67
-#: A_New_Order/units/Brigand.cfg:24 A_New_Order/units/Hagarthen.cfg:24
-#: A_New_Order/units/Human-ranger.cfg:39 A_New_Order/units/Huntsman.cfg:36
-#: A_New_Order/units/Karen.cfg:24 A_New_Order/units/Lord_Hagarthen.cfg:24
-#: A_New_Order/units/Rogue_Mage.cfg:22 A_New_Order/units/Ruvio.cfg:23
+#: A_New_Order/units/Akladian_Shieldguard.cfg:21
+#: A_New_Order/units/Akladian_Darknite.cfg:21
+#: A_New_Order/units/Akladian_Homeguard-c.cfg:21
+#: A_New_Order/units/Akladian_Protector.cfg:21
+#: A_New_Order/units/Human-ranger.cfg:39
+#: A_New_Order/units/Akladian_Homeguard-g.cfg:21
+#: A_New_Order/units/Akladian_Lord-g.cfg:24
+#: A_New_Order/units/Akladian_Raider-g.cfg:21
+#: A_New_Order/units/Akladian_Leader.cfg:23
+#: A_New_Order/units/Rogue_Mage.cfg:22
+#: A_New_Order/units/Aragwaith-Archer.cfg:86 A_New_Order/units/Huntsman.cfg:36
+#: A_New_Order/units/Akladian_Warlord.cfg:27
+#: A_New_Order/units/Akladian_Lady.cfg:25
+#: A_New_Order/units/Aragwaith-Hunter.cfg:81 A_New_Order/units/Ruvio.cfg:23
+#: A_New_Order/units/Brigand.cfg:24
+#: A_New_Order/units/Akladian_Chieftain.cfg:23
+#: A_New_Order/units/Akladian_Lord-c.cfg:24 A_New_Order/units/Hagarthen.cfg:24
+#: A_New_Order/units/Akladian_Fastfoot.cfg:21
+#: A_New_Order/units/Akladian_Homeguard.cfg:21
+#: A_New_Order/units/Shadow_Mage.cfg:28
+#: A_New_Order/units/Akladian_Princess.cfg:24 A_New_Order/units/Karen.cfg:24
+#: A_New_Order/units/Aragwaith-Guard.cfg:84
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:76
+#: A_New_Order/units/Shadow_Lord.cfg:68
+#: A_New_Order/units/Akladian_Chieftain-g.cfg:23
 #: A_New_Order/units/Ruvios_Daughter.cfg:23
-#: A_New_Order/units/Shadow_Lord.cfg:68 A_New_Order/units/Shadow_Mage.cfg:28
+#: A_New_Order/units/Lord_Hagarthen.cfg:24
+#: A_New_Order/units/Aragwaith-Shield_Guard.cfg:62
+#: A_New_Order/units/Akladian_Queen.cfg:24
+#: A_New_Order/units/Aragwaith-Longsword_fighter.cfg:75
+#: A_New_Order/units/Aragwaith-Swordman.cfg:79
+#: A_New_Order/units/Akladian_Chieftain-c.cfg:23
+#: A_New_Order/units/Akladian_Raider-c.cfg:21
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:76
+#: A_New_Order/units/Akladian_Lord.cfg:24
+#: A_New_Order/units/Akladian_Raider.cfg:21
 msgid "blade"
 msgstr "lame"
 
@@ -16268,8 +16704,8 @@ msgid "Akladian Chieftain"
 msgstr "Chef akladien"
 
 #: A_New_Order/units/Akladian_Clanmember-c.cfg:4
-#: A_New_Order/units/Akladian_Clanmember-g.cfg:4
 #: A_New_Order/units/Akladian_Clanmember.cfg:4
+#: A_New_Order/units/Akladian_Clanmember-g.cfg:4
 msgid "Akladian Clanmember"
 msgstr "Membre du clan akladien"
 
@@ -16290,36 +16726,37 @@ msgstr ""
 "pour la défense de leur royaume."
 
 #: A_New_Order/units/Akladian_Clanmember-c.cfg:21
-#: A_New_Order/units/Akladian_Clanmember-g.cfg:21
 #: A_New_Order/units/Akladian_Clanmember.cfg:21
+#: A_New_Order/units/Akladian_Clanmember-g.cfg:21
 msgid "short spear"
 msgstr "Petite lance"
 
-#: A_New_Order/units/Akladian_Clanmember-c.cfg:22
-#: A_New_Order/units/Akladian_Clanmember-g.cfg:22
-#: A_New_Order/units/Akladian_Clanmember.cfg:22
-#: A_New_Order/units/Akladian_LightInfantry-c.cfg:21
-#: A_New_Order/units/Akladian_LightInfantry-g.cfg:21
-#: A_New_Order/units/Akladian_LightInfantry.cfg:21
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:24
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:24
-#: A_New_Order/units/Akladian_Pikeneer.cfg:24
-#: A_New_Order/units/Akladian_Warrior-c.cfg:21
-#: A_New_Order/units/Akladian_Warrior-g.cfg:21
-#: A_New_Order/units/Akladian_Warrior.cfg:21
-#: A_New_Order/units/Aragwaith-Archer.cfg:128
-#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:55
-#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:104
 #: A_New_Order/units/Aragwaith-Guardian.cfg:55
+#: A_New_Order/units/Human-ranger.cfg:61
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:24
+#: A_New_Order/units/Aragwaith-Archer.cfg:128
+#: A_New_Order/units/Huntsman.cfg:53
+#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:55
+#: A_New_Order/units/Akladian_LightInfantry-c.cfg:21
 #: A_New_Order/units/Aragwaith-Hunter.cfg:107
-#: A_New_Order/units/Aragwaith-Lancer.cfg:56
-#: A_New_Order/units/Aragwaith-Pikeman.cfg:55
-#: A_New_Order/units/Aragwaith-Scout.cfg:57
-#: A_New_Order/units/Aragwaith-Spearman.cfg:55
-#: A_New_Order/units/Aragwaith-Stormbringer.cfg:127
-#: A_New_Order/units/Brigand.cfg:46 A_New_Order/units/City_Militia.cfg:38
-#: A_New_Order/units/Human-ranger.cfg:61 A_New_Order/units/Huntsman.cfg:53
+#: A_New_Order/units/Akladian_Clanmember-c.cfg:22
 #: A_New_Order/units/Ruvio.cfg:41
+#: A_New_Order/units/Akladian_LightInfantry-g.cfg:21
+#: A_New_Order/units/Akladian_Clanmember.cfg:22
+#: A_New_Order/units/Brigand.cfg:46 A_New_Order/units/Aragwaith-Scout.cfg:57
+#: A_New_Order/units/Akladian_Pikeneer.cfg:24
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:24
+#: A_New_Order/units/Aragwaith-Spearman.cfg:55
+#: A_New_Order/units/Akladian_Warrior.cfg:21
+#: A_New_Order/units/Aragwaith-Stormbringer.cfg:127
+#: A_New_Order/units/Aragwaith-Lancer.cfg:56
+#: A_New_Order/units/Akladian_Warrior-c.cfg:21
+#: A_New_Order/units/Akladian_LightInfantry.cfg:21
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:104
+#: A_New_Order/units/City_Militia.cfg:38
+#: A_New_Order/units/Akladian_Clanmember-g.cfg:22
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:55
+#: A_New_Order/units/Akladian_Warrior-g.cfg:21
 msgid "pierce"
 msgstr "perce"
 
@@ -16368,17 +16805,17 @@ msgstr ""
 "par leur maître. Ayant une armure légère, ils placent tous leurs espoirs "
 "dans la maîtrise de l'épée."
 
-#: A_New_Order/units/Akladian_Fastfoot.cfg:25
+#: A_New_Order/units/Aragwaith-Guardian.cfg:60
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:28
 #: A_New_Order/units/Akladian_LightInfantry-c.cfg:26
 #: A_New_Order/units/Akladian_LightInfantry-g.cfg:26
-#: A_New_Order/units/Akladian_LightInfantry.cfg:26
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:28
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:28
 #: A_New_Order/units/Akladian_Pikeneer.cfg:28
-#: A_New_Order/units/Aragwaith-Guardian.cfg:60
-#: A_New_Order/units/Aragwaith-Pikeman.cfg:60
+#: A_New_Order/units/Akladian_Fastfoot.cfg:25
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:28
 #: A_New_Order/units/Aragwaith-Spearman.cfg:60
+#: A_New_Order/units/Akladian_LightInfantry.cfg:26
 #: A_New_Order/units/City_Militia.cfg:43
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:60
 msgid "firststrike"
 msgstr "Première frappe"
 
@@ -16386,10 +16823,10 @@ msgstr "Première frappe"
 msgid "Akladian Holyman"
 msgstr "akladien béni."
 
-#: A_New_Order/units/Akladian_Holyman.cfg:18
-#: A_New_Order/units/Akladian_Wonderman.cfg:18
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:11
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:128
+#: A_New_Order/units/Akladian_Holyman.cfg:18
+#: A_New_Order/units/Akladian_Wonderman.cfg:18
 msgid "cures"
 msgstr "soin"
 
@@ -16401,28 +16838,28 @@ msgstr ""
 "Dédiant toute leur vie à la tâche de soigner et de guérir, les akladiens "
 "bénis sont respectés par les tribus, et utiles aux seigneurs akladiens."
 
-#: A_New_Order/units/Akladian_Holyman.cfg:22
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:22
 #: A_New_Order/units/Akladian_Wiseman.cfg:22
+#: A_New_Order/units/Akladian_Holyman.cfg:22
 #: A_New_Order/units/Akladian_Wonderman.cfg:22 A_New_Order/units/Medic.cfg:21
 msgid "staff"
 msgstr "bâton"
 
-#: A_New_Order/units/Akladian_Holyman.cfg:23
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:23
-#: A_New_Order/units/Akladian_Wiseman.cfg:23
-#: A_New_Order/units/Akladian_Wonderman.cfg:23
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:57
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:174
-#: A_New_Order/units/Aragwaith-Warlock.cfg:54
-#: A_New_Order/units/Aragwaith-Warlock.cfg:168
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:57
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:174
-#: A_New_Order/units/Fugitive.cfg:28 A_New_Order/units/Fugitive.cfg:46
-#: A_New_Order/units/Fugitive.cfg:100 A_New_Order/units/Fugitive.cfg:118
-#: A_New_Order/units/Henchman.cfg:28 A_New_Order/units/Highwayman.cfg:29
-#: A_New_Order/units/Medic.cfg:22 A_New_Order/units/Shadow_Lord.cfg:140
-#: A_New_Order/units/YoungHagarthen.cfg:25
+#: A_New_Order/units/Akladian_Wiseman.cfg:23
+#: A_New_Order/units/Akladian_Holyman.cfg:23
+#: A_New_Order/units/YoungHagarthen.cfg:25 A_New_Order/units/Highwayman.cfg:29
+#: A_New_Order/units/Shadow_Lord.cfg:140 A_New_Order/units/Fugitive.cfg:28
+#: A_New_Order/units/Fugitive.cfg:46 A_New_Order/units/Fugitive.cfg:100
+#: A_New_Order/units/Fugitive.cfg:118
+#: A_New_Order/units/Aragwaith-Warlock.cfg:54
+#: A_New_Order/units/Aragwaith-Warlock.cfg:168
+#: A_New_Order/units/Henchman.cfg:28
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:57
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:174
+#: A_New_Order/units/Akladian_Wonderman.cfg:23 A_New_Order/units/Medic.cfg:22
 msgid "impact"
 msgstr "impact"
 
@@ -16493,31 +16930,31 @@ msgstr ""
 "doivent néanmoins s'équiper eux-même. Il en résulte qu'ils sont souvent peu "
 "cuirassés et que la lance est leur arme de choix."
 
+#: A_New_Order/units/Aragwaith-Guardian.cfg:54
+#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:54
 #: A_New_Order/units/Akladian_LightInfantry-c.cfg:20
 #: A_New_Order/units/Akladian_LightInfantry-g.cfg:20
-#: A_New_Order/units/Akladian_LightInfantry.cfg:20
-#: A_New_Order/units/Akladian_Warrior-c.cfg:20
-#: A_New_Order/units/Akladian_Warrior-g.cfg:20
-#: A_New_Order/units/Akladian_Warrior.cfg:20
-#: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:54
-#: A_New_Order/units/Aragwaith-Guardian.cfg:54
-#: A_New_Order/units/Aragwaith-Lancer.cfg:55
-#: A_New_Order/units/Aragwaith-Pikeman.cfg:54
 #: A_New_Order/units/Aragwaith-Scout.cfg:56
 #: A_New_Order/units/Aragwaith-Spearman.cfg:54
+#: A_New_Order/units/Akladian_Warrior.cfg:20
 #: A_New_Order/units/Aragwaith-Stormbringer.cfg:75
+#: A_New_Order/units/Aragwaith-Lancer.cfg:55
+#: A_New_Order/units/Akladian_Warrior-c.cfg:20
+#: A_New_Order/units/Akladian_LightInfantry.cfg:20
 #: A_New_Order/units/City_Militia.cfg:37
+#: A_New_Order/units/Aragwaith-Pikeman.cfg:54
+#: A_New_Order/units/Akladian_Warrior-g.cfg:20
 msgid "spear"
 msgstr "lance"
 
-#: A_New_Order/units/Akladian_Lord-c.cfg:4
 #: A_New_Order/units/Akladian_Lord-g.cfg:4
+#: A_New_Order/units/Akladian_Lord-c.cfg:4
 #: A_New_Order/units/Akladian_Lord.cfg:4
 msgid "Akladian Lord"
 msgstr "Seigneur akladien"
 
-#: A_New_Order/units/Akladian_Lord-c.cfg:19
 #: A_New_Order/units/Akladian_Lord-g.cfg:19
+#: A_New_Order/units/Akladian_Lord-c.cfg:19
 #: A_New_Order/units/Akladian_Lord.cfg:19
 msgid ""
 "Those of chieftain who gained enough reputation and fame may end as leaders "
@@ -16526,15 +16963,15 @@ msgstr ""
 "Les chefs de clan qui ont gagné assez de réputation et de gloire peuvent "
 "devenir chef de tribus entières."
 
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:4
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:4
 #: A_New_Order/units/Akladian_Pikeneer.cfg:4
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:4
 msgid "Akladian Pikeneer"
 msgstr "Embrocheur akladien"
 
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:20
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:20
 #: A_New_Order/units/Akladian_Pikeneer.cfg:20
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:20
 msgid ""
 "Akladian Pikeneers are members of permament personal armies of Akladian "
 "lords, being closest thing to regular army Akladians have. They receive all "
@@ -16546,9 +16983,9 @@ msgstr ""
 "reçoivent tout leur équipement et leurs armes de leur maître, à qui ils "
 "donnent la plus grande loyauté."
 
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:23
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:23
 #: A_New_Order/units/Akladian_Pikeneer.cfg:23
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:23
 msgid "pike"
 msgstr "pique"
 
@@ -16584,14 +17021,14 @@ msgstr "female^Reine"
 msgid "leadership,skirmisher"
 msgstr "leadership, escarmouche"
 
-#: A_New_Order/units/Akladian_Raider-c.cfg:4
 #: A_New_Order/units/Akladian_Raider-g.cfg:4
+#: A_New_Order/units/Akladian_Raider-c.cfg:4
 #: A_New_Order/units/Akladian_Raider.cfg:4
 msgid "Akladian Raider"
 msgstr "Bandit akladien"
 
-#: A_New_Order/units/Akladian_Raider-c.cfg:17
 #: A_New_Order/units/Akladian_Raider-g.cfg:17
+#: A_New_Order/units/Akladian_Raider-c.cfg:17
 #: A_New_Order/units/Akladian_Raider.cfg:17
 msgid ""
 "Many Akladians join the armies of their lords, making the war their true "
@@ -16643,15 +17080,15 @@ msgstr ""
 "augmentent la capacité au combat de toutes les unité de niveau inférieur "
 "autour d'eux."
 
+#: A_New_Order/units/Akladian_Warrior.cfg:4
 #: A_New_Order/units/Akladian_Warrior-c.cfg:4
 #: A_New_Order/units/Akladian_Warrior-g.cfg:4
-#: A_New_Order/units/Akladian_Warrior.cfg:4
 msgid "Akladian Warrior"
 msgstr "Guerrier akladien"
 
+#: A_New_Order/units/Akladian_Warrior.cfg:17
 #: A_New_Order/units/Akladian_Warrior-c.cfg:17
 #: A_New_Order/units/Akladian_Warrior-g.cfg:17
-#: A_New_Order/units/Akladian_Warrior.cfg:17
 msgid ""
 "Spending their times in constant fights and raids, many Akladian clanmember "
 "become warriors, joining army not only in defense but also in raids against "
@@ -16704,16 +17141,16 @@ msgstr "Rayon de lumière."
 msgid "holy"
 msgstr "béni"
 
-#: A_New_Order/units/Akladian_Wonderman.cfg:37
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:72
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:189
-#: A_New_Order/units/Aragwaith-Warlock.cfg:69
-#: A_New_Order/units/Aragwaith-Warlock.cfg:183
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:72
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:189
-#: A_New_Order/units/Rogue_Mage.cfg:56 A_New_Order/units/Shadow_Lord.cfg:70
+#: A_New_Order/units/Rogue_Mage.cfg:56 A_New_Order/units/Shadow_Mage.cfg:30
+#: A_New_Order/units/Shadow_Mage.cfg:53 A_New_Order/units/Shadow_Lord.cfg:70
 #: A_New_Order/units/Shadow_Lord.cfg:103 A_New_Order/units/Shadow_Lord.cfg:142
-#: A_New_Order/units/Shadow_Mage.cfg:30 A_New_Order/units/Shadow_Mage.cfg:53
+#: A_New_Order/units/Aragwaith-Warlock.cfg:69
+#: A_New_Order/units/Aragwaith-Warlock.cfg:183
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:72
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:189
+#: A_New_Order/units/Akladian_Wonderman.cfg:37
 msgid "magical"
 msgstr "magique"
 
@@ -16731,11 +17168,12 @@ msgstr ""
 "face, mais ils ont compris que les arcs sont des armes très utiles. Ils ont "
 "donc formés une petite armée d'archers."
 
+#: A_New_Order/units/Human-ranger.cfg:60
 #: A_New_Order/units/Aragwaith-Archer.cfg:127
-#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:103
+#: A_New_Order/units/Huntsman.cfg:52
 #: A_New_Order/units/Aragwaith-Hunter.cfg:106
 #: A_New_Order/units/Aragwaith-Stormbringer.cfg:126
-#: A_New_Order/units/Human-ranger.cfg:60 A_New_Order/units/Huntsman.cfg:52
+#: A_New_Order/units/Aragwaith-Dragonghunter.cfg:103
 msgid "bow"
 msgstr "arc"
 
@@ -16744,8 +17182,8 @@ msgid "DangitIhadareallygoodnamebutIforgotit"
 msgstr "Merdalorsçaavaitunnomgénialmaisjelaioublié"
 
 #: A_New_Order/units/Aragwaith-DangitIhadareallygoodnamebutIforgotit.cfg:19
-#: A_New_Order/units/Aragwaith-Lancer.cfg:19
 #: A_New_Order/units/Aragwaith-Scout.cfg:19
+#: A_New_Order/units/Aragwaith-Lancer.cfg:19
 msgid "Mercenary"
 msgstr "Mercenaire."
 
@@ -16895,30 +17333,30 @@ msgstr ""
 "redoutables ennemis et même les mercenaires restent autant que possible à "
 "une distance prudente de 100 pieds d'eux."
 
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:56
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:173
-#: A_New_Order/units/Aragwaith-Warlock.cfg:53
-#: A_New_Order/units/Aragwaith-Warlock.cfg:167
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:56
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:173
+#: A_New_Order/units/Aragwaith-Warlock.cfg:53
+#: A_New_Order/units/Aragwaith-Warlock.cfg:167
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:56
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:173
 msgid "touch"
 msgstr "touche"
 
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:69
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:186
-#: A_New_Order/units/Aragwaith-Warlock.cfg:66
-#: A_New_Order/units/Aragwaith-Warlock.cfg:180
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:69
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:186
+#: A_New_Order/units/Aragwaith-Warlock.cfg:66
+#: A_New_Order/units/Aragwaith-Warlock.cfg:180
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:69
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:186
 msgid "fireball"
 msgstr "boule de feu"
 
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:70
-#: A_New_Order/units/Aragwaith-Sorcerer.cfg:187
-#: A_New_Order/units/Aragwaith-Warlock.cfg:67
-#: A_New_Order/units/Aragwaith-Warlock.cfg:181
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:70
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:187
+#: A_New_Order/units/Aragwaith-Warlock.cfg:67
+#: A_New_Order/units/Aragwaith-Warlock.cfg:181
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:70
+#: A_New_Order/units/Aragwaith-Sorcerer.cfg:187
 msgid "fire"
 msgstr "feu"
 
@@ -17039,7 +17477,7 @@ msgstr ""
 msgid "sickle"
 msgstr "faucille"
 
-#: A_New_Order/units/Brigand.cfg:45 A_New_Order/units/Ruvio.cfg:40
+#: A_New_Order/units/Ruvio.cfg:40 A_New_Order/units/Brigand.cfg:45
 msgid "crossbow"
 msgstr "arbalète"
 
@@ -17071,8 +17509,8 @@ msgstr ""
 "et rudes, ils peuvent faire peur dans leur élément, mais ne sont pas fait "
 "pour intégrer professionnellement les forces de respect des lois."
 
-#: A_New_Order/units/Fugitive.cfg:27 A_New_Order/units/Fugitive.cfg:99
-#: A_New_Order/units/Highwayman.cfg:28
+#: A_New_Order/units/Highwayman.cfg:28 A_New_Order/units/Fugitive.cfg:27
+#: A_New_Order/units/Fugitive.cfg:99
 msgid "mace"
 msgstr "masse"
 
@@ -17229,8 +17667,8 @@ msgstr "épée courte"
 msgid "missile"
 msgstr "missile"
 
-#: A_New_Order/units/Rogue_Mage.cfg:54 A_New_Order/units/Shadow_Lord.cfg:101
-#: A_New_Order/units/Shadow_Mage.cfg:51
+#: A_New_Order/units/Rogue_Mage.cfg:54 A_New_Order/units/Shadow_Mage.cfg:51
+#: A_New_Order/units/Shadow_Lord.cfg:101
 msgid "cold"
 msgstr "froid"
 
