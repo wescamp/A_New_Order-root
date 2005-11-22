@@ -1189,16 +1189,21 @@ msgid ""
 "Cryne. I have heard that they keep him in place known as Bontom, but I don't "
 "know where it is..."
 msgstr ""
+"Reme? Jo. slyšel jsem o něm. Hrad jeho klanu vypálili banditi. Ale prý žije. "
+"Prý. Slyšel jsem, že ho od nich koupil Bor Cryne. Slyšel jsem, že ho drží na "
+"místě zvaném.., jak se to.., jó, Bontom. Ale kde to je fakt nemám tuchy."
 
 #: A_New_Order/scenarios/12.cfg:25
 msgid ""
 "We were ordered to cooperate with orcs.. We were told orcs are our allies.. "
 "I know nothing more."
 msgstr ""
+"Nakázali nám se skřetama spolupracovat.. Prý 'sou teď skřeti naši kamarádi.. "
+"Víc nevím."
 
 #: A_New_Order/scenarios/12.cfg:28
 msgid "I hope the witch is burning in hell!"
-msgstr ""
+msgstr "Doufám, že se ta čarodějnice smaží v pekle!"
 
 #: A_New_Order/scenarios/12.cfg:37
 msgid "Leaving Raedwood"
@@ -12859,7 +12864,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:365
 msgid "Kill the enemy leader."
-msgstr ""
+msgstr "Zabij nepřátelkého vůdce"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:392
 msgid "I guess we will find some use for this in near future."
@@ -12871,7 +12876,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:423
 msgid "So, how many days are from here to Vattin?"
-msgstr ""
+msgstr "Tak, kolik dní zbývá do Vattinu?"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:427
 msgid "We should be there in two or three days."
@@ -12879,7 +12884,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:438
 msgid "It's a shame we had no time to finish that traitors off."
-msgstr ""
+msgstr "Jaká škoda, že nemáme čas vyřírit ty zrádce."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:442
 msgid "There is no time for that. Others should manage to do that without us."
@@ -13738,7 +13743,7 @@ msgstr ""
 
 #: A_New_Order/units/Akladian_Lady.cfg:4
 msgid "female^Akladian Lady"
-msgstr ""
+msgstr "Akladijská Lady"
 
 #: A_New_Order/units/Akladian_Lady.cfg:21
 msgid ""
@@ -13763,7 +13768,7 @@ msgstr ""
 #: A_New_Order/units/Akladian_LightInfantry-g.cfg:4
 #: A_New_Order/units/Akladian_LightInfantry.cfg:4
 msgid "Akladian Light Infantry"
-msgstr ""
+msgstr "Akladijská lehká infantérie"
 
 #: A_New_Order/units/Akladian_LightInfantry-c.cfg:17
 #: A_New_Order/units/Akladian_LightInfantry-g.cfg:17
@@ -13830,7 +13835,7 @@ msgstr "píka"
 
 #: A_New_Order/units/Akladian_Princess.cfg:4
 msgid "female^Akladian Princess"
-msgstr "female^Akladijská Princezna"
+msgstr "Akladijská Princezna"
 
 #: A_New_Order/units/Akladian_Princess.cfg:20
 #: A_New_Order/units/Akladian_Queen.cfg:20
@@ -13839,7 +13844,7 @@ msgstr ""
 
 #: A_New_Order/units/Akladian_Protector.cfg:4
 msgid "Akladian Protector"
-msgstr ""
+msgstr "Akladijský ochránce"
 
 #: A_New_Order/units/Akladian_Protector.cfg:17
 msgid ""
@@ -13851,7 +13856,7 @@ msgstr ""
 #: A_New_Order/units/Akladian_Queen.cfg:4
 #, fuzzy
 msgid "female^Queen"
-msgstr "female^Královna"
+msgstr "Královna"
 
 #: A_New_Order/units/Akladian_Queen.cfg:18
 msgid "leadership,skirmisher"
@@ -13861,7 +13866,7 @@ msgstr ""
 #: A_New_Order/units/Akladian_Raider-c.cfg:4
 #: A_New_Order/units/Akladian_Raider.cfg:4
 msgid "Akladian Raider"
-msgstr ""
+msgstr "Akladijský nájezdník"
 
 #: A_New_Order/units/Akladian_Raider-g.cfg:17
 #: A_New_Order/units/Akladian_Raider-c.cfg:17
@@ -13893,8 +13898,9 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/units/Akladian_Warlord.cfg:4
+#, fuzzy
 msgid "Akladian Warlord"
-msgstr ""
+msgstr "Akladijský válečník"
 
 #: A_New_Order/units/Akladian_Warlord.cfg:23
 msgid ""
@@ -13908,7 +13914,7 @@ msgstr ""
 #: A_New_Order/units/Akladian_Warrior-c.cfg:4
 #: A_New_Order/units/Akladian_Warrior-g.cfg:4
 msgid "Akladian Warrior"
-msgstr "Akladijský válečník"
+msgstr "Akladijský bojovník"
 
 #: A_New_Order/units/Akladian_Warrior.cfg:17
 #: A_New_Order/units/Akladian_Warrior-c.cfg:17
@@ -13997,7 +14003,7 @@ msgstr ""
 #: A_New_Order/units/Aragwaith-Scout.cfg:19
 #: A_New_Order/units/Aragwaith-Lancer.cfg:19
 msgid "Mercenary"
-msgstr ""
+msgstr "Žoldák"
 
 #: A_New_Order/units/Aragwaith-Dragonghunter.cfg:4
 msgid "Dragonhunter"
@@ -14097,7 +14103,7 @@ msgstr ""
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:4
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:121
 msgid "Sorcerer"
-msgstr ""
+msgstr "Čaroděj"
 
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:11
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:128
@@ -14130,7 +14136,7 @@ msgstr "dotyk"
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:69
 #: A_New_Order/units/Aragwaith-Sorcerer.cfg:186
 msgid "fireball"
-msgstr ""
+msgstr "ohnivá koule"
 
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:70
 #: A_New_Order/units/Aragwaith-Wizzard.cfg:187
@@ -14163,7 +14169,7 @@ msgstr ""
 
 #: A_New_Order/units/Aragwaith-Swordman.cfg:4
 msgid "Swordman"
-msgstr ""
+msgstr "Bojovník s mečem"
 
 #: A_New_Order/units/Aragwaith-Swordman.cfg:17
 msgid ""
@@ -14176,7 +14182,7 @@ msgstr ""
 
 #: A_New_Order/units/Aragwaith-Swordmaster.cfg:4
 msgid "Swordmaster"
-msgstr ""
+msgstr "Mistr meče"
 
 #: A_New_Order/units/Aragwaith-Swordmaster.cfg:18
 msgid ""
@@ -14215,7 +14221,7 @@ msgstr ""
 
 #: A_New_Order/units/Brigand.cfg:4
 msgid "Brigand"
-msgstr ""
+msgstr "Zbojník"
 
 #: A_New_Order/units/Brigand.cfg:20
 msgid ""
@@ -14227,7 +14233,7 @@ msgstr ""
 
 #: A_New_Order/units/Brigand.cfg:23
 msgid "sickle"
-msgstr ""
+msgstr "srp"
 
 #: A_New_Order/units/Ruvio.cfg:40 A_New_Order/units/Brigand.cfg:45
 msgid "crossbow"
@@ -14247,7 +14253,7 @@ msgstr ""
 
 #: A_New_Order/units/Fugitive.cfg:4
 msgid "Fugitive"
-msgstr ""
+msgstr "Uprchlík"
 
 #: A_New_Order/units/Fugitive.cfg:24
 msgid ""
@@ -14268,7 +14274,7 @@ msgstr "prak"
 
 #: A_New_Order/units/Fugitive.cfg:76
 msgid "female^Fugitive"
-msgstr ""
+msgstr "Uprchlice"
 
 #: A_New_Order/units/Fugitive.cfg:96
 msgid ""
@@ -14388,20 +14394,20 @@ msgstr "Medici nejsou bojové jednotky, jsou určeni pomáhat zraněným."
 
 #: A_New_Order/units/Rogue_Mage.cfg:4
 msgid "Rogue Mage"
-msgstr ""
+msgstr "Mág mizera"
 
 #: A_New_Order/units/Rogue_Mage.cfg:21 A_New_Order/units/Shadow_Mage.cfg:27
 msgid "short sword"
-msgstr ""
+msgstr "krátký meč"
 
 #: A_New_Order/units/Rogue_Mage.cfg:53
 msgid "missile"
-msgstr ""
+msgstr "střela"
 
 #: A_New_Order/units/Rogue_Mage.cfg:54 A_New_Order/units/Shadow_Mage.cfg:51
 #: A_New_Order/units/Shadow_Lord.cfg:101
 msgid "cold"
-msgstr ""
+msgstr "mráz"
 
 #: A_New_Order/units/Ruvio.cfg:19
 msgid ""
@@ -14412,27 +14418,31 @@ msgstr ""
 
 #: A_New_Order/units/Shadow_Lord.cfg:4
 msgid "Shadow Lord"
-msgstr ""
+msgstr "Lord stínů"
 
 #: A_New_Order/units/Shadow_Lord.cfg:67
 msgid "astral blade"
-msgstr ""
+msgstr "astrální čepel"
 
 #: A_New_Order/units/Shadow_Lord.cfg:100
+#, fuzzy
 msgid "shadow bolt"
-msgstr ""
+msgstr "stínoblesk"
 
 #: A_New_Order/units/Shadow_Lord.cfg:139
+#, fuzzy
 msgid "shadow blast"
-msgstr ""
+msgstr "závan smrti"
 
 #: A_New_Order/units/Shadow_Mage.cfg:4
+#, fuzzy
 msgid "Shadow Mage"
-msgstr ""
+msgstr "Mág stínů"
 
 #: A_New_Order/units/Shadow_Mage.cfg:50
+#, fuzzy
 msgid "ice blast"
-msgstr ""
+msgstr "ledový fičák"
 
 #: A_New_Order/units/YoungHagarthen.cfg:4
 msgid "Young Hagarthen"
@@ -14444,6 +14454,9 @@ msgid ""
 "This heritage and this burden causes even young Hagarthen to try (sometimes "
 "without big results) to become better warriors than others."
 msgstr ""
+"Klan hagarthenů vládl Akladijským královstvím po mnoho generací. Toto "
+"dědictví i břímě zároveň donutilo každého mladého Hagarthena pokusit se (a "
+"mnohdy bez větších výsledků) být lepším bojovníkem než ti druzí."
 
 #: A_New_Order/units/YoungHagarthen.cfg:23
 msgid "training sword"
