@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-18 11:40+0100\n"
+"POT-Creation-Date: 2005-11-23 12:29+0100\n"
 "PO-Revision-Date: 2005-08-25 10:26+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -27,14 +27,14 @@ msgid "Impossible"
 msgstr ""
 
 #: A_New_Order.cfg:19
-msgid "Version 0.6.2."
-msgstr ""
-
-#: A_New_Order.cfg:19
 msgid ""
 "The old kingdom of Wesnoth lies in ruins, while barbarians are ruling over "
 "the people dreaming about old legends. Can Gawen Hagarthen unite them all "
 "against the common danger? This supposed to be easy campaign. "
+msgstr ""
+
+#: A_New_Order.cfg:19
+msgid "Version 0.6.3."
 msgstr ""
 
 #: A_New_Order/scenarios/ano_macros.cfg:574 A_New_Order.cfg:19
@@ -245,7 +245,7 @@ msgstr ""
 #: A_New_Order/scenarios/21haunted.cfg:151
 #: A_New_Order/scenarios/21haunted.cfg:175 A_New_Order/scenarios/22.cfg:354
 #: A_New_Order/scenarios/23macros.cfg:598 A_New_Order/scenarios/25.cfg:448
-#: A_New_Order/scenarios/27.cfg:621 A_New_Order/scenarios/27.cfg:888
+#: A_New_Order/scenarios/27.cfg:622 A_New_Order/scenarios/27.cfg:889
 #: A_New_Order/scenarios/28.cfg:542 A_New_Order/scenarios/4.cfg:229
 #: A_New_Order/scenarios/5a.cfg:123 A_New_Order/scenarios/5b.cfg:130
 #: A_New_Order/scenarios/9.cfg:154
@@ -1125,7 +1125,7 @@ msgstr ""
 #: A_New_Order/scenarios/21haunted.cfg:143
 #: A_New_Order/scenarios/21haunted.cfg:167 A_New_Order/scenarios/22.cfg:346
 #: A_New_Order/scenarios/23macros.cfg:590 A_New_Order/scenarios/25.cfg:440
-#: A_New_Order/scenarios/27.cfg:617 A_New_Order/scenarios/27.cfg:884
+#: A_New_Order/scenarios/27.cfg:618 A_New_Order/scenarios/27.cfg:885
 #: A_New_Order/scenarios/28.cfg:538 A_New_Order/scenarios/4.cfg:225
 #: A_New_Order/scenarios/7.cfg:285 A_New_Order/scenarios/8.cfg:163
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:478
@@ -1146,7 +1146,7 @@ msgstr ""
 #: A_New_Order/scenarios/21bride.cfg:277 A_New_Order/scenarios/21bride.cfg:305
 #: A_New_Order/scenarios/21haunted.cfg:147
 #: A_New_Order/scenarios/21haunted.cfg:171 A_New_Order/scenarios/25.cfg:444
-#: A_New_Order/scenarios/27.cfg:629 A_New_Order/scenarios/27.cfg:896
+#: A_New_Order/scenarios/27.cfg:630 A_New_Order/scenarios/27.cfg:897
 #: A_New_Order/scenarios/28.cfg:550 A_New_Order/scenarios/7.cfg:289
 #: A_New_Order/scenarios/8.cfg:167
 msgid "Death of Ruvio"
@@ -3396,7 +3396,7 @@ msgstr ""
 #: A_New_Order/scenarios/19oracle.cfg:754
 #: A_New_Order/scenarios/21haunted.cfg:139
 #: A_New_Order/scenarios/21haunted.cfg:163 A_New_Order/scenarios/25.cfg:436
-#: A_New_Order/scenarios/27.cfg:613 A_New_Order/scenarios/27.cfg:880
+#: A_New_Order/scenarios/27.cfg:614 A_New_Order/scenarios/27.cfg:881
 #: A_New_Order/scenarios/28.cfg:534 A_New_Order/scenarios/4.cfg:221
 #: A_New_Order/scenarios/5a.cfg:119 A_New_Order/scenarios/5b.cfg:126
 msgid "Kill all enemy leaders"
@@ -4150,6 +4150,10 @@ msgid ""
 "Few days has passed. Finally, the Freetown council decided to sent Gawen to "
 "search for Deorien. Gwidle Turlin came to Gawen and and asked him for his "
 "agreement."
+msgstr ""
+
+#: A_New_Order/scenarios/15a.cfg:47
+msgid "Mithrandil"
 msgstr ""
 
 #: A_New_Order/scenarios/15a.cfg:115
@@ -6513,7 +6517,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20macros.cfg:378
 msgid ""
-"No, wait.. before I die.. My soldiers were dying her, and now I am asking "
+"No, wait.. before I die.. My soldiers were dying here, and now I am asking "
 "myself, what for? Why should more of them die here? They would die here "
 "gaining nothing for ourselves. Would you allow my warriors to leave?"
 msgstr ""
@@ -6882,7 +6886,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20macros.cfg:580
 msgid ""
-"Wait a moment! You are She-wolf of Haeltin? Then it is not that graet "
+"Wait a moment! You are She-wolf of Haeltin? Then it is not that great "
 "disgrace as I thought..."
 msgstr ""
 
@@ -6941,7 +6945,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20macros.cfg:608
 msgid ""
-"I won't do nothing to Cryne's son, my lord - I won't to adopt him and raise "
+"I won't do nothing to Cryne's son, my lord - I want to adopt him and raise "
 "him as Wesnothian."
 msgstr ""
 
@@ -7211,7 +7215,7 @@ msgstr ""
 #: A_New_Order/scenarios/21bride.cfg:285
 #: A_New_Order/scenarios/21haunted.cfg:155 A_New_Order/scenarios/22.cfg:350
 #: A_New_Order/scenarios/23macros.cfg:594 A_New_Order/scenarios/25.cfg:452
-#: A_New_Order/scenarios/27.cfg:625 A_New_Order/scenarios/27.cfg:892
+#: A_New_Order/scenarios/27.cfg:626 A_New_Order/scenarios/27.cfg:893
 #: A_New_Order/scenarios/28.cfg:546
 msgid "Death of Deorien"
 msgstr ""
@@ -9344,8 +9348,8 @@ msgstr ""
 msgid "Yeah! OH MY GOD, I am agreeing with an underling!"
 msgstr ""
 
-#: A_New_Order/scenarios/25.cfg:456 A_New_Order/scenarios/27.cfg:633
-#: A_New_Order/scenarios/27.cfg:900 A_New_Order/scenarios/28.cfg:554
+#: A_New_Order/scenarios/25.cfg:456 A_New_Order/scenarios/27.cfg:634
+#: A_New_Order/scenarios/27.cfg:901 A_New_Order/scenarios/28.cfg:554
 msgid "Death of Huon Ryedric"
 msgstr ""
 
@@ -9485,7 +9489,7 @@ msgid ""
 "fight."
 msgstr ""
 
-#: A_New_Order/scenarios/25.cfg:669 A_New_Order/scenarios/27.cfg:753
+#: A_New_Order/scenarios/25.cfg:669 A_New_Order/scenarios/27.cfg:754
 #: A_New_Order/scenarios/28.cfg:657
 msgid "Aaargh! I haven't revenged my family!"
 msgstr ""
@@ -9758,174 +9762,174 @@ msgstr ""
 msgid "Warh Arug"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:585
+#: A_New_Order/scenarios/27.cfg:586
 msgid "Remember the Freetown!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:592 A_New_Order/scenarios/27.cfg:594
+#: A_New_Order/scenarios/27.cfg:593 A_New_Order/scenarios/27.cfg:595
 msgid ""
 "My lord, our scouts reported that Grekulak is much closer than we thought. "
 "He is just two days of march from here - two days from undead army that is, "
 "since they can march without the rest night and day."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:596
+#: A_New_Order/scenarios/27.cfg:597
 msgid "Two days? It's impossible to defeat them within two days."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:597
+#: A_New_Order/scenarios/27.cfg:598
 msgid ""
 "Then kill as many of them as it is possible and choose good defensive "
 "position until Grekulak's army will come here."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:598
+#: A_New_Order/scenarios/27.cfg:599
 msgid ""
 "Indeed. We will have no time to rest and cure our wounded. But maybe it "
 "won't be necessary, we should negotiate first.."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:600
+#: A_New_Order/scenarios/27.cfg:601
 msgid "Hey, who's there? The little boy with his mommy!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:601
+#: A_New_Order/scenarios/27.cfg:602
 msgid ""
 "Bor Cryne - finally I meet you. You will pay me for everything you have done."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:602
+#: A_New_Order/scenarios/27.cfg:603
 msgid ""
 "Oh how am I scared. And there, isn't that the famous rebel leader, Ruvio? "
 "Unfortunately he was such a coward he abandoned his family in Freetown when "
 "he heard we are coming for them."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:603
+#: A_New_Order/scenarios/27.cfg:604
 msgid "My lord.. Please.. I want to kill him. Leave him to me.."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:604
+#: A_New_Order/scenarios/27.cfg:605
 msgid ""
 "I wish you were as pretty as your daughters, Ruvio. I could do to you the "
 "same I've done to them. Especially the redhead, what was her name? The "
 "fighting one. She was the best."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:605
+#: A_New_Order/scenarios/27.cfg:606
 msgid "Kill them. Kill them all. Have no mercy."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:606
+#: A_New_Order/scenarios/27.cfg:607
 msgid ""
 "My lord, we should try negotiations first. Grekulak is enemy of every one, "
 "and..."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:607
+#: A_New_Order/scenarios/27.cfg:608
 msgid "Remember the Freetown! Remember the Freetown! Kill them all!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:611 A_New_Order/scenarios/27.cfg:878
+#: A_New_Order/scenarios/27.cfg:612 A_New_Order/scenarios/27.cfg:879
 #: A_New_Order/scenarios/28.cfg:530
 msgid "In this scenario, only Gawen and Lorin may interrogate enemy leaders"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:663
+#: A_New_Order/scenarios/27.cfg:664
 msgid "Luc Hagarthen"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:677
+#: A_New_Order/scenarios/27.cfg:678
 msgid "Gauri Hagarthen"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:703
+#: A_New_Order/scenarios/27.cfg:704
 msgid ""
 "Aaaah, we were late! Our cousin had all the fun and left nothing for us!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:704
+#: A_New_Order/scenarios/27.cfg:705
 msgid "We would be here earlier, if not you, brother!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:705
+#: A_New_Order/scenarios/27.cfg:706
 msgid ""
 "Me? And who wanted to check whether the wine in Vakladia tastes differently "
 "than in Guilcorta?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:706
+#: A_New_Order/scenarios/27.cfg:707
 msgid "And what about the girls in that town?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:707
+#: A_New_Order/scenarios/27.cfg:708
 msgid "Who are you? Friend or foe?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:708
+#: A_New_Order/scenarios/27.cfg:709
 msgid ""
 "We are Luc and Gauri Hagarthens, your loyal swords from Guilcorta, your "
 "cousins, dear... uhmm.. how should we address you, your majesty, cousin, or "
 "maybe.. messiah?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:709
+#: A_New_Order/scenarios/27.cfg:710
 msgid "My king would be enough. You are welcomed here, even if a bit late."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:863
+#: A_New_Order/scenarios/27.cfg:864
 msgid "Ha ha! You are doomed!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:864
+#: A_New_Order/scenarios/27.cfg:865
 msgid ""
 "I am your new master. Recognise me as your lord and you will be spared. Try "
 "to oppose me and you will be killed and raised as my mindless slaves."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:867 A_New_Order/scenarios/28.cfg:521
+#: A_New_Order/scenarios/27.cfg:868 A_New_Order/scenarios/28.cfg:521
 msgid "Lady Lorin, are you sure you can participate in a battle?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:868 A_New_Order/scenarios/28.cfg:522
+#: A_New_Order/scenarios/27.cfg:869 A_New_Order/scenarios/28.cfg:522
 msgid "And why not, foul and rude mage?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:869
+#: A_New_Order/scenarios/27.cfg:870
 msgid ""
 "As I said before, I KNOW. I also know that ANY effort may be extremely "
 "dangerous for you."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:870 A_New_Order/scenarios/28.cfg:524
+#: A_New_Order/scenarios/27.cfg:871 A_New_Order/scenarios/28.cfg:524
 msgid ""
 "I am LORIN, foul mage, that's for one. And for two, I am not Wesnothian "
 "woman, the kind you are used to, but Akladian. I can fight until.. as long "
 "as I want."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:871 A_New_Order/scenarios/28.cfg:525
+#: A_New_Order/scenarios/27.cfg:872 A_New_Order/scenarios/28.cfg:525
 msgid ""
 "My king, please take my advise. Order Lorin to withdraw into the castle. No "
 "matter how she will boast and flaunt with her being Akladian woman, I am "
 "quite sure she shouldn't be here."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:872 A_New_Order/scenarios/28.cfg:526
+#: A_New_Order/scenarios/27.cfg:873 A_New_Order/scenarios/28.cfg:526
 msgid ""
 "But why? I don't understand. Besides, Lorin is fine warrior, and withdrawing "
 "her from battle may be.."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:873 A_New_Order/scenarios/28.cfg:527
+#: A_New_Order/scenarios/27.cfg:874 A_New_Order/scenarios/28.cfg:527
 msgid "I am mage, my king. Believe me, withdraw her into our castle."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:874 A_New_Order/scenarios/28.cfg:528
+#: A_New_Order/scenarios/27.cfg:875 A_New_Order/scenarios/28.cfg:528
 msgid "FOUL mage. You should have said: 'I am FOUL mage'."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:915
+#: A_New_Order/scenarios/27.cfg:916
 msgid ""
 "\n"
 "Forces of Darkness, come to my aid -\n"
@@ -9937,114 +9941,114 @@ msgid ""
 "Forces of Darkness will consume your mind."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:983
+#: A_New_Order/scenarios/27.cfg:984
 msgid "NO! Avaunt, the darkness, avaunt, the night!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1008
+#: A_New_Order/scenarios/27.cfg:1009
 msgid "How is it possible? Who could break my enchantment so easily?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1009
+#: A_New_Order/scenarios/27.cfg:1010
 msgid ""
 "Even a child could do it, so weak it was, as all of your heinous black "
 "magic; for all your power comes from lies and deceit solely."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1010
+#: A_New_Order/scenarios/27.cfg:1011
 msgid "Brave word - and who is uttering them?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1011
+#: A_New_Order/scenarios/27.cfg:1012
 msgid "Deorien, mage of light - whose might will defeat the night."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1012
+#: A_New_Order/scenarios/27.cfg:1013
 msgid ""
 "Good mage, but awful poet. Deorien, you will be mine before this battle will "
 "end."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1019 A_New_Order/scenarios/28.cfg:564
+#: A_New_Order/scenarios/27.cfg:1020 A_New_Order/scenarios/28.cfg:564
 msgid "Aaaah!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1020 A_New_Order/scenarios/28.cfg:565
+#: A_New_Order/scenarios/27.cfg:1021 A_New_Order/scenarios/28.cfg:565
 msgid "What happened? Mother?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1021 A_New_Order/scenarios/28.cfg:566
+#: A_New_Order/scenarios/27.cfg:1022 A_New_Order/scenarios/28.cfg:566
 msgid "It's nothing.. It's nothing... I just.. I can't..."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1022 A_New_Order/scenarios/28.cfg:567
+#: A_New_Order/scenarios/27.cfg:1023 A_New_Order/scenarios/28.cfg:567
 msgid "Ekhm."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1023 A_New_Order/scenarios/28.cfg:568
+#: A_New_Order/scenarios/27.cfg:1024 A_New_Order/scenarios/28.cfg:568
 msgid "Shut up, mage. I will fight, I just have to rest for a moment..."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1024 A_New_Order/scenarios/28.cfg:569
+#: A_New_Order/scenarios/27.cfg:1025 A_New_Order/scenarios/28.cfg:569
 msgid ""
 "No, you can't. My lord, withdraw Lorin to our castle's keep immedietely. She "
 "is unable to fight now."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1036 A_New_Order/scenarios/28.cfg:581
+#: A_New_Order/scenarios/27.cfg:1037 A_New_Order/scenarios/28.cfg:581
 msgid "I AM in a castle's keep, you idiot."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1037 A_New_Order/scenarios/28.cfg:582
+#: A_New_Order/scenarios/27.cfg:1038 A_New_Order/scenarios/28.cfg:582
 msgid ""
 "Good. Now, go to bedroom. I will sent someone to take care of you "
 "immedietely."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1046 A_New_Order/scenarios/27.cfg:1052
+#: A_New_Order/scenarios/27.cfg:1048 A_New_Order/scenarios/27.cfg:1054
 #: A_New_Order/scenarios/28.cfg:591 A_New_Order/scenarios/28.cfg:597
 msgid "Shut up, I can fight, I just have to get some rest!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1048 A_New_Order/scenarios/27.cfg:1054
+#: A_New_Order/scenarios/27.cfg:1050 A_New_Order/scenarios/27.cfg:1056
 #: A_New_Order/scenarios/28.cfg:593 A_New_Order/scenarios/28.cfg:599
 msgid ""
 "You have to withdraw Lady Lorin to your initial castle's keep within 6 turns."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1068 A_New_Order/scenarios/28.cfg:613
+#: A_New_Order/scenarios/27.cfg:1070 A_New_Order/scenarios/28.cfg:613
 msgid "I really can fight!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1069
+#: A_New_Order/scenarios/27.cfg:1071
 msgid "Note for translators: 'But what about IT?' refers to Lorin's child"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1070 A_New_Order/scenarios/28.cfg:614
+#: A_New_Order/scenarios/27.cfg:1072 A_New_Order/scenarios/28.cfg:614
 msgid "Yes, you can. But what about IT?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1071 A_New_Order/scenarios/28.cfg:615
+#: A_New_Order/scenarios/27.cfg:1073 A_New_Order/scenarios/28.cfg:615
 msgid "IT?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1088 A_New_Order/scenarios/28.cfg:631
+#: A_New_Order/scenarios/27.cfg:1090 A_New_Order/scenarios/28.cfg:631
 msgid "Aaah! I can't handle this pain!"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1089 A_New_Order/scenarios/28.cfg:632
+#: A_New_Order/scenarios/27.cfg:1091 A_New_Order/scenarios/28.cfg:632
 msgid "What happened? What?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1090 A_New_Order/scenarios/28.cfg:633
+#: A_New_Order/scenarios/27.cfg:1092 A_New_Order/scenarios/28.cfg:633
 msgid "I've told you. She miscarried."
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1091 A_New_Order/scenarios/28.cfg:634
+#: A_New_Order/scenarios/27.cfg:1093 A_New_Order/scenarios/28.cfg:634
 msgid "She WHAT?"
 msgstr ""
 
-#: A_New_Order/scenarios/27.cfg:1092 A_New_Order/scenarios/28.cfg:635
+#: A_New_Order/scenarios/27.cfg:1094 A_New_Order/scenarios/28.cfg:635
 msgid "Noooooo!"
 msgstr ""
 
@@ -12749,7 +12753,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/ano_macros.cfg:573
 msgid ""
-"This is version 0.6.2. Detailed changelog is posted on forum, also you may "
+"This is version 0.6.3. Detailed changelog is posted on forum, also you may "
 "find it in the same directory in which campaign files are located. If you "
 "like this campaign post your feedback on www.wesnoth.org/forum. Campaign is "
 "considered complete. Further releases will only contain translation updates, "
@@ -12979,7 +12983,14 @@ msgid "Ha! $ano_milildur_$random "
 msgstr ""
 
 #: A_New_Order/scenarios/elvish_macros.cfg:73
-#: A_New_Order/scenarios/elvish_macros.cfg:86
+msgid ""
+"Note for translators: The message 'I fought with you so many attles..' etc "
+"will be speaked by both male, Milildur, and Elorain, female. Make it gender "
+"neutral."
+msgstr ""
+
+#: A_New_Order/scenarios/elvish_macros.cfg:74
+#: A_New_Order/scenarios/elvish_macros.cfg:87
 msgid ""
 "My lord, I fought with you so many battles.. I can accept money from you no "
 "more. Please, treat me like a friend, not like a hired soldier."
