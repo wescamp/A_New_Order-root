@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: cs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-18 15:24+0100\n"
-"PO-Revision-Date: 2005-11-20 18:02+0100\n"
+"PO-Revision-Date: 2005-11-23 00:39+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgstr "Neskutečné"
 #: A_New_Order.cfg:19
 #, fuzzy
 msgid "Version 0.6.2."
-msgstr "Verze 0.2.3."
+msgstr "Verze 0.6.2."
 
 #: A_New_Order.cfg:19
 #, fuzzy
@@ -931,7 +931,7 @@ msgstr ""
 "Ať hvězdy stále svítí nad Svobodovem a jeho skvělými obyvateli! Odpusťtež mi "
 "neokázalou neprotokolární řeč. Přináším novinky, jež jsou zřetelné a "
 "znepokojivé. Houfy skřetů pochodují skrytě a nepozorovaně do samého srdce "
-"království Wesnothského.Můj obdiv přání"
+"království Wesnothského."
 
 #: A_New_Order/scenarios/11.cfg:127
 #, fuzzy
@@ -3460,6 +3460,8 @@ msgid ""
 "Hey, Gawen. That she-wolf of yours is pathetic. I scored three while she "
 "hadn't killed a single enemy!"
 msgstr ""
+"Hej, Gawene, ta tvoje Vlčice je dneska nějaká patetická. Už jsem skórovala "
+"třikrát a ona nezabila ještě ani jednoho!"
 
 #: A_New_Order/scenarios/14macros.cfg:57 A_New_Order/scenarios/14macros.cfg:60
 msgid "Ha! Scored three!"
@@ -3467,15 +3469,15 @@ msgstr "Táák. Třetí bod!"
 
 #: A_New_Order/scenarios/14macros.cfg:58 A_New_Order/scenarios/14macros.cfg:67
 msgid "So what? I am winning!"
-msgstr ""
+msgstr "No a co? Stejně vedu já."
 
 #: A_New_Order/scenarios/14macros.cfg:61
 msgid "So what?"
-msgstr ""
+msgstr "No a co?"
 
 #: A_New_Order/scenarios/14macros.cfg:66
 msgid "Ha! Another one!"
-msgstr ""
+msgstr "Táák, další!"
 
 #: A_New_Order/scenarios/14macros.cfg:69
 msgid "I'm a killing machine! And that Lorin should hide back in Haeltin!"
@@ -3485,7 +3487,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/14macros.cfg:71
 msgid "Ha! I'm winning!"
-msgstr "Ha! jsem vítěz!"
+msgstr "Ha! Jsem vítěz!"
 
 #: A_New_Order/scenarios/14macros.cfg:72
 msgid "Impertinent ungodly underling child, the day had not ended!"
@@ -3501,28 +3503,32 @@ msgid ""
 "Oh no, mighty Lorin is coming! All children and little furry animals, run "
 "for your life!"
 msgstr ""
+"Ó ne, úžasná Lorin přichází! Všechny děti a malá ubohá zvířátka, utíkejte! "
+"Spaste holý život!"
 
 #: A_New_Order/scenarios/14macros.cfg:95
 msgid ""
 "My son, send that little Karen to home. She is useless. I've killed two "
 "enemies already, and what about her?"
 msgstr ""
+"Můj Synu, pošli tu malou Karen domů. Je k ničemu. Já už zabila dva. A ona?"
 
 #: A_New_Order/scenarios/14macros.cfg:98
 msgid "Scored! And leading the race!"
-msgstr ""
+msgstr "Další! Už vedu!"
 
 #: A_New_Order/scenarios/14macros.cfg:99
 msgid "And I thought you won't be competing with me."
-msgstr ""
+msgstr "Myslela jsem, že jsi se mnou nechtěla závodit."
 
 #: A_New_Order/scenarios/14macros.cfg:100
 msgid "I am not competing with you, silly child."
-msgstr ""
+msgstr "Nezávodím s TEBOU, pošetilé děcko."
 
 #: A_New_Order/scenarios/14macros.cfg:102
 msgid "Try a little harder, grand-mother. But not bad for you age."
 msgstr ""
+"Zkus být příště trochu tvrdší, stařenko. Ale nebylo to špatné. Na tvůj věk."
 
 #: A_New_Order/scenarios/14macros.cfg:107
 msgid ""
@@ -3545,52 +3551,59 @@ msgid "Pfff! Only three?"
 msgstr "Co? Jenom tři?"
 
 #: A_New_Order/scenarios/14macros.cfg:115
+#, fuzzy
 msgid "Who's the killing machine now?"
-msgstr ""
+msgstr "A kdo je teď smrtící mašina? No?"
 
 #: A_New_Order/scenarios/14macros.cfg:117
 msgid "Not bad, but still you have to a lot to learn!"
-msgstr ""
+msgstr "Není to špatné, ale máš se ještě mnoho co učit!"
 
 #: A_New_Order/scenarios/14macros.cfg:118
 msgid "Do you think, little child, that I will honour you with answer?"
-msgstr ""
+msgstr "Ty si myslíš, děťátko, že tě poctím odpovědí?"
 
 #: A_New_Order/scenarios/14macros.cfg:132
+#, fuzzy
 msgid "By the way, I won. Scored $ano_competition_l"
 msgstr ""
+"A abys věděla, vyhrála jsem já. Skórovala jsem $ano_competition_l -krát."
 
 #: A_New_Order/scenarios/14macros.cfg:133
 #: A_New_Order/scenarios/14macros.cfg:136
 msgid ""
 "Girls, what do you exactly mean by 'scored'? Lorin, could you score me too?"
-msgstr ""
+msgstr "Děvčata, co myslíte tím \"skórovala\"? Lorin, můžeš oskórovat mě?"
 
 #: A_New_Order/scenarios/14macros.cfg:135
 msgid "By the way, I won. Scored $ano_competition_k"
-msgstr ""
+msgstr "Mimochodem, já vyhrála. Skórovala jsem $ano_competition_k -krát."
 
 #: A_New_Order/scenarios/14macros.cfg:138
 msgid "Why that  angry look, Lorin?"
-msgstr ""
+msgstr "Co takový naštvaný kukuč, Lorin?"
 
 #: A_New_Order/scenarios/14macros.cfg:139
 msgid "She lost."
-msgstr ""
+msgstr "Prohrála."
 
 #: A_New_Order/scenarios/14macros.cfg:140
 msgid "I have not lost. I have not won."
-msgstr ""
+msgstr "Neprohrála jsem a ani nevyhrála."
 
 #: A_New_Order/scenarios/14macros.cfg:141
+#, fuzzy
 msgid ""
 "That's what I meant. You have not won, great super killing machine, so you "
 "have lost."
 msgstr ""
+"To je to, co jsem myslela! Nevyhrála jsi, velká superzabijácká mašino, takže "
+"jsi prohrála."
 
 #: A_New_Order/scenarios/14orcs.cfg:3
+#, fuzzy
 msgid "Avenging Ruen"
-msgstr ""
+msgstr "Avenging Ruen"
 
 #: A_New_Order/scenarios/14orcs.cfg:18
 msgid ""
@@ -6027,7 +6040,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/19oracle.cfg:819
 msgid "Oracle.. I.."
-msgstr ""
+msgstr "Věštkyně.. já.."
 
 #: A_New_Order/scenarios/19oracle.cfg:820
 msgid ""
@@ -6035,14 +6048,17 @@ msgid ""
 "of their daughters than in their treasures. First answer is yes, you are. "
 "Second is yes, he will be. third is no, you will never be."
 msgstr ""
+"Já znám Tvé otázky, Lorin z Gallorů. z klanu, který má víc zlata ve vlasech "
+"svých dcer než ve svých pokladnicích. První odpověď je ano, jsi. Druhá je "
+"ano, on jistě bude. A třetí je ne, nikdy nebudeš."
 
 #: A_New_Order/scenarios/19oracle.cfg:821
 msgid "Note to translators : you will never be is plural."
-msgstr ""
+msgstr "Jasně, jak jinak :-)"
 
 #: A_New_Order/scenarios/19oracle.cfg:822
 msgid "No! No!  There has to be better answer!"
-msgstr ""
+msgstr "Ne! Ne! Musí být lepší odpověď!"
 
 #: A_New_Order/scenarios/19oracle.cfg:823
 msgid ""
@@ -6051,6 +6067,10 @@ msgid ""
 "you know his name. Go and find him. Beg him for forgiveness if you will have "
 "to. Stay with him as long as you can."
 msgstr ""
+"Jako Věštkyně už nemám co Ti říct víc. Ale jako žena Ti mohu dát radu. Je "
+"pouze jeden muž na celém světě, který může změnit tvou budoucnost. Myslím, "
+"že znáš jeho jméno. Běž a najdi jej. Popros ho o odpuštění. Padni na kolena, "
+"budeš-li muset. Zůstaň s ním jak dlouho budeš moci."
 
 #: A_New_Order/scenarios/19oracle.cfg:824
 msgid ""
@@ -6058,16 +6078,21 @@ msgid ""
 "Haeltin have heard the Oracle, voice of God on earth. She has not heard the "
 "woman which is merely God's tool."
 msgstr ""
+"To je všechno? Tak poslouchej. Slyšela jsem, Vlčice Haletinská vyslechla "
+"Věštkyni, hlas Boha na zemi. Ale nevyslyší ženu, která není nic než jen "
+"Božím nástrojem."
 
 #: A_New_Order/scenarios/19oracle.cfg:825
 msgid "Let's go, Gawen. Let's go."
-msgstr ""
+msgstr "Tak pojď, Gawene, pojď."
 
 #: A_New_Order/scenarios/19oracle.cfg:826
 msgid ""
 "I had not understand the discussion between you, and I have this feeling it "
 "was important. But why?"
 msgstr ""
+"Vůbec jsem nerozuměl tomu, co jste si povídali, a něco mi říká, že to bylo "
+"hodně důležité. Ale proč?"
 
 #: A_New_Order/scenarios/19oracle.cfg:827
 msgid ""
@@ -6075,6 +6100,9 @@ msgid ""
 "I will give you one of my sergeants into your service. He will serve you "
 "loyally."
 msgstr ""
+"Jednoho dne to pochopíš, mladičký Králi. Přeji Ti hodně štěstí ve Tvé misi. "
+"Kromě přání Ti dávám do služeb jednoho z mých seržantů. Uvidíš, že Ti bude "
+"věrně sloužit."
 
 #: A_New_Order/scenarios/20.cfg:3
 msgid "Okladia"
