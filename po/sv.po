@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-24 18:43+0100\n"
+"POT-Creation-Date: 2005-11-30 16:50+0100\n"
 "PO-Revision-Date: 2005-11-29 17:51+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
@@ -40,14 +40,14 @@ msgstr ""
 "\n"
 "Detta är tänkt att vara en enkel kampanj. "
 
-#: A_New_Order.cfg:19
-msgid "Version 0.6.3."
-msgstr ""
-
 #: A_New_Order.cfg:19 A_New_Order/scenarios/ano_macros.cfg:574
 msgid ""
 " The campaign is not intended for underaged. It contains elements making it "
 "unsuitable for children. You have been warned."
+msgstr ""
+
+#: A_New_Order.cfg:19
+msgid "Version 0.7.0."
 msgstr ""
 
 #: A_New_Order/scenarios/1-6macros.cfg:15
@@ -360,8 +360,8 @@ msgstr ""
 "under belägringen att han strider för henne utan att kräva ersättning. Han "
 "blev lojal."
 
-#: A_New_Order/scenarios/ano_macros.cfg:994
-#: A_New_Order/scenarios/ano_macros.cfg:997 A_New_Order/scenarios/10.cfg:30
+#: A_New_Order/scenarios/ano_macros.cfg:1005
+#: A_New_Order/scenarios/ano_macros.cfg:1008 A_New_Order/scenarios/10.cfg:30
 #: A_New_Order/scenarios/9.cfg:512
 msgid "loyal"
 msgstr "lojal"
@@ -3872,7 +3872,7 @@ msgid ""
 "be interesting for us?"
 msgstr ""
 
-#: A_New_Order/scenarios/14orcs.cfg:130
+#: A_New_Order/scenarios/14orcs.cfg:130 A_New_Order/scenarios/14orcs.cfg:141
 msgid ""
 "You may withdraw by moving Gawen Hagarthen to the signpost south of your "
 "initial position."
@@ -3891,14 +3891,6 @@ msgstr ""
 #: A_New_Order/scenarios/27.cfg:881
 msgid "Kill all enemy leaders"
 msgstr "Döda alla fiendeledare"
-
-#: A_New_Order/scenarios/14orcs.cfg:141
-msgid ""
-"You my withdraw by moving Gawen Hagarthen to the signpost south of your "
-"initial position."
-msgstr ""
-"Du kan retirera genom att föra Gawen till vägskylten söder om din "
-"startposition."
 
 #: A_New_Order/scenarios/14orcs.cfg:164
 msgid "We have no time and forces to defeat the orcs here. Retreat!"
@@ -14306,13 +14298,17 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/ano_macros.cfg:573
+msgid "This is version 0.7.0."
+msgstr ""
+
+#: A_New_Order/scenarios/ano_macros.cfg:573
 #, fuzzy
 msgid ""
-"This is version 0.6.3. Detailed changelog is posted on forum, also you may "
-"find it in the same directory in which campaign files are located. If you "
-"like this campaign post your feedback on www.wesnoth.org/forum. Campaign is "
-"considered complete. Further releases will only contain translation updates, "
-"typo and grammar error corrections, graphic updates etc. "
+"Detailed changelog is posted on forum, also you may find it in the same "
+"directory in which campaign files are located. If you like this campaign "
+"post your feedback on www.wesnoth.org/forum. Campaign is considered "
+"complete. Further releases will only contain translation updates, typo and "
+"grammar error corrections, graphic updates etc. "
 msgstr ""
 "Det här är version 0.1.5. En detaljerad ändringslog finns på forumet, "
 "dessutom så kan du hitta den i samma katalog som kampangenfilerna ligger i. "
@@ -14354,11 +14350,11 @@ msgid ""
 "from release scenario: ' {TEXT} '"
 msgstr ""
 
-#: A_New_Order/scenarios/ano_macros.cfg:993
+#: A_New_Order/scenarios/ano_macros.cfg:1004
 msgid "The unit $ano_loyal[0].user_description became LOYAL."
 msgstr ""
 
-#: A_New_Order/scenarios/ano_macros.cfg:999
+#: A_New_Order/scenarios/ano_macros.cfg:1010
 msgid "Zero upkeep"
 msgstr ""
 
@@ -14613,8 +14609,8 @@ msgid ""
 "Wayfarer/Shadow : sprites for Aragwaithi and corrections of Akladian "
 "sprites\n"
 "\n"
-"unsung, ott, capitol, ave, tomsik, teldar: bug reports, english errors "
-"corrections.\n"
+"unsung, ott, capitol, ave, tomsik, teldar, tapik, derek: bug reports, "
+"english errors corrections.\n"
 "\n"
 "Outlaw level 3 pack is maintained by scott and shadow \n"
 "\n"
@@ -15990,3 +15986,10 @@ msgstr ""
 #: A_New_Order/units/YoungHagarthen.cfg:23
 msgid "training sword"
 msgstr "träningssvärd"
+
+#~ msgid ""
+#~ "You my withdraw by moving Gawen Hagarthen to the signpost south of your "
+#~ "initial position."
+#~ msgstr ""
+#~ "Du kan retirera genom att föra Gawen till vägskylten söder om din "
+#~ "startposition."
