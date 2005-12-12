@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-30 16:50+0100\n"
-"PO-Revision-Date: 2005-11-29 13:05+0100\n"
+"PO-Revision-Date: 2005-12-07 15:39+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -2596,7 +2596,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/14barnon.cfg:15
 msgid "Scouting near Barnon"
-msgstr "Průzkum u Barnonu"
+msgstr "Výzvědy na Barnonsku"
 
 #: A_New_Order/scenarios/14barnon.cfg:28
 msgid ""
@@ -2606,6 +2606,12 @@ msgid ""
 "But then, if not that betrayal and that battle, I would probably never met "
 "Ruvio and Karen.."
 msgstr ""
+"Když jsme vcházeli do lesů chránící Barnon ze severu, nemohl jsem přestat "
+"myslet na bitvu, která se zde odehrála před několika měsíci. Ano, jenom pár "
+"měsíců se mě dělilo od těch strašných chvil. to bylo tehdy, když jsem byl "
+"zrazen a když jsem na pokraji smrti zůstal na ležet na bitevním poli. Na "
+"druhou stranu nebýt té zrady a té strašné bitvy, nikdy bych nepotkal Ruvia a "
+"Karen..."
 
 #: A_New_Order/scenarios/14barnon.cfg:115
 msgid "Baruk Bar"
@@ -2624,6 +2630,8 @@ msgid ""
 "It seems to me like it was just yesterday, when I was betrayed on this "
 "fields..."
 msgstr ""
+"Je to jako by to bylo včera, když jsem byl zrovna tady na těchto místech "
+"zrazen..."
 
 #: A_New_Order/scenarios/14barnon.cfg:178
 msgid "My lord... I.."
@@ -2635,24 +2643,33 @@ msgid ""
 "and fight to the end, but I gave you other orders, and your duty was to "
 "follow your orders. I know it wasn't easy for you."
 msgstr ""
+"Reme, neobviňuj se. Vím, že bys v ten den raději zůstal a bojoval až do "
+"hořkého konce, ale JÁ jsem ti dal rozkaz, vzpomínáš? A ani tvá oddanost ti "
+"nesmí zabránit vykonat rozkaz. A nezabránila, i když vím, že to pro tebe "
+"nebylo lehké."
 
 #: A_New_Order/scenarios/14barnon.cfg:181
 msgid ""
 "On the other hand, leaving me was quite easy for him. It seems he just "
 "needed some practice."
-msgstr ""
+msgstr "Na druhou stranu, opustil mě celkem snadno. Že by v tom měl praxi?"
 
 #: A_New_Order/scenarios/14barnon.cfg:184
 msgid ""
 "Let's be careful. Scouts reported us there are orcs garrisoned east from "
 "here. Now, we will just have to capture their leader and ..."
 msgstr ""
+"A nyní opatrně. Zvědové hlásili východním směrem skřetí ležení. Kdybychom "
+"tak chytili jejich vůdce a ..."
 
 #: A_New_Order/scenarios/14barnon.cfg:185
 msgid ""
 "... And we will see our great future king Gaumhaldric defeating his enemies "
 "in epic battle, which will be described by bards - for all times!"
 msgstr ""
+"... a pak bychom viděli našeho budoucího krále Gaumhaldrika jak poráží "
+"nepřátele v té přeslavné bitvě, o které budou bardové po všechny časy pět "
+"celé eposy!"
 
 #: A_New_Order/scenarios/14barnon.cfg:186
 msgid ""
@@ -2660,16 +2677,22 @@ msgid ""
 "don't have to defeat all enemies. We can withdraw after interrogating Orcish "
 "leader."
 msgstr ""
+"To hlavní, co jsem chtěl říct, než mne moje ratolest přerušila, bylo, že "
+"nemusíme pobít všechny. Stačí, když vyslechneme velitele skřetů a "
+"potichoučku zmizíme."
 
 #: A_New_Order/scenarios/14barnon.cfg:187
 msgid "My lord, some army is approaching us!"
-msgstr ""
+msgstr "Můj Pane, nějaká armáda se k nám blíží!"
 
 #: A_New_Order/scenarios/14barnon.cfg:188
+#, fuzzy
 msgid ""
 "Oh, do not worry. Probably those are our people returning from making deal "
 "with outlaw underlings."
 msgstr ""
+"To nic. To budou naši, co jsem je poslal na velmi speciální nákupy k "
+"banditům."
 
 #: A_New_Order/scenarios/14barnon.cfg:195
 msgid ""
@@ -2677,32 +2700,39 @@ msgid ""
 "Also Lady Lorin can interrogate enemy leaders. \n"
 "You will receive no bonus if withdrawing with Gawen."
 msgstr ""
+"\n"
+"Také Lady Lorin může vyslýchat nepřátelské vůdce. \n"
+"Pokud s Gawenem uprchneš, nezískáš žádný bonus."
 
 #: A_New_Order/scenarios/14barnon.cfg:204
 msgid ""
 "\n"
 "You will receive no bonus if withdrawing with Gawen."
 msgstr ""
+"\n"
+"Pokud s Gawenem uprchneš, nezískáš žádný bonus."
 
 #: A_New_Order/scenarios/14barnon.cfg:218
 msgid ""
 "That's impossible! They are breaking into city vicinity, how, how, how this "
 "could happened? Where are my soldiers? My allies? Help me!!"
 msgstr ""
+"To není možné! Oni se dostali až do města! Jak, jak, jak se to mohlo stát? "
+"Kde jsou moji vojáci? Moji spojenci, pomóóóc!!"
 
 #: A_New_Order/scenarios/14barnon.cfg:219
 msgid "Humans.. cowards.. good only for meat.."
-msgstr ""
+msgstr "Človeci..ustrašenci.. dobrej tak do klobása.."
 
 #: A_New_Order/scenarios/14barnon.cfg:227
 #: A_New_Order/scenarios/14barnon.cfg:245
 msgid "God! Everything is lost! Run for your life!"
-msgstr ""
+msgstr "Bože! Vše je ztraceno! Zachraňte si holou kůži! Utíkejte!"
 
 #: A_New_Order/scenarios/14barnon.cfg:235
 #: A_New_Order/scenarios/14barnon.cfg:253
 msgid "Hey, wait, what about our fight?! Coward!"
-msgstr ""
+msgstr "Hej, stůj, a co náš souboj? Zbabělec!"
 
 #: A_New_Order/scenarios/14barnon.cfg:236
 #: A_New_Order/scenarios/14barnon.cfg:254
@@ -2710,30 +2740,38 @@ msgid ""
 "He ran away! But I will meet him one day, and then he will have no time for "
 "running.."
 msgstr ""
+"Utekl! Ale jednoho dne se znovu setkáme. Podruhé už šanci k útěku "
+"nedostane..."
 
 #: A_New_Order/scenarios/14barnon.cfg:268
 msgid ""
 "Hey, I think I know you! Weren't you one of those young chieftains who "
 "visited the Vattin the other day.."
 msgstr ""
+"Hej! Neznáme se? Nebyl jsi náhodou jeden z maldých šéfů, kteří přišli "
+"jednoho krásného dne do Vattinu? "
 
 #: A_New_Order/scenarios/14barnon.cfg:269
 msgid "Yes! Yes! That could be! I was at Vattin once!"
-msgstr ""
+msgstr "Ano! Ano! To by mohlo být! Jednou jsem ve Vatinu byl!"
 
 #: A_New_Order/scenarios/14barnon.cfg:270
 msgid "Thank God! I'm glad! I'm really, really glad! What is your name, man?"
 msgstr ""
+"Díky Bohu! Jsem hrozně, ale opravdu hrozně moc ráda! Jak se jmenuješ, můj "
+"zachránče?"
 
 #: A_New_Order/scenarios/14barnon.cfg:271
 msgid "Kariv, my lady, yes, Kariv."
-msgstr ""
+msgstr "Kariv, má paní, ano, Kariv."
 
 #: A_New_Order/scenarios/14barnon.cfg:272
 msgid ""
 "Do you remember the song you were singing near my windows when you were "
 "drunk?"
 msgstr ""
+"Vzpomínáš na tu písničku, co jsi mi zpíval pod oknem, když jsi byl ožralý "
+"jako prase?"
 
 #: A_New_Order/scenarios/14barnon.cfg:273
 msgid "O shit."
@@ -2745,6 +2783,9 @@ msgid ""
 "fond of me, because he let me kill you! Or maybe do you know something about "
 "the orcs, why are they here and all?"
 msgstr ""
+"Přísahala jsem si, že se ti pomstím. A vidíš, Bůh mně vyslyšel, protože mně "
+"nechal naživu, abych tě teďka mohla zabít! Anebo snad víš něco o těch "
+"mizerných skřetech? Proč tady jsou a tak dále..."
 
 #: A_New_Order/scenarios/14barnon.cfg:275
 #: A_New_Order/scenarios/14barnon.cfg:292
@@ -2753,12 +2794,14 @@ msgid ""
 "Orcs? Yes, yes, orcs! They are helping us! They are, uhm, our allies or "
 "something!"
 msgstr ""
+"Skřeti? Ano, ano, skřeti, vím, vím! Oni nám pomáhají! Jsou to, no, naši "
+"spojenci nebo tak nějak!"
 
 #: A_New_Order/scenarios/14barnon.cfg:276
 #: A_New_Order/scenarios/14barnon.cfg:297
 #: A_New_Order/scenarios/14barnon.cfg:312
 msgid "He doesn't know anything. Let him go"
-msgstr ""
+msgstr "Nic neví, nech ho jít."
 
 #: A_New_Order/scenarios/14barnon.cfg:277
 #: A_New_Order/scenarios/20macros.cfg:547
@@ -2782,13 +2825,15 @@ msgid ""
 "Listen, if you will answer me few questions I will let you go. Understand? "
 "Now, what do you know about orcs and why they are here?"
 msgstr ""
+"Poslouchej, pokud mi odpovíš na pár otázek, nechám tě jít. Pochopils? Tak, "
+"co víš o skřetech a proč jsou tady?"
 
 #: A_New_Order/scenarios/14barnon.cfg:294
 #: A_New_Order/scenarios/14barnon.cfg:314
 msgid ""
 "Wait, one last question. What about Reme Carrenemoe, do you know anything "
 "about his fate?"
-msgstr ""
+msgstr "Počkej, ještě něco. Reme Carenemoe, říká ti to něco? Slyšel jsi o něm?"
 
 #: A_New_Order/scenarios/14barnon.cfg:295
 #: A_New_Order/scenarios/14barnon.cfg:315
@@ -2797,16 +2842,20 @@ msgid ""
 "they keep him in some place called Bontom. They will trade him to Bor Cryne, "
 "I think."
 msgstr ""
+"Ano! Obydlí jeho klanu byly napadeny zbojníky. Zajali ho a drží ho na místě, "
+"kterému říkají Bontom. Chtějí ho prodat Boru Crynovi, myslím."
 
 #: A_New_Order/scenarios/14barnon.cfg:330
 msgid "Hey orc! Can you still hear me? Are you okay?"
-msgstr ""
+msgstr "Hej, skřete! Slyšíš mně? Jsi v ókeju?"
 
 #: A_New_Order/scenarios/14barnon.cfg:331
 msgid ""
 "Mother earth, human woman is trying to save me? Such a care for a fallen "
 "enemy, this is so rarely found!"
 msgstr ""
+"Matka země, ty to vidět! Lidská ženština chtít zachránit já? Jaký starost "
+"padlý skřet. To nevidět."
 
 #: A_New_Order/scenarios/14barnon.cfg:332
 msgid ""
@@ -2815,10 +2864,16 @@ msgid ""
 "Let's start with the basics. This is a knife. When a knife is put into human "
 "- or, in that case, orcish - flesh, it hurts."
 msgstr ""
+"Chtít zachránit? Ne tak docela. Chci.. počkej, nemůžu najít správné slovo... "
+"jo, terorizovat, to je ono, chci tě terorizovat. Začněme pěkně od začátku. "
+"Toto je nůž. Pokud píchněš nožem do lidského - nebo v tomto případě skřetího "
+"masa, rozřízne se."
 
 #: A_New_Order/scenarios/14barnon.cfg:333
 msgid "Mother! Stop it! This is disgusting and I will not allow for that!"
 msgstr ""
+"Matka příroda u já! Zastavit to! Dost konec šlus! To být ohavná a já "
+"nechtít. Nedovolit to!"
 
 #: A_New_Order/scenarios/14barnon.cfg:334
 msgid ""
@@ -2828,12 +2883,18 @@ msgid ""
 "topic of what suffering can be induced by simple knife in hands of able "
 "woman."
 msgstr ""
+"Víš co, skřete? Uděláme dohodu. Pokud mi řekneš, proč sou tady všichni ti "
+"skřeti a proč se paktujete s Akladijci, v klidu a bezbolestně tě podříznu. "
+"Pokud ne, i přes nářek svého syna ti vysvětlím další díly fascinujícího "
+"příběhu ze života Co dokáže obyčejný nůž v ruce schopné ženy."
 
 #: A_New_Order/scenarios/14barnon.cfg:335
 msgid ""
 "No, I won't let you! Orc, tell us everything you know and I will let you "
 "live."
 msgstr ""
+"Ne, to ti nedovolím. Poslyš, skřete, řekni nám všechno, co víš, a já ti dám "
+"život."
 
 #: A_New_Order/scenarios/14orcs.cfg:235 A_New_Order/scenarios/14orcs.cfg:279
 #: A_New_Order/scenarios/14barnon.cfg:336
@@ -2845,6 +2906,8 @@ msgid ""
 "I don't know much - only that this was the wish of our guide, Grekulak. He "
 "wished Akladians to be allied with us."
 msgstr ""
+"Moc nevědět. Jenom vědět tak chtít Grekulak. Chtít spoc.. spojec.. dokupy s "
+"Aklady."
 
 #: A_New_Order/scenarios/14orcs.cfg:194 A_New_Order/scenarios/14orcs.cfg:197
 #: A_New_Order/scenarios/14orcs.cfg:200 A_New_Order/scenarios/14orcs.cfg:237
@@ -2872,6 +2935,8 @@ msgid ""
 "Grekulak! I know that name. We should go back to Freetown and report that, "
 "that's all we had to know!"
 msgstr ""
+"Grekulak! Znám to jméno. Měli bychom se nejrychleji vrátit nazpět do města "
+"Svobodova a zpravit o tom. To je to jediné a hlavní, co bylo nutno zjistit."
 
 #: A_New_Order/scenarios/14orcs.cfg:247 A_New_Order/scenarios/14orcs.cfg:291
 #: A_New_Order/scenarios/14barnon.cfg:348
@@ -2883,6 +2948,8 @@ msgstr ""
 msgid ""
 "Grekulak? That's something to report. We should go back to Freetown then."
 msgstr ""
+"Grekulak? Toť informace hodná raportu. Měli bychom se nejrychleji vrátit "
+"nazpět do města Svobodova."
 
 #: A_New_Order/scenarios/14barnon.cfg:361
 #: A_New_Order/scenarios/14barnon.cfg:389
@@ -2891,6 +2958,8 @@ msgid ""
 "if you will answer them, I will order someone to take care for your wounds "
 "and I will let you live"
 msgstr ""
+"Skřete, ještě neumírej! Slyšíš mně? Ještě pár otázek! Pokud my odpovíš, "
+"nechám ti ošetřit rány a přežiješ. Chápeš?"
 
 #: A_New_Order/scenarios/14barnon.cfg:362
 #: A_New_Order/scenarios/14barnon.cfg:390
@@ -2898,16 +2967,18 @@ msgid ""
 "Listen, that won't work! I know, because I know the job of interrogating of "
 "prisoners quite well, and this is not even amateur job... this is.."
 msgstr ""
+"Poslouchej mně! takhle to nefunguje! Já vím jak správně vyslýchat vězně! To "
+"není práce pro žádné amatéry... to je..."
 
 #: A_New_Order/scenarios/14barnon.cfg:376
 #: A_New_Order/scenarios/14barnon.cfg:404
 msgid "Amazing. Simply, amazing."
-msgstr ""
+msgstr "Úžasné. Jednoduše úžasné."
 
 #: A_New_Order/scenarios/14orcs.cfg:160 A_New_Order/scenarios/14barnon.cfg:416
 #: A_New_Order/scenarios/14saorduc.cfg:365
 msgid "My lord, are you sure you want to retreat?"
-msgstr ""
+msgstr "Pane, opravdu chceš složit zbraně?"
 
 #: A_New_Order/scenarios/14orcs.cfg:398 A_New_Order/scenarios/14barnon.cfg:426
 #: A_New_Order/scenarios/14bontom.cfg:605
@@ -2916,16 +2987,17 @@ msgid ""
 "Oh no! New reinforcements arrived to help our enemies, now we have no "
 "chances to defeat them!"
 msgstr ""
+"Ale ne! Nepřítel dostal další posily! Nyní nemáme žádnou šanci je porazit!"
 
 #: A_New_Order/scenarios/14barnon.cfg:436
 msgid "Ha! The orcs were hiding here some gold!"
-msgstr ""
+msgstr "Ha! Skřeti tu schovávali nějaké zlato!"
 
 #: A_New_Order/scenarios/14barnon.cfg:437
 #: A_New_Order/scenarios/14bontom.cfg:580 A_New_Order/scenarios/20.cfg:243
 #: A_New_Order/scenarios/20.cfg:315 A_New_Order/scenarios/14saorduc.cfg:382
 msgid "You have received 50 golden pieces"
-msgstr ""
+msgstr "Obdržel jsi 50 zlatých"
 
 #: A_New_Order/scenarios/14bontom.cfg:3
 msgid "Bontom"
@@ -2936,18 +3008,21 @@ msgid ""
 "Yes, I survived the battle at Barnon. I will tell you everything later, but "
 "now - do not call me Gawen, please. I am Gaumhaldric."
 msgstr ""
+"Ano, přežil jsem bitvu u Barnonu. Později ti všechno povím, ale teď - "
+"neříkej mi Gawene, prosím. Teď je ze mne Gaumhaldrik."
 
 #: A_New_Order/scenarios/14bontom.cfg:11
 msgid "Now, we may withdraw. There is no point to fight the others."
-msgstr ""
+msgstr "Teď můžeme klidně odtáhnout. Není žádný důvod bojovat dál."
 
 #: A_New_Order/scenarios/14bontom.cfg:13
 msgid "Now, we may try to interrogate that orcish leader or simply withdraw."
 msgstr ""
+"Teď můžeme zkusit vyslechnout toho skřetího vudce nebo prostě odtáhnout."
 
 #: A_New_Order/scenarios/14bontom.cfg:15
 msgid "Note: you will receive no bonus if you will withdraw with Reme."
-msgstr ""
+msgstr "Poznámka: nezískáš žádný bonus, pokud Reme dojde ke směrovníku."
 
 #: A_New_Order/scenarios/14bontom.cfg:39
 msgid ""
@@ -2955,6 +3030,10 @@ msgid ""
 "soon reached the area. Of course his army was too big to be not noticed and "
 "his scouts reported, that enemies are preparing to defense."
 msgstr ""
+"Průvodci ukázali Gawenovi, kde leží Bontom. S celou svou armádou se tam "
+"vypravil brzo byl u cíle. Jeho armáda byla natolik velká, že nemohla "
+"uniknout pozornosti a jeho zvědové brzy hlásili, že nepřítel se připravuje k "
+"obraně."
 
 #: A_New_Order/scenarios/14bontom.cfg:81
 msgid "Hans the Ripper"
@@ -2962,46 +3041,50 @@ msgstr "Sekáč Hans"
 
 #: A_New_Order/scenarios/14bontom.cfg:222
 msgid "So, this is the place! Now, let's find Reme."
-msgstr ""
+msgstr "Tak, jsme tady. Teď ještě najít Remeho."
 
 #: A_New_Order/scenarios/14bontom.cfg:223
 msgid ""
 "Hm, it seems that orcs are here too. We can interrogate their leader, too."
 msgstr ""
+"Hm, vypadá to, že skřeti jsou zde také. Na druhou stranu můžeme vyslechnout "
+"jejich velitele..."
 
 #: A_New_Order/scenarios/14bontom.cfg:224
 msgid "What about the others?"
-msgstr ""
+msgstr "A co ti druzí?"
 
 #: A_New_Order/scenarios/14bontom.cfg:225
 msgid ""
 "I wouldn't care about the others. If you want, you may ask them questions, "
 "but I won't waste my time on them."
 msgstr ""
+"O ně bych se nestaral. Pokud chceš, můžeš jim položit pár otázek, ale já "
+"bych tím neztrácel čas."
 
 #: A_New_Order/scenarios/14bontom.cfg:226
 msgid "Wait! Who's there?"
-msgstr ""
+msgstr "Stůj! Kdo tam?"
 
 #: A_New_Order/scenarios/14bontom.cfg:228
 msgid "And what do you think?"
-msgstr ""
+msgstr "A kdo myslíš že jsme?"
 
 #: A_New_Order/scenarios/14bontom.cfg:229
 msgid "We came here to release our friend."
-msgstr ""
+msgstr "Přišli jsme osvobodit našeho přítele."
 
 #: A_New_Order/scenarios/14bontom.cfg:230
 msgid "We came here to make a deal."
-msgstr ""
+msgstr "Přišli jsem udělat obchod."
 
 #: A_New_Order/scenarios/14bontom.cfg:233
 msgid "Friend? What friend?"
-msgstr ""
+msgstr "Přítel? Jaký přítel?"
 
 #: A_New_Order/scenarios/14bontom.cfg:234
 msgid "Reme Carrenemoe. Let him go, and we will leave this place."
-msgstr ""
+msgstr "Reme Carrenemoe. Propusťte ho a my v klidu odejdeme."
 
 #: A_New_Order/scenarios/14bontom.cfg:235
 #: A_New_Order/scenarios/14bontom.cfg:266
@@ -3009,30 +3092,32 @@ msgid ""
 "Ha! Ha! Ha! Go and find some other friend to rescue, that one is busy. Go "
 "away!"
 msgstr ""
+"Ha! Ha! Ha! Bežte a hledejte jiné přátele k záchraně, tento je poněkud "
+"zaneprázdněn. Táhněte pryč!"
 
 #: A_New_Order/scenarios/14bontom.cfg:237
 msgid "Deal? What deal?"
-msgstr ""
+msgstr "Obchod? Jaký obchod?"
 
 #: A_New_Order/scenarios/14bontom.cfg:238
 msgid "You have captured my friend, Reme Carrenemoe. What about this:"
-msgstr ""
+msgstr "Zajali jste mého přítele, Remeho Carrenemoea. Co třeba:"
 
 #: A_New_Order/scenarios/14bontom.cfg:239
 msgid "Let him go, and we will leave in peace."
-msgstr ""
+msgstr "Propusťte ho a my v klidu odejdeme."
 
 #: A_New_Order/scenarios/14bontom.cfg:240
 msgid "I will give you 200 golden pieces for releasing him"
-msgstr ""
+msgstr "Dám vám za něj 200 zlatých."
 
 #: A_New_Order/scenarios/14bontom.cfg:247
 msgid "What kind of joke is this? You haven't got that much gold!"
-msgstr ""
+msgstr "Co je to za vtip? Kde bys vzal tolik peněz?"
 
 #: A_New_Order/scenarios/14bontom.cfg:249
 msgid "Seems fine too me. 200 golden pieces for me, Reme for you."
-msgstr ""
+msgstr "To se mi zamlouvá. 200 zlatých ke mně, Reme k tobě."
 
 #: A_New_Order/scenarios/14bontom.cfg:255
 #: A_New_Order/scenarios/14bontom.cfg:327
@@ -3045,42 +3130,49 @@ msgid ""
 "My lord, the outlaw army decimated my clan. But still, some of my people "
 "survived, and they will be glad to help you."
 msgstr ""
+"Můj Pane! Zbojníci zdecimovali můj klan. Ale přesto, několik našich přežilo. "
+"Bude jim potěšením Ti pomáhat."
 
 #: A_New_Order/scenarios/14bontom.cfg:257
 #: A_New_Order/scenarios/14bontom.cfg:329
 msgid "You may recruit Akladian Clanmembers again."
-msgstr ""
+msgstr "Znovu můžeš verbovat Akladijské členy klanu."
 
 #: A_New_Order/scenarios/14bontom.cfg:279
 #: A_New_Order/scenarios/14bontom.cfg:294
 msgid "NORMAL: Rescue Reme Carrenemoe and move it to north-eastern signpost"
-msgstr ""
+msgstr "NORMÁLNĚ: Zachraň Remeho a dojdi s ním k severovýchodnímu směrovníku"
 
 #: A_New_Order/scenarios/14bontom.cfg:313
 msgid ""
 "My lord, are you sure you want to retreat? We should move Reme Carrenemoe "
 "here first!"
 msgstr ""
+"Můj Pane, opravdu chceš prchnout? Měli bychom sem nejprve dostat Remeho "
+"Carrenemoea!"
 
 #: A_New_Order/scenarios/14bontom.cfg:317
 msgid "I'm sorry Reme, but we simply were unable to succeed."
-msgstr ""
+msgstr "Je mi líto, Reme, ale jednoduše jsme nebyli schopni uspět."
 
 #: A_New_Order/scenarios/14bontom.cfg:318
 msgid ""
 "Good. Reme left me, we paid him back, so the balance in the nature is "
 "preserved."
 msgstr ""
+"Dobře. Reme mne opustil, já ho vyplatil. Rovnováha přírody zůstala zachována."
 
 #: A_New_Order/scenarios/14bontom.cfg:344
 msgid ""
 "So, Reme. We meet again. Hm.. I would say something in the sense 'I'm happy "
 "to see you again', but to be honest, I am not."
 msgstr ""
+"Tak, Reme. Znovu jsme se setkali. Hm.. Měla bych říct něco jako 'Jsem "
+"šťastná', ale budu upřímná, nejsem."
 
 #: A_New_Order/scenarios/14bontom.cfg:346
 msgid "Lorin... and.. Gawen? Is that really you?"
-msgstr ""
+msgstr "Lorin... a.. Gawen? Jste to vážně vy?"
 
 #: A_New_Order/scenarios/14bontom.cfg:352
 msgid "Reme, are you ok?"
@@ -3089,61 +3181,61 @@ msgstr "Reme, jsi v pořádku?"
 #: A_New_Order/scenarios/14bontom.cfg:354
 #: A_New_Order/scenarios/14bontom.cfg:374
 msgid "Yes.. yes.. Gawen? Is that really you?"
-msgstr ""
+msgstr "Ano.. ano.. Gawene? Jsi to vskutku ty?"
 
 #: A_New_Order/scenarios/14bontom.cfg:371
 msgid "There are keeping some Akladian in cage in here. Should I kill him?"
-msgstr ""
+msgstr "V jeskyni tu schovávasli pár Akladijců. Mám je zabít?"
 
 #: A_New_Order/scenarios/14bontom.cfg:372
 msgid "No! This is my friend, Reme! Reme, are you ok?"
-msgstr ""
+msgstr "NE! Jsou to moji přátelé! Reme! Reme, jsi v pořádku?"
 
 #: A_New_Order/scenarios/14bontom.cfg:383
 #: A_New_Order/scenarios/14bontom.cfg:430
 msgid "Such a young men.. And still, one damn good fighter.."
-msgstr ""
+msgstr "Takový mladík... a jaký po čertech dobrý bojovník.."
 
 #: A_New_Order/scenarios/14bontom.cfg:384
 #: A_New_Order/scenarios/14bontom.cfg:431
 msgid "You were worthy opponent too."
-msgstr ""
+msgstr "Ty jsi byl také dobrým protivníkem."
 
 #: A_New_Order/scenarios/14bontom.cfg:385
 #: A_New_Order/scenarios/14bontom.cfg:432
 msgid "Yes.. it was a good fight, isn't it?"
-msgstr ""
+msgstr "Ano, hezky jsme si zabojovali, co?"
 
 #: A_New_Order/scenarios/14bontom.cfg:386
 #: A_New_Order/scenarios/14bontom.cfg:433
 msgid "Yes.. Before you will pass, please answer me few questions."
-msgstr ""
+msgstr "Ano.. Ale než odejdeš, prosím odpověz mi na pár otázek."
 
 #: A_New_Order/scenarios/14bontom.cfg:391
 #: A_New_Order/scenarios/14bontom.cfg:399
 #: A_New_Order/scenarios/14bontom.cfg:438
 #: A_New_Order/scenarios/14bontom.cfg:446
 msgid "Why orcs are here, allied with Akladians?"
-msgstr ""
+msgstr "Proč skřeti přišli? A proč jako spojenci Akladijců?"
 
 #: A_New_Order/scenarios/14bontom.cfg:392
 #: A_New_Order/scenarios/14bontom.cfg:439
 msgid "Who have hired assassin, who was trying to kill me?"
-msgstr ""
+msgstr "Kdo najal vraha, který mne měl zabít?"
 
 #: A_New_Order/scenarios/14bontom.cfg:393
 #: A_New_Order/scenarios/14bontom.cfg:400
 #: A_New_Order/scenarios/14bontom.cfg:440
 #: A_New_Order/scenarios/14bontom.cfg:447
 msgid "Why you fight along with Akladians?"
-msgstr ""
+msgstr "Proč bojuješ s Akladijci?"
 
 #: A_New_Order/scenarios/14bontom.cfg:394
 #: A_New_Order/scenarios/14bontom.cfg:401
 #: A_New_Order/scenarios/14bontom.cfg:441
 #: A_New_Order/scenarios/14bontom.cfg:448
 msgid "Do you know, who poisoned my mother?"
-msgstr ""
+msgstr "Víš, kdo otrávil mou matku?"
 
 #: A_New_Order/scenarios/14bontom.cfg:409
 #: A_New_Order/scenarios/14bontom.cfg:456
@@ -3170,7 +3262,7 @@ msgstr "Nemám zdání."
 #: A_New_Order/scenarios/14bontom.cfg:414
 #: A_New_Order/scenarios/14bontom.cfg:461
 msgid "Why you are allied with Akladians?"
-msgstr ""
+msgstr "Proč jste se spojili s Akladijci?"
 
 #: A_New_Order/scenarios/14bontom.cfg:415
 #: A_New_Order/scenarios/14bontom.cfg:462
@@ -3178,6 +3270,8 @@ msgid ""
 "Allied? We are allied with none. They simply have paid for our services. "
 "That's all."
 msgstr ""
+"Spojili? My nejsme ničí spojenci. Jednoduše zaplatili za naše služby. Toť "
+"vše."
 
 #: A_New_Order/scenarios/14bontom.cfg:417
 #: A_New_Order/scenarios/14bontom.cfg:464
@@ -3185,10 +3279,12 @@ msgid ""
 "You are from Outlaw Base, right? Place from which assasin come.. Maybe you "
 "know who have poisoned mother of Gawen Hagarthen?"
 msgstr ""
+"Ty jsi z Posvětí, místa, odkud přišel můj vrah.. Možná bys mohl vědět, kdo "
+"otrávil matku Gawena Hagarthena."
 
 #: A_New_Order/scenarios/14bontom.cfg:418
 msgid "I don't know that."
-msgstr ""
+msgstr "Ale nevím to."
 
 #: A_New_Order/scenarios/14bontom.cfg:420
 #: A_New_Order/scenarios/14bontom.cfg:467
@@ -3196,72 +3292,80 @@ msgid ""
 "Someone has hired assassin to kill Gawen Hagarthen, immedietely after his "
 "father's death. I know he came from Outlaw Base. Who hired him?"
 msgstr ""
+"Někdo najal vraha, aby zabil Gawena Hagartena, záhy po smrti jeho otce. Vím, "
+"že pocházel z Podsvětí. Kdo ho najal?"
 
 #: A_New_Order/scenarios/14bontom.cfg:421
 #: A_New_Order/scenarios/14bontom.cfg:468
 msgid ""
 "I think it was one of Akladian lords.. yes.. His name was Cryne, Bor Cryne..."
 msgstr ""
+"Myslím, že to byl jeden z Akladijských lordů.., ano.., jmenoval se Cryne, "
+"Bor Cryne."
 
 #: A_New_Order/scenarios/14bontom.cfg:465
 msgid "I don't know that. A lot of Akladians is buying poison from us."
-msgstr ""
+msgstr "Ale nevím to. Mnoho Akladijců si od nás kupuje jedy."
 
 #: A_New_Order/scenarios/14bontom.cfg:478
 msgid "It's you! Witch!"
-msgstr ""
+msgstr "To jsi ty! Čarodějnice jedna!"
 
 #: A_New_Order/scenarios/14bontom.cfg:479
 msgid "Really? Are you sure it's really me?"
-msgstr ""
+msgstr "Opravdu? Jsi si jistý, že jsem to já?"
 
 #: A_New_Order/scenarios/14bontom.cfg:480
 msgid "Uhm.. what?"
-msgstr ""
+msgstr "Uhm.. cože?"
 
 #: A_New_Order/scenarios/14bontom.cfg:481
 msgid ""
 "I mean, you are dying. Your whole life probably is passing thought your "
 "eyes. Maybe you are hallucinating? There is only one way to check it."
 msgstr ""
+"Myslím, že umíráš. Celý svůj život ti pravděpodobně probíhá před očima. "
+"Možná máš halucinace? Myslím, že je jediný způsob, jak to zjistit."
 
 #: A_New_Order/scenarios/14bontom.cfg:482
 msgid "What.. What way?"
-msgstr ""
+msgstr "Jaký.. Jaký způsob?"
 
 #: A_New_Order/scenarios/14bontom.cfg:483
 msgid "If I am just a  hallucination, this won't hurt."
-msgstr ""
+msgstr "Pokud jsem jenom halucinace, tak toto ti nemůže ublížit..."
 
 #: A_New_Order/scenarios/14bontom.cfg:484
 msgid "No! Mother, I won't let you! Leave him to die peacefully!"
-msgstr ""
+msgstr "Ne! Matko, to nedovolím! Ať umře v klidu a pokoji!"
 
 #: A_New_Order/scenarios/14bontom.cfg:486
 msgid "Because it is bad thing to torture people"
-msgstr ""
+msgstr "Protože mučení lidí je špatná věc"
 
 #: A_New_Order/scenarios/14bontom.cfg:488
 msgid "Because... ah..."
-msgstr ""
+msgstr "Protože... ach..."
 
 #: A_New_Order/scenarios/14bontom.cfg:489
 msgid "Gawen, she is Akladian. You can teach old dog new tricks."
-msgstr ""
+msgstr "Gawene, je to Akladijka. Starého psa novým kouskům nenaučíš."
 
 #: A_New_Order/scenarios/14bontom.cfg:490
 msgid "Whom do you call OLD?!"
-msgstr ""
+msgstr "Kdo je u tebe starý?"
 
 #: A_New_Order/scenarios/14bontom.cfg:495
 msgid ""
 "You were good opponent. What is your name, please tell me, so I could told "
 "spirits of ancestors who defeated me?"
 msgstr ""
+"Byl jsi dobrým protivníkem. Jak se jmenuješ? Abych se mohl pochlubit duchům "
+"svých předků."
 
 #: A_New_Order/scenarios/14bontom.cfg:496
 msgid "Gau.. Gawen. Gawen Hagarthen."
-msgstr ""
+msgstr "Gau.. Gawen. Gawen Hagarthen."
 
 #: A_New_Order/scenarios/14bontom.cfg:497
 msgid ""
@@ -3269,10 +3373,12 @@ msgid ""
 "should never listen to orders of our clan leaders. My king, will you forgive "
 "me?"
 msgstr ""
+"Můj Králi! Nyní vím, proč jsem byl poražen. To je odplata za zradu. Kéž bych "
+"nikdy nevyslechl rozkazy vůdců našich klanů. Můj Králi, můžeš mi odpustit?"
 
 #: A_New_Order/scenarios/14bontom.cfg:498
 msgid "Lie in peace, soldier."
-msgstr ""
+msgstr "Mír s tebou, vojáku."
 
 #: A_New_Order/scenarios/14bontom.cfg:503
 msgid ""
@@ -3289,7 +3395,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:505
 msgid "I must not... ARGH!... I must not..."
-msgstr ""
+msgstr "Nesmím... Ááááá... Nesmím..."
 
 #: A_New_Order/scenarios/14bontom.cfg:506
 msgid "Why you are here, allied with traitors from Akladian race?"
