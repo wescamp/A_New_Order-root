@@ -1,11 +1,12 @@
 # translation of cs.po to Czech
+# Toto je český překlad tažení 'A New Order'
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005.
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-11-30 16:50+0100\n"
-"PO-Revision-Date: 2005-12-07 15:39+0100\n"
+"PO-Revision-Date: 2005-12-21 01:02+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -50,9 +51,8 @@ msgstr ""
 "byste o tom vědět."
 
 #: A_New_Order.cfg:19
-#, fuzzy
 msgid "Version 0.7.0."
-msgstr "Verze 0.6.3."
+msgstr "Verze 0.7.0."
 
 #: A_New_Order/scenarios/1-6macros.cfg:15
 msgid "Get out of my way... I am not here because of you."
@@ -909,7 +909,6 @@ msgstr ""
 "přinášejí vzpomínky na královnu, již nejmenujeme."
 
 #: A_New_Order/scenarios/11.cfg:130
-#, fuzzy
 msgid ""
 "According to what we gathered, it's internal strife amongst Akladians. If "
 "Akladians are slaughtering each other, even if with Orcish help, why free "
@@ -1158,7 +1157,6 @@ msgid "Leaving Raedwood"
 msgstr "Odchod z Raedwoodu."
 
 #: A_New_Order/scenarios/12.cfg:47
-#, fuzzy
 msgid ""
 "Gawen and his soldiers spent only a few days in Freetown. Huon Ryedric and "
 "Mithrandil left the city going to the west. The very next day at the dawn "
@@ -1431,7 +1429,6 @@ msgid "Eeek! The elves! Green devils are here!"
 msgstr "Ojojój! Elfové! Zelení ďábli jsou tu!"
 
 #: A_New_Order/scenarios/12.cfg:353
-#, fuzzy
 msgid "We fought our way out of forests. What now?"
 msgstr "Zříš? Tak se v lese bojuje po Elfím. Co dál?"
 
@@ -1539,13 +1536,15 @@ msgstr ""
 "sil a chtěl se postarat o své zraněné."
 
 #: A_New_Order/scenarios/13.cfg:36
-#, fuzzy
 msgid ""
 "Fighting within swamps of Saorduc had not made anyone happy and Gawen's "
 "soldiers were delighted with leaving the frozen fens. They were all mired in "
 "strange mix of mud and snow, and this was not improving their mood."
 msgstr ""
-"Boj na blatech Saorduckých byl nepříjemný všem a Gawenovi vojáci XXXXXXX"
+"Boj na blatech Saorduckých se nikomu dvakrát nezamlouval. Byli už celý "
+"zablácení, obalení příšernou směsicí bahna a sněhu, což jim také na náladě "
+"nepřidalo. A tak byli Gawenovi vojáci velice nadšeni, když ze zmrzlých "
+"močálů odtáhli pryč."
 
 #: A_New_Order/scenarios/13.cfg:40
 msgid ""
@@ -2113,7 +2112,6 @@ msgstr ""
 "tolik slyšeli..."
 
 #: A_New_Order/scenarios/13.cfg:464
-#, fuzzy
 msgid "I still can't get used that they are calling him Gaumhaldric."
 msgstr "Pořád si nemůžu zvyknout, že mu říkaj Gaumhaldrik."
 
@@ -2495,7 +2493,6 @@ msgid "I wasn't asking you about that."
 msgstr "Ale na to jsem se tě neptal."
 
 #: A_New_Order/scenarios/13.cfg:684
-#, fuzzy
 msgid "There are no more orcs near this ruins of the village."
 msgstr "V okolí zbořeniště této vesnice už nejsou žádní skřeti."
 
@@ -2574,7 +2571,6 @@ msgid ""
 msgstr "Jistě že bylo. Hledáme skřety, a to skřeti jsou. Mám pravdu?"
 
 #: A_New_Order/scenarios/13.cfg:736
-#, fuzzy
 msgid "We already fought with outlaws from Bontom, my lord."
 msgstr "Už jsme s bandity s Bontomu bojovali, můj pane."
 
@@ -2686,7 +2682,6 @@ msgid "My lord, some army is approaching us!"
 msgstr "Můj Pane, nějaká armáda se k nám blíží!"
 
 #: A_New_Order/scenarios/14barnon.cfg:188
-#, fuzzy
 msgid ""
 "Oh, do not worry. Probably those are our people returning from making deal "
 "with outlaw underlings."
@@ -3386,6 +3381,9 @@ msgid ""
 "total obliteration. I will let it pass through me and over me. Where the "
 "fear has gone there will be nothing. Only I will remain."
 msgstr ""
+"Nesmím mít strach. Strach je zabiják rozumu. Strach je malá smrt a přináší "
+"jen zkázu a záhubu. Kam přišel strach, sto let tráva neroste. Musím ho "
+"nechat projít skrze mne a kolem mne. Musím zůstat pouze já."
 
 #: A_New_Order/scenarios/14bontom.cfg:504
 msgid ""
@@ -3751,7 +3749,6 @@ msgid "Ha! Another one!"
 msgstr "Táák, další!"
 
 #: A_New_Order/scenarios/14macros.cfg:69
-#, fuzzy
 msgid "I'm a killing machine! And that Lorin should hide back in Haeltin!"
 msgstr ""
 "Hoja hoj, hoja hoj, já jsem smrtící mašina, hoja hoj, hoja hoj,.. A ta Lorin "
@@ -3824,9 +3821,8 @@ msgid "Pfff! Only three?"
 msgstr "Co? Jenom tři?"
 
 #: A_New_Order/scenarios/14macros.cfg:115
-#, fuzzy
 msgid "Who's the killing machine now?"
-msgstr "A kdo je teď smrtící mašina? No?"
+msgstr "A kdo že je smrtící mašina? No?"
 
 #: A_New_Order/scenarios/14macros.cfg:117
 msgid "Not bad, but still you have to a lot to learn!"
@@ -3864,7 +3860,6 @@ msgid "I have not lost. I have not won."
 msgstr "Neprohrála jsem a ani nevyhrála."
 
 #: A_New_Order/scenarios/14macros.cfg:141
-#, fuzzy
 msgid ""
 "That's what I meant. You have not won, great super killing machine, so you "
 "have lost."
@@ -4174,6 +4169,8 @@ msgid ""
 "Speak quickly, and I will save your life. What do you know about alliance "
 "between orcs and Akladians?"
 msgstr ""
+"Mluv rychle a já ti zachráním život. Co víš o spojenectví mezi skřety a "
+"Akladijci?"
 
 #: A_New_Order/scenarios/14saorduc.cfg:65
 #: A_New_Order/scenarios/14saorduc.cfg:71
@@ -4181,11 +4178,14 @@ msgid ""
 "Nothing! One of Akladianss assssked Orcs to come, they came, they are "
 "sssslaughtering humansss, good thing. Not coming into sssswamps, good thing."
 msgstr ""
+"Nicccc! Jeden Akladijeccccc požžžádal sssssskřřřety, aby přřřiššššli, a oni "
+"přřřiššššli zzzzabíjet lidi a to je dobřřře. Nepřřřřiššššli na blata a to je "
+"taky dobřřře."
 
 #: A_New_Order/scenarios/14saorduc.cfg:66
 #: A_New_Order/scenarios/14saorduc.cfg:72
 msgid "Go and hide into your quagmire, mudcrawler."
-msgstr ""
+msgstr "Běž a zalez do svého blátovství, blátožroute."
 
 #: A_New_Order/scenarios/14saorduc.cfg:84
 msgid ""
@@ -4193,6 +4193,9 @@ msgid ""
 "that didn't stop Gawen. He reasoned that in winter swamps would be frozen "
 "and lizards would be much easier to defeat."
 msgstr ""
+"Ruvio si myslel, že výprava na Saorducká blata nic užitečného nepřinese, ale "
+"přesto Gawena nezastavil. Usoudil totiž, že zamrzlé močály jim umožní "
+"přemoci ještěráky velmi snadno."
 
 #: A_New_Order/scenarios/5b.cfg:46 A_New_Order/scenarios/14saorduc.cfg:115
 msgid "Burass"
@@ -4219,22 +4222,24 @@ msgid ""
 "... bitterly I fought, yessss, and I was heavily wounded. A woman wassss "
 "amongsst thossse humansss, crazy one. "
 msgstr ""
+"... hořřřce my bojovali, ano, a mně oššššklivo zzzranili. A ta strašššná "
+"lidsssská žžžensssská ..."
 
 #: A_New_Order/scenarios/14saorduc.cfg:232
 msgid "Be calm, you are amongsst friendss, no humanss here..."
-msgstr ""
+msgstr "Uklidni ssssse, jssssi mezzzzi přřřáteli, žžžádný člověk tady není..."
 
 #: A_New_Order/scenarios/14saorduc.cfg:234
 msgid "Lizards!"
-msgstr ""
+msgstr "Ještěráci!"
 
 #: A_New_Order/scenarios/14saorduc.cfg:235
 msgid "Oh no!!"
-msgstr ""
+msgstr "Ó ne!!"
 
 #: A_New_Order/scenarios/14saorduc.cfg:236
 msgid "Prepare to be exterminated!"
-msgstr ""
+msgstr "Připravte se, budete vyhlazeni!"
 
 #: A_New_Order/scenarios/14saorduc.cfg:237
 msgid "Oh that was cute. When she learned talk like that?"
@@ -11365,27 +11370,32 @@ msgid ""
 "too easy. Mail adanilecki at cs put poznan pl with your savegame and replay "
 "so I could made it harder"
 msgstr ""
+"Jak se ti to podařilo? To by se nikdy nemělo stát! Znamená to totiž, že "
+"scénář je příliš lehký! Prosím, pošli uloženou hru a záznam na adanilecki at "
+"cs put poznan pl, aby ji mohl udělat obtížnější."
 
 #: A_New_Order/scenarios/4.cfg:573 A_New_Order/scenarios/4.cfg:594
 msgid "Ah! He's coming for me! Friends, send me reinforcements!"
-msgstr ""
+msgstr "Á, už se žene na mě! Přátele, pošlete mi posily!"
 
 #: A_New_Order/scenarios/4.cfg:574 A_New_Order/scenarios/4.cfg:595
 msgid ""
 "My lord, we really should try to escape, this battle is impossible to win!"
 msgstr ""
+"Můj Pane, skutečně bychom se měli pokusit o útěk, tuto bitvu není možné "
+"vyhrát!"
 
 #: A_New_Order/scenarios/5a.cfg:3 A_New_Order/scenarios/5a-x.cfg:3
 msgid "Unexpected guests"
-msgstr ""
+msgstr "Neočekávaní hosté"
 
 #: A_New_Order/scenarios/5a.cfg:47
 msgid "Uruk Maluf"
-msgstr ""
+msgstr "Uruk Maluf"
 
 #: A_New_Order/scenarios/5a.cfg:68
 msgid "Arlgor Maunarr"
-msgstr ""
+msgstr "Arlgor Maunarr"
 
 #: A_New_Order/scenarios/5a.cfg:101
 msgid ""
@@ -12877,7 +12887,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:81
 msgid "skirmisher"
-msgstr ""
+msgstr "Průbojnost"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:288
 msgid "Heinric the Redbeard"
@@ -13082,12 +13092,10 @@ msgid "No! It's impossible! I have just started!"
 msgstr "Ne! To nejde! Zrovna jsem začal!"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:803
-#, fuzzy
 msgid "Their leader is dead, good! Now bring Gawen to their keep, people!"
 msgstr "Jejich velitel padl, dobrá práce! Nyní zaveďte Gawena do tvrze!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:3
-#, fuzzy
 msgid "Fighting for pass"
 msgstr "Bojuj, abys prošel"
 
@@ -13121,16 +13129,20 @@ msgid ""
 "The Vattin, capital of our kingdom, is just a few days from here. My son, "
 "how do you feel? "
 msgstr ""
+"Vattin, hlavní město našeho království, je jenom pár dní cesty. Synu, jak se "
+"cítíš?"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:262
 msgid ""
 "Much better. This medic was really good in his job. I wish to thank him at "
 "some time in future."
 msgstr ""
+"Líp. Ten felčar byl fakt dóst dobrý. Rád bych mu někdy v budoucnosti "
+"poděkoval."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:266
 msgid "I'm afraid that may be impossible. What about your memory?"
-msgstr ""
+msgstr "Bojím se, že to nebude možné. A co tvoje paměť?"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:270
 msgid ""
@@ -13139,12 +13151,18 @@ msgid ""
 "pain in her beautiful green eyes. I don't know who is she but it makes me "
 "cry every time I think about it. I think I loved her."
 msgstr ""
+"Myslím.. Někdy mám pocit, že si na něco vzpomínám, ale hned je to pryč. "
+"Pamatuju si tmavovlasou ženu. Ležela v posteli, zpocená, hluboké zelené oči "
+"plné bolesti. Nevím, co je zač, ale pokaždé se mi chce brečet, když si na to "
+"vzpomenu. Myslím, že jsem ji miloval."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:274
 msgid ""
 "That could be your true mother, my lord. She was poisoned when you were "
 "still young."
 msgstr ""
+"To by mohla být Vaše pravá matka, Můj Pane. Byla otrávena, když jste byl "
+"ještě malý."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:279
 msgid ""
@@ -13161,7 +13179,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:301
 msgid "Speak."
-msgstr ""
+msgstr "Mluv."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:305
 msgid ""
@@ -13169,16 +13187,20 @@ msgid ""
 "gates would never be opened for mixling bastards nor for the king's whores. "
 "He send you also this..."
 msgstr ""
+"Toto jsou slova mého pána, mám je přesně zopakovat: Brány Gaeltinu budou "
+"vždycky zavřené pro Míšeneckého bastarda ani pro královské děvky. Posílá vám "
+"jenom toto..."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:313
 msgid "You received 2 pieces of gold"
-msgstr ""
+msgstr "Získal jsi dva zlaté."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:317
 msgid ""
 "This is for you to start a new life. This is everything I was expected to "
 "say. May I live, I mean, leave?"
 msgstr ""
+"To máte, abyste začli nový život. To je všecko, co sem měl říct. Můžu odejít?"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:321
 msgid ""
@@ -13186,6 +13208,8 @@ msgid ""
 "personally and he will have a lot of time to understand it fully. You may "
 "leave now."
 msgstr ""
+"Taky máme pro tvojeho pána vzkaz. Řekni mu, že mu ji přineseme osobně a že "
+"bude mít dost času ji celou pochopit. A teď zmiz!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:345
 msgid ""
@@ -13211,19 +13235,20 @@ msgstr ""
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:361
 msgid "Reach the northern signpost with Gawen Hagarthen OR"
-msgstr ""
+msgstr "Dostaň Gawena Hagarthena k severnímu směrovníku NEBO"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:365
 msgid "Kill the enemy leader."
-msgstr "Zabij nepřátelkého vůdce"
+msgstr "Zabij nepřátelského vůdce"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:392
 msgid "I guess we will find some use for this in near future."
-msgstr ""
+msgstr "Myslím, že pro to najdeme uplatnění již v blízké budoucnosti."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:410
+#, fuzzy
 msgid "Uh, I hope I will never know you closer"
-msgstr ""
+msgstr "Uf, doufal jsem, že vás z blízka nikdy neuvidím"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:423
 msgid "So, how many days are from here to Vattin?"
@@ -13231,64 +13256,68 @@ msgstr "Tak, kolik dní zbývá do Vattinu?"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:427
 msgid "We should be there in two or three days."
-msgstr ""
+msgstr "Budeme tam za dva za tři dny."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:438
 msgid "It's a shame we had no time to finish that traitors off."
-msgstr "Jaká škoda, že nemáme čas vyřírit ty zrádce."
+msgstr "Jaká škoda, že nemáme čas vyřídit ty zrádce."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:442
 msgid "There is no time for that. Others should manage to do that without us."
-msgstr ""
+msgstr "Není na to čas. Myslím, že jiní to zvládnou za nás."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:465
 msgid "Death to the traitors!"
-msgstr ""
+msgstr "Smrt zrádcům!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:469
 msgid "Yeah!"
-msgstr ""
+msgstr "Jasňačka!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:488
 msgid "This is the end which awaits all traitors!"
-msgstr ""
+msgstr "A takto skončí každý zrádce!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:500
 msgid ""
 "Before I kill you, I want you to know that this is not because of the "
 "message you delivered to us."
 msgstr ""
+"Předtím, než tě zabiju, chci, abys věděl, že to není kvůli té zprávě, co jsi "
+"přinesl."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:501
 msgid "I was just a messenger!"
-msgstr ""
+msgstr "Byl jsem jenom posel!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:502
 msgid "I told you that I don't blame you for repeating words of your master."
 msgstr ""
+"Říkala jsem ti, že tě nezabiju kvůli tomu, že jsi opakoval slova svého pána."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:503
 msgid "So you will allow me to live?"
-msgstr ""
+msgstr "Takže mě necháš žít?"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:504
 msgid "I haven't said that. You see, I really don't like your face."
-msgstr ""
+msgstr "To bych neřekla. Víš, prostě se mi nelíbí tvůj ksicht."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:521
 msgid ""
 "You are lucky that I have not got more time, or I will play with you more, "
 "dishonourable scum."
 msgstr ""
+"Máš štěstí, že nemám víc času, protože jinak bych si z tebou líp pohrála."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:525
 msgid ""
 "You are lucky that this underling whom you call your king does not know... "
-msgstr ""
+msgstr "Máš štěstí, že tento porobenec, kterému říkáte král, neví, že ..."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:529
 msgid "Enough of that, go to your ancestors!"
-msgstr ""
+msgstr "Už toho bylo dost, táhni ke svým předkům!"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:607
 msgid "Where is he? He starts to act on my nerves..."
@@ -13398,6 +13427,11 @@ msgid ""
 "inconvenience. Also, post feedback - no matter positive or negative - on "
 "forum. My email: adanilecki at cs put poznan pl"
 msgstr ""
+"V releasech Nových pořádků pře 0.0.9 bylo hodně chyb. Pokud jste hráli "
+"'Bitva o Barnon', prosím, pošlete autorovi uloženou hru, aby mohl snadněji "
+"odstranit nesprávné informace uložené do souboru. nebo začněte hru znovu. "
+"Autor se velmi omlouvá. Také můžete poslat svůj názor - je jedno zda kladný "
+"či záporný - do fóra. A nebo na email adanilecki at cs put poznan pl"
 
 #: A_New_Order/scenarios/ano_macros.cfg:573
 #, fuzzy
