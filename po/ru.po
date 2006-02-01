@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-01-31 16:15+0100\n"
-"PO-Revision-Date: 2006-01-30 22:52+0300\n"
+"PO-Revision-Date: 2006-01-31 23:48+0300\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -14,6 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
 "Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: A_New_Order.cfg:11
@@ -53,10 +54,9 @@ msgstr ""
 "рекомендуется детям. Вы предупреждены."
 
 #: A_New_Order.cfg:19
-#, fuzzy
 msgid "Version 0.7.2."
 msgstr ""
-"Версия 0.7.0.\n"
+"Версия 0.7.2.\n"
 "-\n"
 " "
 
@@ -143,13 +143,12 @@ msgstr ""
 "Ааааа!.."
 
 #: A_New_Order/scenarios/1-6macros.cfg:177
-#, fuzzy
 msgid "Speak!"
 msgstr "Говори."
 
 #: A_New_Order/scenarios/1-6macros.cfg:181
 msgid "My lady, please, stop, that's just..."
-msgstr ""
+msgstr "Госпожа, пожалуйста прекратите, это же..."
 
 #: A_New_Order/scenarios/1-6macros.cfg:186
 msgid ""
@@ -385,9 +384,8 @@ msgid ""
 "well as arrows and weapons. It seemed like the castle owners were expecting "
 "a huge army to come."
 msgstr ""
-"В замке Хэлтин Лорин нашла огромное количество продовольствия, а так же "
-"стрел и оружия. Действительно было похоже, что хозяева замка ожидали "
-"прибытия огромной армии."
+"В замке Хэлтин Лорин нашла огромные запасы продовольствия, стрел и оружия. "
+"Действительно было похоже, что хозяева замка ожидали прибытия огромной армии."
 
 #: A_New_Order/scenarios/10.cfg:49
 msgid ""
@@ -396,10 +394,11 @@ msgid ""
 "them too, as hard as if she wanted to prove that she is as good as men. Or "
 "as if she wanted to be too tired to have time for bringing back memories."
 msgstr ""
-"Лорин приказала готовить замок к обороне. Люди работали днём и ночью, пока "
-"на их телах не начали таять первые снежинки. Сама она работала вместе со "
-"всеми так упороно, будто хотела доказать, что она мужчина. Или для того, "
-"чтобы быть слишком усталой, чтобы не предаваться воспоминаниям."
+"Лорин приказала готовить замок к обороне. Несмотря на то, что с неба уже "
+"падали первые снежинки, люди работали днём и ночью. Лорин упорно трудилась "
+"вместе со всеми, будто хотела доказать, что она ни в чём не уступает "
+"мужчинам. А может просто хотела уставать настолько, чтобы не было сил "
+"предаваться воспоминаниям."
 
 #: A_New_Order/scenarios/6.cfg:30 A_New_Order/scenarios/5b.cfg:33
 #: A_New_Order/scenarios/9x.cfg:18 A_New_Order/scenarios/10.cfg:65
@@ -411,7 +410,7 @@ msgstr "Леди Лорин"
 
 #: A_New_Order/scenarios/10.cfg:83
 msgid "Raole Mathauri"
-msgstr ""
+msgstr "Рауль Матаури"
 
 #: A_New_Order/scenarios/10.cfg:92
 msgid "Erart"
@@ -426,8 +425,8 @@ msgid ""
 "My Lady, the defenses are ready. I ordered a moat dug out in the north, we "
 "also put some new fortifications in place, but they are not finished."
 msgstr ""
-"Госпожа, оборонные сооружения готовы. Я приказал выкопать ров на север. "
-"Кроме того ты собираем на месте новые фортификации, но они ещё не закончены."
+"Госпожа, оборонные сооружения готовы. Я приказал выкопать ров на севере. "
+"Кроме того мы установили новые фортификации, но они ещё не закончены."
 
 #: A_New_Order/scenarios/10.cfg:143
 msgid ""
@@ -435,8 +434,8 @@ msgid ""
 "supplies to hideout in mountains, so even if they reach the keep they won't "
 "find anything."
 msgstr ""
-"У нас нет времени доделывать их. Они уже здесь. Скорее прячте припасы в "
-"горних укрытиях, чтобы они не нашли ничего, даже если войдут в крепость."
+"Заканчивать нет времени. Враг уже рядом. Скорее перепрятывайте запасы в "
+"горы. Даже если замок будет взят, орки не найдут ничего."
 
 #: A_New_Order/scenarios/10.cfg:144
 msgid ""
@@ -449,19 +448,19 @@ msgstr "Брат! Где ты? Почему ты не открываешь во�
 
 #: A_New_Order/scenarios/10.cfg:146
 msgid "Your brother is dead, and you will be too, soon."
-msgstr "Твой брат мёртв, и ты тоже скоро умрёшь."
+msgstr "Твой брат мёртв. Ты тоже скоро умрёшь."
 
 #: A_New_Order/scenarios/10.cfg:147
 msgid "Dead? How is that possible? Who killed him?"
-msgstr "Мёртв? Как это может быть? Кто его убил?"
+msgstr "Мёртв? Как это могло произойти? Кто его убил?"
 
 #: A_New_Order/scenarios/10.cfg:154
 msgid "He was slain by my hand."
-msgstr "Он умер от моей руки."
+msgstr "Он принял смерть от моей руки."
 
 #: A_New_Order/scenarios/10.cfg:157
 msgid "Does it matter? He is dead now."
-msgstr ""
+msgstr "Это так важно? Мёртв и всё."
 
 #: A_New_Order/scenarios/10.cfg:160
 msgid ""
@@ -477,16 +476,16 @@ msgid ""
 "Enough of this chit-chat! We are out of supplies and we are hungry. "
 "Soldiers! Your food is inside of this castle. Get them!"
 msgstr ""
-"Хватит тити-мити! У нас кончились припасы и мы голодны. Солдаты! Ваша еда "
-"внутри этого замка. Возьмите её!"
+"Хватит трепаться! У нас закончилось продовольствие, мы голодны. Солдаты! "
+"Ваша еда внутри этого замка. Возьмите её!"
 
 #: A_New_Order/scenarios/10.cfg:168
 msgid ""
 "We should sacrifise an ox to God. There are too many of them, without God's "
 "help we won't be able to defeat them."
 msgstr ""
-"Мы должны принести в жертву Быка. Их слишком много. Без помощи всевышнего мы "
-"не сможем их разбить."
+"Нужно принести в жертву быка. Их слишком много. Без помощи всевышнего мы их "
+"не разобьём."
 
 #: A_New_Order/scenarios/10.cfg:171
 msgid ""
@@ -494,9 +493,9 @@ msgid ""
 "siege, so it would be enough to survive initial onslaught. Then, they will "
 "have to withdraw, because they will have no food."
 msgstr ""
-"К счастью нам не надо их разбивать. Они не подготовлены к длительной осаде, "
-"поэтому нам достаточно пережить первый штурм. Потом им придётся отступить, "
-"потому что им нечего есть."
+"К счастью, уничтожать их не надо. Они не готовы вести длительную осаду. Нам "
+"достаточно выдержать первый штурм. Потом им придётся отступить, есть-то им "
+"нечего."
 
 #: A_New_Order/scenarios/10.cfg:172
 msgid ""
@@ -505,24 +504,22 @@ msgid ""
 "to give sensible answers."
 msgstr ""
 "Леди Лорин, я знаю вашу привычку допрашивать вражеских начальников. "
-"Пожалуйста послушайте моего совета: если можете, забудьте об орках. Они не "
-"выглядят настолько умными, чтобы давать достаточно вразумительные ответы."
+"Пожалуйста прислушайтесь к моему совету: если можете, забудьте об орках. Они "
+"не выглядят настолько сообразительными, чтобы рассказать что-нибудь толковое."
 
 #: A_New_Order/scenarios/10.cfg:173
 msgid ""
 "Move the supplies to the mountains. That way, even if they break into the "
 "castle, they still will have no food."
 msgstr ""
-"Несите припасы в горы. Тогда даже если они прорвутся в замок, они останутся "
-"ни с чем!"
+"Несите припасы в горы. Если орки прорвутся в замок, они останутся ни с чем!"
 
 #: A_New_Order/scenarios/10.cfg:184
 msgid ""
 "We have less than 300 golden pieces. Are you sure we will be able to survive "
 "the enemy onslaught with these?"
 msgstr ""
-"У нас меньше 300 золотых. Вы уверены, что с этим мы сможем пережить "
-"нападение врага?"
+"У нас меньше 300 золотых. Вы уверены, что с этим мы сможем отбить атаку?"
 
 #: A_New_Order/scenarios/14barnon.cfg:6 A_New_Order/scenarios/10.cfg:191
 #: A_New_Order/scenarios/14bontom.cfg:277
@@ -555,12 +552,12 @@ msgid ""
 "I think it was Orcish for 'a human woman has killed me, what a dishonor' or "
 "something like that."
 msgstr ""
-"Я думаю, на орочьем это означает: \"Меня убила человеческая женщина! Какой "
+"Думаю, на орочьем это означает: \"Меня убила человеческая женщина! Какой "
 "позор!\", или что-то вроде этого."
 
 #: A_New_Order/scenarios/10.cfg:246
 msgid "What are you waiting for? Come on, finish me, witch."
-msgstr ""
+msgstr "Чего ты ждёшь? Давай, добивай меня, ведьма."
 
 #: A_New_Order/scenarios/10.cfg:247
 msgid ""
@@ -568,25 +565,30 @@ msgid ""
 "Now, do you see this knife? I call it truth-sayer. I use it to check how "
 "fearless a man can be in my hand. "
 msgstr ""
+"Ах, как я люблю таких людей. Стойких и бесстрашных перед лицом смерти. "
+"Видишь этот нож? Я называю его правдолюбцем. С его помощью я проверяю на "
+"смелость тех, кто попал ко мне в руки."
 
 #: A_New_Order/scenarios/10.cfg:254
 msgid ""
 "I will see how fearless you will be when the rest of our army will come."
-msgstr ""
+msgstr "А я посмотрю на твою смелость, когда подойдут наши основные силы."
 
 #: A_New_Order/scenarios/10.cfg:255
 msgid "The rest of your army? Interesting."
-msgstr ""
+msgstr "Основные силы? Интересно."
 
 #: A_New_Order/scenarios/10.cfg:256
 msgid ""
 "They are delayed two days after us. They will appear from the north and "
 "smash what is left of your so called castle."
 msgstr ""
+"Мы обогнали армию на два дня. Они подойдут с севера и сметут всё, что "
+"останется от твоей так называемой крепости."
 
 #: A_New_Order/scenarios/10.cfg:266
 msgid "What Orcs are doing here anyway, and why are they allied with you?"
-msgstr ""
+msgstr "Что тут делают орки и почему вы с ними в союзе?"
 
 #: A_New_Order/scenarios/10.cfg:267
 msgid ""
@@ -596,78 +598,79 @@ msgid ""
 "then God will again be fond of us and he will reward us with completing of "
 "our conquest of Wesnoth and the whole world."
 msgstr ""
+"Они помогут восстановить чистоту нашей расы. Мы уничтожим всех, кто не "
+"достоин находиться рядом с акладианами. Тех, кто нарушает наши устои, кто "
+"путается с дикарями, тех, кто бросил вызов нашему Богу, сочетавшись браком с "
+"дикарём. Только тогда Господь снова полюбит нас и дарует в награду "
+"окончательную победу над веснотцами."
 
 #: A_New_Order/scenarios/10.cfg:308
 msgid "Ouruk"
-msgstr ""
+msgstr "Урук"
 
 #: A_New_Order/scenarios/10.cfg:318
 msgid "Raurlak"
-msgstr ""
+msgstr "Раурлак"
 
 #: A_New_Order/scenarios/10.cfg:326
-#, fuzzy
 msgid "Burlak"
-msgstr "Бурасс"
+msgstr "Бурлак"
 
 #: A_New_Order/scenarios/10.cfg:334
-#, fuzzy
 msgid "Hrar"
-msgstr "Эрарт"
+msgstr "Храр"
 
 #: A_New_Order/scenarios/10.cfg:340
 msgid "Finally, food, wine and some rest! Hey, what's happening here?"
-msgstr "Наконец-то, еды, вино и немного отдыха! Эй! Что это здесь у вас?"
+msgstr "Наконец-то, еда, вино и отдых! Эй! Что это здесь у вас?"
 
 #: A_New_Order/scenarios/10.cfg:356
-#, fuzzy
 msgid "Buriag"
-msgstr "Бурасс"
+msgstr "Бурьяг"
 
 #: A_New_Order/scenarios/10.cfg:364
 msgid "Uriag"
-msgstr ""
+msgstr "Урьяг"
 
 #: A_New_Order/scenarios/10.cfg:372
 msgid "Gor"
-msgstr ""
+msgstr "Гор"
 
 #: A_New_Order/scenarios/10.cfg:380
-#, fuzzy
 msgid "Kaur'ue"
-msgstr "Карен"
+msgstr "Каур'у"
 
 #: A_New_Order/scenarios/10.cfg:401
 msgid "Burik"
-msgstr ""
+msgstr "Бурик"
 
 #: A_New_Order/scenarios/10.cfg:409
 msgid "Uruke"
-msgstr ""
+msgstr "Уруке"
 
 #: A_New_Order/scenarios/10.cfg:417
 msgid "Gur"
-msgstr ""
+msgstr "Гур"
 
 #: A_New_Order/scenarios/10.cfg:425
 msgid "Kapi'ue"
-msgstr ""
+msgstr "Капи'у"
 
 #: A_New_Order/scenarios/10.cfg:446
 msgid "Baral"
-msgstr ""
+msgstr "Барал"
 
 #: A_New_Order/scenarios/10.cfg:454
 msgid "Iruki"
-msgstr ""
+msgstr "Ируки"
 
 #: A_New_Order/scenarios/10.cfg:462
 msgid "Gari"
-msgstr ""
+msgstr "Гари"
 
 #: A_New_Order/scenarios/10.cfg:470
 msgid "Rarg"
-msgstr ""
+msgstr "Рарг"
 
 #: A_New_Order/scenarios/10.cfg:490
 msgid "Run for you life! They are too many of them!!"
@@ -678,27 +681,23 @@ msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
 "will surely have have to withdraw soon!"
 msgstr ""
-"Продолжайте бой! Не сдавайтесь! Убейте столько, сколько сможете! Совершенно "
-"точно, что они скоро отступят!"
+"Продолжайте бой! Не сдавайтесь! Убейте столько, сколько сможете! Я уверена, "
+"что они скоро отступят!"
 
 #: A_New_Order/scenarios/10.cfg:499
 msgid ""
 "We have no more supplies. We have to withdraw! We will return, she-wolf."
-msgstr ""
-"У нас больше нет продовольствия. Мы должны отступить. Мы еще вернёмся, "
-"волчица!"
+msgstr "У нас не осталось запасов. Нужно отступать. Мы еще вернёмся, волчица!"
 
 #: A_New_Order/scenarios/10.cfg:501
 msgid "They are withdrawing! They have no more supplies."
-msgstr "Они отступают! У них кончились запасы!"
+msgstr "Они уходят! Им не хватило поддержки!"
 
 #: A_New_Order/scenarios/10.cfg:519
 msgid ""
 "This was incredibly difficult. I was sure this would be the last day of my "
 "life."
-msgstr ""
-"Это было невероятно сложно. Я был уверен, что это последний день в моей "
-"жизни."
+msgstr "Было ужасно тяжело. Я думал, что это последний день моей жизни."
 
 #: A_New_Order/scenarios/10.cfg:520
 msgid ""
@@ -713,7 +712,7 @@ msgstr "ЛЕДИ Лорин. И что? Они всё ждут когда я з�
 
 #: A_New_Order/scenarios/10.cfg:522
 msgid "Lorin, if you would only gave me a chance, I would make you howl."
-msgstr "Лорин, если бы ты дала мне хоть один шанс, я бы заставил тебя повыть."
+msgstr "Лорин, я бы сделал так, чтобы ты повыла, дай только шанс."
 
 #: A_New_Order/scenarios/10.cfg:523
 msgid ""
@@ -722,8 +721,8 @@ msgid ""
 "close to the line, so.."
 msgstr ""
 "Слушай внимательно, дикарь. Единственная вещь, которая не даёт мне лишить "
-"тебя жизни после такого замечания это то, что я по прежнему нуждаюсь в твоей "
-"помощи. Но подошёл к самому краю, так что..."
+"тебя жизни после этой выходки это то, что я по прежнему нуждаюсь в твоей "
+"помощи. Но сейчас ты подошёл к самому краю, так что..."
 
 #: A_New_Order/scenarios/10.cfg:524
 msgid "You said you need me?"
@@ -735,7 +734,7 @@ msgstr "О господи. Всё ещё хуже, чем я думала."
 
 #: A_New_Order/scenarios/10.cfg:526
 msgid "What do you mean?"
-msgstr "Что ты имеешь в виду?"
+msgstr "Почему?"
 
 #: A_New_Order/scenarios/10.cfg:527
 msgid ""
@@ -745,9 +744,9 @@ msgid ""
 "easily recognise hatred, despise, disdain. But this... "
 msgstr ""
 "Ты забыл сказать: \"Ещё одно слово о дикарях и я ухожу\". Слушай, Яранов, я "
-"вижу как ты смотришь на меня. Во-первых, я не могу понять что это значит. я "
-"никогда не испытывала таких взглядов. Я могу различать ненависть, презрение, "
-"надменность. А это..."
+"вижу как ты смотришь на меня. Во-первых, я не могу понять что это значит. "
+"Никогда не чувствовала таких взглядов. Я могу различать ненависть, "
+"презрение, надменность. А это..."
 
 #: A_New_Order/scenarios/10.cfg:528
 msgid ""
@@ -757,26 +756,28 @@ msgid ""
 "customs of which you are seemingly unaware. Let's make a deal: I will not "
 "call you underling, and you will call me Lady Lorin. Agreed?"
 msgstr ""
-"Слушай внимательно. У тебя нет ни единой надежды. Не пытайся ничего сделать. "
-"Во-первых я акладианка, а ты нет. Во-вторых я ужасная женщина. Ты даже не "
-"представляешь себе какая ужасная. Держись от меня подальше. В-третьих, ты не "
-"мой тип мужчины. В-четвёртых у акладиан есть некоторые обязанности, о "
-"которых ты, похоже, не знаешь. Давай договоримся: я не называю тебя дикарём, "
-"а ты называешь меня \"леди Лорин\". Согласен?"
+"Слушай внимательно. Тебе не на что надеяться. Не пытайся ничего "
+"предпринимать. Во-первых я акладианка, а ты нет. Во-вторых я страшная "
+"женщина. Ты даже не представляешь себе какая страшная. Держись от меня "
+"подальше. В-третьих, ты не мой тип мужчины. В-четвёртых у акладиан есть "
+"некоторые обязательства, о которых ты, похоже, не знаешь. Давай договоримся: "
+"я не называю тебя дикарём, а ты не забываешь называть меня \"леди Лорин\". "
+"Согласен?"
 
 #: A_New_Order/scenarios/10.cfg:529
 msgid ""
 "Lady Lorin it is then. Or maybe I could call you she-wolf, sometimes? She-"
 "wolf of Haeltin. In exchange, you could call me Andrey."
 msgstr ""
-"Леди Лорин, раз так. Или может иногда я могу называть тебя волчицей? "
-"Хэлтинская волчица. Взамен ты можешь называть меня Андреем."
+"Леди Лорин, так леди Лорин. Может иногда я могу называть тебя волчицей? "
+"Хэлтинской волчицей. А ты можешь называть меня просто Андреем."
 
 #: A_New_Order/scenarios/10.cfg:530
 msgid ""
 "Whatever. Go to your people, see what they need. I will check our wounded."
 msgstr ""
-"Всё равно. Иди к своим людям и посмотри что им нужно. Я посмотрю из раны."
+"Мне всё равно. Иди к своим людям, посмотри кому нужна помощь. Я осмотрю их "
+"раны."
 
 #: A_New_Order/scenarios/10.cfg:607
 msgid "My soldiers! Bastards, he is killing my soldiers!"
@@ -784,37 +785,39 @@ msgstr "Мои солдаты! Эти ублюдки убивают моих с�
 
 #: A_New_Order/scenarios/10.cfg:608
 msgid "I never saw you caring so much for your warriors."
-msgstr "Я ещё никогда не видел, чтобы кто-то так заботился о своих воинах."
+msgstr "Я ещё никогда не видел, чтобы кто-то так беспокоился о своих воинах."
 
 #: A_New_Order/scenarios/10.cfg:609
 msgid ""
 "I always care for my people, and you have no idea how difficult it was to "
 "train them."
 msgstr ""
-"Я всегда забочусь о своих воинах. Ты даже не представляешь себе как трудно "
+"Я всегда беспокоюсь о своих воинах. Ты даже не представляешь себе как трудно "
 "их обучить."
 
 #: A_New_Order/scenarios/10.cfg:614
 msgid "Lorin, what are you doing?"
-msgstr ""
+msgstr "Лорин, что ты делаешь?"
 
 #: A_New_Order/scenarios/10.cfg:615
 msgid "Maybe we could try to withdraw to the mountains?"
-msgstr ""
+msgstr "Попробуем отступить в горы?"
 
 #: A_New_Order/scenarios/10.cfg:616
 msgid "Wait a moment. Are you running away?"
-msgstr ""
+msgstr "Постой. Ты бежишь?"
 
 #: A_New_Order/scenarios/10.cfg:617
 msgid ""
 "The correct term is strategical relocation of the forces, impertinent "
 "underling."
 msgstr ""
+"Дерзкий дикарь! Не бегу, а совершаю стратегическую передислокацию основных "
+"сил."
 
 #: A_New_Order/scenarios/10.cfg:618
 msgid "One more reference to underling... Ah, what the hell."
-msgstr ""
+msgstr "Ещё одно слово насчет дикарей... А, к чёрту."
 
 #: A_New_Order/scenarios/11.cfg:3 A_New_Order/scenarios/11x.cfg:3
 msgid "Council in Freetown"
@@ -885,7 +888,7 @@ msgstr "Митрандил"
 #: A_New_Order/scenarios/24.cfg:76 A_New_Order/scenarios/29.cfg:109
 #: A_New_Order/scenarios/25.cfg:218 A_New_Order/scenarios/27.cfg:47
 msgid "Huon Ryedric"
-msgstr ""
+msgstr "Хуон Райдрик"
 
 #: A_New_Order/scenarios/11.cfg:115
 msgid ""
@@ -1052,7 +1055,7 @@ msgstr "Шаманы это здорово."
 #: A_New_Order/scenarios/11.cfg:144 A_New_Order/scenarios/11.cfg:157
 #: A_New_Order/scenarios/11.cfg:175 A_New_Order/scenarios/11.cfg:189
 msgid "Kyobaine"
-msgstr ""
+msgstr "Киобейн"
 
 #: A_New_Order/scenarios/11.cfg:152
 msgid "A Scout could be usefull."
@@ -1067,17 +1070,17 @@ msgid "Actually I would like to have one more archer."
 msgstr "На самом деле я бы хотел ещё одного лучника."
 
 #: A_New_Order/scenarios/11.cfg:212
-#, fuzzy
 msgid "Elorain"
-msgstr "Лорин"
+msgstr "Элорайн"
 
 #: A_New_Order/scenarios/11.cfg:233
 msgid "Milildur"
-msgstr ""
+msgstr "Милильдур"
 
 #: A_New_Order/scenarios/11.cfg:237
+#, fuzzy
 msgid "ambush"
-msgstr ""
+msgstr "засада"
 
 #: A_New_Order/scenarios/11.cfg:243
 msgid "It would be honor to fight for you, Gaumhaldric."
@@ -1105,16 +1108,15 @@ msgstr "Коне-е-ечно."
 
 #: A_New_Order/scenarios/11.cfg:253
 msgid "Arweena"
-msgstr ""
+msgstr "Арвена"
 
 #: A_New_Order/scenarios/11.cfg:261
 msgid "Giombor"
-msgstr ""
+msgstr "Гимбор"
 
 #: A_New_Order/scenarios/11.cfg:269
-#, fuzzy
 msgid "Urandil"
-msgstr "Митрандил"
+msgstr "Урандил"
 
 #: A_New_Order/scenarios/11.cfg:289 A_New_Order/scenarios/11.cfg:299
 msgid "Another one bites the dust."
@@ -11089,7 +11091,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/3.cfg:60 A_New_Order/scenarios/3.cfg:67
 msgid "Royal guard"
-msgstr ""
+msgstr "Королевский страж"
 
 #: A_New_Order/scenarios/3.cfg:176
 msgid ""
@@ -11907,7 +11909,6 @@ msgid "<To himself> No wonder none really liked her."
 msgstr "<про себя> Не удивительно, что её никто терпеть не может."
 
 #: A_New_Order/scenarios/5b.cfg:119
-#, fuzzy
 msgid ""
 "I am not sure whether we have enough gold for this endeavor. I wish we'd got "
 "more in previous battles, at least 200."
@@ -12133,18 +12134,16 @@ msgstr ""
 "плохо то, что этот народ так ненавидит акладиан?"
 
 #: A_New_Order/scenarios/7.cfg:71
-#, fuzzy
 msgid "Moerre Crynenoj"
-msgstr "Бор Крайн?"
+msgstr "Муэрре Крайнино"
 
 #: A_New_Order/scenarios/7.cfg:80
 msgid "Ore Cruveno"
-msgstr ""
+msgstr "Оре Крувено"
 
 #: A_New_Order/scenarios/7.cfg:194
-#, fuzzy
 msgid "Rebel"
-msgstr "Реме"
+msgstr "Бунтарь"
 
 #: A_New_Order/scenarios/7.cfg:238
 msgid "So, finally, you are awaken. "
@@ -12206,9 +12205,8 @@ msgid "What are you doing here?!"
 msgstr "А ты что здесь делаешь?!"
 
 #: A_New_Order/scenarios/7.cfg:265
-#, fuzzy
 msgid "Karl Regven"
-msgstr "Карен"
+msgstr "Карл Регвен"
 
 #: A_New_Order/scenarios/7.cfg:273
 msgid "My lord, I was not able to stop her."
@@ -12285,7 +12283,6 @@ msgstr ""
 "Это конец. Теперь Бор Крайн пришлёт сюда свою армию, и мы не сможем уйти."
 
 #: A_New_Order/scenarios/7.cfg:362
-#, fuzzy
 msgid "No! The reinforcements for Akladians have arrived! We are encircled!"
 msgstr "Нет! К акладианам пришло подкрепление! Мы окружены!"
 
@@ -12474,25 +12471,23 @@ msgstr ""
 
 #: A_New_Order/scenarios/8.cfg:46
 msgid "Rob Roe"
-msgstr ""
+msgstr "Роб Ро"
 
 #: A_New_Order/scenarios/8.cfg:82
-#, fuzzy
 msgid "Uorl"
-msgstr "Нормальный"
+msgstr "Уорл"
 
 #: A_New_Order/scenarios/8.cfg:94
 msgid "Harl"
-msgstr ""
+msgstr "Харл"
 
 #: A_New_Order/scenarios/8.cfg:108
 msgid "Thug"
-msgstr ""
+msgstr "Туг"
 
 #: A_New_Order/scenarios/8.cfg:121
-#, fuzzy
 msgid "Borl"
-msgstr "Нормальный"
+msgstr "Борл"
 
 #: A_New_Order/scenarios/8.cfg:148
 msgid "What kind of place is it?"
@@ -12657,9 +12652,8 @@ msgid ""
 msgstr "Хорошо. Ты и твои люди могут сражаться вместе со мной."
 
 #: A_New_Order/scenarios/8.cfg:287
-#, fuzzy
 msgid "No, no offence, but I do not trust you enough"
-msgstr "Нет. Не обижайся, но я не тебе не доверяю."
+msgstr "Нет. Без обид, я тебе не доверяю."
 
 #: A_New_Order/scenarios/8.cfg:290
 msgid "You said most of your army is elsewhere?"
@@ -12712,18 +12706,16 @@ msgstr ""
 "разборку с кланом Карренемо."
 
 #: A_New_Order/scenarios/8.cfg:334
-#, fuzzy
 msgid "Reme Carrenemoe?"
-msgstr "Реме Карренемо"
+msgstr "Реме Карренемо?"
 
 #: A_New_Order/scenarios/8.cfg:336
 msgid "The noble and oh-so-honorable Reme? You have to be kidding."
 msgstr "Благородный ой-какой-честный Реме? Не валяй дурака."
 
 #: A_New_Order/scenarios/8.cfg:340
-#, fuzzy
 msgid "Lady Lorin?"
-msgstr "Леди Лорин"
+msgstr "Леди Лорин?"
 
 #: A_New_Order/scenarios/8.cfg:342
 msgid ""
@@ -12735,16 +12727,15 @@ msgstr ""
 
 #: A_New_Order/scenarios/8.cfg:354
 msgid "Graeme O Borraine?"
-msgstr ""
+msgstr "Грэм О'Боррейн?"
 
 #: A_New_Order/scenarios/8.cfg:356
 msgid "Who? Never heard about him."
 msgstr "Кто? Никогда не слышал."
 
 #: A_New_Order/scenarios/8.cfg:360
-#, fuzzy
 msgid "Hoyre O Barnon?"
-msgstr "В Барнон"
+msgstr "Ойре О'Барнон?"
 
 #: A_New_Order/scenarios/8.cfg:362
 msgid ""
@@ -12787,7 +12778,6 @@ msgid "It seems that Outlaws had small hidden treasury here."
 msgstr "Кажется здесь у разбойников небольшой тайник с золотом."
 
 #: A_New_Order/scenarios/9x.cfg:3 A_New_Order/scenarios/9.cfg:3
-#, fuzzy
 msgid "Hired Swords"
 msgstr "Наёмное оружие"
 
@@ -12860,13 +12850,12 @@ msgstr ""
 "просто оружие. Наёмное оружие."
 
 #: A_New_Order/scenarios/9.cfg:60
-#, fuzzy
 msgid "Andrey Yaranov"
-msgstr "Смерть Андрея Яранова"
+msgstr "Андрей Яранов"
 
 #: A_New_Order/scenarios/9.cfg:77
 msgid "Oyre Mathauri"
-msgstr ""
+msgstr "Ойре Матаури"
 
 #: A_New_Order/scenarios/9.cfg:133
 msgid ""
@@ -13510,52 +13499,49 @@ msgid "skirmisher"
 msgstr "застрельщик"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:104
-#, fuzzy
 msgid "Eol Areon"
-msgstr "Во Фритаун"
+msgstr "Эол Ареон"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:124
 msgid "Iree Rothe"
-msgstr ""
+msgstr "Айри Роти"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:144
 msgid "Reuke Rothe"
-msgstr ""
+msgstr "Ройке Роти"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:164
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:222
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:268
 msgid "Strome Ohavenort"
-msgstr ""
+msgstr "Строме Оавенорт"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:176
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:233
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:279
-#, fuzzy
 msgid "Reonee"
-msgstr "Реме"
+msgstr "Реони"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:187
 msgid "Aueree"
-msgstr ""
+msgstr "Ауэри"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:198
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:244
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:290
 msgid "Raoke"
-msgstr ""
+msgstr "Раоке"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:209
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:255
 msgid "Oyre"
-msgstr ""
+msgstr "Ойре"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:305
 msgid "Heinric the Redbeard"
 msgstr "Хейнрик Рыжебородый"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:321
-#, fuzzy
 msgid "Militiaman"
 msgstr "Городской стражник"
 
@@ -13563,7 +13549,7 @@ msgstr "Городской стражник"
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:526
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:598
 msgid "Assassin"
-msgstr ""
+msgstr "Наёмник"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:438
 msgid "He regained consciousness, my lady!"
@@ -13818,42 +13804,39 @@ msgstr ""
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:75
 msgid "Raul O Gaeltin"
-msgstr ""
+msgstr "Рауль О'Гэлтин"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:115
-#, fuzzy
 msgid "Oeame"
-msgstr "Реме"
+msgstr "Ойме"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:129
 msgid "Roule"
-msgstr ""
+msgstr "Рауль"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:138
-#, fuzzy
 msgid "Moerro"
-msgstr "Мама?"
+msgstr "Муэрро"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:156
 msgid "Urheare"
-msgstr ""
+msgstr "Урэр"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:165
 msgid "Mirro"
-msgstr ""
+msgstr "Мирро"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:175
 msgid "Umeari"
-msgstr ""
+msgstr "Умери"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:184
-#, fuzzy
 msgid "Rioto"
-msgstr "Рувио"
+msgstr "Риото"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:201
 msgid "Lioato"
-msgstr ""
+msgstr "Лиато"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:220
 #, fuzzy
@@ -14062,19 +14045,22 @@ msgid ""
 "You are lucky that I have not got more time, or I will play with you more, "
 "dishonourable scum."
 msgstr ""
+"Тебе повезло, что у меня мало времени. А то я бы поигралась с тобой "
+"подольше, подонок."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:536
 msgid ""
 "You are lucky that this underling whom you call your king does not know... "
 msgstr ""
+"Это тебе повезло, что дикарь, которого ты называешь королём, не знает..."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:540
 msgid "Enough of that, go to your ancestors!"
-msgstr ""
+msgstr "Достаточно. Отправляйся к прародителям."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:619
 msgid "Where is he? He starts to act on my nerves..."
-msgstr ""
+msgstr "Где он? Он начинает действовать мне на нервы."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:664
 msgid "Oops."
@@ -14191,7 +14177,7 @@ msgstr ""
 #: A_New_Order/scenarios/ano_macros.cfg:573
 #, fuzzy
 msgid "This is version 0.7.1."
-msgstr "Номер этой версии - 0.7.0"
+msgstr "Номер этой версии - 0.7.2."
 
 #: A_New_Order/scenarios/ano_macros.cfg:573
 msgid ""
@@ -14201,6 +14187,11 @@ msgid ""
 "complete. Further releases will only contain translation updates, typo and "
 "grammar error corrections, graphic updates etc. "
 msgstr ""
+"Подробный список изменений публикуется на форуме, а так же находится в том "
+"же каталоге, где лежат все файлы кампании. Если Вам понравилась кампания, "
+"оставьте отзыв на форуме http://www.wesnoth.org/forum Разработка кампании "
+"завершена. Изменения последующих выпусков будут относиться только к "
+"обновлениям переводов, исправлениям ошибок, графическим дополнениям и т.п."
 
 #: A_New_Order/scenarios/ano_macros.cfg:590
 msgid ""
@@ -14233,7 +14224,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/ano_macros.cfg:1005
 msgid "The unit $ano_loyal[0].user_description became LOYAL."
-msgstr ""
+msgstr "Соединение $ano_loyal[0].user_description стало ПРЕДАННЫМ."
 
 #: A_New_Order/scenarios/ano_macros.cfg:1011
 msgid "Zero upkeep"
@@ -14427,7 +14418,7 @@ msgstr "Смотри как бесстрашно умирают эльфы!"
 
 #: A_New_Order/scenarios/elvish_macros.cfg:34
 msgid "Now, I will meet best marksman.. Death never misses."
-msgstr ""
+msgstr "Вот я и встретила лучшего стрелка... Смерть никогда не промахивается."
 
 #: A_New_Order/scenarios/elvish_macros.cfg:49
 msgid "Ha! $ano_elorain_$random "
@@ -14621,8 +14612,9 @@ msgid "Total points: $points "
 msgstr ""
 
 #: A_New_Order/terrain.cfg:5 A_New_Order/terrain.cfg:12
+#, fuzzy
 msgid "Crater"
-msgstr "Кратер"
+msgstr "Храр"
 
 #: A_New_Order/units/Akladian_Chieftain-c.cfg:4
 msgid "Akladian Chieftain_c"
@@ -14849,7 +14841,7 @@ msgstr "первый удар"
 
 #: A_New_Order/units/Akladian_Holyman.cfg:4
 msgid "Akladian Holyman"
-msgstr ""
+msgstr "Праведник Акладиан"
 
 #: A_New_Order/units/Akladian_Holyman.cfg:18
 #: A_New_Order/units/Akladian_Wonderman.cfg:18
@@ -14861,6 +14853,8 @@ msgid ""
 "Devoting their whole life to task of healing and curing, Akladian Holymans "
 "are respected amongst tribes, and useful to Akladian lords."
 msgstr ""
+"Всю свою жизнь праведники посвящают заботам об исцелении ближних. Их уважает "
+"народ, и охотно берут на службу акладианские лорды."
 
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:22
 #: A_New_Order/units/Akladian_Wiseman.cfg:22
@@ -14907,8 +14901,8 @@ msgid ""
 "who are wifes or children of great warriors are commonly thought to master "
 "use of the sword as well as their husbands or fathers."
 msgstr ""
-"Хотя у акладиан и нет равенства в отношениях полов, всем женщинам полагалось "
-"уметь обращаться с оружием. Считалось, что жёны и дочери великих воинов "
+"Хотя у акладиан и нет равенства в отношениях полов, всем женщинам полагается "
+"уметь обращаться с оружием. Считается, что жёны и дочери великих воинов "
 "должны так же мастерски владеть мечом, как их мужья и отцы."
 
 #: A_New_Order/units/Akladian_Leader.cfg:4
@@ -14921,8 +14915,9 @@ msgid ""
 "their descendency are leading the others, starting their career which some "
 "day may result in leading the whole tribe."
 msgstr ""
-"Некоторые акладианские воины, которые благодаря своим личным качествам или "
-"происхождению выбирают карьеру командира, могут стать вождями целого народа."
+"Некоторые акладианские воины, благодаря своим личным качествам или "
+"происхождению, начинают карьеру командира и могут стать предводителями всего "
+"племени."
 
 #: A_New_Order/units/Akladian_LightInfantry-c.cfg:4
 #: A_New_Order/units/Akladian_LightInfantry-g.cfg:4
@@ -14939,9 +14934,9 @@ msgid ""
 "themselves, however, which results in light armour and spear being their "
 "weapon of choice."
 msgstr ""
-"Лучших бойцов акладианские лорды отбирают для службы в регулярной армии. Они "
-"становятся профессиональными солдатами. Солдаты должны экипировать себя за "
-"свой счёт, поэтому они выбирают легкие доспехи и простые пики."
+"Лучших бойцов акладианские лорды отбирают для службы в регулярной армии, и "
+"те становятся профессиональными солдатами. Солдаты должны экипировать себя "
+"за свой счёт, поэтому они чаще выбирают легкие доспехи и простые пики."
 
 #: A_New_Order/units/Akladian_LightInfantry-c.cfg:21
 #: A_New_Order/units/Akladian_LightInfantry-g.cfg:21
@@ -14966,29 +14961,28 @@ msgid ""
 "Those of chieftain who gained enough reputation and fame may end as leaders "
 "of whole tribes."
 msgstr ""
-"Главы кланов, заслужившие достаточно репутации и почёта, могут стать "
-"предводителями целого племени."
+"Главы кланов, пользующиеся уважением и почётом, могут стать предводителями "
+"целого племени."
 
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:4
 #: A_New_Order/units/Akladian_Pikeneer.cfg:4
 #: A_New_Order/units/Akladian_Pikeneer-c.cfg:4
 msgid "Akladian Pikeneer"
-msgstr "Копейщик Акладиан"
+msgstr "Пикейщик Акладиан"
 
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:21
 #: A_New_Order/units/Akladian_Pikeneer.cfg:21
 #: A_New_Order/units/Akladian_Pikeneer-c.cfg:21
-#, fuzzy
 msgid ""
 "Akladian Pikeneers are members of permanent personal armies of Akladian "
 "lords, being closest thing to regular army Akladians have. They receive all "
 "needed supplies and their weapons from their master, whom they owe personal "
 "loyalty."
 msgstr ""
-"Акладианские копейщики это солдаты постоянных личных армий акладианских "
+"Акладианские пикейщики это солдаты постоянных личных армий акладианских "
 "лордов. Из всех воинских соединений акладиан они больше всех похожи на "
-"регулярную армию. Снабжение и припасы они получают от своего господина, "
-"которому преданы лично."
+"регулярную армию. Пикейщики преданы лично своему хозяину, который снабжает "
+"их вооружением и продовольствием."
 
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:78
 #: A_New_Order/units/Akladian_Pikeneer.cfg:78
@@ -15003,7 +14997,7 @@ msgstr "Принцесса Акладиан"
 #: A_New_Order/units/Akladian_Princess.cfg:20
 #: A_New_Order/units/Akladian_Queen.cfg:20
 msgid "NEED SOME DESCRIPTION HERE"
-msgstr ""
+msgstr "Описание отсутствует"
 
 #: A_New_Order/units/Akladian_Protector.cfg:4
 msgid "Akladian Protector"
@@ -15015,9 +15009,9 @@ msgid ""
 "enemies, Protectors forms caste of excellent warriors with their own codex, "
 "devoting whole their life for protecting their clans."
 msgstr ""
-"Ветераны сражений, выжившие, отражая бесчисленные нападения вражеских "
-"захватчиков, Защитники составляют касту превосходных бойцов с собственным "
-"уставом, посвящая всю свою жизнь защите своего клана."
+"Ветераны сражений, оставшиеся в живых после отражения бесчисленных нападений "
+"вражеских захватчиков, защитники составляют касту превосходных бойцов с "
+"собственным уставом, посвящая всю жизнь защите своего клана."
 
 #: A_New_Order/units/Akladian_Protector.cfg:35
 #: A_New_Order/units/Lord_Hagarthen.cfg:46
@@ -15027,7 +15021,7 @@ msgstr ""
 
 #: A_New_Order/units/Akladian_Queen.cfg:4
 msgid "female^Queen"
-msgstr ""
+msgstr "Королева Акладиан"
 
 #: A_New_Order/units/Akladian_Queen.cfg:18
 msgid "leadership,skirmisher"
@@ -15060,9 +15054,9 @@ msgid ""
 "become last stands of hope if the enemy seeking revenge for the raids siegs "
 "home settlements of the clans."
 msgstr ""
-"Акладианы, которые могут себе это позволить, носят улучшенную броню, "
-"составляя отряды, которые оказываются последней надеждой, когда горящий "
-"жаждой мести враг осаждает поселения кланов."
+"Акладианы, не стеснённые в средствах, носят улучшенную броню, составляя "
+"отряды, которые оказываются последней надеждой, когда горящий жаждой мести "
+"враг осаждает поселения кланов."
 
 #: A_New_Order/units/Akladian_Sturmknight.cfg:4
 msgid "Akladian Sturmknight"
@@ -15091,8 +15085,8 @@ msgid ""
 "neighbouring lands."
 msgstr ""
 "Проводя время в постоянных битвах и походах, многие члены кланов акладиан "
-"становились воинами и вступали в армию не только для защиты своей земли, но "
-"и для нападений на соседей."
+"становились воинами и вступали в армию чтобы не только защищать свои земли, "
+"но и нападать на соседей."
 
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:4
 #: A_New_Order/units/Akladian_Wiseman.cfg:4
@@ -15115,7 +15109,7 @@ msgstr ""
 
 #: A_New_Order/units/Akladian_Wonderman.cfg:4
 msgid "Akladian Wonderman"
-msgstr ""
+msgstr "Кудесник Акладиан"
 
 #: A_New_Order/units/Akladian_Wonderman.cfg:19
 msgid ""
@@ -15123,6 +15117,9 @@ msgid ""
 "life studying ways of healing. They do not ignore even experiences of "
 "Wesnothians, and learned few valuable tricks in process."
 msgstr ""
+"С давних пор акладианы называли кудесниками тех, кто всю свою жизнь посвятил "
+"науке исцеления. Кудесники не гнушались использовать опыт веснотских "
+"мудрецов, перенимая некоторые полезные трюки."
 
 #: A_New_Order/units/Akladian_Wonderman.cfg:48
 msgid "lightbeam"
@@ -15378,34 +15375,3 @@ msgstr ""
 #: A_New_Order/units/YoungHagarthen.cfg:23
 msgid "training sword"
 msgstr "учебный меч"
-
-#~ msgid ""
-#~ "I am not sure whether we have enough gold for this endavour. I wish we'd "
-#~ "got more in previous battles, at least 200."
-#~ msgstr ""
-#~ "Не уверен, что нам хватит денег, чтобы закончить предприятие. Мы должны "
-#~ "были выручить хотя бы 200 золотых в предыдущих битвах."
-
-#~ msgid ""
-#~ "Akladian Clanmembers are core of Akladian tribes. They are raised in "
-#~ "culture promoting violence and hearing from childhood that their "
-#~ "destination is rule over the world. This resulted that while very lightly "
-#~ "armoured and badly armed they still can be dangerous, especially when "
-#~ "used in larger groups. They are recruited only for defense of their "
-#~ "kingdoms."
-#~ msgstr ""
-#~ "Кланы составляют основу народа акладиан. Члены кланов растут в культуре, "
-#~ "исповедующей насилие, и с детства слышат, что их предназначение - "
-#~ "управлять миром. В результате, несмотря на неважные доспехи и вооружение, "
-#~ "они могут быть довольно опасны, особенно в больших группах. Рядовые члены "
-#~ "кланов призываются на службу только в случае необходимости защиты "
-#~ "королевства."
-
-#~ msgid "cures,teleport"
-#~ msgstr "лечение,телепорт"
-
-#~ msgid "fireball"
-#~ msgstr "огненный шар"
-
-#~ msgid "fire"
-#~ msgstr "огонь"
