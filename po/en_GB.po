@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-02-27 22:21+0100\n"
+"POT-Creation-Date: 2006-03-03 01:06+0100\n"
 "PO-Revision-Date: 2006-02-27 22:25+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: none\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: A_New_Order.cfg:19
 #, fuzzy
-msgid "Version 0.7.2."
+msgid "Version"
 msgstr "Version 0.7.0."
 
 #: A_New_Order/scenarios/1-6macros.cfg:15
@@ -13301,7 +13301,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/ano_macros.cfg:573
 #, fuzzy
-msgid "This is version 0.7.1."
+msgid "This is version"
 msgstr "Version 0.7.0."
 
 #: A_New_Order/scenarios/ano_macros.cfg:573
