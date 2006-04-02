@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-12 18:36+0100\n"
-"PO-Revision-Date: 2006-03-27 03:33+0400\n"
+"PO-Revision-Date: 2006-04-03 02:38+0400\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1081,7 +1081,6 @@ msgid "Milildur"
 msgstr "Милильдур"
 
 #: A_New_Order/scenarios/11.cfg:237
-#, fuzzy
 msgid "ambush"
 msgstr "засада"
 
@@ -5180,7 +5179,7 @@ msgstr "Я останусь с ней на случай, если это что-
 
 #: A_New_Order/scenarios/15a.cfg:217
 msgid "So, let's go and choose twelve of our's best troops."
-msgstr ""
+msgstr "Итак, иди и выбери двенадцать лучших."
 
 #: A_New_Order/scenarios/15b.cfg:3
 msgid "Repelling the Orcs"
@@ -5436,8 +5435,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/16.cfg:134
 msgid "One wonderful culture you have. Now, Gawen, pick up twelve best troops."
-msgstr ""
-"У вас непостижимая культура. Ладно. Гэвен, выбери двенадцать лучших солдат."
+msgstr "Непостижимая культура. Ладно. Гэвен, выбери двенадцать лучших солдат."
 
 #: A_New_Order/scenarios/16.cfg:135 A_New_Order/scenarios/16.cfg:136
 msgid "I want to join you in your quest."
@@ -5450,6 +5448,9 @@ msgid ""
 "this scenario only!!) immedietely after recalling, so do not push end turn "
 "button."
 msgstr ""
+"Здесь слишком мало места, чтобы призвать 12 соединений. Их можно будет "
+"перемещать сразу после призыва (но только в этом сценарии!!!), поэтому не "
+"нажимайте кнопку окончания хода."
 
 #: A_New_Order/scenarios/16.cfg:142
 msgid "Recall twelve troops. OR"
@@ -5472,8 +5473,9 @@ msgstr ""
 "тебя? Теперь я понял, я просто позорный предатель."
 
 #: A_New_Order/scenarios/17.cfg:13
+#, fuzzy
 msgid "Gawen, I think I told you to keep your identity a secret."
-msgstr ""
+msgstr "Гэвен, по-моему я говорил, чтобы ты держал свою личность в тайне."
 
 #: A_New_Order/scenarios/17.cfg:14
 msgid ""
@@ -6141,6 +6143,10 @@ msgid ""
 "Lorin refused to talk about this and became much more taciturn, comprising "
 "something in herself."
 msgstr ""
+"Визит к Оракулу мне не понравился. Ни один из её так называемых \"ответов\" "
+"меня не устроил. Мы по прежнему не имели представления где искать Деориена, "
+"а разговор Оракула с Лорин просто смутил меня. Лорин отказалась об этом "
+"говорить, и стала совсем молчаливой, постоянно о чём-то рассуждая про себя."
 
 #: A_New_Order/scenarios/18.cfg:58
 msgid "To the Oracle"
@@ -6698,7 +6704,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/19a.cfg:3
 msgid "The Woods of Okladia"
-msgstr ""
+msgstr "Ласа Окладии"
 
 #: A_New_Order/scenarios/19a.cfg:45
 msgid "Raul O Barron"
@@ -6712,7 +6718,7 @@ msgstr "Марлин Барре"
 #: A_New_Order/scenarios/23macros.cfg:584
 #: A_New_Order/scenarios/19oracle.cfg:753
 msgid "There are no interrogations in this scenario."
-msgstr ""
+msgstr "В этом сценарии нет допросов."
 
 #: A_New_Order/scenarios/19a.cfg:141 A_New_Order/scenarios/19b.cfg:128
 #: A_New_Order/scenarios/23macros.cfg:586
@@ -6723,7 +6729,7 @@ msgstr "Убейте всех вражеских лидеров OR"
 
 #: A_New_Order/scenarios/19a.cfg:145 A_New_Order/scenarios/19b.cfg:132
 msgid "Reach the signpost with Gawen."
-msgstr ""
+msgstr "Доведите Гэвена до указателя"
 
 #: A_New_Order/scenarios/19a.cfg:162 A_New_Order/scenarios/19b.cfg:149
 msgid "So, should continue our journey?"
@@ -6736,17 +6742,17 @@ msgstr ""
 msgid ""
 "Everything is lost! The reinforcements for our enemies arrived! We have no "
 "chance now to win!"
-msgstr ""
+msgstr "Всё потеряно! К нашим врагам пришла помощь! Теперь нам не победить!"
 
 #: A_New_Order/scenarios/19a.cfg:177 A_New_Order/scenarios/19b.cfg:164
 #: A_New_Order/scenarios/22.cfg:627
 msgid "We've won! What should we do now?"
-msgstr ""
+msgstr "Мы победили! Что дальше?"
 
 #: A_New_Order/scenarios/19a.cfg:178 A_New_Order/scenarios/19b.cfg:165
 msgid ""
 "We have to hurry before the enemy reinforcements will arrive here. Let's go."
-msgstr ""
+msgstr "Нужно спешить, скоро подойдёт вражеское подкрепление. Пойдём."
 
 #: A_New_Order/scenarios/19b.cfg:3
 msgid "Entering the Okladia"
@@ -6771,6 +6777,9 @@ msgid ""
 "living there, so long that no one remembered now how was the city once "
 "called. Now it was just the city of the Oracle."
 msgstr ""
+"Оракулом называли женщину, жившую в руинах древнего города. Сменялись "
+"поколения, и всегда в руинах жила ясновидящая, с таких давних пор, что никто "
+"уже не помнил, как назывался город. Теперь это был просто город Оракула."
 
 #: A_New_Order/scenarios/19oracle.cfg:20
 msgid ""
@@ -6779,6 +6788,9 @@ msgid ""
 "could defend herself. Each army seemed to siege the city on its own. But "
 "this was almost last moment for a relief."
 msgstr ""
+"Сейчас город был в осаде. У каждой из четырёх армий, был свой предводитель, "
+"и это оставляло надежду, что Оракула смогут защитить. Каждая армия нападала "
+"на город не зависимо от другой. Но похоже, это было последним утешением."
 
 #: A_New_Order/scenarios/19oracle.cfg:61
 msgid "Matthias Ramon"
@@ -6857,52 +6869,60 @@ msgid ""
 "Remember, the Oracle must be untouched. Do not kill the woman. Bor Cryne "
 "want to have her untouched."
 msgstr ""
+"Запомните, Оракула трогать нельзя. Не убивайте жинщину. Бор Крайн обявил её "
+"неприкосновенной."
 
 #: A_New_Order/scenarios/19oracle.cfg:746
 msgid ""
 "Bor Cryne may want whatever he wants. But the holy Oracle will be guest of "
 "the noble lord Uri van Roe."
 msgstr ""
+"Бор Крайн может хотеть чего угодно. А Оракул будет гостьей благородного "
+"лорда Ури ван Рое."
 
 #: A_New_Order/scenarios/19oracle.cfg:747
 msgid ""
 "You will settle that later. But everything else inside the city will belong "
 "to us!"
 msgstr ""
+"С этим вы разберётесь потом. Главное, что всё остальное, что есть в городе - "
+"наше!"
 
 #: A_New_Order/scenarios/19oracle.cfg:748
 msgid "Ha, ha, human. Everything, which will be left by us."
-msgstr ""
+msgstr "Ха-ха, человек. Всё, что останется после нас."
 
 #: A_New_Order/scenarios/19oracle.cfg:749
 msgid "Wait, I think someone is trying to help the besieged."
-msgstr ""
+msgstr "Стой, похоже кто-то идёт на помощь к осаждённым."
 
 #: A_New_Order/scenarios/19oracle.cfg:750
 msgid ""
 "Oracle was right, as always! Relief is coming! Faster, dammit, I don't know "
 "how long we can hold!"
 msgstr ""
+"Оракул как всегда была права! Помощь идёт! Скорей, чёрт возьми, я не знаю "
+"сколько ещё мы сможем продержаться!"
 
 #: A_New_Order/scenarios/19oracle.cfg:759
 msgid "Any enemy unit reaches the keep of the Oracle."
-msgstr ""
+msgstr "Любой из вражеских отрядов достигает крепости Оракула."
 
 #: A_New_Order/scenarios/19oracle.cfg:790
 msgid "I found her! I found her! The Oracle!"
-msgstr ""
+msgstr "Я нашёл её! Я нашёл ей! Оракул!"
 
 #: A_New_Order/scenarios/19oracle.cfg:791
 msgid "Everything is lost! They captured the Oracle!"
-msgstr ""
+msgstr "Всё пропало! Они схватили Оракула!"
 
 #: A_New_Order/scenarios/19oracle.cfg:803
 msgid "We've won! Great. Now, where is that famous oracle?"
-msgstr ""
+msgstr "Мы победили! Великолепно. Так где же этот знаменитый оракул?"
 
 #: A_New_Order/scenarios/19oracle.cfg:804
 msgid "You pronounce that 'the Oracle' by big O. But indeed, where is she?"
-msgstr ""
+msgstr "Говори \"Оракул\". С большой буквы \"О\". Но в самом деле, где она?"
 
 #: A_New_Order/scenarios/19oracle.cfg:808
 msgid "Oracle"
@@ -6914,22 +6934,29 @@ msgid ""
 "here. I know who you are. Ask your questions and wait for the answers, for I "
 "know everything which will be and everything which may be."
 msgstr ""
+"Я здесь. Глас звучит для того, кто хочет слушать. Мне известно, зачем вы "
+"пришли сюда. Мне известно кто вы. Спрашивайте, и услышите ответы. Я ведаю "
+"всё, что случится и всё, что может случится."
 
 #: A_New_Order/scenarios/19oracle.cfg:814
 msgid ""
 "Everything? Then how it happened that you were besieged and almost captured? "
 "Why you had not escaped or called someone to help you?"
 msgstr ""
+"Всё? И как же случилось, что тебя осадили и почти взяли в плен? Почему ты не "
+"убежала или не позвала на помощь?"
 
 #: A_New_Order/scenarios/19oracle.cfg:815
 msgid ""
 "The answer to your question is the answer to your doubts. Why haven't I "
 "escaped? Why haven't I called someone for help? Why are you here?"
 msgstr ""
+"В ответе на твой вопрос ответ на твоё недоверие. Почему я не убежала? Почему "
+"я не позвала на помощь? Почему вы здесь?"
 
 #: A_New_Order/scenarios/19oracle.cfg:816
 msgid "Lady, we are searching for great mage, Deorien. Maybe you know..."
-msgstr ""
+msgstr "Леди, мы ищем великого мага Деориена. Может быть Вы знаете..."
 
 #: A_New_Order/scenarios/19oracle.cfg:817
 msgid ""
@@ -6937,22 +6964,28 @@ msgid ""
 "when bringing back memories of marvelous past. But he will give you answers, "
 "some of which you may find unwelcome."
 msgstr ""
+"Ищите Деориена среди руин великого города, где даже ветер рыдает, вспоминая "
+"прекрасные прошедшие дни. Но помните, что ответ его может вас не обрадовать."
 
 #: A_New_Order/scenarios/19oracle.cfg:818
 msgid ""
 "Ruins of great city? What kind of answer is this? Where is that city? Why "
 "can't you give me straight answer?"
 msgstr ""
+"Руины великого города? Что за ответ? Где этот город? Почему Вы не говорите "
+"точнее?"
 
 #: A_New_Order/scenarios/19oracle.cfg:819
 msgid ""
 "I am Oracle. Why should I give straight answers? Why do you think my answer "
 "is not enough for you? Why do you think I should tell you more?"
 msgstr ""
+"Я Оракул. Откуда у меня точные ответы? Почему тебе кажется, что моих слов не "
+"достаточно? Почему ты считаешь, что кто-то может сказать больше?"
 
 #: A_New_Order/scenarios/19oracle.cfg:820
 msgid "Oracle.. I.."
-msgstr ""
+msgstr "Оракул... Я..."
 
 #: A_New_Order/scenarios/19oracle.cfg:821
 msgid ""
@@ -6960,14 +6993,18 @@ msgid ""
 "of their daughters than in their treasures. First answer is yes, you are. "
 "Second is yes, he will be. third is no, you will never be."
 msgstr ""
+"Мне известно что ты хочешь спросить, Лорин из Гэллоров, клана, чьи дочери "
+"носят золота в волосах больше, чем в кошельках. Ответ на первый вопрос: "
+"\"Да, это ты\". Ответ на второй вопрос% \"Да, это он\". Ответ на третий "
+"вопрос: \"Нет, не вы\"."
 
 #: A_New_Order/scenarios/19oracle.cfg:822
 msgid "Note to translators : you will never be is plural."
-msgstr ""
+msgstr "Note to translators : you will never be is plural."
 
 #: A_New_Order/scenarios/19oracle.cfg:823
 msgid "No! No!  There has to be better answer!"
-msgstr ""
+msgstr "Нет! Нет! Ответ должен быть другим!"
 
 #: A_New_Order/scenarios/19oracle.cfg:824
 msgid ""
@@ -6976,6 +7013,10 @@ msgid ""
 "you know his name. Go and find him. Beg him for forgiveness if you will have "
 "to. Stay with him as long as you can."
 msgstr ""
+"Как Оракул я не могу сказать тебе ничего больше. Как женщина я могу дать "
+"тебе один совет. Есть только один мужчина в мире, который сможет изменить "
+"твоб судьбу. Думаю, ты знаешь кто это. Иди и найди его. Попроси у него "
+"прощения, если найдёшь. И оставайся с ним так долго, как только сможешь."
 
 #: A_New_Order/scenarios/19oracle.cfg:825
 msgid ""
@@ -6983,16 +7024,20 @@ msgid ""
 "Haeltin have heard the Oracle, voice of God on earth. She has not heard the "
 "woman which is merely God's tool."
 msgstr ""
+"Это всё, что ты хотела сказать? Тогда знай, я, Хэлтинская Волчица, услышала "
+"слова Оракула, гласа господнего на земле. И я не услышала слов простой "
+"женщины, игрушки в руках Господа."
 
 #: A_New_Order/scenarios/19oracle.cfg:826
 msgid "Let's go, Gawen. Let's go."
-msgstr ""
+msgstr "Пойдём, Гэвен. Пойдём."
 
 #: A_New_Order/scenarios/19oracle.cfg:827
 msgid ""
 "I had not understand the discussion between you, and I have this feeling it "
 "was important. But why?"
 msgstr ""
+"Я не понял о чём вы говорили, хотя мне кажется, что это важно. Но почему?"
 
 #: A_New_Order/scenarios/19oracle.cfg:828
 msgid ""
@@ -7000,20 +7045,24 @@ msgid ""
 "I will give you one of my sergeants into your service. He will serve you "
 "loyally."
 msgstr ""
+"Однажды ты всё поймёшь, юный король. Желаю тебе удачи в поисках. Один из "
+"моих стражей к твоим услугам. Он будет преданно служить тебе."
 
 #: A_New_Order/scenarios/19oracle.cfg:834
 msgid "John Fasthood"
-msgstr ""
+msgstr "Джон Колпак"
 
 #: A_New_Order/scenarios/20.cfg:3
 msgid "Okladia"
-msgstr ""
+msgstr "Окладия"
 
 #: A_New_Order/scenarios/20.cfg:14
 msgid ""
 "So we marched into Okladia. Ruvio told me he was ALMOST sure where to find "
 "Deorien. I decided to trust him."
 msgstr ""
+"Итак, мы вошли в Окладию. Рувио был ПОЧТИ уверен, что именно здесь мы найдём "
+"Деориена. Я предпочитал ему доверять."
 
 #: A_New_Order/scenarios/20.cfg:18
 msgid ""
@@ -7021,6 +7070,9 @@ msgid ""
 "languid look wandering in the sky. I started to fret about this, but she "
 "refused any talk about her behaviour."
 msgstr ""
+"Лорин вела себя очень странно. Она часто сидела в отдалении от лагеря, "
+"направив безжизненный взгляд в небо. Я начал всерьёз беспокоиться, но она "
+"пресекала любые разговоры по этому поводу."
 
 #: A_New_Order/scenarios/20.cfg:23
 msgid ""
@@ -7029,6 +7081,9 @@ msgid ""
 "were the objections raised by Akladians, they seemed to not care about that "
 "as much as their complaints indicated."
 msgstr ""
+"Акладианам было тяжело наблюдать магов, шагающих вместе с ними, но личные "
+"приказы Гэвена были важнее. К тому же он видел, что на самом деле "
+"сложившаяся ситуация беспокоит акладиан куда меньше, чем они об этом говорят."
 
 #: A_New_Order/scenarios/20.cfg:27
 msgid ""
@@ -7036,6 +7091,9 @@ msgid ""
 "this difficult test. I was hoping future battles with Grekulak's forces will "
 "be also won."
 msgstr ""
+"Это была наша первая встреча с мертвецами и я был рад, что мои солдаты "
+"успешно прошли это трудное испытание. Я надеялся, что в будущих сражениях с "
+"войсками Грекулака мы тоже победим."
 
 #: A_New_Order/scenarios/20.cfg:32
 msgid ""
@@ -7043,78 +7101,92 @@ msgid ""
 "seeing again her father. She kissed both me - and Lorin - leaving my step-"
 "mother in the state of total dismay."
 msgstr ""
+"Дочь фермера была не так красива, как можно было ожидать. Она была так "
+"счастлива снова увидеть отца, что расцеловала не только меня, но и Лорин, "
+"чем немало обескуражила мою мачеху."
 
 #: A_New_Order/scenarios/20.cfg:49
 msgid "The Dead City"
-msgstr ""
+msgstr "Мёртвый город"
 
 #: A_New_Order/scenarios/20.cfg:50
 msgid "The Haunted Place"
-msgstr ""
+msgstr "Замок с привидениями"
 
 #: A_New_Order/scenarios/20.cfg:51 A_New_Order/scenarios/20.cfg:52
 msgid "The Road Back to Vakladia"
-msgstr ""
+msgstr "Обратно в Вакладию"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:104
 #: A_New_Order/scenarios/21weldyn.cfg:72 A_New_Order/scenarios/20.cfg:84
 #: A_New_Order/scenarios/20.cfg:408 A_New_Order/scenarios/20.cfg:423
 msgid "Deorien"
-msgstr ""
+msgstr "Деориен"
 
 #: A_New_Order/scenarios/20.cfg:109
 msgid "What should we do now, Ruvio?"
-msgstr ""
+msgstr "Куда пойдём, Рувио?"
 
 #: A_New_Order/scenarios/20.cfg:110
 msgid "First, let us find Deorien. And then..."
-msgstr ""
+msgstr "Сначала поищем Деориена, а потом..."
 
+# FIXME: offense
 #: A_New_Order/scenarios/20.cfg:111
 msgid ""
 "And then, we will earn the gratitude of the God by killing this offense to "
 "nature, this foul creature, this MAGE."
 msgstr ""
+"А потом во славу Господа убьём эту ошибку природы, богомерзкую тварь, этого "
+"МАГА!"
 
 #: A_New_Order/scenarios/20.cfg:112
 msgid "Stop it, Lorin."
-msgstr ""
+msgstr "Лорин, прекрати!"
 
 #: A_New_Order/scenarios/20.cfg:113
 msgid ""
 "I can't stop it. I have to care for Gawen. I am his step-mother, and I have "
 "to shelter him from God's wrath."
 msgstr ""
+"Я не могу прекратить! Я беспокоюсь о Гэвене. Я его мачеха и должна уберечь "
+"его от гнева господня."
 
 #: A_New_Order/scenarios/20.cfg:114
 msgid "I care about him too."
-msgstr ""
+msgstr "Я тоже беспокоюсь о нём."
 
 #: A_New_Order/scenarios/20.cfg:115
 msgid ""
 "And I always wondered why? Only because you have promised something to his "
 "mother?"
 msgstr ""
+"А я всегда удивлялась: почему? Только потому, что ты что-то там обещал его "
+"матери?"
 
 #: A_New_Order/scenarios/20.cfg:116
 msgid ""
 "His mother.. Gawen's, Haldric's mother.. she was my fiance. We even had the "
 "date of our wedding fixed."
 msgstr ""
+"Его матери... Матери Гэвена... Хальдрика... Она была моей невестой. Мы даже "
+"назначили день свадьбы."
 
 #: A_New_Order/scenarios/20.cfg:117
 msgid "Oh my God... Does that mean..."
-msgstr ""
+msgstr "О боже... Ты хочешь сказать..."
 
 #: A_New_Order/scenarios/20.cfg:118
 msgid ""
 "No, Lorin. That does not mean anything. Gawen is Hagarthen from his blood "
 "and flesh."
 msgstr ""
+"Нет, Лорин. Я ничего не хочу сказать. Гэвен - кровь от крови, плоть от плоти "
+"Хагартенов."
 
 #: A_New_Order/scenarios/20.cfg:119
 msgid "Ruvio, I didn't know..."
-msgstr ""
+msgstr "Рувио, я не знал..."
 
 #: A_New_Order/scenarios/20.cfg:120
 msgid ""
@@ -7122,10 +7194,12 @@ msgid ""
 "Gawen. And I hated your father. But you have her eyes and look, not your "
 "father's."
 msgstr ""
+"Наверное я не должен был от этом расказывать. Я любил твою мать, Гэвен. И "
+"ненавидел твоего отца. Но ты похож на мать."
 
 #: A_New_Order/scenarios/20.cfg:141
 msgid "So, should we go to the ruins of Weldyn?"
-msgstr ""
+msgstr "Итак, идёт в руины Вельдина?"
 
 #: A_New_Order/scenarios/20.cfg:149
 msgid "My lord, we already were in that place and we found Deorien there"
@@ -7133,7 +7207,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20.cfg:158
 msgid "So, should we go to this haunted ruins?"
-msgstr ""
+msgstr "Ну что, отправимся в руины к призракам?"
 
 #: A_New_Order/scenarios/20.cfg:166 A_New_Order/scenarios/20.cfg:182
 msgid "My lord, we already were in that place"
@@ -7141,11 +7215,11 @@ msgstr ""
 
 #: A_New_Order/scenarios/20.cfg:174
 msgid "So, should we go that way?"
-msgstr ""
+msgstr "Итак, идём туда?"
 
 #: A_New_Order/scenarios/20.cfg:191 A_New_Order/scenarios/20.cfg:213
 msgid "So, should we go back to Vakladia?"
-msgstr ""
+msgstr "Ну что, обратно в Вакладию?"
 
 #: A_New_Order/scenarios/20.cfg:205 A_New_Order/scenarios/20.cfg:227
 msgid "My lord, we had not found Deorien yet."
@@ -7164,7 +7238,7 @@ msgstr ""
 #: A_New_Order/scenarios/20.cfg:252
 msgid ""
 "We are saved! Look, who came here - it's Gaumhaldric we heard so much about!"
-msgstr ""
+msgstr "Мы спасены! Посмотрите, кто пришёл! Это же тот самый Гемхальдрик!"
 
 #: A_New_Order/scenarios/20.cfg:254
 msgid ""
@@ -7175,7 +7249,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20.cfg:256
 msgid "Well, yes, it's me, but why do you think you need to be saved?"
-msgstr ""
+msgstr "Ну, да. это я. А от кого вас нужно спасать?"
 
 #: A_New_Order/scenarios/20.cfg:259
 msgid ""
@@ -7183,6 +7257,9 @@ msgid ""
 "whole neighbourhood. I knew this will bring disaster for us. Akladian lord "
 "wanted to marry her, and she foolishly refused."
 msgstr ""
+"О, это долгая история. Видите ли, милорд, моя дочь - самая красивая девушка "
+"в округе. Я знал, что когда-нибудь у нас будут из-за этого проблемы. "
+"Акладианский лорд решил взять её в жёны. и она - дура - отказала."
 
 #: A_New_Order/scenarios/20.cfg:261
 msgid ""
@@ -7190,47 +7267,56 @@ msgid ""
 "abducted her from our village and he promised to keep her in cage until she "
 "changes her mind. Please, let her free!"
 msgstr ""
+"Этот акладианский лорд из клана Скагре был так взбешён, чно выкрал её из "
+"деревни и пообещал держать в клетке, пока она не согласится. Пожалуйста, "
+"спасите её!"
 
 #: A_New_Order/scenarios/20.cfg:262
 msgid ""
 "No problem. She seems from your description a girl with character, even for "
 "under.. uhmm.. anyway, we will release her, isn't it, Gawen?"
 msgstr ""
+"Не вопрос. Судя по твоему рассказу она девушка с характером, хотя и ди... "
+"э... в общем, мы освободим её, правда, Гэвен?"
 
 #: A_New_Order/scenarios/20.cfg:263
 msgid "Yes, of course, but first I want to ask few questions."
-msgstr ""
+msgstr "Конечно же, но сначала я хочу задать несколько вопросов."
 
 #: A_New_Order/scenarios/20.cfg:274
 msgid ""
 "The hard and gruelsome times are ahead, I can't release anyone to join your "
 "army"
 msgstr ""
+"Приближаются тяжёлые и жестокие времена. Я никого не могу отпустить с тобой."
 
+# FIXME: second usage should be checked
 #: A_New_Order/scenarios/20.cfg:277 A_New_Order/scenarios/20.cfg:351
 #: A_New_Order/scenarios/20.cfg:381
 msgid "Who?"
-msgstr ""
+msgstr "О ком?"
 
 #: A_New_Order/scenarios/20.cfg:278 A_New_Order/scenarios/20.cfg:352
 #: A_New_Order/scenarios/20.cfg:382
 msgid "Deorien, great mage."
-msgstr ""
+msgstr "Деориен. Великий маг."
 
 #: A_New_Order/scenarios/20.cfg:280 A_New_Order/scenarios/20.cfg:354
 #: A_New_Order/scenarios/20.cfg:384
 msgid "I don't know. Mages were all killed by Akladians long time ago."
-msgstr ""
+msgstr "Не слышал. Всех магов давным-давно перебили акладианы."
 
 #: A_New_Order/scenarios/20.cfg:283
 msgid ""
 "Our king, Buffin, is gathering the army to take over the neighbouring "
 "kingdom of Vakladia."
 msgstr ""
+"Наш король, Баффин, собирает армию чтобы захватить соседнее королевство "
+"Вакладию."
 
 #: A_New_Order/scenarios/20.cfg:284
 msgid "Take over the Vakladia? How?"
-msgstr ""
+msgstr "Захватить Вакладию? Как?"
 
 #: A_New_Order/scenarios/20.cfg:286
 msgid ""
@@ -7239,6 +7325,10 @@ msgid ""
 "regent and then sent for Hagarthen from other countries, but they instead "
 "were just fighting amongst themselves."
 msgstr ""
+"Прошлый король Вакладии умер. Обычно акладианские лорды выбирают на трон "
+"нового Хагартена, но тот король не оставил наследника. Акладианы должны были "
+"назначит регента и разослать послов ко всем Хагартенам, но вместо этого "
+"перегрызлись друг с другом."
 
 #: A_New_Order/scenarios/20.cfg:288
 msgid "Gawen Hagarthen is not dead, You are see him now with your eyes."
@@ -7256,10 +7346,14 @@ msgid ""
 "amongst themselves. So our king, Buffin, decided he has to invite himself. "
 "He seemingly thought noone would oppose him."
 msgstr ""
+"Я слышал, что Перьен, король Искладии, окружён в своей крепости веснотцами. "
+"Братья из Гилкорты, Люк и Гаури, рассорились друг с другом. Поэтому наш "
+"король Баффин сам себя выбрал в новые короли. Похоже он считает, что никто "
+"не будет против."
 
 #: A_New_Order/scenarios/20.cfg:294
 msgid "Interesting. Very, very interesting."
-msgstr ""
+msgstr "Интересно. Очень и очень интересно."
 
 #: A_New_Order/scenarios/20.cfg:309
 msgid ""
@@ -7290,28 +7384,32 @@ msgid ""
 "There is haunted place east from here. People, who went there dissapeared. "
 "We don't know what happened to them."
 msgstr ""
+"На востоке есть замок с привидениями. Люди, которые ходят в ту сторону, "
+"пропадают. Мы не знаем что там творится."
 
 #: A_New_Order/scenarios/20.cfg:365
 msgid "Our village is poor, we have no food, we have no gold, we..."
-msgstr ""
+msgstr "У нас бедная деревня, еды нет, золота нет, населена..."
 
 #: A_New_Order/scenarios/20.cfg:366
 msgid "I don't want your food or gold. I just want to ask you few questions."
-msgstr ""
+msgstr "Мне не нужно ни еды, ни золота. Просто хочу задать несколько вопросов."
 
 #: A_New_Order/scenarios/20.cfg:368
 msgid ""
 "We live in terror. Terrible things started to live in the ruins east from "
 "here. We wait for anyone who would let us free from fear."
 msgstr ""
+"Мы живём в страхе. Ужасные вещи начали твориться в руинах на востоке. Мы всё "
+"время ждём кого-нибудь, кто избавит нас от этого кошмара."
 
 #: A_New_Order/scenarios/20.cfg:378
 msgid "No, not really."
-msgstr ""
+msgstr "Нет, не уверен."
 
 #: A_New_Order/scenarios/20.cfg:439
 msgid "Tell me more about you and my mother."
-msgstr ""
+msgstr "Расскажи ещё о вас с моей матерью."
 
 #: A_New_Order/scenarios/20.cfg:445
 msgid ""
@@ -7319,16 +7417,21 @@ msgid ""
 "few days we would have our wedding. Gawen.. Please, don't ask me. It's too "
 "hard for me."
 msgstr ""
+"Я уже говорил, рассказывать особо нечего. Она должна была стать моей женой. "
+"До свадьбы оставалось совсем немного. Гэвен... Пожалуйста не спрашивай. Мне "
+"слишком тяжело."
 
 #: A_New_Order/scenarios/20.cfg:446
 msgid "But you have a wife now, and you love her, isn't it?"
-msgstr ""
+msgstr "Но у тебя же теперь есть жена, и ты её любишь, так?"
 
 #: A_New_Order/scenarios/20.cfg:447
 msgid ""
 "Yes. I love my wife, and my daughters. But sometimes, only sometimes.. I "
 "feel like if I betrayed her..."
 msgstr ""
+"Да. Я люблю свою жену и своих дочерей. Но иногда, время от времени... Мне "
+"кажется, что я предал её..."
 
 #: A_New_Order/scenarios/20.cfg:457
 msgid ""
@@ -7336,56 +7439,65 @@ msgid ""
 "people I know. You could become king of whole Wesnoth and religious leader "
 "of our people."
 msgstr ""
+"Не знаю. Пытаюсь осознать, что Вас будут возносить как мессию многие, кого я "
+"знаю, и Вы станете королём всего веснота и духовным лидером нашего народа."
 
 #: A_New_Order/scenarios/20.cfg:458
 msgid "Don't worry about that. You will always be my friend."
-msgstr ""
+msgstr "Не беспокойся так. Ты всегда будешь моим другом."
 
 #: A_New_Order/scenarios/20.cfg:461
 msgid ""
 "The thought that we are going to ally with mage is slightly disturbing me, "
 "my lord. But I think I will try to get used to that thought."
 msgstr ""
+"Мысли о том, что придётся вступить в союз с магом выбивают меня из колеи, "
+"милорд. Но я думаю, что смогу с ними примириться."
 
 #: A_New_Order/scenarios/20.cfg:469
 msgid "Why do you want to kill Deorien?"
-msgstr ""
+msgstr "Почему ты хочешь убить Деориена?"
 
 #: A_New_Order/scenarios/20.cfg:470
 msgid "Why you are so sad recently?"
-msgstr ""
+msgstr "Почему ты всё время грустишь?"
 
 #: A_New_Order/scenarios/20.cfg:474
 msgid "Deorien is mage. Mages are to be killed. That's simple."
-msgstr ""
+msgstr "Деориен - маг. Маг должен быть мёртв. Всё просто."
 
 #: A_New_Order/scenarios/20.cfg:476
 msgid ""
 "Please, do not ask. I start to regret some thing I have made.. And sometimes "
 "I am happy about it.. And I know I should have no hope, and yet sometimes..."
 msgstr ""
+"Пожалуйста, не спрашивай. Я начала раскаиваться в одном своём поступке. Но "
+"иногда я счастлива, что совершила его... Я знаю, что мне не на что надеятся. "
+"и однажды..."
 
 #: A_New_Order/scenarios/20.cfg:478
 msgid "Neither do I, Gawen. Neither do I."
-msgstr ""
+msgstr "Как и я, Гэвен. Как и я."
 
 #: A_New_Order/scenarios/20.cfg:482
 msgid "Deorien, can I have a word with you?"
-msgstr ""
+msgstr "Деориен, можно тебя на пару слов?"
 
 #: A_New_Order/scenarios/20.cfg:483
 msgid "Why you waited until I came to you?"
-msgstr ""
+msgstr "Почему ты ждал когда я приду сам?"
 
 #: A_New_Order/scenarios/20.cfg:484
 msgid "What are your plans for the future?"
-msgstr ""
+msgstr "Какие у тебя планы на будущее?"
 
 #: A_New_Order/scenarios/20.cfg:488
 msgid ""
 "Why you and oracle waited until I came to Weldyn? Why you haven't declared "
 "me messiah before?"
 msgstr ""
+"Почему вы с Оракулом ждали пока я приду в Вельдин? Почему вы не объявили "
+"меня мессией раньше?"
 
 #: A_New_Order/scenarios/20.cfg:489
 msgid ""
@@ -7394,6 +7506,11 @@ msgid ""
 "became famous amongst both Akladians and Wesnothians. A year ago you were a "
 "boy without his name. Now, you have gain some reputation."
 msgstr ""
+"Потому что я не был уверен, что ты тот, о ком мы думали. Чтобы сделать "
+"правильные выводы я должен был увидеть тебя лично. С другой стороны, ты сам "
+"должен был заслужить свою славу. Ты должен был стать известным среди "
+"акладиан и веснотцев. Год назад ты был безымянным мальчиком. Сейчас ты "
+"известная личность."
 
 #: A_New_Order/scenarios/20.cfg:491
 msgid ""
@@ -7402,6 +7519,10 @@ msgid ""
 "as well as Wesnothians. Then we will defeat orcs and those of Akladians who "
 "will oppose you. And then we will stop Grekulak invasion."
 msgstr ""
+"Мы объявим тебя мессией и королём Веснота и Вакладии. Как мессия ты станешь "
+"лидером акладиан. Надеюсь акладианы примут тебя так же охотно, как и "
+"веснотцы. Затем мы разобьём орков и тех акладианских лордов, которые "
+"выступят против тебя. И в итоге мы остановим вторжение Грекулака."
 
 #: A_New_Order/scenarios/20macros.cfg:8
 msgid ""
@@ -7416,7 +7537,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20macros.cfg:39
 msgid "Noooo!"
-msgstr ""
+msgstr "Не-е-ет!"
 
 #: A_New_Order/scenarios/20macros.cfg:52
 msgid "That's impossible! I have not finished my mission!"
@@ -7428,7 +7549,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20macros.cfg:67
 msgid "Our scouts have reported that king Buffin has gathered huge army."
-msgstr ""
+msgstr "Разведка доложила, что король Баффин собрал огромную армию."
 
 #: A_New_Order/scenarios/20macros.cfg:68
 msgid ""
@@ -7436,28 +7557,32 @@ msgid ""
 "that once Gawen will be declared 'messiah' everyone will greet him and there "
 "will be much rejoicements."
 msgstr ""
+"Наши солдаты победят его одной левой. С другой стороны кое-кто говорил, что "
+"как только Гэвена объявят мессией, все будут славить его и радоваться."
 
 #: A_New_Order/scenarios/20macros.cfg:69
 msgid ""
 "Someone must go to Oracle and tell her it's the time. This would have to be "
 "one, very brave man."
 msgstr ""
+"Кто-то должен прийти к Оракулу и сказать ей, что время пришло. Это должен "
+"быть один очень храбрый человек."
 
 #: A_New_Order/scenarios/20macros.cfg:70
 msgid "I will go."
-msgstr ""
+msgstr "Я иду."
 
 #: A_New_Order/scenarios/20macros.cfg:71
 msgid "My lord, do not listen to him. I will go."
-msgstr ""
+msgstr "Милорд, не слушайте его. Пойду я."
 
 #: A_New_Order/scenarios/20macros.cfg:72
 msgid "Ruvio, I want you by my side. And besides, who said that..."
-msgstr ""
+msgstr "Рувио, ты нужен мне здесь. С другой стороны, кто сказал, что..."
 
 #: A_New_Order/scenarios/20macros.cfg:73
 msgid "So, it is decided. I will go."
-msgstr ""
+msgstr "Ну, если вы всё выяснили, то я пойду."
 
 #: A_New_Order/scenarios/20macros.cfg:74
 msgid ""
@@ -7467,6 +7592,11 @@ msgid ""
 "the elders about everything, so they could gird themselves for the final "
 "fight and prepare everything for you to come."
 msgstr ""
+"Милорд, выслушайте. Нельзя посылать акладана, потому что они не умеют "
+"красться и скрываться. Я же кардусь и прячусь половину своей жизни. Я "
+"спокойно дойду до Оракула, а потом отправлюсь во Фритаун рассказать "
+"старейшинам обо всём, чтобы они могли подготовиться к последней битве и "
+"подготовить народ к Вашему приходу."
 
 #: A_New_Order/scenarios/20macros.cfg:75
 msgid ""
@@ -7474,6 +7604,9 @@ msgid ""
 "neither king or messiah. Why me? Why not someone else? This is all insane. I "
 "will lead the army happily, but ..."
 msgstr ""
+"Вы дадите мне договорить? Кто сказал, что я согласен? Я не хочу быть ни "
+"королём, ни мессией. Почему я? Почему не кто-то другой? Всё это безумие. Я "
+"рад командовать армией, но..."
 
 #: A_New_Order/scenarios/20macros.cfg:76
 msgid ""
@@ -7482,6 +7615,10 @@ msgid ""
 "thought I explained that to you already. You simply had no choice. Well, you "
 "can of course leave whole country in the chaos instead."
 msgstr ""
+"Ох. Повторю ещё раз: больше некому. Только ты можешь объединить веснотцев и "
+"акладиан потому, что ТОЛЬКО ТЫ одновременно принадлежишь к королевским "
+"семьям обоих народов. У тебя просто нет выбора. Нет, конечно же ты можешь "
+"бросить всю страну в хаос."
 
 #: A_New_Order/scenarios/20macros.cfg:77
 msgid ""
@@ -7489,6 +7626,8 @@ msgid ""
 "this moment everyone should address you as Gawen Haldric Hagarthen, king of "
 "whole Wesnoth and Akladia."
 msgstr ""
+"И, кстати, с этого дня прекрати называть себя Гемхальдриком. Отныне все "
+"должны называть тебя Гэвен Хальдрик Хагартен, король Веснота и Акладии."
 
 #: A_New_Order/scenarios/20macros.cfg:78
 msgid ""
@@ -7501,6 +7640,8 @@ msgid ""
 "Now, finally! With a bit of luck, Ruvio will die, and we will reclaim the "
 "throne without the 'help' of him and under... others."
 msgstr ""
+"Ну, хватит! Может нам повезёт, и Рувио убьют. Тогда мы сможем захватить трон "
+"без \"помощи\" магов и дик... прочих."
 
 #: A_New_Order/scenarios/20macros.cfg:142
 #: A_New_Order/scenarios/20macros.cfg:157
@@ -7520,7 +7661,7 @@ msgstr ""
 #: A_New_Order/scenarios/23macros.cfg:532 A_New_Order/scenarios/25.cfg:631
 #: A_New_Order/scenarios/25.cfg:645 A_New_Order/scenarios/25.cfg:659
 msgid "Ha! They were hiding some gold here!"
-msgstr ""
+msgstr "Ха! Они спрятали тут немного золота!"
 
 #: A_New_Order/scenarios/20macros.cfg:206
 #: A_New_Order/scenarios/20macros.cfg:225
@@ -8247,7 +8388,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/21bride.cfg:3
 msgid "Abducted Bride"
-msgstr ""
+msgstr "Похищенная невеста"
 
 #: A_New_Order/scenarios/21bride.cfg:9 A_New_Order/scenarios/21bride.cfg:35
 msgid "Wait, do not die yet! I want you to answer few question first!"
@@ -8326,24 +8467,29 @@ msgid ""
 "Skagrrak, kidnapped a young girl trying to force her to the marriage. The "
 "decision to save the poor girl came natural for Gawen."
 msgstr ""
+"Крестьяне расказали Гэвену, что соседний лорд Барк О'Скагррак похитил юную "
+"девушку, чтобы заставить её выйти за него замуж. Естественно, Гэвен принял "
+"решение спасти бедную девушку."
 
 #: A_New_Order/scenarios/21bride.cfg:117
 msgid "Rurk Skagrrae"
-msgstr ""
+msgstr "Рурк Скагрре"
 
 #: A_New_Order/scenarios/21bride.cfg:170
 msgid "Bark O Skagrrak"
-msgstr ""
+msgstr "Барк О'Скагррак"
 
 #: A_New_Order/scenarios/21bride.cfg:240
 msgid "Rurk, report about your preparations."
-msgstr ""
+msgstr "Рурк, доложи о готовности."
 
 #: A_New_Order/scenarios/21bride.cfg:241
 msgid ""
 "We are ready, my lord. Where will we be going? Are the gossip I've heard "
 "about the hordes on our eastern border true?"
 msgstr ""
+"Мы готовы, милорд. Куда направляться? Слухи об ордах на нашей восточной "
+"границе правда?"
 
 #: A_New_Order/scenarios/21bride.cfg:242
 msgid ""
@@ -8352,44 +8498,54 @@ msgid ""
 "Buffin is making this gossip himself to scare Wesnothians and to prevent "
 "them from thinking about the next rebellion."
 msgstr ""
+"Что за слухи? Призраки захватили замок? Рурк, я считал тебя разумным "
+"человеком. Призраки и мертвецы это веснотские байки. Скорее всего король "
+"Баффин сам распускает эти слухи, чтобы веснотцы больше боялись и меньше "
+"думали о новом восстании."
 
 #: A_New_Order/scenarios/21bride.cfg:243
 msgid "So why are we preparing the army?"
-msgstr ""
+msgstr "Так для чего тогда мы собрали армию?"
 
 #: A_New_Order/scenarios/21bride.cfg:244
 msgid "You don't have to know. You have to fulfill my orders."
-msgstr ""
+msgstr "Это не твоего ума дело. Просто выполняй мои приказы."
 
 #: A_New_Order/scenarios/21bride.cfg:245
 msgid ""
 "They keep that poor girl somewhere north from their castle. We have to "
 "release her and help her return to her father."
 msgstr ""
+"Они держат бедную девушку на севере от замка. Нужно освободить её и "
+"проводить к отцу."
 
 #: A_New_Order/scenarios/21bride.cfg:246
 msgid "... aaand of course we have to kill all the bastards who kidnapped her."
-msgstr ""
+msgstr "... и конечно нужно перебить ублюдков, которые её выкрали."
 
 #: A_New_Order/scenarios/21bride.cfg:247
 msgid "This isn't necessary."
-msgstr ""
+msgstr "Это не обязательно."
 
 #: A_New_Order/scenarios/21bride.cfg:248
 msgid "I know."
-msgstr ""
+msgstr "Я знаю."
 
 #: A_New_Order/scenarios/21bride.cfg:250 A_New_Order/scenarios/21bride.cfg:257
 msgid ""
 "My Lord, this seems to be perfect task for Elvish Avenger. I may sneak right "
 "to the cage and free that girl!"
 msgstr ""
+"Милорд, похоже здесь есть работа для эльфийских мстителей. Я могу "
+"прокрасться прямо к темнице и освободить девушку!"
 
 #: A_New_Order/scenarios/21bride.cfg:269 A_New_Order/scenarios/21bride.cfg:297
 msgid ""
 "Release peasant girl which is kept in a cage and move her to the northern "
 "edge of the map."
 msgstr ""
+"Освободите крестьянскую девушку из темницы и проведите её к северному краю "
+"карты."
 
 #: A_New_Order/scenarios/21haunted.cfg:155
 #: A_New_Order/scenarios/23macros.cfg:598
@@ -8397,21 +8553,23 @@ msgstr ""
 #: A_New_Order/scenarios/25.cfg:452 A_New_Order/scenarios/27.cfg:628
 #: A_New_Order/scenarios/27.cfg:899
 msgid "Death of Deorien"
-msgstr ""
+msgstr "Смерть Деориена"
 
 #: A_New_Order/scenarios/21bride.cfg:330
 msgid "Euridica"
-msgstr ""
+msgstr "Эвридика"
 
 #: A_New_Order/scenarios/21bride.cfg:339
 msgid ""
 "Don't thank us, it's not over yet. You have to escape. I guess we can escape "
 "to the north."
 msgstr ""
+"Не стоит благодарностей. Ты должна бежать. Думаю, бесопаснее всего идти на "
+"север."
 
 #: A_New_Order/scenarios/21bride.cfg:340
 msgid "Move peasant girl to the northern edge of the map."
-msgstr ""
+msgstr "Доведите крестьянку до северного края карты."
 
 #: A_New_Order/scenarios/21bride.cfg:351
 msgid ""
@@ -8424,21 +8582,23 @@ msgstr ""
 
 #: A_New_Order/scenarios/21bride.cfg:372
 msgid "Father! Father! I can't see!"
-msgstr ""
+msgstr "Папа! Папа! Я ничего не вижу!"
 
 #: A_New_Order/scenarios/21bride.cfg:373
 msgid "Oh no! We have failed our mission!"
-msgstr ""
+msgstr "О нет! Мы всё испортили!"
 
 #: A_New_Order/scenarios/21bride.cfg:386
 msgid "The poor girl is saved and we may now continue our quest."
-msgstr ""
+msgstr "Несчастная девушка спасена. Мы можем вернуться к нашему заданию."
 
 #: A_New_Order/scenarios/21bride.cfg:387
 msgid ""
 "Yes - Gawen Hagarthen, great future waits for you. Do not let it wait for "
 "too long."
 msgstr ""
+"Да, Гэвен Хагартен. Тебя ждёт великое будущее. Не заставляй ждать слишком "
+"долго."
 
 #: A_New_Order/scenarios/21bride.cfg:397
 msgid ""
@@ -8496,35 +8656,35 @@ msgstr ""
 
 #: A_New_Order/scenarios/21bride.cfg:468
 msgid "Rats! They are more dangerous that I thought! Bring the reinforcements!"
-msgstr ""
+msgstr "Крысы! Они сильнее чем я думал! Вызывайте помощь!"
 
 #: A_New_Order/scenarios/21haunted.cfg:3
 msgid "Haunted Place"
-msgstr ""
+msgstr "Замок с привидениями"
 
 #: A_New_Order/scenarios/21haunted.cfg:45
 msgid "Mal-Ulrival"
-msgstr ""
+msgstr "Мал-Улривал"
 
 #: A_New_Order/scenarios/21haunted.cfg:129
 msgid "Be carefull, my lord. We do not know what may hide in those ruins."
-msgstr ""
+msgstr "Осторожнее, милорд. Неизвестно кто скрывается в этих развалинах."
 
 #: A_New_Order/scenarios/21haunted.cfg:130
 msgid "Whatever it is, it will be soon dead."
-msgstr ""
+msgstr "Что бы то ни было, оно скоро умрёт."
 
 #: A_New_Order/scenarios/21haunted.cfg:131
 msgid "Ha, more candidates to be turned into mindless slaves! Come here!"
-msgstr ""
+msgstr "Ха, вот ещё кандидаты в безмозглые рабы. Идите-идите!"
 
 #: A_New_Order/scenarios/21haunted.cfg:132
 msgid "I have the impression, that whatever it is, it may already be dead."
-msgstr ""
+msgstr "У меня такое впечатление, что они уже мёртвые."
 
 #: A_New_Order/scenarios/21haunted.cfg:133
 msgid "For my sword there is no difference."
-msgstr ""
+msgstr "Для моего меча разницы нет."
 
 #: A_New_Order/scenarios/21haunted.cfg:134
 msgid ""
@@ -8532,14 +8692,17 @@ msgid ""
 "them. It should be extremely easy task. If my advise something, you may use "
 "that occassion to train newly recruited mages."
 msgstr ""
+"Похоже, это разведчики Грекулака. Мы должны очистить руины от них. Это будет "
+"очень просто. И я бы посоветовал использовать случай, чтобы потренировать "
+"новых магов."
 
 #: A_New_Order/scenarios/21haunted.cfg:184
 msgid "The ruins are cleaned from the undead. But we have more things to do."
-msgstr ""
+msgstr "Руины очищены от мертвецов. Но нам ещё многое нужно сделать."
 
 #: A_New_Order/scenarios/21haunted.cfg:186
 msgid "I have one question. When we will kill that mage?"
-msgstr ""
+msgstr "Один вопрос: когда уже мы убьём этого мага?"
 
 #: A_New_Order/scenarios/21haunted.cfg:192
 msgid ""
@@ -8578,12 +8741,12 @@ msgstr ""
 
 #: A_New_Order/scenarios/21haunted.cfg:206
 msgid "I failed my mission - but I do not afraid death!"
-msgstr ""
+msgstr "Я провалил задание, но смерть мне не страшна!"
 
 #: A_New_Order/scenarios/21haunted.cfg:210
 #: A_New_Order/scenarios/21haunted.cfg:215
 msgid "Who are you? What are you doing here?"
-msgstr ""
+msgstr "Кто ты? Что ты здесь делаешь?"
 
 #: A_New_Order/scenarios/21haunted.cfg:211
 #: A_New_Order/scenarios/21haunted.cfg:216
@@ -8592,16 +8755,20 @@ msgid ""
 "now. Beware of his army - he is closer with every night.. and every your "
 "heart beat makes you closer to your death..."
 msgstr ""
+"Я готовил почву для большего, кто скоро будет здесь. Берегитесь его армии - "
+"он ближе с каждой ночью... И скоро ваши сердца забьются перед смертью."
 
 #: A_New_Order/scenarios/21haunted.cfg:224
 msgid ""
 "This castle seems to be abandoned not long ago. Probably previous owners "
 "were either killed or scared by undead. They left some gold here,it seems."
 msgstr ""
+"Похоже, этот замок был разрушен не так давно. Скорее всего метрвецы убили "
+"или перепугали последних владельцев. Они оставили здесь золото."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:3 A_New_Order/scenarios/21weldyn.cfg:3
 msgid "Ruins of the past"
-msgstr ""
+msgstr "Руины прошлого"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:13
 msgid ""
@@ -8610,6 +8777,9 @@ msgid ""
 "will hear is true. But I think I guessed more or less correctly the story of "
 "Grekulak."
 msgstr ""
+"То, что я сейчас расскажу, это результат многолетних медитаций и накопления "
+"крупиц знаний. Я не могу обещать, что всё рассказанное - чистая правда. Но "
+"думаю, что более-менее точно восстановил историю Грекулака."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:16
 msgid ""
@@ -8618,6 +8788,11 @@ msgid ""
 "Wesnoth in the past, but he was defeated by few courageous man. Dacyn, "
 "Gweddry, all Wesnothian know that names, repeated with respect and sentiment."
 msgstr ""
+"Много столетий назад был один лич, пожалуй самый могущественный из тех, кто "
+"когда-либо существовал на лице земли. Его звали Мал-Раванал. Давным-давно "
+"его орды завоевали Веснот, но два храбрых человека, Дасин и Гведдри, "
+"победили его. Все веснотцы помнят их имена и повторяют их с уважением и "
+"любовью."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:19
 msgid ""
@@ -8627,6 +8802,11 @@ msgid ""
 "lich who keeps his human appearance with the stubborness of Grekulak. "
 "According to my spies, he still looks like a living human."
 msgstr ""
+"Всего одному из адептов Мал-Раванала удалось спастись, что парадоксально, "
+"самому слабому. Его магия была совсем другого рода, нежели у остальных "
+"личей. Я даже не уверен, можно ли его так называть. Я не знаю личей, которые "
+"пытались бы сохранить своё человеческое обличье так же упорно, как Грекулак. "
+"Мои шпионы говорили, что он выглядит совсем как живой человек."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:22
 msgid ""
@@ -8636,6 +8816,10 @@ msgid ""
 "living creatures: be they elves, humans or dwarves - were able to defeat "
 "large hordes of undead. "
 msgstr ""
+"После поражения Мал-Раванала Грекулак скрылся в болотах. Однажды к нему "
+"пришла идея. Мертвецы сотрясают мир Веснота тысячелетиями, и никогда не "
+"добиваются успеха, потому что находятся какие-то живые создания, будь то "
+"эльфы, люди или гномы, которые побеждают мёртвые орды."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:25
 msgid ""
@@ -8645,6 +8829,10 @@ msgid ""
 "reason of their failure. So Grekulak decided to use some race of living "
 "creatures."
 msgstr ""
+"Грекулак хотел править миром, и некромантия была лишь средством, а не целью, "
+"по крайней мере он так считал. По своей природе мёртвые обладали "
+"посредственными умом и крепостью духа, и это было причиной их поражений. "
+"поэтому Грекулак решил использовать живых существ."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:28
 msgid ""
@@ -8652,6 +8840,9 @@ msgid ""
 "them, until he came to conclusion that neither the orcs or humans are well-"
 "suited for his goal. So he decided to breed a race of his own."
 msgstr ""
+"Я ничего не знаю о его экспериментах, могу только догадываться, что он "
+"испытал многое прежде, чем понял, что ни люди, ни орки не подходят для его "
+"целей. И тогда Грекулак решил создать собственную расу."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:31
 msgid ""
@@ -8661,6 +8852,11 @@ msgid ""
 "race of merciless warriors. He crafted them, as smith crafts a sword. Yes, I "
 "am talking about the Akladians. "
 msgstr ""
+"Не знаю как ему это удалось. Это противоречит всем нашим знаниям, и, если бы "
+"я не видел собственными глазами живые доказательства его успеха, я бы "
+"сказал, что это невозможно. Он каким-то образом скрещивал орков и людей, "
+"пока не получил новую расу безжалостных воинов. Он выковал их как кузнец "
+"выковывает меч. Да, я говорю об акладианах."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:34
 msgid ""
@@ -8671,6 +8867,12 @@ msgid ""
 "disdain for the mages are clear workings of Grekulak. Why Akladians still "
 "know the honour and loyalty is unclear for me. "
 msgstr ""
+"Он хотел использовать акладиан как орудие завоевания мира. Ему нужны были "
+"воины, а не бездумные рабы, поэтому он дал им религию, в которой сам "
+"Грекулак представлялся Богом, предводителем своей паствы. Он создал, по "
+"крайней мере поспособствовал, созданию новой грубой и жестокой культуры. "
+"Ненависть к эльфам, презрение к магам это в полной мере работа Грекулака. "
+"Как акладианы сохранили такие понятия как честь и преданность мне непонятно."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:37
 msgid ""
@@ -8679,6 +8881,10 @@ msgid ""
 "them, first Hagarthen, announced that Grekulak is the tool of the false God, "
 "and led a bloody rebellion."
 msgstr ""
+"Но акладианы были людьми в степени достаточной для того, чтобы иметь "
+"желания, свойственные всем людям. Свобода, право выбора собственого пути. "
+"Один из них, первый Хагартен, объявил Грекулака служителем ложного бога и "
+"поднял кровавое восстание."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:40
 msgid ""
@@ -8687,6 +8893,10 @@ msgid ""
 "and all kinds of most nightmarish creatures. This was really an epic journey "
 "survived by less than quarter of all people who left Grekulak lands."
 msgstr ""
+"Столица Грекулака была обращена в руины, а акладианы ушли на запад, "
+"преследуемые приспешниками Грекулака, утопающие в болотах, сражающиеся с "
+"ящерами и множеством других кошмарных тварей. Это был действительно великий "
+"исход в котором выжило меньше четверти из тех, кто покинул земли Грекулака."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:43
 msgid ""
@@ -8696,6 +8906,11 @@ msgid ""
 "tool they could use to get advantage over the others, potential allies or "
 "mercenaries rather than terrible menace."
 msgstr ""
+"А потом они вошли в Веснот и немедленно начали жестокое завоевание. Как вам "
+"известно, королевство было сильно разрознено, и поначалу веснотские короли "
+"считали, что акладиан можно использовать как орудие, которое поможет "
+"одержать победу над остальными, что с ними можно союзничать и торговать. "
+"Никто не воспринял их как страшную угрозу."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:46
 msgid ""
@@ -8708,6 +8923,15 @@ msgid ""
 "barbarians, introducing their laws of unthinkable stringency and cruelty "
 "into civilised lands, chasing mages, murdering elvish and dwarvish traders."
 msgstr ""
+"Даже падения Вельдина было не достаточно, чтобы убедить королей Веснота "
+"объединиться против общей угрозы. Время от времени некоторые из них вступали "
+"в союз и даже выигрывали в битве, но после победы возвращались с старым "
+"раздорам. И так они были побеждены один за другим. Остались лишь Эленсефар и "
+"последние заставы на побережье и северной границе, гед правили сомнительные "
+"потомки старых королевских семейств. В целом же Веснот стал добычей варваров-"
+"акладиан, установивших свои законы немыслимой для цивилизованых стран "
+"строгости и жестокости, отвращения к магам, истребления эльфов и гномов-"
+"торговцев."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:49
 msgid ""
@@ -8716,6 +8940,10 @@ msgid ""
 "of reasonable prosperity. They even started to mix with Wesnothians, and "
 "your father was not the first nor the last who married Wesnothian woman. "
 msgstr ""
+"И вот твой дед, Гэвен, разделил земли между четырьмя своими сыновьями. "
+"Акладианы стали немного менее безжалостными и жестокими после лет умеренного "
+"процветания. Они даже начали смешиваться с веснотцами, и твой отец был не "
+"первым и не последним кто женился на веснотской женщине."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:52
 msgid ""
@@ -8725,28 +8953,38 @@ msgid ""
 "breeding another race of warriors. He came here now, trying to seduce orcs "
 "and some of Akladians by promises of gold, fame and who knows what else."
 msgstr ""
+"Тем временем Грекулак начал собирать вокруг себя тех, кто остался после "
+"падения его королевства. Восстание акладиан нанесло ему серьёзный удар. "
+"Думаю, ему понадобилось не одно столение, чтобы собрать нужные силы. "
+"Грекулак отверг планы создания ещё одной расы воинов. Теперь он просто "
+"соблазнил орков и некоторых акладиан обещаниями золота, славы и неизвестно "
+"чем ещё."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:129
 msgid "This story.. Deorien, are you sure about this?"
-msgstr ""
+msgstr "Эта история... Деориен, ты уверен в том, что расказал?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:130
 msgid "Now, when he finished his story. Should we kill him now?"
-msgstr ""
+msgstr "Так, он, похоже, закончил. Теперь я могу его убить?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:131
 msgid "Mother, don't you get it? It means we are practically half-orcs!"
 msgstr ""
+"Мать, ты что ничего не поняла? Получается, что мы практически полуорки!"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:132
 msgid ""
 "No, Gawen. Grekulak used human form as a base and added few orcish features. "
 "To describe Akladians as half-orcs is a big simplification."
 msgstr ""
+"Нет, Гэвен. Грекулак взял за основу своей расы людей, от орков были "
+"тобавлены только немногие черты. Говорить об акладианах как о полуорках было "
+"бы очень сильным упрощением."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:133
 msgid "Why you were telling us whole that long story?"
-msgstr ""
+msgstr "Так зачем ты рассказал нам эту длинную историю?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:134
 msgid ""
@@ -8757,6 +8995,13 @@ msgid ""
 "popular.  Grekulak has it that messiah would not be Akladian, more popular "
 "version of Oracle is that he will not be fully Akladian."
 msgstr ""
+"Вы наверное слышали рассказы о новом мессии. Думаю, эти слухи идут от "
+"Грекулака. Он собирается появиться среди акладиан. чтобы вновь захватить "
+"власть над ними. Но мы можем использовать эти слухи против него. Чтобы "
+"воспротивиться Грекулаку, Оракул стала делать свои пророчества достаточно "
+"пространными, чтобы они имели множество толкований. Грекулак говорит, что "
+"мессия будет не из акладиан. А более известное пророчество Оракула говорит, "
+"что мессия будет не в полной степени акладианом."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:135
 msgid ""
@@ -8766,6 +9011,10 @@ msgid ""
 "Grekulak has a chance of taking over these lands, and then over the whole "
 "world."
 msgstr ""
+"Дума, теперь вам свё ясно. Гэвен, новым мессией должен стать ты. В лучшие "
+"времена веснотцы легко справились бы с Грекулаком. Даже акладианы смогли бы "
+"его победить, если бы не воцарившийся хаос. Но в наше время всеобщих "
+"раздоров у Грекулака есть шанс поработить наши земли, а затем и весь мир."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:136
 msgid ""
@@ -8774,6 +9023,10 @@ msgid ""
 "king, and now the messiah! What a career for someone who is considered "
 "bastard by Akladians."
 msgstr ""
+"Мессия? Ха-ха-ха, здорово. Тут очень не хватает Карен, она бы немедлено "
+"придумала какую-нибудь песенку на эту тему. Гэвен - великий пророк! Сначала "
+"король, а теперь вот и мессия. Отличная карьера для того, кого акладианы "
+"считают ублюдком."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:137
 msgid ""
@@ -8783,12 +9036,18 @@ msgid ""
 "create one nation from them, and defeat the forces of evil which will came "
 "here led by Grekulak. "
 msgstr ""
+"Нет, Гэвен. Для большинства акладиан, особенно для простых членов кланов, "
+"Гэвен Хагартен является законным королём. Тебя ненавидят только некоторые "
+"лорды. Ты единственный, кто сможет объединить акладиан и веснотцев и создать "
+"единый народ, который сможет сокрушить дьявольские орды Грекулака."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:138
 msgid ""
 "How do you think I will do it? I will just say 'hey guys, you may call me "
 "messiah now'? Isn't some kind of miracle needed and this kind of stuff?"
 msgstr ""
+"И как я по-твоему это сделаю? Просто скажу: \"Эй, парни, теперь зовите меня "
+"Мессией\"? Может должно произойти какое-то чудо или что-то в этом роде?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:139
 msgid ""
@@ -8798,18 +9057,26 @@ msgid ""
 "Gaumhaldric you made a name of your own. And I and all surviving mages will "
 "serve you."
 msgstr ""
+"Мессией тебя объявит Оракул. И акладианы всех королевств, включая королей, "
+"признают это. Ты также наследник королей Веснота, поэтому веснотцы тоже "
+"признают тебя законным правителем. Будучи Гемхальдриком ты создал себе "
+"собственное имя. Я вместе со всеми уцелевшими магами буду служить тебе."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:140
 msgid ""
 "Shut up, foul mage. Everything you tell us was blasphemy. Gawen Hagarthen is "
 "the king of Vakladia."
 msgstr ""
+"Заткнись, мерзкий маг. Всё, что ты говорил, одно сплошоне богохульство. "
+"Гэвен Хагартен - король Вакладии!"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:141
 msgid ""
 "And you are his mother, therefore the queen - think about it. He could rule "
 "over whole Wesnoth, all Akladian kingdoms."
 msgstr ""
+"Ты же его мать, королева. Задумайся. Он будет править всеми акладианскими и "
+"веснотскими королевствами."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:142
 msgid ""
@@ -8817,10 +9084,13 @@ msgid ""
 "are not serious, aren't you. Hey, Lorin, do you think underlings are equal "
 "to Akladians?"
 msgstr ""
+"Маг Деориен, ты действительно думаешь, что Гэвен сможет объединить акладиан "
+"и веснотцев? Это же не серьёзно. Эй, Лорин, как ты думаешь, дикари ровня "
+"акладианам?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:143
 msgid "You have to be joking. "
-msgstr ""
+msgstr "Ты похоже шутишь."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:144
 msgid ""
@@ -8828,6 +9098,9 @@ msgid ""
 "the world. The God himself choosed them for be masters of every other nation "
 "and race. And you are saying we should coexist?"
 msgstr ""
+"Деориен, вся их вера построена на идее превосходства над всеми в мире. Сам "
+"Господь назначил их хозяевами любой другой нации. И ты считаешь, что ты "
+"сможем существовать вместе?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:146
 msgid ""
@@ -8838,6 +9111,11 @@ msgid ""
 "seeking the help of a shaman in next village. It is just a beginning, but it "
 "is a good beginning."
 msgstr ""
+"Да. Это уже случилось. Не важно что говорят великие лорды акладиан, "
+"щеголяющие собственным превосходством и считающие ужасной мысть оравенстве с "
+"весносцами. Это УЖЕ случилось. Мужчины из акладианских кланов женятся на "
+"веснотках. Акладианские крестьяне идут за помощью к шаманам из соседних "
+"деревень. Это только начало, но это хорошее начало."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:147
 msgid ""
@@ -8846,24 +9124,28 @@ msgid ""
 "it may once became a religion uniting the nation, because you - Akladians, "
 "Wesnothians, and Aragwaithi - will became one nation, sooner or later."
 msgstr ""
+"Вера акладиан в единого Бога. правящего миром, привлекательна для простого "
+"люда. Если нам удастся убрать идею акладианского превосходства, это религия "
+"сможет объединить новую нацию, и вы - акладианы. веснотцы и арагвейты - "
+"станете этой единой нацией рано или поздно."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:148
 msgid "Can we kill him now? He is a gall on the face of the earth. A mage."
-msgstr ""
+msgstr "Ну теперь-то его можно убить? Он - мерзость на лице земли. Маг."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:149
 msgid "You may recruit mages now."
-msgstr ""
+msgstr "Теперь можно вербовать магов."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:160
 #: A_New_Order/scenarios/21weldyn.cfg:117
 msgid "Maurice"
-msgstr ""
+msgstr "Маурис"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:170
 #: A_New_Order/scenarios/21weldyn.cfg:126
 msgid "Alarice"
-msgstr ""
+msgstr "Аларис"
 
 #: A_New_Order/scenarios/21weldyn.cfg:14
 msgid ""
@@ -8871,6 +9153,9 @@ msgid ""
 "its streets, and its walls were reaching the sky. Now only ruins have "
 "remained - only the skeletons of the buildings and empty wells."
 msgstr ""
+"Говорят, когда-то здесь был великий город. Улицы были заполнены народом, а "
+"стены поднимались до самых небес. Сейчас остались только развалины, скелеты "
+"домов и высохшие колодцы."
 
 #: A_New_Order/scenarios/21weldyn.cfg:17
 msgid ""
@@ -8878,6 +9163,9 @@ msgid ""
 "good in taking fortified cities. They sieged the city for years, storming "
 "the walls with ferocity and fanatical courage."
 msgstr ""
+"Рассказывали, что акладианы не смогли взять Вельдин. У них всегда были "
+"проблемы со штурмом хорошо укреплённых городов. Годами они держали Вельдин в "
+"осаде, штурмуя стены с яростным исступлением фанатиков."
 
 #: A_New_Order/scenarios/21weldyn.cfg:20
 msgid ""
@@ -8886,20 +9174,27 @@ msgid ""
 "their promise. The tale has it that they tied the three bags of gold to the "
 "traitor's legs before they pushed him from the walls into the river."
 msgstr ""
+"В конце концов им помогло предательство. Изменнику пообещали три мешка "
+"золота, если он откроет ворота. Акладианы сделжали обещание. Легенда "
+"расказывает, что предателю повесили на шею три мешка золота и бросили со "
+"стены в реку."
 
 #: A_New_Order/scenarios/21weldyn.cfg:92
 msgid "So, you think the great mage is hiding somewhere here?"
-msgstr ""
+msgstr "Значит ты думаешь, что великий маг где-то здесь?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:93
 msgid "Yes, my lord. These are ruins of great city. Deorien should be there."
 msgstr ""
+"Да, милорд. Это руины великого города. Деориен должен быть где-то рядом."
 
 #: A_New_Order/scenarios/21weldyn.cfg:94
 msgid ""
 "Hiding like a rat, seeking the cover against the wrath on just hand of the "
 "God. So, our plain is to find him, torture him and kill him, right?"
 msgstr ""
+"Прячась как крыса, скрываясь от гнева длани господней. Итак, мы должны найти "
+"его, замучить и убить, так?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:95
 msgid ""
@@ -8907,30 +9202,36 @@ msgid ""
 "here, or the unability to grasp the goals of our mission is natural "
 "consequence of quality of your mind?"
 msgstr ""
+"Леди Лорин, вы просто притворяетесь, что не понимаете за чем нас послали, "
+"или вам действительно не хватает ума понять дель нашей миссии?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:96
 msgid "I can kill you here and now, underling, so watch your words."
 msgstr ""
+"Я могу убить тебя прямо здесь и сейчас, дикарь, так что следи за словами."
 
 #: A_New_Order/scenarios/21weldyn.cfg:97
 msgid ""
 "Mother! Stop it! What I told you about using this nasty word? I need both of "
 "you. You should be friends or at least allies, not enemies."
 msgstr ""
+"Мать, прекрати! Что я говорил об этом мерзком слове? Мне нужны вы оба. И "
+"нужны друзьями или хотя бы союзниками, а не врагами."
 
 #: A_New_Order/scenarios/21weldyn.cfg:98
 msgid "Is it an order?"
-msgstr ""
+msgstr "Это приказ?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:99
 msgid "Yes, it is."
-msgstr ""
+msgstr "Именно так."
 
 #: A_New_Order/scenarios/21weldyn.cfg:100
 msgid ""
 "If this is your will, Gawen, I will kill that under.. uhm... man-like "
 "creature later."
 msgstr ""
+"Если такова твоя воля, Гэвен, я убью ди... эээ... это человекоподобное позже."
 
 #: A_New_Order/scenarios/21weldyn.cfg:102
 #: A_New_Order/scenarios/21weldyn.cfg:104
@@ -8939,25 +9240,29 @@ msgid ""
 "of murdered citizens still inhabit this ruins. No Akladian wants to enter "
 "this cemetary full of memories of dead."
 msgstr ""
+"Помоги нам, Господи. Я слышал ужасные истории об этих местах. Говорят, "
+"призраки убитых горожан всё ещё обитают в руинах. Ни один акладиан не должен "
+"заходить на это кладбище, переполненое памятью о смерти."
 
 #: A_New_Order/scenarios/21weldyn.cfg:106
 msgid ""
 "No ghost will be able to stand against the cold steel in the hand of Lorin."
-msgstr ""
+msgstr "Ни один призрак не устоит перед холодной сталью в руках леди Лорин!"
 
 #: A_New_Order/scenarios/21weldyn.cfg:133
 msgid "Master, someone approaches us! Should I attack now?"
-msgstr ""
+msgstr "Учитель, кто-то приближается! Атаковать их?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:134
 msgid "No, don't attack."
-msgstr ""
+msgstr "Нет, подождите."
 
 #: A_New_Order/scenarios/21weldyn.cfg:135
 msgid ""
 "These are Akladians! At least, there are Akladians amongst them! I will need "
 "reinforcements!"
 msgstr ""
+"Это акладианы! По крайней мере некоторые из них! Нам нужно подкрепление!"
 
 #: A_New_Order/scenarios/21weldyn.cfg:136
 msgid ""
@@ -8966,20 +9271,25 @@ msgid ""
 "Gaumhaldric - or rather, Gawen Hagarthen. You have no idea how long I waited "
 "for you."
 msgstr ""
+"Я сказал подождите! Не бойтесь, друзья из далёких мест. Я знаю кто вы. "
+"Оракул сообщила мне об этом. Я ждал тебя, благородный Гемхальдрик или, "
+"лучше, Гэвен Хагартен. Ты наверное не знаешь как долго я тебя жду?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:137
 msgid "Are you Deorien, the great mage?"
-msgstr ""
+msgstr "Вы Деориен, великий маг?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:138
 msgid "Yes, I am."
-msgstr ""
+msgstr "Да, это я."
 
 #: A_New_Order/scenarios/21weldyn.cfg:139
 msgid ""
 "We need your help. Great army is about to invade Wesnoth, and without mage "
 "we.."
 msgstr ""
+"Нам нужна Ваша помощь. Огромная армия готовится вторгнуться в Веснот, и без "
+"магии мы..."
 
 #: A_New_Order/scenarios/21weldyn.cfg:140
 msgid ""
@@ -8988,11 +9298,17 @@ msgid ""
 "like you will appear. When I heard about you, a hope had arised in my heart. "
 "Now, when I see you, I am sure."
 msgstr ""
+"Я же говорил, что я знаю кто вы и зачем вы пришли. А вот ты, боюсь, этого не "
+"знаешь. Гэвен Хагартен, многие-многие годы я ждал появления кого-то вроде "
+"тебя. Когда я о тебе услышал, в моём сердце надежда поселилась. Теперь, "
+"когда я тебя увидел, она превратилась в уверенность."
 
 #: A_New_Order/scenarios/21weldyn.cfg:141
 msgid ""
 "Sure? Of what? You are confusing me, while I only want to ask you for help."
 msgstr ""
+"Надежда? На что? Вы сбиваете меня с толка, я же просто пришёл попросить о "
+"помощи."
 
 #: A_New_Order/scenarios/21weldyn.cfg:142
 msgid ""
@@ -9002,15 +9318,20 @@ msgid ""
 "First, you have to hear some story. Very long story... Gawen, what do you "
 "know about origins of Akladians?"
 msgstr ""
+"Приглашаю тебя и твоих друзей в мои покои. Я скрываюсь в этих руинах всю "
+"свою жизнь. В мрачные для Веснота времена я собрал последних спасшихся магов "
+"Вельдина и мы спрятались в билиотеке. Потом... Впрочем, я ещё успею это всё "
+"рассказать. А сначала ты должен услышать одну историю. Долгую-долгую "
+"историю... Гэвен, что тебе известно о происхождении акладиан?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:143
 msgid ""
 "Akladians? Well... we came from the east, isn't it? Mother, help me here..."
-msgstr ""
+msgstr "Акладиан? Ну... Мы пришли с востока, так? Мать, помоги мне."
 
 #: A_New_Order/scenarios/21weldyn.cfg:144
 msgid "Should I kill this mage now?"
-msgstr ""
+msgstr "Уже можно его убить?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:145
 msgid ""
@@ -9021,10 +9342,15 @@ msgid ""
 "beginning twisted and confused with the passing generations. Listen to me "
 "now."
 msgstr ""
+"Она ничем тебе не поможет, потому что сама знает только легенды и мифы. Она "
+"может рассказать историю о том, как Бог создал акладиан, чтобы те правили "
+"миром, но ложный пророк заключил их, а потом они взбунтовались и пришли "
+"сюда. Этот миф, как и любой другой, начинается правильно, но верное начало "
+"искажено и переврано поколениями рассказчиков. А теперь слушай."
 
 #: A_New_Order/scenarios/22.cfg:3
 msgid "Leaving the Okladia"
-msgstr ""
+msgstr "Уход из Окладии"
 
 #: A_New_Order/scenarios/22.cfg:17
 msgid ""
@@ -9033,6 +9359,9 @@ msgid ""
 "think this was no surprise for them. But their clamourous enthusiasm was "
 "surely a surprise for me."
 msgstr ""
+"Когда Деориен объявил солдатам, что они одлжны называть меня \"король Гэвен "
+"Хальдрик Хагартен\", они приняли это с большим энтузиазмом. Думаю, это не "
+"оказалось для них сюрпризом. А вот я был удивлён их шумными восторгами."
 
 #: A_New_Order/scenarios/22.cfg:20
 msgid ""
@@ -9041,10 +9370,16 @@ msgid ""
 "reporting about king Buffin behind our backs, we had no time for finding "
 "another way. We had to hew our way through Akladian ranks."
 msgstr ""
+"Я надеялся, что наша небольшая армия тихо выскользнет из Окладии, но на "
+"границе мы слишком близко подошли к окладианским заставам. Когда разведчики "
+"сообщили, что в нашем тылу армия Баффина, у нас уже не было времени искать "
+"другой путь. Нам осталось только прорубаться через ряды акладиан."
 
 #: A_New_Order/scenarios/22.cfg:59
 msgid "Treacherous dog! Harnen joined the rebels! Bring reinforcements!"
 msgstr ""
+"Вероломная собака! Харнен присоединился к бунтовщикам! Шлите за "
+"подкреплением!"
 
 #: A_New_Order/scenarios/22.cfg:66
 msgid ""
@@ -9052,20 +9387,25 @@ msgid ""
 "name: for I think I saw your face some time ago, and now.. Maybe I heard it "
 "wrong, but aren't your people calling you Gawen Hagarthen?"
 msgstr ""
+"Подожди! Прежде, чем мы скрестим клинки, я хочу узнать кое-что. Назови своё "
+"имя. Мне кажется, я когда-то видел тебя, и сейчас... Может быть я не "
+"расслышал, но кажется твои солдаты зовут тебя Гэвен Хагартен?"
 
 #: A_New_Order/scenarios/22.cfg:67
 msgid "I am Gawen Hagarthen."
-msgstr ""
+msgstr "Да, я Гэвен Хагартен."
 
 #: A_New_Order/scenarios/22.cfg:68
 msgid "Gawen Hagarthen, king of Vakladia?"
-msgstr ""
+msgstr "Гэвен Хагартен. король Вакладии?"
 
 #: A_New_Order/scenarios/22.cfg:69
 msgid ""
 "I am Gawen Hagarthen. I was crowned king in Vattin and betrayed by my own "
 "lords during the battle of Barnon."
 msgstr ""
+"Я Гэвен Хагартен. Я был коронован в Ваттине и предан собственными лордами в "
+"битве при Барноне."
 
 #: A_New_Order/scenarios/22.cfg:72
 msgid ""
@@ -9096,14 +9436,16 @@ msgid ""
 "My brother.. my brother died.. killed by someone called Gaumhaldric. Do "
 "you.. Do you know who was that Gaumhaldric?"
 msgstr ""
+"Мой брат... Мой брат мёртв. Его убил кто-то по имени Гемхальдрик. Ты... Ты "
+"знаешь кто такой Гемхальдрик?"
 
 #: A_New_Order/scenarios/22.cfg:82 A_New_Order/scenarios/22.cfg:105
 msgid "This was the name I used before."
-msgstr ""
+msgstr "Так меня звали раньше."
 
 #: A_New_Order/scenarios/22.cfg:83 A_New_Order/scenarios/22.cfg:106
 msgid "No idea who he could be."
-msgstr ""
+msgstr "Понятия не имею кто это."
 
 #: A_New_Order/scenarios/22.cfg:86 A_New_Order/scenarios/22.cfg:109
 msgid ""
@@ -9114,15 +9456,15 @@ msgstr ""
 
 #: A_New_Order/scenarios/22.cfg:88
 msgid "So, you killed my brother!"
-msgstr ""
+msgstr "Так ты убил моего брата!"
 
 #: A_New_Order/scenarios/22.cfg:90
 msgid "Yes. It was good fight and your brother was brave fighter."
-msgstr ""
+msgstr "Да. Это была славная битва, а твой брат был хорошим бойцом."
 
 #: A_New_Order/scenarios/22.cfg:91
 msgid "Yes. Now it will be your turn."
-msgstr ""
+msgstr "Да. А теперь твоя очередь."
 
 #: A_New_Order/scenarios/22.cfg:94
 msgid "We will see who will kill whom. Prepare for death!"
@@ -9133,18 +9475,24 @@ msgid ""
 "He had honourable death. My king, my brother only opposed you because he "
 "didn't know it was you. Please, forgive him."
 msgstr ""
+"Он принял достойную смерть. Мой король, брат был против тебя потому, что не "
+"знал кто ты на самом деле. Пожалуйста прости его."
 
 #: A_New_Order/scenarios/22.cfg:97 A_New_Order/scenarios/22.cfg:112
 msgid ""
 "I honour memory of your brother. He had not done anything which would have "
 "to be forgiven."
 msgstr ""
+"Я чту память о твоём брате. Он не совершил ничего за что я должен бы был его "
+"прощать."
 
 #: A_New_Order/scenarios/22.cfg:98 A_New_Order/scenarios/22.cfg:113
 msgid ""
 "Stop fighting! This is our rightful king. I am the your hand, my sword is "
 "your sword, my king, my blood is yours to spill."
 msgstr ""
+"Прекратите сражение! Это наш законный король! Я твоя рука! Мой меч - твой "
+"меч, мой король! Моя кровь твоя до последней капли!"
 
 #: A_New_Order/scenarios/22.cfg:103
 msgid ""
@@ -9160,15 +9508,15 @@ msgstr ""
 
 #: A_New_Order/scenarios/22.cfg:136
 msgid "Rauke Harnen"
-msgstr ""
+msgstr "Рауки Харнен"
 
 #: A_New_Order/scenarios/22.cfg:167
 msgid "Bal Riddon"
-msgstr ""
+msgstr "Бал Риддон"
 
 #: A_New_Order/scenarios/22.cfg:220
 msgid "Dauri Travil"
-msgstr ""
+msgstr "Даури Травил"
 
 #: A_New_Order/scenarios/22.cfg:254
 msgid "Vanguard"
@@ -9176,11 +9524,11 @@ msgstr ""
 
 #: A_New_Order/scenarios/22.cfg:303
 msgid "Have you heard, Rauke? You will have another king very soon now."
-msgstr ""
+msgstr "Рауке, ты слышал? Скоро у нас будет новый король."
 
 #: A_New_Order/scenarios/22.cfg:304 A_New_Order/scenarios/22.cfg:306
 msgid "No kidding."
-msgstr ""
+msgstr "Да брось."
 
 #: A_New_Order/scenarios/22.cfg:305
 msgid ""
@@ -9188,6 +9536,9 @@ msgid ""
 "introduce any sign of order, our king, which as it seems will soon be also "
 "your king, decided to help you and bring back the law."
 msgstr ""
+"Точно. Сейчас, когда Гэвен Хагартен мёртв, и вы не можете себе представить "
+"как навести порядок, наш король, который скоро будет и вашим королём, решил "
+"прийти к вам на помощь и восстановить законы."
 
 #: A_New_Order/scenarios/22.cfg:307
 msgid ""
@@ -9195,12 +9546,15 @@ msgid ""
 "he will call for an election for new king, where you, of course, will have "
 "chance to show your gratitude by giving him the crown."
 msgstr ""
+"Когда он очистит Вакладию от мародёров, хулиганов и разбойников, он "
+"провозгласит выборы нового короля, и у вас будет случай оказать уважение и "
+"отдать корону ему."
 
 #: A_New_Order/scenarios/22.cfg:308
 msgid ""
 "Are your speech going to somewhere, or do you just talk because you love to "
 "gab?"
-msgstr ""
+msgstr "Ты к чему-то ведёшь, или просто любишь потрепаться?"
 
 #: A_New_Order/scenarios/22.cfg:309
 msgid ""
@@ -9208,6 +9562,9 @@ msgid ""
 "You will of course join us? I know few people who are quite close to king, I "
 "may say a word to them..."
 msgstr ""
+"Ну хорошо. Рауке, что ты будешь делать когда сюда придёт король Баффин "
+"Хагартен? Ты же встанешь на нашу сторону? Я знаю некоторых приближённых к "
+"особе людей, могу попросить замолвить за тебя словечко..."
 
 #: A_New_Order/scenarios/22.cfg:312
 msgid ""
@@ -9232,6 +9589,8 @@ msgid ""
 "fighting with someone who - according to many - looked like our king Gawen's "
 "twin brother."
 msgstr ""
+"Не знаю что и думать. Мой брат Рабан недавно погиб в битве с кем-то, кто, "
+"как и многие, как две капли воды похож на короля Гэвена."
 
 #: A_New_Order/scenarios/22.cfg:319
 msgid ""
@@ -9263,54 +9622,65 @@ msgid ""
 "all, and if they will be worthy opponents, let's cut their hearts out and "
 "eat them. Speaking about eating, I am hungry..."
 msgstr ""
+"Ага, битва! Сын мой, впереди пища для наших мечей. Убьём их всех, и если они "
+"окажутся хорошими противниками, вырежем их сердца и съедим. Кстати, о еде, я "
+"голодна..."
 
 #: A_New_Order/scenarios/22.cfg:331
 msgid "My king, is mother of your majesty always this... hmm..."
-msgstr ""
+msgstr "Мой король, мать Вашего величества всегда такая... ммм..."
 
 #: A_New_Order/scenarios/22.cfg:332
 msgid ""
 "Bloodthirsty? I am not sure. She recently started to behave quite odd.. "
 "Mother, you should really stop eat so much. You are starting to get weight."
 msgstr ""
+"Кровожадная? Не уверен. Она часто начинает вести себя странно... Мать, тебе "
+"действительно нужно поменьше есть. Ты начинаешь набирать вес."
 
 #: A_New_Order/scenarios/22.cfg:333
 msgid "I will lose it in battle. Chaarge!"
-msgstr ""
+msgstr "Я сброшу его в битве! Заряжа-ай!"
 
 #: A_New_Order/scenarios/22.cfg:342
 msgid "Reach the northern edge of the map with Gawen."
-msgstr ""
+msgstr "Доведите Гэвена до северного края карты."
 
 #: A_New_Order/scenarios/22.cfg:385
 msgid "For our king, Gawen Haldric Hagarthen!"
-msgstr ""
+msgstr "За нашего короля Гэвена Хальдрика Хагартена!"
 
 #: A_New_Order/scenarios/22.cfg:386
 msgid ""
 "You king? You are fighting for the ghost of long dead boy? And why you "
 "called him Haldric?"
 msgstr ""
+"За короля? Вы бьётесь за давно умершего мальчишку? А почему вы называете его "
+"Хальдриком?"
 
 #: A_New_Order/scenarios/22.cfg:412
 msgid "You are opposing Gawen Hagarthen, your own king."
-msgstr ""
+msgstr "Ты выступаешь против Гэвена Хагартена - вашего короля!"
 
 #: A_New_Order/scenarios/22.cfg:413
 msgid "Our king? And where is he? Is he hiding behind your backs?"
-msgstr ""
+msgstr "Нашего короля? И где он? Прячется за твоей спиной?"
 
 #: A_New_Order/scenarios/22.cfg:421
 msgid ""
 "Now, feel the wrath of ancient power. Your God is expressing his anger "
 "through me, because you are opposing his messiah!"
 msgstr ""
+"Узнай ярость древней силы. Твой Бог показывает свой гнев с моей помощью, "
+"потому что ты выступил против его мессии!"
 
 #: A_New_Order/scenarios/22.cfg:455 A_New_Order/scenarios/22.cfg:466
 msgid ""
 "He lost consciousness already? Sigh. I hoped we could ask him few questions. "
 "But then, he didn't seem like guy actually KNOWING anything."
 msgstr ""
+"Он уже без сознания? Эх... Я надеялся мы сможем что-нибудь у него спросить. "
+"Впрочем, не похоже, что он знает что-нибудь стоящее."
 
 #: A_New_Order/scenarios/22.cfg:472
 msgid "What are you waiting for? Finish me!"
@@ -9465,7 +9835,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/22.cfg:556
 msgid "Eeek! They killed the boss! Bring reinforcements!"
-msgstr ""
+msgstr "Ик! Они убили босса! Скорей за подмогой!"
 
 #: A_New_Order/scenarios/22.cfg:586 A_New_Order/scenarios/22.cfg:595
 msgid ""
@@ -9535,6 +9905,8 @@ msgid ""
 "Straight to Vattin! Damn, I really feel hungry now. This fight made me "
 "STARVING."
 msgstr ""
+"Прямо в Ваттин! Чёрт, как же хочется есть. После битвы я просто умираю от "
+"голода."
 
 #: A_New_Order/scenarios/22.cfg:629
 msgid ""
@@ -9542,30 +9914,35 @@ msgid ""
 "could see you and acknowledge as king. We must hurry, because king Buffin is "
 "right behind us."
 msgstr ""
+"Думаю, мой король, нам нужно идти во Фритаун, чтобы восставшие веснотцы "
+"увидели Вас и признали своим королём. Нужно спешить, потому что король "
+"Баффин идёт прямо по пятам."
 
 #: A_New_Order/scenarios/22.cfg:630
 msgid "Nonono, not to Freetown! There is nothing to see in Freetown!"
-msgstr ""
+msgstr "Нет-нет-нет. Никакого Фритауна! Не на что там смотреть!"
 
 #: A_New_Order/scenarios/22.cfg:631
 msgid ""
 "Yes, there is something worthy to see in that city. In fact, I can't wait to "
 "see her."
-msgstr ""
+msgstr "Да нет, там есть на что взглянуть. Я уже не дождусь когда увижу её."
 
 #: A_New_Order/scenarios/22.cfg:632
 msgid "Her?"
-msgstr ""
+msgstr "Её?"
 
 #: A_New_Order/scenarios/22.cfg:633
 msgid "Mother, I will explain that to you later. Let's go!"
-msgstr ""
+msgstr "Мать, я объясню всё потом. Пойдём!"
 
 #: A_New_Order/scenarios/22.cfg:687
 msgid ""
 "Gee, don't panic. That's only the king Buffin's army's vanguard. I assure "
 "you that we have all the chances to win."
 msgstr ""
+"Эй, без паники. Это всего лишь авангард армии короля Баффина. Я уверена что "
+"мы ещё победим."
 
 #: A_New_Order/scenarios/23a.cfg:3 A_New_Order/scenarios/23b.cfg:3
 #: A_New_Order/scenarios/23c.cfg:3 A_New_Order/scenarios/23d.cfg:3
@@ -9747,29 +10124,35 @@ msgstr ""
 
 #: A_New_Order/scenarios/23d.cfg:22
 msgid "Stop there! Foul underlings, your life came to the end!"
-msgstr ""
+msgstr "Стоять! Вонючие дикари, прощайтесь с жизнью!"
 
 #: A_New_Order/scenarios/23d.cfg:23
 msgid ""
 "Noble lord, what's the punishment for saying things like that to your "
 "rightfull king?"
 msgstr ""
+"Благородный лорд, а какое наказание положено за произнесение подобных слов в "
+"адрес законного короля?"
 
 #: A_New_Order/scenarios/23d.cfg:24
 msgid "My king? Ha, ha, and where is he?"
-msgstr ""
+msgstr "Короля? Ха-ха, и где же он?"
 
 #: A_New_Order/scenarios/23d.cfg:26
 msgid ""
 "Here he is. Gawen Haldric Hagarthen. Together with his mother and with me, "
 "Reme Carrenemoe."
 msgstr ""
+"Он здесь. Гэвен Хальдрик Хагартен. Вместе со своей матерью и мной, Реме "
+"Карренемо."
 
 #: A_New_Order/scenarios/23d.cfg:27
 msgid ""
 "My God! Indeed, this is noble Reme, he couldn't possibly lie! So this is "
 "indeed.. Gawen Hagarthen, our king! My sword is your sword, my lord!"
 msgstr ""
+"О, Господи! Это действительно благородный Реме, он не может лгать! Значит "
+"это и в самом деле... Гэвен Хагартен, наш король! Мой меч - твой меч, милорд!"
 
 #: A_New_Order/scenarios/23d.cfg:34
 msgid ""
@@ -9788,16 +10171,20 @@ msgid ""
 "Those are Aragwaithi! Excellent! Listen, I knew your leader, Andrey Yaranov, "
 "and..."
 msgstr ""
+"Это арагвейты! Великолепно! Слушайте, я знакома с вашим предводителем "
+"Андреем Ярановым и..."
 
 #: A_New_Order/scenarios/23macros.cfg:5
 msgid ""
 "Yaranov is not my leader. His sietch is far away from here. This sietch and "
 "this tribe is ruled by me, and no ones rules over me."
 msgstr ""
+"Яранов не мой предводитель. Его шатры далеко отсюда. Эти шатры и это племя "
+"мои, и никто не стоит надо мной."
 
 #: A_New_Order/scenarios/23macros.cfg:6
 msgid "Show more respect, this is king Gawen Haldric Hagarthen."
-msgstr ""
+msgstr "Больше уважения. Здесь король Гэвен Хальдрик Хагартен."
 
 #: A_New_Order/scenarios/23macros.cfg:7
 msgid ""
@@ -9805,26 +10192,31 @@ msgid ""
 "will be welcomed, but he would have to understand that chances being called "
 "'his majesty' are nil."
 msgstr ""
+"Король? У нас ещё не было королей. Если он хочет к нам присоединиться, добро "
+"пожаловать. Главное, чтобы он понял нулевые шансы на то, что его кто-то тут "
+"будет назвать \"Ваше величество\"."
 
 #: A_New_Order/scenarios/23macros.cfg:8
 msgid ""
 "We are not your enemies. If you won't join us, will you at least not attack "
 "us?"
-msgstr ""
+msgstr "Мы не враги вам. Если вы не хотите помочь нам, хотя бы не мешайте."
 
 #: A_New_Order/scenarios/23macros.cfg:9
 msgid ""
 "Who said we won't join you? If you will pay, we will join your army, of "
 "course! The price is 300 golden pieces."
 msgstr ""
+"А кто сказал, что мы не хотим присоединиться? Заплати, и дело в шляпе. Цена "
+"300 золотых."
 
 #: A_New_Order/scenarios/23macros.cfg:17
 msgid "We will pay"
-msgstr ""
+msgstr "Мы заплатим."
 
 #: A_New_Order/scenarios/23macros.cfg:18
 msgid "We won't pay"
-msgstr ""
+msgstr "Нет, мы не заплатим."
 
 #: A_New_Order/scenarios/23macros.cfg:20
 msgid "Why not. Here is your gold."
@@ -9846,11 +10238,11 @@ msgstr ""
 
 #: A_New_Order/scenarios/23macros.cfg:58
 msgid "We do not have that much gold, unfortunately."
-msgstr ""
+msgstr "К сожалению у нас нет таких денег."
 
 #: A_New_Order/scenarios/23macros.cfg:59
 msgid "Then live in peace, or prepare to fight."
-msgstr ""
+msgstr "Тогда идите с миром, или готовьтесь к битве."
 
 #: A_New_Order/scenarios/23macros.cfg:67
 msgid ""
@@ -9858,14 +10250,16 @@ msgid ""
 "on our backs. If this was not enough, we marched right into units of "
 "Akladians."
 msgstr ""
+"Армия короля Баффина шла прямо за нами, мы почти слышали дыхание врагов за "
+"нашими спинами. И впереди нас тоже были сплошь акладианские отряды."
 
 #: A_New_Order/scenarios/23macros.cfg:102
 msgid "Larkin O Travil"
-msgstr ""
+msgstr "Ларкин О'Травил"
 
 #: A_New_Order/scenarios/23macros.cfg:136
 msgid "King Buffin"
-msgstr ""
+msgstr "Король Баффин"
 
 #: A_New_Order/scenarios/23macros.cfg:193
 msgid "{NAME}"
@@ -9873,34 +10267,37 @@ msgstr ""
 
 #: A_New_Order/scenarios/23macros.cfg:227
 msgid "Dauri Hurionen"
-msgstr ""
+msgstr "Даури Хурионен"
 
 #: A_New_Order/scenarios/23macros.cfg:261
 msgid "Boris Katirov"
-msgstr ""
+msgstr "Борис Катиров"
 
 #: A_New_Order/scenarios/23macros.cfg:310
 msgid "Who are you, stranger brave or stupid enough to enter Aragwaithi land?"
 msgstr ""
+"Кто ты, странник, который так смел или так глуп, чтобы ступить на землю "
+"арагвейтов?"
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:301
 #: A_New_Order/scenarios/23macros.cfg:334
 msgid "Messenger"
-msgstr ""
+msgstr "Гонец"
 
 #: A_New_Order/scenarios/23macros.cfg:341
 msgid "King Buffin! King Buffin! I bring terrible news for you!"
-msgstr ""
+msgstr "Король Баффин! Король Баффин! Ужасные новости!"
 
 #: A_New_Order/scenarios/23macros.cfg:343
 msgid "King Buffin is dead, boy."
-msgstr ""
+msgstr "Король Баффин мёртв, юноша."
 
 #: A_New_Order/scenarios/23macros.cfg:344
 msgid ""
 "Okladia is in need - undead have invaded our country, they are pillaging and "
 "murdering."
 msgstr ""
+"Он нужен Окладии! В нашу страну вторглись мертвецы! Они грабят и убивают!"
 
 #: A_New_Order/scenarios/23macros.cfg:344
 msgid "Without king Buffin, who will led our army against them?"
@@ -9908,7 +10305,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/23macros.cfg:344
 msgid "Dead? How can that be! "
-msgstr ""
+msgstr "Мёртв? Не может быть!"
 
 #: A_New_Order/scenarios/23macros.cfg:346
 msgid "What? Speak quickly, I am a little bit busy here!"
@@ -9939,18 +10336,20 @@ msgid ""
 "That's no good. I think it will be wise thing to withdraw, because without "
 "Buffin we will be too weak to defeat this army..."
 msgstr ""
+"Это плохо. Думаю, мудрее всего будет сдаться. Без Баффина у нас не хватит "
+"сил, чтобы бороться с мёртвой армией..."
 
 #: A_New_Order/scenarios/23macros.cfg:377
 msgid "Who's there? Ruvio! Finally, my friend!"
-msgstr ""
+msgstr "Кто здесь? Рувио! Наконец-то, друг мой!"
 
 #: A_New_Order/scenarios/23macros.cfg:378
 msgid "My lord..."
-msgstr ""
+msgstr "Милорд..."
 
 #: A_New_Order/scenarios/23macros.cfg:379
 msgid "What? Why do you have such sad face? Cheer up! Where is Karen?"
-msgstr ""
+msgstr "Что? Печаль на твоём лице? Выше нос! А где Карен?"
 
 #: A_New_Order/scenarios/23macros.cfg:380
 msgid ""
@@ -9958,12 +10357,16 @@ msgid ""
 "enough. What I saw.. I... I don't know if I can describe it. If I can bear "
 "the task of describing it. "
 msgstr ""
+"Милорд... Гэвен, прости пожалуйста, что я не могу внятно говорить. То, что я "
+"видел... Я не могу описать. Мне так тяжело говорить об этом."
 
 #: A_New_Order/scenarios/23macros.cfg:392
 msgid ""
 " 'This is territory of Aragwaithi sietch Gwaith. If you want to join us, you "
 "are welcome, if you want to fight us, you are dead.'"
 msgstr ""
+"\"Территория арагвейтского племени Гвейт. Если хочешь присоединиться к нам, "
+"входи, если хочешь сражаться с нами, умри.\""
 
 #: A_New_Order/scenarios/23macros.cfg:400
 msgid "My ancestors, I am going to you with sword in my hand!"
@@ -9971,7 +10374,7 @@ msgstr "Предки, я отправляюсь к вам с мечом в ру�
 
 #: A_New_Order/scenarios/23macros.cfg:401
 msgid "They are better than I thought! Reinforcements!"
-msgstr ""
+msgstr "Они лучше, чем я думал! За подмогой!"
 
 #: A_New_Order/scenarios/23macros.cfg:421
 msgid ""
@@ -10117,7 +10520,7 @@ msgstr "Вы получили 20 золотых."
 
 #: A_New_Order/scenarios/23macros.cfg:543
 msgid "Ha, the rest of my army is coming!"
-msgstr ""
+msgstr "Ха, а вот и остальное моё войско."
 
 #: A_New_Order/scenarios/23macros.cfg:569
 msgid ""
@@ -10125,29 +10528,38 @@ msgid ""
 "reintroduce peace and order after death of your king, my beloved nephew, "
 "Gawen. I..."
 msgstr ""
+"Акладианы королевства Вакладия! Я король Баффин. Я пришёл чтобы помочь вам "
+"восстановить мир и порядок, нарушенные после смерти вашего короля, моего "
+"возлюбленного племянника Гэвена. Я..."
 
 #: A_New_Order/scenarios/23macros.cfg:570
 msgid ""
 "I am Gawen Hagarthen. I starting to be tired of repeating that I am alive."
-msgstr ""
+msgstr "Я Гэвен Хагартен. И уже устал повторять, что я жив."
 
 #: A_New_Order/scenarios/23macros.cfg:571
 msgid ""
 "NO! Gawen Ha.. No, you are not him! You are some underling who pretends to "
 "be my beloved nephew! Kill him!"
 msgstr ""
+"НЕТ! Гэвен Ха... Нет, ты это не он! Ты какой-то дикарь, который выдаёт себя "
+"за моего пелмянника. Убить его!"
 
 #: A_New_Order/scenarios/23macros.cfg:572
 msgid ""
 "We will, but not because we welcome you, Buffin from Okladia. Though you are "
 "Hagarthen, nobody was inviting you here. We will discuss that issue later."
 msgstr ""
+"Мы так и сделаем, но не потому, что приняли тебя, Баффин из Окладии. Хоть ты "
+"и Хагартен, тебя никто сюда не приглашал. Мы обсудим всё позже."
 
 #: A_New_Order/scenarios/23macros.cfg:575
 msgid ""
 "I hope that with this {NAME} helping us this wouldn't be as difficult as it "
 "could be, but we still should be prepared for serious losses."
 msgstr ""
+"Надеюсь, если {NAME} поможет, нам будет легче. Но всё арвно нужно быть "
+"готовыми к серьёзным потерям."
 
 #: A_New_Order/scenarios/23macros.cfg:577
 msgid ""
@@ -10161,7 +10573,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/24.cfg:3
 msgid "Fall of Freetown"
-msgstr ""
+msgstr "Падение Фритауна"
 
 #: A_New_Order/scenarios/24.cfg:14
 msgid ""
@@ -10169,6 +10581,9 @@ msgid ""
 "news which made us worried - about Akladian armies in Raedwood forest, about "
 "the smokes in the woods. I was expecting the worse, yet I was surprised."
 msgstr ""
+"Я пытался достичь Фритауна так быстро, как только мог. В пути мы услышали "
+"вести, которые заставили нас беспокоиться: о том, что армия акладиан вощла в "
+"Редвудский лес, и лес полон дымом. Я ожидал худшего, но меня ждал сюрприз."
 
 #: A_New_Order/scenarios/24.cfg:17
 msgid ""
@@ -10177,6 +10592,10 @@ msgid ""
 "their mothers.  Impaled girls and men on the crosses. People burned in their "
 "houses. And still, no matter how stupid it seems, I still had the hope."
 msgstr ""
+"С самого начала стало понятно, что Фритаун взяли не орки. Орки не могли бы "
+"быть такими жестокими. Детей убивали вместе с матерьми. На перекрёстках "
+"лежали пронзённые мужчины и женщины. Людей жгли в их собственных домах. И "
+"всё же, как бы глупо это ни было, я сохранял надежду."
 
 #: A_New_Order/scenarios/24.cfg:21
 msgid ""
@@ -10187,12 +10606,19 @@ msgid ""
 "vengeance, but I felt nothing. My wife, my daughters, dead? It was too "
 "impossible to be believable."
 msgstr ""
+"Её лицо, хотя и было забрызгано грязью и кровью, осталось нетронуто. Её поза "
+"не оставляла сомнений в том, что с ней сделали прежде, чем нанести последний "
+"удар. Я упал на колени перед её телом, гладил её волосы так же, как когда "
+"она была ребёнком. Я ничего не чувствовал. Моя жена, моидочери мертвы? Это "
+"было слишком немыслимо, чтобы в это можно было поверить."
 
 #: A_New_Order/scenarios/24.cfg:25
 msgid ""
 "I tried to protect them, I tried so hard. I wanted Karen to be safe, in "
 "Freetown. If not my orders, maybe at least she..."
 msgstr ""
+"Я хотел уберечь их. Я так этого хотел. Я хотел чтобы Карен оставалась в "
+"безопасности, во Фритауне. Если бы не мой приказ, может быть хотя бы она..."
 
 #: A_New_Order/scenarios/24.cfg:29
 msgid ""
@@ -10202,6 +10628,11 @@ msgid ""
 "some dynastic marriage one day - I even foolishly dreamt you could found a "
 "new dynasty."
 msgstr ""
+"Гэвен, мне кажется Карен любила тебя. Не знаю, как ты сам к ней относился, "
+"но я всегда надеялся, что вы когда-нибудь будете счастливы вместе, хотя и "
+"понимал, что это врядли возможно, что однажды тебе придётся пойти на "
+"династический брак, я всё равно глупо мечтал, что вы с ней создадите новую "
+"династию."
 
 #: A_New_Order/scenarios/24.cfg:33
 msgid ""
@@ -10209,20 +10640,25 @@ msgid ""
 "have taken everything from me. First they took your mother from me. Then "
 "they killed her. And now, they killed my whole family."
 msgstr ""
+"Не знаю как долго я оставался там. Ничто меня не трогало. Акладианы отобрали "
+"у меня всё. Сначала они забрали у меня твою мать. Потом убили её. И вот они "
+"погубили всю мою семью."
 
 #: A_New_Order/scenarios/24.cfg:37
 msgid " I am an empty shell. Nothing is left inside me. "
-msgstr ""
+msgstr "Я пустая раковина. Внутри меня ничего не осталось."
 
 #: A_New_Order/scenarios/24.cfg:95
 msgid ""
 "Welcome to Freetown, Hagarthen. Why you came here? Why you brought here your "
 "mother? You wanted to admire the destruction caused by your kin?"
 msgstr ""
+"Добро пожаловать во Фритаун, Хагартен! Зачем пожаловал? А мамашу свою зачем "
+"притащил? Решили посмотреть как тут повеселились ваши дружки?"
 
 #: A_New_Order/scenarios/24.cfg:96
 msgid "How dare you speak that way to your king!"
-msgstr ""
+msgstr "Как ты разговариваешь со своим королём?"
 
 #: A_New_Order/scenarios/24.cfg:97
 msgid ""
@@ -10230,6 +10666,8 @@ msgid ""
 "mouths, I don't know what I would do to you. Amongst my army are people who "
 "had families here. I, myself..."
 msgstr ""
+"Хуон, если бы я не знал, откуда столько злобы в твоём голосе, не знаю чтобы "
+"я сделал. Среди моих солдат есть те, кто оставил здесь свои семьи. Я сам..."
 
 #: A_New_Order/scenarios/24.cfg:98
 msgid ""
@@ -10237,18 +10675,25 @@ msgid ""
 "families of those beasts who did that! All you Akladians should be killed, "
 "all you should be expelled, all you should..."
 msgstr ""
+"Ты сам что? А в армии твоей есть и родственники тех тварей, которые все это "
+"натворили! Всех вас, акладиан, нужно передавить! Стереть с лица земли! Вас "
+"всех надо..."
 
 #: A_New_Order/scenarios/24.cfg:99
 msgid ""
 "Silence, underling. You are unworthy of being called man. Stop crying like "
 "Wesnothian woman"
 msgstr ""
+"Замолчи, дикарь! Ты не достоин называться мужчиной! Прекрати хныкать, "
+"веснотская баба!"
 
 #: A_New_Order/scenarios/24.cfg:100
 msgid ""
 "And she! How Akladians knew where Freetown is located? Who told them? Who, "
 "if not that witch? Let's kill her, and then let's..."
 msgstr ""
+"Вот она! Как акладианы узнали где находится Фритаун? Кто им расказал? Кто, "
+"если не эта ведьма? Убьём ей, а потом..."
 
 #: A_New_Order/scenarios/24.cfg:101
 msgid ""
@@ -10256,10 +10701,14 @@ msgid ""
 "her. But if you want to just blindly kill anyone with Akladian drop of blood "
 "in his veins, I won't stop you. Start with me, your king."
 msgstr ""
+"Вот мой меч, Хуон. Я как и все потерял здесь родного человека и хочу "
+"отомстить за неё. Но если ты хочешь убивать каждого в чьих венах течёт "
+"акладианская кровь, я не буду тебя останавливать. Начни с меня, твоего "
+"короля."
 
 #: A_New_Order/scenarios/24.cfg:102
 msgid "You are not my king! You are.. You are..."
-msgstr ""
+msgstr "Ты не мой король! Ты!.. Ты!.."
 
 #: A_New_Order/scenarios/24.cfg:103
 msgid ""
@@ -10268,10 +10717,14 @@ msgid ""
 "Gawen Haldric Hagarthen, and this is my country. My sword will punish the "
 "wicked. My sword will defend defenseless."
 msgstr ""
+"Да. Теперь я вижу. Деориен, теперь я понимаю, что ты пытался объяснить. У "
+"веснотцев и акладиан нет будущего. если они не прекратят междоусобицы. Я "
+"король Гэвен Хальдрик Хагартен, и это моя страна. Моё меч искоренит зло. Мой "
+"меч защитит беззащитных."
 
 #: A_New_Order/scenarios/24.cfg:104
 msgid "My king..."
-msgstr ""
+msgstr "Король..."
 
 #: A_New_Order/scenarios/24.cfg:105
 msgid ""
@@ -10279,42 +10732,52 @@ msgid ""
 "daughter, but I would be grateful if I could find you next me in battles "
 "which await me."
 msgstr ""
+"Рувио, друг мой... Ты нужен мне. Я знаю, что ты оплакиваешь свою дочь, но "
+"буду бесконечно благодарен. если увижу тебя рядом в битвах, которые ожидают "
+"меня в будущем."
 
 #: A_New_Order/scenarios/24.cfg:106
 msgid "Gawen... My sword is your sword."
-msgstr ""
+msgstr "Гэвен... Мой меч - твой меч."
 
 #: A_New_Order/scenarios/24.cfg:107
 msgid ""
 "But what about your step-mother? She's Akladian wild beast. I bet it was she "
 "who passed the location of Freetown to Bor Cryne and his slayers."
 msgstr ""
+"Ну а что насчёт твоей мачехи? Она дикая акладианская бестия. Разве не она "
+"выдала расположение Фритауна Бору Крайну и его убийцам?"
 
 #: A_New_Order/scenarios/24.cfg:108
 msgid ""
 "Why should I do that? And when? I was with Gawen all the time far away from "
 "here!"
 msgstr ""
+"Зачем бы я это сделала? И когда? Я всё время находилась рядом с Гэвеном!"
 
 #: A_New_Order/scenarios/24.cfg:109
 msgid "Huon, stop accusing her. You have no proof."
-msgstr ""
+msgstr "Хуон, прекрати нападать на неё. Она ни при чём."
 
 #: A_New_Order/scenarios/24.cfg:110
 msgid ""
 "She could do that, from what I've heard about her. She could do that. I have "
 "no proof, but you will never be sure whether it was she or not."
 msgstr ""
+"Судя по всему, что я о ней слышал, она могла это сделать. Могла! У меня нет "
+"доказательств, но ты не можешь точно сказать, она нас выдала или нет."
 
 #: A_New_Order/scenarios/24.cfg:111
 msgid ""
 "That's ridiculous! How can you accuse.. Gawen, tell him you don't believe in "
 "that bullshit! Gawen! ... Gawen?"
 msgstr ""
+"Это нелепо! Как ты можешь? Гэвен, скажи, что ты не веришь в этот бред! "
+"Гэвен!... Гэвен?"
 
 #: A_New_Order/scenarios/24.cfg:112
 msgid "I want to be... alone for a moment."
-msgstr ""
+msgstr "Я должен... на минутку остаться один."
 
 #: A_New_Order/scenarios/24.cfg:114
 msgid ""
@@ -10322,16 +10785,21 @@ msgid ""
 "Wesnothians, you may again recruit Fencers, Spearmen, Bowmen, Akladian "
 "Clanmembers, Akladian Warriors, Akladian Homeguards, Akladian Wisemen."
 msgstr ""
+"Поскольку Оракул объявила о новом мессии, а веснотцы признали нового короля, "
+"теперь можно вербовать фехтовальщиков, копейщиков, лучников, членов кланов "
+"акладиан, воинов акладиан, ополченцев акладиан и знахарей акладиан."
 
 #: A_New_Order/scenarios/24.cfg:116
 msgid ""
 "Also, since you were joined by Rob Roe in the past, you may again recruit "
 "Thugs, Henchmen, Thiefs and Footpads."
 msgstr ""
+"Кроме того, вследствие давнего союза с Робом Ро, можно вербовать "
+"головорезов, шестёрок, воров и грабителей."
 
 #: A_New_Order/scenarios/25.cfg:3
 msgid "The Awakening"
-msgstr ""
+msgstr "Пробуждение"
 
 #: A_New_Order/scenarios/25.cfg:16
 msgid "My Lord! My lord is dead!"
@@ -10362,20 +10830,22 @@ msgid ""
 "Long live our king Gawen Haldric! It will be honour to fight for you, my "
 "king!"
 msgstr ""
+"Да здравствует наш король Гэвен Хальдрик! Я буду счастлив умереть за тебя, "
+"мой король!"
 
 #: A_New_Order/scenarios/25.cfg:42
 msgid "Death to enemies of our king! Long live our king Gawen Haldric!"
-msgstr ""
+msgstr "Смерть врагам нашего короля! Да здравствует король Гэвен Хальдрик!"
 
 #: A_New_Order/scenarios/25.cfg:61 A_New_Order/scenarios/25.cfg:75
 #: A_New_Order/scenarios/25.cfg:89 A_New_Order/scenarios/25.cfg:103
 #: A_New_Order/scenarios/25.cfg:117 A_New_Order/scenarios/25.cfg:131
 msgid "Peasant"
-msgstr ""
+msgstr "Крестьянин"
 
 #: A_New_Order/scenarios/25.cfg:160
 msgid "Akladian Peasant"
-msgstr ""
+msgstr "Акладианский крестьянин"
 
 #: A_New_Order/scenarios/25.cfg:175
 msgid ""
@@ -10385,6 +10855,10 @@ msgid ""
 "unopposed through the land, murdering and raping both Akladians and "
 "Wesnothians, invited here by the traitors sick from the hatred."
 msgstr ""
+"Народ Вакладии! Народ Веснота! Вы долго ждали прихода мессии. Вы долго ждали "
+"короля, который объединит народы и прекратит войны, разоряющие ваши страны. "
+"Орки, призванные ослепшими от ненависти предателями, безнаказанно опустошают "
+"ваши земли, убивают и насилуют акладиан, и веснотцев"
 
 #: A_New_Order/scenarios/25.cfg:179
 msgid ""
@@ -10393,6 +10867,9 @@ msgid ""
 "a man, who is sent here to stop the undead menace and to defeat the evil "
 "inside the very heart of our country. "
 msgstr ""
+"Вы слышали рассказы о мертвецах, захвативших королевство Окладия. Некоторые "
+"из вас потеряли надежду. Не бойтесь! Есть человек, который послан нам, чтобы "
+"остановить мертвецов и поразить зло, рождённое в самом сердце вашей страны!"
 
 #: A_New_Order/scenarios/25.cfg:183
 msgid ""
@@ -10401,40 +10878,45 @@ msgid ""
 "his crown. All hail the king! All hail the messiah! All hail Gawen Haldric "
 "Hagarthen!"
 msgstr ""
+"Вы знаете его. Сын акладианского короля и веснотской королевы. Великий воин "
+"и великий правитель. Дайте знать, что вы желаете, чтобы он пришёл и надел "
+"корону. Славьте короля! Славьте мессию! Славьте Гэвена Хальдрика Хагартена!"
 
 #: A_New_Order/scenarios/25.cfg:249
 msgid "Barhoon Urk"
-msgstr ""
+msgstr "Бархун Урк"
 
 #: A_New_Order/scenarios/25.cfg:337
 msgid "Bar Urien"
-msgstr ""
+msgstr "Бар Уриен"
 
 #: A_New_Order/scenarios/25.cfg:406
 msgid "Are there any news from Bor Cryne?"
-msgstr ""
+msgstr "Есть известия от Бора Крайна?"
 
 #: A_New_Order/scenarios/25.cfg:407
 msgid "Nothing new, my lord."
-msgstr ""
+msgstr "Ничего нового, милорд."
 
 #: A_New_Order/scenarios/25.cfg:408
 msgid "He should already be here! Where is he?"
-msgstr ""
+msgstr "Он уже должен быть здесь! Где он?"
 
 #: A_New_Order/scenarios/25.cfg:409
 msgid "My lord... This man, they call a messiah.."
-msgstr ""
+msgstr "Милорд... Этот человек, которого называют мессией..."
 
 #: A_New_Order/scenarios/25.cfg:410
 msgid ""
 "This underling! Creature who has usurped the holy name and who will be "
 "punished by God!"
 msgstr ""
+"Дикарь! Ублюдок, узурпировавший священное имя, который должен понести кару "
+"Господню!"
 
 #: A_New_Order/scenarios/25.cfg:411
 msgid "But.. What about if he really IS messiah?"
-msgstr ""
+msgstr "Но... Что есть он В САМОМ ДЕЛЕ мессия?"
 
 #: A_New_Order/scenarios/25.cfg:412
 msgid ""
@@ -10442,43 +10924,55 @@ msgid ""
 "spirits since my youth and God had sent me many messages. Gawen is not "
 "messiah. He is mixling, who is unworthy of even honourable death."
 msgstr ""
+"Нечего обсуждать. Верь мне, Бар Уриен, я слышу духов с самого детства, и "
+"Господь посыслал мне много знаков. Гэвен не мессия. Он полукровка, который "
+"не заслуживает даже достойной смерти."
 
 #: A_New_Order/scenarios/25.cfg:413
 msgid "But, I thought, let's just assume for the moment he IS..."
 msgstr ""
+"Но мне кажется, если хотя бы на мгновение представить, что он "
+"ДЕЙСТВИТЕЛЬНО..."
 
 #: A_New_Order/scenarios/25.cfg:414
 msgid ""
 "Bar, you are fine warrior and you were serving our clan loyally. But leave "
 "thinking to me."
 msgstr ""
+"Бар, ты отличный воин и преданно служишь своему клану. Оставь размышления "
+"мне."
 
 #: A_New_Order/scenarios/25.cfg:415
 msgid "But the Oracle..."
-msgstr ""
+msgstr "Но Оракул..."
 
 #: A_New_Order/scenarios/25.cfg:416
 msgid ""
 "There is no 'but'. I have long suspected the Oracle is tool of the evil, not "
 "God's."
 msgstr ""
+"Никаких \"но\". Я давно подозревал, что Оракул - орудие дьявола, а не Бога."
 
 #: A_New_Order/scenarios/25.cfg:417
 msgid ""
 "I don't want to interrupt you your interesting discussion, but _I_ think you "
 "will have chance to ask this Gawen directly about everything."
 msgstr ""
+"Не хочу прерывать вашу увлекательную беседу, но ЛИЧНО Я думаю, что вы сейча "
+"всё сможете узнать у Гэвена Хагартена лично."
 
 #: A_New_Order/scenarios/25.cfg:418
 msgid ""
 "Akladians - open the way for me and my army. I am your rightful king, I am "
 "messiah, the hand of God on this earth. Whoever opposes me opposes the God."
 msgstr ""
+"Акладианы! Дайте дорогу мне и моей армии. Я ваш законный король. Я мессия, "
+"рука господня на земле. Кто против меня, тот против Господа!"
 
 #: A_New_Order/scenarios/25.cfg:419
 msgid ""
 "Stop this blasphemies, foul mixling! You are nothing but a flabby underling."
-msgstr ""
+msgstr "Хватит болтать, паршивый полукровка! Ты просто дикарь-задохлик."
 
 #: A_New_Order/scenarios/25.cfg:421
 msgid ""
@@ -10486,6 +10980,9 @@ msgid ""
 "times you were fighting me; This time you will be dead on the battlefield, "
 "unless you will recognise me as your king."
 msgstr ""
+"А ты уже забыл как убегал от меня, уважаемый Ойре? Дважды ты сражался со "
+"мной. Теперь ты останешься лежать на поле боя или признаешь меня своим "
+"королём."
 
 #: A_New_Order/scenarios/25.cfg:423
 msgid "I am your king, Hoyre. Admit that or I will be forced to kill you."
@@ -10496,43 +10993,55 @@ msgid ""
 "My king? My king, you? Never! I will rip your heart off! I will cut your "
 "hands and feed the crows with them!"
 msgstr ""
+"Королём? Тебя - своим королём? Никогда! Я вырежу твоё сердце! Я отрублю тебе "
+"руки и скормлю их воронам!"
 
 #: A_New_Order/scenarios/25.cfg:426
 msgid ""
 "My lord, Bor Cryne may be just not far away from here. It isn't wise to "
 "fight alone against rebels' army."
 msgstr ""
+"Милорд, возможно Бор Крайн уже недалеко. Возможно мудрее будет дождаться его "
+"и не вступать в битву с бунтовщиками малыми силами."
 
 #: A_New_Order/scenarios/25.cfg:427
 msgid ""
 "What about you, noble lord? Will you oppose your king and messiah declared "
 "by the Oracle?"
 msgstr ""
+"А ты что скажешь, благородный лорд? Ты тоже против своего короля и мессии, "
+"провозглашённого Оракулом?"
 
 #: A_New_Order/scenarios/25.cfg:428
 msgid ""
 "I don't know what to think. But there IS one way to determine whether you "
 "are really what you claim to be. If you will be able to defeat us.. "
 msgstr ""
+"Даже не знаю что думать. Но ЕСТЬ один способ доказать, что ты именно тот за "
+"кого себя выдаёшь. Если ты сможешь победить нас..."
 
 #: A_New_Order/scenarios/25.cfg:429
 msgid ""
 "By the way, Gawen, you started to be really convincing in your role. You "
 "seem to like it, despite what you were telling earlier."
 msgstr ""
+"Кстати, Гэвен, ты начал довольно убедительно смотреться в новой роли. Тебе "
+"это нравится несмотря на всё, что ты говорил раньше."
 
 #: A_New_Order/scenarios/25.cfg:430
 msgid "Stop this talk. We have to kill our enemies. To arms!"
-msgstr ""
+msgstr "Хватит болтать. Мы должны уничтожить врага. К оружию!"
 
 #: A_New_Order/scenarios/25.cfg:431
 msgid "Yeah! OH MY GOD, I am agreeing with an underling!"
 msgstr ""
+"Да!\n"
+"О, БОЖЕ МОЙ, я соглашаюсь с дикарём!"
 
 #: A_New_Order/scenarios/25.cfg:456 A_New_Order/scenarios/27.cfg:636
 #: A_New_Order/scenarios/27.cfg:907
 msgid "Death of Huon Ryedric"
-msgstr ""
+msgstr "Смерть Хуона Райдрика"
 
 #: A_New_Order/scenarios/3.cfg:86 A_New_Order/scenarios/4.cfg:77
 #: A_New_Order/scenarios/25.cfg:480 A_New_Order/scenarios/27.cfg:78
@@ -10650,29 +11159,30 @@ msgstr ""
 
 #: A_New_Order/scenarios/25.cfg:614
 msgid "Aaah!"
-msgstr ""
+msgstr "А-а-ах!"
 
 #: A_New_Order/scenarios/25.cfg:615
 msgid "What? Mother, are you hurt?"
-msgstr ""
+msgstr "Что? Мать, тебе больно?"
 
 #: A_New_Order/scenarios/25.cfg:616
 msgid "No... I'm ok.. I'm ok... It was nothing."
-msgstr ""
+msgstr "Нет... Я в порядке... В порядке... Ничего."
 
 #: A_New_Order/scenarios/25.cfg:617
 msgid "But what that? You are wounded?"
-msgstr ""
+msgstr "Но что это было? Ты ранена?"
 
 #: A_New_Order/scenarios/25.cfg:618
 msgid "No, Gawen, I've told you I'm OK!"
-msgstr ""
+msgstr "Нет, Гэвен. Я же сказала: я в порядке!"
 
 #: A_New_Order/scenarios/25.cfg:619
 msgid ""
 "Probably the witch mistakenly drunk a poison she has prepared for someone "
 "else."
 msgstr ""
+"Может эта ведьма проглотила яд, который приготовила для кого-то другого?"
 
 #: A_New_Order/scenarios/25.cfg:620
 msgid ""
@@ -10680,12 +11190,15 @@ msgid ""
 "she does not want to tell you, neither will I. But be prepared that she may "
 "not be able to fight in battles which await us in future."
 msgstr ""
+"Милорд, думаю, я знаю, что происходит с вашей мачехой, но если она не хочет "
+"об этом говорить, я тоже буду молчать. Впрочем, предупрежу, чтобы вы были "
+"готовы к тому, что она не сможет принимать участие в будущих битвах."
 
 #: A_New_Order/scenarios/25.cfg:621
 msgid ""
 "Underling, be silent. You know nothing. You all know nothing. Lorin will "
 "fight."
-msgstr ""
+msgstr "Молчи, дикарь! Ты ничего не знаешь. Лорин всегда сражается!"
 
 #: A_New_Order/scenarios/25.cfg:673 A_New_Order/scenarios/27.cfg:760
 msgid "Aaargh! I haven't revenged my family!"
@@ -14793,6 +15306,9 @@ msgid ""
 "of peasants in the fields, no crows waiting patiently until they could "
 "resume their meal."
 msgstr ""
+"Когда солдаты Гэвена вошли в Окладию, они сразу же заметили отличия. В "
+"воздуже не было пепла сожжённых деревень, в полях не лежали обгорелые трупы, "
+"не было воронов, терпеливо ожидающих свежего мяса."
 
 #: A_New_Order/scenarios/conversations.cfg:40
 msgid ""
@@ -14802,6 +15318,11 @@ msgid ""
 "the fourth time in times of his rule, and had reputation of very carefull "
 "and skillful ruler."
 msgstr ""
+"Окладия была одним из четырёх королевств, основанных младшими Хагартенами "
+"после смерти деда Гэвена. Здесь правил Баффин Хагартен, старый, "
+"подозрительный и консервативный король. За время своего правления он "
+"четырежды успешно подавлял восстания веснотцев и заслужил репутацию "
+"осторожного и умелого правителя."
 
 #: A_New_Order/scenarios/conversations.cfg:45
 msgid ""
@@ -14810,52 +15331,63 @@ msgid ""
 "month since we left Raedwood, and we already defeated forces larger than "
 "ours."
 msgstr ""
+"Странно, но сейчас мне кажется, что успех близок как никогда. Наши солдаты - "
+"лучшие, просто элита. Прошло не многим более месяца с тех пор, как мы вышли "
+"из Редвуда, а мы уже разбили армию, значительно превосходящую нас размером."
 
 #: A_New_Order/scenarios/conversations.cfg:46
 msgid "A month? Are you sure it's more than a month?"
-msgstr ""
+msgstr "Месяц? Ты уверен, чуть больше месяца?"
 
 #: A_New_Order/scenarios/conversations.cfg:48
 msgid ""
 "Yes... Yes it is.. More than a month.. Oh Gawen, I.. I've done something "
 "really terrible.. I.. I.. I don't know how to tell you..."
 msgstr ""
+"Да... Именно так... Чуть больше месяца... О, Гэвен, я... Я сделала что-то "
+"совершенно ужасное... Я... Я... Я не знаю как рассказать тебе..."
 
 #: A_New_Order/scenarios/conversations.cfg:49
 msgid "What?!?"
-msgstr ""
+msgstr "Что?!?"
 
 #: A_New_Order/scenarios/conversations.cfg:50
 msgid ""
 "No, nothing. It doesn't matter. I... I'm sorry, but I can't... I will join "
 "you later."
 msgstr ""
+"Нет, ничего. Не имеет значения. Я... Я проше прощения, но я не могу... Я "
+"скоро вернусь."
 
 #: A_New_Order/scenarios/conversations.cfg:61
 msgid ""
 "Gawen, I've never seen your step-mother like this before. I think she is "
 "sick. Very sick. I've saw her vomiting yesterday."
 msgstr ""
+"Гэвен, я никогда раньше не видел твою мачеху такой. Мне кажется, ей плохо. "
+"Очень плохо. Вчера я видел, как её рвало."
 
 #: A_New_Order/scenarios/conversations.cfg:62
 msgid "But.. What happened? Why? Is she..."
-msgstr ""
+msgstr "Но... Что случилось? Почему? Она..."
 
 #: A_New_Order/scenarios/conversations.cfg:63
 msgid "Poisoned? Why not. We have Akladians in our army, isn't it?"
-msgstr ""
+msgstr "Отравлена? Почему бы и нет. Ведь в нашем войске есть ещё акладианы?"
 
 #: A_New_Order/scenarios/conversations.cfg:64
 msgid ""
 "My lord, I do not want to disturb you, but our scouts told us about the "
 "enemy forces."
 msgstr ""
+"Милорд, не хотел вас беспокоить, но разведчики доложили о приближении "
+"вражеской армии."
 
 #: A_New_Order/scenarios/conversations.cfg:65
 msgid ""
 "Hmm.. It seems we will have to fight this army to continue our journey. It "
 "should be easy."
-msgstr ""
+msgstr "Хм... Надо их разбить и продолжить путешествие. Мы легко справимся."
 
 #: A_New_Order/scenarios/conversations.cfg:67
 msgid ""
@@ -14863,6 +15395,9 @@ msgid ""
 "large army of Akladians. Someone has noticed us. Maybe our successes were "
 "too large. We have to won quickly, or we will be crushed by another foe."
 msgstr ""
+"Милорд, разведка также докладывает, что нас преследует большая армия "
+"акладиан. Кто-то нас заметил. Похоже, наши успехи стали слишком известны. Мы "
+"должны скорее одержать победу, иначе нас сокрушат подоспевшие враги."
 
 #: A_New_Order/scenarios/conversations.cfg:69
 msgid ""
@@ -14870,10 +15405,13 @@ msgid ""
 "army of Akladians. Someone has noticed us. Maybe our successes were too "
 "large. We have to won quickly, or we will be crushed by another foe."
 msgstr ""
+"Милорд, разведка докладывает, что нас преследует большая армия акладиан. Кто-"
+"то нас заметил. Похоже, наши успехи стали слишком известны. Мы должны скорее "
+"одержать победу, иначе нас сокрушат подоспевшие враги."
 
 #: A_New_Order/scenarios/conversations.cfg:71
 msgid "It will be quick victory then."
-msgstr ""
+msgstr "Значит это будет скорая победа."
 
 #: A_New_Order/scenarios/elvish_macros.cfg:10
 msgid "I will never again see our beatiful forests.."
@@ -14908,6 +15446,9 @@ msgid ""
 "My lord, I fought with you so many battles.. I can accept money from you no "
 "more. Please, treat me like a friend, not like a hired soldier."
 msgstr ""
+"Милорд, мы сражались плечом к плечу в столь многих битвах... Я больше не "
+"могу принимать от вас плату. Прошу считать меня своим другом, а не наёмным "
+"солдатом."
 
 #: A_New_Order/scenarios/final.cfg:47
 msgid "Final"
@@ -15249,14 +15790,13 @@ msgstr ""
 #: A_New_Order/units/Akladian_Lord.cfg:24
 #: A_New_Order/units/Akladian_Pikeneer-c.cfg:65
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:65
-#, fuzzy
 msgid "tough"
-msgstr "касание"
+msgstr "выносливость"
 
 #: A_New_Order/units/Lord_Hagarthen.cfg:64
 #: A_New_Order/units/Akladian_Darknite.cfg:36
 msgid "fast attack"
-msgstr ""
+msgstr "быстрая атака"
 
 #: A_New_Order/units/Ruvio.cfg:23 A_New_Order/units/Akladian_Protector.cfg:22
 #: A_New_Order/units/Akladian_Pikeneer.cfg:52
@@ -15265,9 +15805,8 @@ msgstr ""
 #: A_New_Order/units/Akladian_Queen.cfg:42
 #: A_New_Order/units/Akladian_Pikeneer-c.cfg:52
 #: A_New_Order/units/Akladian_Pikeneer-g.cfg:52
-#, fuzzy
 msgid "fighter"
-msgstr "луч света"
+msgstr "боец"
 
 #: A_New_Order/units/Akladian_Fastfoot.cfg:4
 msgid "Akladian Fastfoot"
@@ -15782,7 +16321,6 @@ msgid "short sword"
 msgstr "короткий меч"
 
 #: A_New_Order/units/Rogue_Mage.cfg:53
-#, fuzzy
 msgid "missile"
 msgstr "ракета"
 
