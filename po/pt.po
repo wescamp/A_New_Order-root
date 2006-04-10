@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-12 18:36+0100\n"
+"POT-Creation-Date: 2006-04-10 15:27+0200\n"
 "PO-Revision-Date: 2005-10-28 17:38+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -734,7 +734,7 @@ msgstr ""
 #: A_New_Order/scenarios/14bontom.cfg:66
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:64
 #: A_New_Order/scenarios/14orcs.cfg:36 A_New_Order/scenarios/14saorduc.cfg:104
-#: A_New_Order/scenarios/21weldyn.cfg:60 A_New_Order/scenarios/final.cfg:104
+#: A_New_Order/scenarios/21weldyn.cfg:60 A_New_Order/scenarios/final.cfg:110
 #: A_New_Order/scenarios/21haunted.cfg:35
 #: A_New_Order/scenarios/23macros.cfg:90 A_New_Order/scenarios/19oracle.cfg:49
 #: A_New_Order/scenarios/21bride.cfg:106 A_New_Order/scenarios/11.cfg:32
@@ -1399,7 +1399,7 @@ msgstr ""
 #: A_New_Order/scenarios/13.cfg:27
 msgid ""
 "Looking at him, I kept on thinking about what oracle told me once and "
-"suddenly I started to be affraid of those thoughts. When his father died, I "
+"suddenly I started to be afraid of those thoughts. When his father died, I "
 "thought that everything - well, almost everything - what Oracle had told me "
 "- were lies, but now.. Now I was scared and .. I tried not to think about "
 "it. But it kept coming back."
@@ -1468,7 +1468,7 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/13.cfg:82
-msgid "No offense, but you were already asking me that question."
+msgid "No offence, but you were already asking me that question."
 msgstr ""
 
 #: A_New_Order/scenarios/13.cfg:85
@@ -2706,6 +2706,10 @@ msgstr ""
 msgid "Uruk Lug"
 msgstr ""
 
+#: A_New_Order/scenarios/14bontom.cfg:146
+msgid "Rouke Rebarnon"
+msgstr ""
+
 #: A_New_Order/scenarios/14bontom.cfg:176
 msgid "Leif Thrall"
 msgstr ""
@@ -2898,7 +2902,7 @@ msgstr ""
 #: A_New_Order/scenarios/14bontom.cfg:403
 #: A_New_Order/scenarios/14bontom.cfg:443
 #: A_New_Order/scenarios/14bontom.cfg:450
-msgid "Do you know, who poisoned my mother?"
+msgid "Do you know, who poisoned Gawen Hagarthen's mother?"
 msgstr ""
 
 #: A_New_Order/scenarios/14bontom.cfg:411
@@ -5218,6 +5222,22 @@ msgid ""
 "something in herself."
 msgstr ""
 
+#: A_New_Order/scenarios/18.cfg:54
+msgid "Burton's wood"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:55
+msgid "Horsemills"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:56
+msgid "Porkton"
+msgstr ""
+
+#: A_New_Order/scenarios/18.cfg:57
+msgid "Laville"
+msgstr ""
+
 #: A_New_Order/scenarios/18.cfg:58
 msgid "To the Oracle"
 msgstr ""
@@ -5570,7 +5590,7 @@ msgstr ""
 msgid ""
 "Akladians from other kingdom were defeated by our people in battle near "
 "Broken Heart Runlet. Well, our people - this was army from Blackwater. Large "
-"army recently west east, I think they want harm the Oracle."
+"army recently went east, I think they want harm the Oracle."
 msgstr ""
 
 #: A_New_Order/scenarios/18.cfg:437
@@ -5608,12 +5628,12 @@ msgid "Well, I don't know. He may live in free kingdom of Elensefar."
 msgstr ""
 
 #: A_New_Order/scenarios/18.cfg:504
-msgid "East from here. Near Porkton."
+msgid "West from here. Near Porkton."
 msgstr ""
 
 #: A_New_Order/scenarios/18.cfg:508
 msgid ""
-"There was battle east from here, in which Akladians, Outlaws and Orcs tried "
+"There was battle west from here, in which Akladians, Outlaws and Orcs tried "
 "to captured the Oracle. But they were defeated by some young man, who.. wait "
 "a minute. What was your name, again?"
 msgstr ""
@@ -6266,7 +6286,7 @@ msgstr ""
 #: A_New_Order/scenarios/20.cfg:293
 msgid ""
 "I've heard that Perien, king of Easkladia is besieged in his own capital by "
-"Wesnothians. Two brothers in Guilcorta, Luc and Gauri, are quarelling "
+"Wesnothians. Two brothers in Guilcorta, Luc and Gauri, are quarreling "
 "amongst themselves. So our king, Buffin, decided he has to invite himself. "
 "He seemingly thought noone would oppose him."
 msgstr ""
@@ -6346,7 +6366,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20.cfg:457
 msgid ""
-"I don't know. I've just realised you will be praised as new messiah by many "
+"I don't know. I've just realized you will be praised as new messiah by many "
 "people I know. You could become king of whole Wesnoth and religious leader "
 "of our people."
 msgstr ""
@@ -7516,6 +7536,14 @@ msgstr ""
 msgid "Haunted Place"
 msgstr ""
 
+#: A_New_Order/scenarios/21haunted.cfg:18
+msgid ""
+"Nothing was breaking the silence except the sounds made by marching Gawen's "
+"soldiers. Even the grass here seemed to be weak and fragile, as if it was "
+"afraid to grow here. This was the Haunted Place, infamous in the whole "
+"neighbourhood."
+msgstr ""
+
 #: A_New_Order/scenarios/21haunted.cfg:45
 msgid "Mal-Ulrival"
 msgstr ""
@@ -7947,6 +7975,12 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/21weldyn.cfg:102
+msgid ""
+"God help us. I've heard terrible stories about this area. They say the ghost "
+"of murdered citizens still inhabit this ruins. No Akladian wants to enter "
+"this cemetery full of memories of dead."
+msgstr ""
+
 #: A_New_Order/scenarios/21weldyn.cfg:104
 msgid ""
 "God help us. I've heard terrible stories about this area. They say the ghost "
@@ -10726,7 +10760,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/30.cfg:32
 msgid ""
-"But then... I realised.. that the Oracle didn't say it would be the same "
+"But then... I realized.. that the Oracle didn't say it would be the same "
 "Hagarthen I was married to. I was afraid of those thoughts, during all these "
 "moments when I cared for you when you were without consciousness almost two "
 "years ago. I tried to push those thoughts away, and .. anyway, you died.. I "
@@ -10842,7 +10876,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/4.cfg:21
 msgid ""
-"It was this moment when Gawen realised that he was as hated by Wesnothian "
+"It was this moment when Gawen realized that he was as hated by Wesnothian "
 "folk, as by Akladians. While the former considered him barbarian beast, the "
 "latter called him mixling - at best. The irony of this was so overburdening "
 "that he started to laugh. He would probably laugh even harder if he could "
@@ -13408,7 +13442,7 @@ msgid ""
 "nikita: Russian translation\n"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:93
+#: A_New_Order/scenarios/final.cfg:99
 msgid ""
 " If you liked the campaign, please post your feedback at wesnoth forum "
 "(http://www.wesnoth.org/forum/). I invested a lot of time into this "
@@ -13416,123 +13450,123 @@ msgid ""
 "some opinions about it from people who played it."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:121
+#: A_New_Order/scenarios/final.cfg:127
 msgid ""
 "You have interrogated assassin sent to kill Gawen Hagarthen, and find out "
 "that it was one of the Akladian lords who hired him."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:124
+#: A_New_Order/scenarios/final.cfg:130
 msgid ""
 "Moreover, you have find out that it was Bor Cryne who hired assassin to kill "
 "Gawen Hagarthen."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:127
+#: A_New_Order/scenarios/final.cfg:133
 msgid "But you have not find out which one of Akladian lords did that and why."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:130
+#: A_New_Order/scenarios/final.cfg:136
 msgid "You have not find out who hired assassin to kill Gawen Hagarthen."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:135
+#: A_New_Order/scenarios/final.cfg:141
 msgid "You find out that Lorin clan bought poison from Outlaws."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:137
+#: A_New_Order/scenarios/final.cfg:143
 msgid ""
 "You find out that Lorin clan bought poison from Outlaws, but you don't know "
 "why."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:143
+#: A_New_Order/scenarios/final.cfg:149
 msgid "You have found out who poisoned Gawen's mother."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:146
+#: A_New_Order/scenarios/final.cfg:152
 msgid "You had not find out who poisoned Gawen's mother."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:150
+#: A_New_Order/scenarios/final.cfg:156
 msgid "You have saved Reme Carrenemoe."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:153
+#: A_New_Order/scenarios/final.cfg:159
 msgid "You have not saved Reme Carrenemoe."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:157
+#: A_New_Order/scenarios/final.cfg:163
 msgid ""
 "You have find out that it was Bor Cryne who brought Orcs to Vakladia, "
 "planning to purify Akladian race from anyone he considered 'unworthy'."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:160
+#: A_New_Order/scenarios/final.cfg:166
 msgid "You don't know who brought Orcs to Vakladia."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:171
+#: A_New_Order/scenarios/final.cfg:177
 msgid ""
 "Level three units (easy level): $ano_level_count units, $level_point points"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:176
+#: A_New_Order/scenarios/final.cfg:182
 msgid ""
 "Level three units (normal level): $ano_level_count units, $level_point points"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:179
+#: A_New_Order/scenarios/final.cfg:185
 msgid ""
 "Level three units (hard level): $ano_level_count units, $level_point points"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:196
+#: A_New_Order/scenarios/final.cfg:202
 msgid "Gold: (easy level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:202
+#: A_New_Order/scenarios/final.cfg:208
 msgid ""
 "Gold: (normal level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:207
+#: A_New_Order/scenarios/final.cfg:213
 msgid "Gold: (hard level): $ano_gawen_gold golden pieces, $level_point points"
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:216
+#: A_New_Order/scenarios/final.cfg:222
 msgid ""
 "Additional point for forcing Hoyre to run at 'Scouting near Barnon' scenario."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:221
+#: A_New_Order/scenarios/final.cfg:227
 msgid ""
 "Additional point for finding out gossips about messiah in `Sneaking out of "
 "Raedwood` and `Start of the quest` scenarios."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:226
+#: A_New_Order/scenarios/final.cfg:232
 msgid "Additional point for hiring Rob Roe."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:231
+#: A_New_Order/scenarios/final.cfg:237
 msgid ""
 "Additional point for heroical way of winning `Siege of Haeltin` scenario."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:234
+#: A_New_Order/scenarios/final.cfg:240
 msgid "And one more for doing it at `hard` level."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:240
+#: A_New_Order/scenarios/final.cfg:246
 msgid "Additional point for sparing Raban Harnen."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:243
+#: A_New_Order/scenarios/final.cfg:249
 msgid "Additional point for letting leave Raban Harnen."
 msgstr ""
 
-#: A_New_Order/scenarios/final.cfg:248
+#: A_New_Order/scenarios/final.cfg:254
 msgid "Total points: $points "
 msgstr ""
 
