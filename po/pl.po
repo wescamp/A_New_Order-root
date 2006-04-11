@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1.6\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-10 15:27+0200\n"
+"POT-Creation-Date: 2006-04-11 15:47+0200\n"
 "PO-Revision-Date: 2005-11-21 13:01+0100\n"
 "Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
@@ -7894,7 +7894,7 @@ msgstr ""
 #: A_New_Order/scenarios/20macros.cfg:357
 msgid ""
 "You? Betrayed you? You mixling, you underling, you never were my king - no "
-"Akladian worth of this word could serve creature like you!"
+"Akladian worth this name could serve creature like you!"
 msgstr ""
 
 #: A_New_Order/scenarios/20macros.cfg:358
@@ -12296,7 +12296,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/30.cfg:72
 msgid ""
-"Lorin with her son went to sietches of Aragwaithi, searching for Boris "
+"Lorin with her son went to sietches of Aragwaithi, searching for Andrey "
 "Yaranov. He took care of her and her child, raising him as if it was his own "
 "son."
 msgstr ""
@@ -13275,10 +13275,11 @@ msgstr ""
 "Gdzie podążymy teraz?"
 
 #: A_New_Order/scenarios/7.cfg:462
+#, fuzzy
 msgid ""
 "No one is now alive to inform Bor Cryne and others that your had survived "
 "the battle. We may go to Freetown now. The Akladians are all around us; we "
-"will have to cross the forests of Readwood, and hope that bandits living "
+"will have to cross the forests of Raedwood, and hope that bandits living "
 "there won't attack us."
 msgstr ""
 "Nikt nie pozostał z nich przy życiu by poinformować Bora Cryne i innych że "
