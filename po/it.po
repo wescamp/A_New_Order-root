@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-11 15:47+0200\n"
+"POT-Creation-Date: 2006-04-19 16:14+0200\n"
 "PO-Revision-Date: 2006-04-18 16:57+0100\n"
 "Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
@@ -3485,8 +3485,9 @@ msgstr "Questo non lo so."
 
 #: A_New_Order/scenarios/14bontom.cfg:422
 #: A_New_Order/scenarios/14bontom.cfg:469
+#, fuzzy
 msgid ""
-"Someone has hired assassin to kill Gawen Hagarthen, immedietely after his "
+"Someone has hired assassin to kill Gawen Hagarthen, immediately after his "
 "father's death. I know he came from Outlaw Base. Who hired him?"
 msgstr ""
 "Qualcuno ha pagato un assassino per uccidere Gawen Hagarthen, subito dopo la "
@@ -4641,8 +4642,9 @@ msgid "Lizard heaven? We do not have sssuch thing."
 msgstr "Paradissso delle lucertole? Non esssisste niente del genere."
 
 #: A_New_Order/scenarios/14saorduc.cfg:274
+#, fuzzy
 msgid ""
-"Sure you don't, I know you are going straight to hell, that was a metaphore"
+"Sure you don't, I know you are going straight to hell, that was a metaphore."
 msgstr ""
 "Ma certo che non c'è, lo so che andrai direttamente all'inferno, era solo un "
 "modo di dire."
@@ -4720,7 +4722,8 @@ msgstr ""
 "i tuoi antenati, Lucertola!"
 
 #: A_New_Order/scenarios/14saorduc.cfg:294
-msgid "Thank you! So you will save my life?"
+#, fuzzy
+msgid "Thank you! Ssso you will sssave my life?"
 msgstr "Grazie! Mi lascerai, dunque, vivere?"
 
 #: A_New_Order/scenarios/14saorduc.cfg:295
@@ -5265,10 +5268,11 @@ msgid "Spearman"
 msgstr "Lanciere"
 
 #: A_New_Order/scenarios/15a.cfg:182
+#, fuzzy
 msgid ""
 "My lord, we know that some orcish group attacked few villages north from "
 "here. Huon Ryedric was going there to defend the villages, but I thought "
-"that you would want to use that occassion, you know, to check our troops "
+"that you would want to use that occasion, you know, to check our troops "
 "before you would made final decisions which soldiers to choose for our quest"
 msgstr ""
 "Mio signore, sappiamo che alcuni gruppi di Orchi hanno attaccato alcuni "
@@ -5302,10 +5306,11 @@ msgid "Repelling the Orcs"
 msgstr "Scacciare gli Orchi"
 
 #: A_New_Order/scenarios/15b.cfg:16
+#, fuzzy
 msgid ""
 "The scouts brought news about small orcish party north from Freetown. "
 "Usually Huon Ryedric would deal with such marauders, but Gawen decided this "
-"could be occassion to check his troops abilities."
+"could be occasion to check his troops abilities."
 msgstr ""
 "Gli esploratori riferirono di un piccolo gruppo di Orchi a nord di Freetown. "
 "Di solito sarebbe stato Huon Ryedric a trattare con questa marmaglia, ma "
@@ -5385,8 +5390,9 @@ msgstr ""
 "gli aveva detto l'Oracolo quando era giovane."
 
 #: A_New_Order/scenarios/16.cfg:22
+#, fuzzy
 msgid ""
-"Karen was the first who left the chamber, and Lorin went immedietely after "
+"Karen was the first who left the chamber, and Lorin went immediately after "
 "her. Of course Yaranov jauntly followed her. I drink with Ruvio, without "
 "much talking, and when I decided I had enough I went to my bedroom."
 msgstr ""
@@ -5396,11 +5402,12 @@ msgstr ""
 "letto."
 
 #: A_New_Order/scenarios/16.cfg:25
+#, fuzzy
 msgid ""
 "I am not sure when she came to me, deprived of shame and clothes. She "
-"entered my chamber so queietly that in first moment I thought it was a "
-"dream. I was too drunk to ask any questions. I was too drunk to oppose her "
-"when she slipped into my bed."
+"entered my chamber so quietly that in first moment I thought it was a dream. "
+"I was too drunk to ask any questions. I was too drunk to oppose her when she "
+"slipped into my bed."
 msgstr ""
 "Non sono sicuro di quando fosse venuta da me, senza pudori né vestiti. Entrò "
 "nella mia camera così silenziosamente che all'inizio pensai fosse un sogno. "
@@ -5421,8 +5428,9 @@ msgstr ""
 "sono fregato."
 
 #: A_New_Order/scenarios/16.cfg:33
+#, fuzzy
 msgid ""
-"She left me as queietly as she came, as if she was just a dream. But I still "
+"She left me as quietly as she came, as if she was just a dream. But I still "
 "could smell her in the air, and my hands still remembered her as well. "
 "Whoever was she, I was sure I would recognise her if I would only touch her "
 "again."
@@ -5570,10 +5578,11 @@ msgid "I want to join you in your quest."
 msgstr "Vorrei unirmi alla vostra ricerca."
 
 #: A_New_Order/scenarios/16.cfg:140
+#, fuzzy
 msgid ""
 "There is too little place to recall all 12 units at once. Move the units out "
 "of the castle to make room for others. The units will be able to move (in "
-"this scenario only!!) immedietely after recalling, so do not push end turn "
+"this scenario only!!) immediately after recalling, so do not push end turn "
 "button."
 msgstr ""
 "C'è troppo poco spazio per richiamare tutte e 12 le unità in un colpo solo. "
@@ -6834,10 +6843,11 @@ msgid "I'm kind of surprised that she is not here with us."
 msgstr "Sono sorpreso che non sia qua con noi."
 
 #: A_New_Order/scenarios/18.cfg:555 A_New_Order/scenarios/20.cfg:451
+#, fuzzy
 msgid ""
 "I ordered Karl to tied here and lock her room. I think this gave us enough "
-"time to escape. This journey is really to dangerous for her. I hope she will "
-"stay safe in Freetown."
+"time to escape. This journey is really too dangerous for her. I hope she "
+"will stay safe in Freetown."
 msgstr ""
 "Ho ordinato Karl di legarla e chiuderla nella sua stanza. Penso che questo "
 "ci abbia dato abbastanza tempo per scappare. Questo viaggio è veramente "
@@ -7566,11 +7576,12 @@ msgstr ""
 "quello che ho sentito."
 
 #: A_New_Order/scenarios/20.cfg:293
+#, fuzzy
 msgid ""
 "I've heard that Perien, king of Easkladia is besieged in his own capital by "
 "Wesnothians. Two brothers in Guilcorta, Luc and Gauri, are quarreling "
 "amongst themselves. So our king, Buffin, decided he has to invite himself. "
-"He seemingly thought noone would oppose him."
+"He seemingly thought none would oppose him."
 msgstr ""
 "Ho sentito che Perien, re di Easkladia, è sotto assedio nella sua capitale "
 "da parte della gente di Wesnoth. I due fratelli a Guilcorta, Luc e Gauri, "
@@ -8461,7 +8472,8 @@ msgid ""
 msgstr ""
 
 #: A_New_Order/scenarios/20macros.cfg:528
-msgid "Be queiet, stupid man. No one wants to hear your lies."
+#, fuzzy
+msgid "Be quiet, stupid man. No one wants to hear your lies."
 msgstr "Taci, stupido uomo. Nessuno vuole ascoltare le tue bugie."
 
 #: A_New_Order/scenarios/20macros.cfg:533
@@ -8494,7 +8506,8 @@ msgid "What questions?"
 msgstr "Che domande?"
 
 #: A_New_Order/scenarios/20macros.cfg:544
-msgid "And who said I will answer any your qeustion?"
+#, fuzzy
+msgid "And who said I will answer any your question?"
 msgstr "E chi ha detto che risponderò alle tue domande?"
 
 #: A_New_Order/scenarios/20macros.cfg:545
@@ -9109,10 +9122,11 @@ msgid "For my sword there is no difference."
 msgstr "Per la mia spada non c'è differenza."
 
 #: A_New_Order/scenarios/21haunted.cfg:134
+#, fuzzy
 msgid ""
 "Those are Grekulak's scouts, it seems. We should clear the ruins out of "
 "them. It should be extremely easy task. If my advise something, you may use "
-"that occassion to train newly recruited mages."
+"that occasion to train newly recruited mages."
 msgstr ""
 "Sono degli esploratori di Grekulak, pare. Dovremmo eliminarli dalle rovine. "
 "Dovrebbe essere estremamente facile. Se posso dare un consiglio, potresti "
@@ -9334,8 +9348,9 @@ msgstr ""
 "quarto della gente che lasciò le terre di Grekulak."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:43
+#, fuzzy
 msgid ""
-"Then they came to Wesnoth and they immedietely started a brutal conquest.  "
+"Then they came to Wesnoth and they immediately started a brutal conquest.  "
 "As you know, the kingdom was deeply fragmented then, and at the beginning "
 "all of the Wesnothian kings were simply thinking that Akladians could be a "
 "tool they could use to get advantage over the others, potential allies or "
@@ -9454,9 +9469,10 @@ msgstr ""
 "controllo di queste terre ed quindi del mondo intero."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:136
+#, fuzzy
 msgid ""
 "Messiah, ha, ha, ha, that's good. I really miss Karen - she would probably "
-"immedietely create some witty song about this. Gawen the messiah! First the "
+"immediately create some witty song about this. Gawen the messiah! First the "
 "king, and now the messiah! What a career for someone who is considered "
 "bastard by Akladians."
 msgstr ""
@@ -10383,7 +10399,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/22.cfg:598
 msgid ""
-"Wait! I will tell you what I know. King Buffin wants to use the occassion he "
+"Wait! I will tell you what I know. King Buffin wants to use the occasion he "
 "sees here, with Gawen dead, Perien dead, and two other Hagarthen in "
 "Guilcorta busy with quarrels. He wants to made some fake election and elect "
 "himself for king of Vakladia."
@@ -11052,10 +11068,11 @@ msgstr ""
 "Quali strane cose?"
 
 #: A_New_Order/scenarios/23macros.cfg:451
+#, fuzzy
 msgid ""
 "Ghosts, people who were long dead who were seen again.. Zombies... My scouts "
 "were giving me contradictory reports. Some of my lords disappeared. I was "
-"thinking about sending there some army immedietely after finishing with "
+"thinking about sending there some army immediately after finishing with "
 "Vakladia... <cough>"
 msgstr ""
 "Fantasmi, gente morta da molto tempo che riappare... zombi... I rapporti dei "
@@ -12005,11 +12022,12 @@ msgid "And when that will happen?"
 msgstr "E quando succederà?"
 
 #: A_New_Order/scenarios/26.cfg:169
+#, fuzzy
 msgid ""
 "Soon, my lord. I talked to the refugees from Okladia. King Buffin is dead. "
 "Some Akladian lords are still defending themselves, locked in their castles, "
 "but I doubt Grekulak will wait until they will be defeated. He will march "
-"here immedietely."
+"here immediately."
 msgstr ""
 "Presto, mio signore. Ho parlato con i rifugiati da Okladia. Il re Buffin è "
 "morto. Alcuni signori di Akladia si stanno ancora difendendo, arroccati nei "
@@ -12017,11 +12035,12 @@ msgstr ""
 "immediatamente fino a qui."
 
 #: A_New_Order/scenarios/26.cfg:171
+#, fuzzy
 msgid ""
 "Soon, my lord. I talked to the refugees from Okladia. King Buffin is dead. "
 "Some Akladian lords are still defending themselves, locked in their castles, "
 "but I doubt Grekulak will wait untill they will be defeated. He will march "
-"here immedietely."
+"here immediately."
 msgstr ""
 "Presto, mio signore. Ho parlato con i rifugiati da Okladia. Il re Buffin è "
 "morto. Alcuni signori di Akladia si stanno ancora difendendo, arroccati nei "
@@ -12418,8 +12437,9 @@ msgid "Shut up, mage. I will fight, I just have to rest for a moment..."
 msgstr "Taci, mago. Io combatterò, devo solo riposarmi un momento..."
 
 #: A_New_Order/scenarios/27.cfg:1031
+#, fuzzy
 msgid ""
-"No, you can't. My lord, withdraw Lorin to our castle's keep immedietely. She "
+"No, you can't. My lord, withdraw Lorin to our castle's keep immediately. She "
 "is unable to fight now."
 msgstr ""
 "No, non puoi. Mio signore, ritira immediatamente Lorin alla fortezza del "
@@ -12430,9 +12450,10 @@ msgid "I AM in a castle's keep, you idiot."
 msgstr "IO SONO in una fortezza, idiota."
 
 #: A_New_Order/scenarios/27.cfg:1044
+#, fuzzy
 msgid ""
 "Good. Now, go to bedroom. I will sent someone to take care of you "
-"immedietely."
+"immediately."
 msgstr ""
 "Bene. Adesso fa a letto. Manderò subito qualcuno a prendersi cura di te."
 
@@ -12563,7 +12584,8 @@ msgid "Remember, that she's king's step-mother."
 msgstr "Rammenta che è la matrigna del re."
 
 #: A_New_Order/scenarios/29.cfg:171
-msgid "That's ridiculous. I want her to be released immedietely, and then ..."
+#, fuzzy
+msgid "That's ridiculous. I want her to be released immediately, and then ..."
 msgstr "Ma è ridicolo. Voglio che la liberiate immediatamente e quindi..."
 
 #: A_New_Order/scenarios/29.cfg:172
@@ -12914,7 +12936,8 @@ msgid "(whispering) She dares to speak about loyalty... "
 msgstr "(mormorando) Osa parlare di fedeltà..."
 
 #: A_New_Order/scenarios/3.cfg:249
-msgid "We will attack the traitors immedietely."
+#, fuzzy
+msgid "We will attack the traitors immediately."
 msgstr "Attaccheremo i traditori immediatamente."
 
 #: A_New_Order/scenarios/3.cfg:253
@@ -14353,9 +14376,10 @@ msgstr ""
 "altrove."
 
 #: A_New_Order/scenarios/8.cfg:262
+#, fuzzy
 msgid ""
-"So you were worthy opponent, after all! It's sad thing we had no occassion "
-"to meet in other circumstances, or we could maybe even be friends."
+"So you were worthy opponent, after all! It's sad thing we had no occasion to "
+"meet in other circumstances, or we could maybe even be friends."
 msgstr ""
 "Sei stato un degno avversario, dopo tutto! È triste che non abbiamo avuto "
 "l'occasione di incontrarci in circostanze diverse, forse saremmo persino "
@@ -15413,11 +15437,12 @@ msgstr ""
 "bassa il nemico: non abbiamo i mezzi per rifornire il nostro esercito."
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:488
+#, fuzzy
 msgid ""
 "I see two good defensive positions here. One is to the north, near the "
 "village; second, but without village nearby, is on the hills east from here. "
 "Use your troops to cover your back. Clanmembers are not experienced enough "
-"to control terrain next to them, so you have to put them immedietely one to "
+"to control terrain next to them, so you have to put them immediately one to "
 "another to block the enemy."
 msgstr ""
 "Scorgo due buone posizioni difensive. Una a nord, vicino al villaggio; la "
@@ -15714,9 +15739,10 @@ msgstr ""
 "sono desiderosi di dimostrare la loro fedeltà. Mettiamoli alla prova."
 
 #: A_New_Order/scenarios/Fighting_Through_Pass.cfg:360
+#, fuzzy
 msgid ""
 "Hm, after some thought it may be good after all that he tries to stop us. "
-"It's an occassion for you to exercise a little."
+"It's an occasion for you to exercise a little."
 msgstr ""
 "Hm, pensandoci un po' è un bene che cerchi di fermarci. Per te è l'occasione "
 "per fare un po' di esercizio."
@@ -16123,8 +16149,9 @@ msgid "Don't know what you had on your mind, but don't call her that again."
 msgstr "Non so cosa avessi in testa, ma non chiamarla più così."
 
 #: A_New_Order/scenarios/conversations.cfg:37
+#, fuzzy
 msgid ""
-"When Gawen's soldiers entered the Okladia, they immedietely noticed the "
+"When Gawen's soldiers entered the Okladia, they immediately noticed the "
 "difference. No ash in the air from the burning villages, no unburied bodies "
 "of peasants in the fields, no crows waiting patiently until they could "
 "resume their meal."
@@ -16265,8 +16292,9 @@ msgid "Ha! $ano_milildur_$random "
 msgstr "Ah! $ano_milildur_$random "
 
 #: A_New_Order/scenarios/elvish_macros.cfg:73
+#, fuzzy
 msgid ""
-"Note for translators: The message 'I fought with you so many attles..' etc "
+"Note for translators: The message 'I fought with you so many battles..' etc "
 "will be speaked by both male, Milildur, and Elorain, female. Make it gender "
 "neutral."
 msgstr ""
@@ -16350,6 +16378,24 @@ msgstr ""
 "Jose Gordillo: Catalogna\n"
 "\n"
 "Nikita: Russo\n"
+
+#: A_New_Order/scenarios/final.cfg:90
+msgid ""
+"\n"
+"Alexey Remizov: Russian translation\n"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:93
+msgid ""
+"\n"
+"Oto 'tapik' Buchta: Czech translation\n"
+msgstr ""
+
+#: A_New_Order/scenarios/final.cfg:96
+msgid ""
+"\n"
+"Harry Dewulf: British (en_gb) translation\n"
+msgstr ""
 
 #: A_New_Order/scenarios/final.cfg:99
 msgid ""
