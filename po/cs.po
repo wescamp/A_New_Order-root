@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-19 16:14+0200\n"
+"POT-Creation-Date: 2006-04-20 14:04+0200\n"
 "PO-Revision-Date: 2006-04-13 13:35+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -680,9 +680,10 @@ msgid "Run for you life! They are too many of them!!"
 msgstr "Spaste duši! Utíkejte! Je jich hrozná síla!!"
 
 #: A_New_Order/scenarios/10.cfg:492
+#, fuzzy
 msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
-"will surely have have to withdraw soon!"
+"will surely have to withdraw soon!"
 msgstr ""
 "Bojujte! Nevzdávejte se! Ukažte jim zač je toho loket! Pobijte jich co "
 "nejvíc to jde! Každou chvíli začnou ustupovat!"
@@ -11830,7 +11831,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/5a.cfg:190
 msgid ""
-"Wait! I hate when you kill the people before I have change to interrogate "
+"Wait! I hate when you kill the people before I have chance to interrogate "
 "them."
 msgstr ""
 
@@ -11873,7 +11874,7 @@ msgstr ""
 #: A_New_Order/scenarios/5a.cfg:242
 msgid ""
 "You are mistaken, my dear friend, and I can prove it to you. I want you only "
-"to anwer few questions. You said you are here on recoinessance. Who have "
+"to answer few questions. You said you are here on recoinessance. Who have "
 "send you here? Answer, or you will end your life as miserable gelding."
 msgstr ""
 

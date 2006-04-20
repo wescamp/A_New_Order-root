@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1.6\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-19 16:14+0200\n"
+"POT-Creation-Date: 2006-04-20 14:04+0200\n"
 "PO-Revision-Date: 2005-11-21 13:01+0100\n"
 "Last-Translator: Arkadiusz Danilecki <adanilecki@cs.put.poznan.pl>\n"
 "Language-Team: none\n"
@@ -689,9 +689,10 @@ msgid "Run for you life! They are too many of them!!"
 msgstr "Ratuj się kto może! Jest ich zbyt wielu!!"
 
 #: A_New_Order/scenarios/10.cfg:492
+#, fuzzy
 msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
-"will surely have have to withdraw soon!"
+"will surely have to withdraw soon!"
 msgstr ""
 "Walczyć dalej! Nie poddawajcie się! Przynajmniej zabijcie tylu z nich ilu "
 "tylko dacie radę! Już wkrótce będą musieli się wycofać!"
@@ -12686,8 +12687,9 @@ msgstr ""
 "pamiętasz?"
 
 #: A_New_Order/scenarios/5a.cfg:190
+#, fuzzy
 msgid ""
-"Wait! I hate when you kill the people before I have change to interrogate "
+"Wait! I hate when you kill the people before I have chance to interrogate "
 "them."
 msgstr ""
 "Czekaj! Nie cierpię, gdy zabijasz ludzi zanim mam szansę ich przesłuchać. "
@@ -12735,7 +12737,7 @@ msgstr ""
 #: A_New_Order/scenarios/5a.cfg:242
 msgid ""
 "You are mistaken, my dear friend, and I can prove it to you. I want you only "
-"to anwer few questions. You said you are here on recoinessance. Who have "
+"to answer few questions. You said you are here on recoinessance. Who have "
 "send you here? Answer, or you will end your life as miserable gelding."
 msgstr ""
 

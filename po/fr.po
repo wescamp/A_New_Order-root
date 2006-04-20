@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-19 16:14+0200\n"
+"POT-Creation-Date: 2006-04-20 14:04+0200\n"
 "PO-Revision-Date: 2005-11-17 14:01+0100\n"
 "Last-Translator: Blurgk <blurgk@gmail.com>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -695,9 +695,10 @@ msgid "Run for you life! They are too many of them!!"
 msgstr "Courez pour votre vie ! Ils sont trop nombreux !!"
 
 #: A_New_Order/scenarios/10.cfg:492
+#, fuzzy
 msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
-"will surely have have to withdraw soon!"
+"will surely have to withdraw soon!"
 msgstr ""
 "Continuez le combat ! N'abandonnez pas ! Au moins, tuez-en autant que "
 "possible ! Ils vont sûrement bientôt devoir battre en retraite !"
@@ -13948,8 +13949,9 @@ msgstr ""
 "tu ne te souviens pas ?"
 
 #: A_New_Order/scenarios/5a.cfg:190
+#, fuzzy
 msgid ""
-"Wait! I hate when you kill the people before I have change to interrogate "
+"Wait! I hate when you kill the people before I have chance to interrogate "
 "them."
 msgstr ""
 "Attends ! Je déteste quand tu tues des gens avant que je n'ai pu les "
@@ -14003,9 +14005,10 @@ msgstr ""
 "cauchemardesque que je puisse imaginer."
 
 #: A_New_Order/scenarios/5a.cfg:242
+#, fuzzy
 msgid ""
 "You are mistaken, my dear friend, and I can prove it to you. I want you only "
-"to anwer few questions. You said you are here on recoinessance. Who have "
+"to answer few questions. You said you are here on recoinessance. Who have "
 "send you here? Answer, or you will end your life as miserable gelding."
 msgstr ""
 "Tu te trompes, mon ami, et je peux te le prouver. Je veux juste que tu "

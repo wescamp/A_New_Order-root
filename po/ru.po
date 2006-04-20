@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-A_New_Order\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-19 16:14+0200\n"
+"POT-Creation-Date: 2006-04-20 14:04+0200\n"
 "PO-Revision-Date: 2006-04-09 10:33+0400\n"
 "Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -678,9 +678,10 @@ msgid "Run for you life! They are too many of them!!"
 msgstr "Уходите! Их слишком много!"
 
 #: A_New_Order/scenarios/10.cfg:492
+#, fuzzy
 msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
-"will surely have have to withdraw soon!"
+"will surely have to withdraw soon!"
 msgstr ""
 "Продолжайте бой! Не сдавайтесь! Убейте столько, сколько сможете! Я уверена, "
 "что они скоро отступят!"
@@ -12991,8 +12992,9 @@ msgstr ""
 "помните?"
 
 #: A_New_Order/scenarios/5a.cfg:190
+#, fuzzy
 msgid ""
-"Wait! I hate when you kill the people before I have change to interrogate "
+"Wait! I hate when you kill the people before I have chance to interrogate "
 "them."
 msgstr ""
 "Стой! Ненавижу, когда вы убиваете кого-то раньше, чем я успеваю провести "
@@ -13045,9 +13047,10 @@ msgstr ""
 "могу представить."
 
 #: A_New_Order/scenarios/5a.cfg:242
+#, fuzzy
 msgid ""
 "You are mistaken, my dear friend, and I can prove it to you. I want you only "
-"to anwer few questions. You said you are here on recoinessance. Who have "
+"to answer few questions. You said you are here on recoinessance. Who have "
 "send you here? Answer, or you will end your life as miserable gelding."
 msgstr ""
 "Нет, дружок, ты ошибаешься. И я могу доказать тебе это. Мне нужно узнать от "

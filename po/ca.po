@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-19 16:14+0200\n"
+"POT-Creation-Date: 2006-04-20 14:04+0200\n"
 "PO-Revision-Date: 2005-08-02 12:42+0200\n"
 "Last-Translator: Jose Gordillo\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
@@ -697,9 +697,10 @@ msgid "Run for you life! They are too many of them!!"
 msgstr "A córrer! Són massa!"
 
 #: A_New_Order/scenarios/10.cfg:492
+#, fuzzy
 msgid ""
 "Keep fighting! Don't give up! At least kill as many of them as you can! They "
-"will surely have have to withdraw soon!"
+"will surely have to withdraw soon!"
 msgstr ""
 "Continueu lluitant! No vos rendiu! Com a poc, mateu tants com pugueu! Segur "
 "que prompte es retiraran!"
@@ -12653,8 +12654,9 @@ msgstr ""
 "te'n recordes?"
 
 #: A_New_Order/scenarios/5a.cfg:190
+#, fuzzy
 msgid ""
-"Wait! I hate when you kill the people before I have change to interrogate "
+"Wait! I hate when you kill the people before I have chance to interrogate "
 "them."
 msgstr "Espera! Ah, odie quan mates la gent abans que els puga interrogar."
 
@@ -12703,9 +12705,10 @@ msgstr ""
 "Ser mort per una dona humana ja és una manera de morir digna d'un malson."
 
 #: A_New_Order/scenarios/5a.cfg:242
+#, fuzzy
 msgid ""
 "You are mistaken, my dear friend, and I can prove it to you. I want you only "
-"to anwer few questions. You said you are here on recoinessance. Who have "
+"to answer few questions. You said you are here on recoinessance. Who have "
 "send you here? Answer, or you will end your life as miserable gelding."
 msgstr ""
 "Estàs equivocat, estimat amic meu, i t'ho puc demostrar. Només vull que em "
