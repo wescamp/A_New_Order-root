@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"PO-Revision-Date: 2006-04-22 15:32+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: A_New_Order.cfg:11
 msgid "A New Order"
@@ -15586,7 +15586,7 @@ msgstr "pik"
 
 #: A_New_Order/units/Akladian_Princess.cfg:4
 msgid "female^Akladian Princess"
-msgstr "female^Akladisk princessa"
+msgstr "Akladisk princessa"
 
 #: A_New_Order/units/Akladian_Princess.cfg:20
 #: A_New_Order/units/Akladian_Queen.cfg:20
@@ -15618,7 +15618,7 @@ msgstr ""
 
 #: A_New_Order/units/Akladian_Queen.cfg:4
 msgid "female^Queen"
-msgstr "female^Drottning"
+msgstr "Drottning"
 
 #: A_New_Order/units/Akladian_Queen.cfg:18
 #, fuzzy
@@ -15812,7 +15812,7 @@ msgstr "slunga"
 
 #: A_New_Order/units/Fugitive.cfg:76
 msgid "female^Fugitive"
-msgstr "female^Flykting"
+msgstr "Flykting"
 
 #: A_New_Order/units/Fugitive.cfg:96
 #, fuzzy
