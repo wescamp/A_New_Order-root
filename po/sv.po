@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2006-05-15 18:05+0200\n"
+"PO-Revision-Date: 2006-05-31 00:16+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -15225,7 +15225,7 @@ msgstr "Akladisk Helig man"
 #: A_New_Order/units/Akladian_Wonderman.cfg:18
 #: A_New_Order/units/Akladian_Holyman.cfg:18
 msgid "cures"
-msgstr "helar"
+msgstr "hela"
 
 #: A_New_Order/units/Akladian_Holyman.cfg:19
 #, fuzzy
