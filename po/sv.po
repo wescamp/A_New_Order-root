@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2006-05-31 00:16+0200\n"
+"PO-Revision-Date: 2006-11-21 22:51+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: A_New_Order.cfg:11
 msgid "A New Order"
@@ -77,7 +77,7 @@ msgstr "Varför då? Vem har skickat er?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:79
 msgid "Why? Two hundred golden pieces, that's why."
-msgstr "Vadå \"varför då\"? Tvåhundra guldstycken duger väl som anledning?"
+msgstr "Varför? Tvåhundra guldstycken duger väl som anledning?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:98
 msgid "Die, underling!"
@@ -134,8 +134,8 @@ msgid ""
 "Who sent me? The fate... But there will be another after me. (scream of "
 "pain) Aaaargh!"
 msgstr ""
-"Vem som har skickat mig? Ödet... Men det kommer fler efter mig. *skrik av "
-"smärta* Aaaargh!"
+"Vem som har skickat mig? Ödet... Men det kommer fler efter mig. (Skrik av "
+"smärta) Aaaargh!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:177
 msgid "Speak!"
@@ -143,7 +143,7 @@ msgstr "Tala!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:181
 msgid "My lady, please, stop, that's just..."
-msgstr ""
+msgstr "Ers nåd, snälla, sluta, det är..."
 
 #: A_New_Order/scenarios/1-6macros.cfg:186
 msgid ""
@@ -195,7 +195,7 @@ msgstr "Ser jag död ut?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:238
 msgid "We were deceived! My king, please forgive me!"
-msgstr "Ni blev vilseledda! Min kung, snälla, förlåt mig!"
+msgstr "Vi blev vilseledda! Min kung, snälla, förlåt mig!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:242
 msgid "You fool! He is mixling, he can't be our king!"
