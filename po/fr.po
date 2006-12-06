@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n - A new order en francais.\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2006-04-26 13:10+0100\n"
-"Last-Translator: Geoffroy Douillié <geoffroy.douillié@etca.alcatel.be>\n"
+"PO-Revision-Date: 2006-12-06 06:54+0100\n"
+"Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,8 +34,8 @@ msgid ""
 "against the common danger? This supposed to be easy campaign. "
 msgstr ""
 "Le vieux royaume de Wesnoth tombe en ruine, tandis que les barbares dominent "
-"le peuple qui ne rêve qu'aux vielles légendes. Gawen Hagarthen peut-il les "
-"unir tous contre le danger commun? Cette campagne est supposée être facile."
+"le peuple qui ne rêve qu'aux vieilles légendes. Gawen Hagarthen peut-il les "
+"unir tous contre le danger commun ? Cette campagne est supposée être facile."
 
 #: A_New_Order/scenarios/ano_macros.cfg:574 A_New_Order.cfg:19
 msgid ""
@@ -57,7 +57,7 @@ msgstr "Foutez-moi le camp ... Je ne suis pas ici pour vous."
 msgid "You aren't prince, aren't you? It is not you whom I am seeking."
 msgstr ""
 "Vous n'êtes pas le prince, n'est-ce pas ? Vous n'êtes pas celui que je "
-"cherche"
+"cherche."
 
 #: A_New_Order/scenarios/1-6macros.cfg:45
 msgid ""
@@ -75,11 +75,11 @@ msgstr ""
 
 #: A_New_Order/scenarios/1-6macros.cfg:75
 msgid "Why? Who sent you?"
-msgstr "Pourquoi? Qui vous a envoyé?"
+msgstr "Pourquoi ? Qui vous a envoyé ?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:79
 msgid "Why? Two hundred golden pieces, that's why."
-msgstr "Pourquoi? Deux cents pièces d'or, voila pourquoi."
+msgstr "Pourquoi ? Deux cents pièces d'or, voila pourquoi."
 
 #: A_New_Order/scenarios/1-6macros.cfg:98
 msgid "Die, underling!"
@@ -92,7 +92,7 @@ msgstr "Arrêtez, ne le tuez pas ! Nous devons l'interroger !"
 #: A_New_Order/scenarios/1-6macros.cfg:120
 msgid "Now, only one thing stops me from killing you. Who sent you?"
 msgstr ""
-"Maintenant, une seule chose me retiens encore d'en finir avec toi. Qui vous "
+"Maintenant, une seule chose me retient encore d'en finir avec toi. Qui vous "
 "a envoyé?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:125
@@ -113,7 +113,7 @@ msgstr "Alors, vous allez mourir, si c'est ce que vous voulez."
 
 #: A_New_Order/scenarios/1-6macros.cfg:143
 msgid "You are way too soft, Reme. Why haven't you given him to me?"
-msgstr "Tu es beaucoup trop gentil, Reme. Pourquoi ne me l'as tu pas laissé ?"
+msgstr "Tu es beaucoup trop gentil, Reme. Pourquoi ne me l'as-tu pas laissé ?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:161
 msgid "Who sent you!"
@@ -156,9 +156,9 @@ msgid ""
 "father and two hundred for son! Aiieeee!!!"
 msgstr ""
 "Je ne peux pas le dire ! (Aaargh). Je ne connais pas son nom ! J'ai reçu "
-"l'ordre d'un de nos aînés des Hors-la-loi . Tout ce que je sais, c'est qu'un "
+"l'ordre d'un de nos aînés des hors-la-loi . Tout ce que je sais, c'est qu'un "
 "des seigneurs Akladiens le paie en or pour ça ! Le prix était trois cents "
-"pièces d'or pour le père, et deux cents pour le fils ! Aiieeee !!!"
+"pièces d'or pour le père et deux cents pour le fils ! Aiieeee !!!"
 
 #: A_New_Order/scenarios/1-6macros.cfg:190
 msgid "No price for me?"
@@ -195,7 +195,7 @@ msgstr "Ai-je vraiment l'air mort?"
 
 #: A_New_Order/scenarios/1-6macros.cfg:238
 msgid "We were deceived! My king, please forgive me!"
-msgstr "Nous avons été trompé ! Mon roi, s'il vous plaît, pardonnez-moi !"
+msgstr "Nous avons été trompés ! Mon roi, s'il vous plaît, pardonnez-moi !"
 
 #: A_New_Order/scenarios/1-6macros.cfg:242
 msgid "You fool! He is mixling, he can't be our king!"
@@ -217,7 +217,7 @@ msgid ""
 msgstr ""
 "Vous pensiez vraiment que j'allais envoyer mon fils à Vattin? Vous êtes si "
 "faciles à tromper ! Ce garçon qui est à Vattin n'est pas mon premier fils. "
-"Maintenant, prépare toi à aller en enfer."
+"Maintenant, prépare-toi à aller en enfer."
 
 #: A_New_Order/scenarios/1-6macros.cfg:294
 msgid ""
@@ -229,7 +229,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/1-6macros.cfg:303
 msgid "And second to the east."
-msgstr "Et l'autre vers l'est"
+msgstr "Et l'autre vers l'est."
 
 #: A_New_Order/scenarios/1-6macros.cfg:312
 msgid "Which one is better?"
@@ -278,8 +278,8 @@ msgid ""
 "suicidal, believe me. And you must live; I order you to escort Lady Lorin "
 "safely to either Vattin or her family."
 msgstr ""
-"C'est un ordre. Reme, Si je fuis le premier, qui me respectera encore ?  Je "
-"ne suis pas suicidaire, crois moi. Et tu dois vivre. Je t'ordonne d'escorter "
+"C'est un ordre. Reme, si je fuis le premier, qui me respectera encore ? Je "
+"ne suis pas suicidaire, crois-moi. Et tu dois vivre. Je t'ordonne d'escorter "
 "Lady Lorin jusqu'à ce qu'elle soit en sécurité, soit à Vattin, soit dans sa "
 "famille."
 
@@ -343,7 +343,7 @@ msgstr "Prends garde, Reme Carrenemoe."
 
 #: A_New_Order/scenarios/1-6macros.cfg:427
 msgid "Respect, my king. Follow us as soon as it is possible"
-msgstr "Mes respects, Mon roi. Suivez nous dès que possible"
+msgstr "Mes respects, Mon roi. Suivez-nous dès que possible"
 
 #: A_New_Order/scenarios/1-6macros.cfg:428
 msgid "Yes... of course. I'm afraid that means.. never."
@@ -360,7 +360,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/1-6macros.cfg:480
 msgid "Take her to the safety, people."
-msgstr "Amenez-la en lieu sur, mes amis."
+msgstr "Amenez-la en lieu sûr, mes amis."
 
 #: A_New_Order/scenarios/10.cfg:3
 msgid "Siege of Haeltin"
@@ -373,13 +373,13 @@ msgid ""
 "pay him. He became LOYAL."
 msgstr ""
 "On dirait que $ano_loyal[0].user_description a été si impressionné par la "
-"performance de Lorin durant ce siège qu'il se battra gratuitement pour "
-"elle . Il devient LOYAL"
+"performance de Lorin durant ce siège qu'il se battra gratuitement pour elle. "
+"Il devient FIDÈLE."
 
 #: A_New_Order/scenarios/9.cfg:515 A_New_Order/scenarios/ano_macros.cfg:1006
 #: A_New_Order/scenarios/ano_macros.cfg:1009 A_New_Order/scenarios/10.cfg:30
 msgid "loyal"
-msgstr "loyal"
+msgstr "fidèle"
 
 #: A_New_Order/scenarios/10.cfg:45
 msgid ""
@@ -400,10 +400,9 @@ msgid ""
 msgstr ""
 "Lorin ordonna de préparer le château pour la défense. Les hommes "
 "travaillèrent jour et nuit, alors que les premiers flocons de neige "
-"fondaient sur leur corps. Elle aussi, elle travaillait avec eux. Si fort "
-"qu'on eut pu croire qu'elle voulait prouver qu'elle était aussi bonne qu'un "
-"homme. Ou alors voulait-elle être si fatiguée qu'elle en oubliait ses "
-"souvenirs."
+"fondaient sur leur corps. Elle aussi travaillait avec eux. Si fort qu'on eut "
+"pu croire qu'elle voulait prouver qu'elle était aussi douée qu'un homme. Ou "
+"alors voulait-elle être si fatiguée qu'elle en oublierait ses souvenirs."
 
 #: A_New_Order/scenarios/6.cfg:30 A_New_Order/scenarios/9.cfg:49
 #: A_New_Order/scenarios/10.cfg:65 A_New_Order/scenarios/5a.cfg:35
@@ -431,7 +430,7 @@ msgid ""
 "also put some new fortifications in place, but they are not finished."
 msgstr ""
 "Madame, nous sommes prêts à nous défendre. J'ai ordonné de creuser des "
-"douves au nord. Nous avons aussi fortifiés quelques endroits, mais ce n'est "
+"douves au nord. Nous avons aussi fortifié quelques endroits, mais ce n'est "
 "pas fini encore."
 
 #: A_New_Order/scenarios/10.cfg:143
@@ -441,24 +440,24 @@ msgid ""
 "find anything."
 msgstr ""
 "Nous n'aurons pas plus de temps pour finir. Ils sont déjà là. Déplacez les "
-"provisions dans les montagnes au plus vite. Comme ça, même si ils atteignent "
-"le château, il n'y trouverons rien. "
+"provisions dans les montagnes au plus vite. Comme ça, même s'ils atteignent "
+"le château, il n'y trouveront rien. "
 
 #: A_New_Order/scenarios/10.cfg:144
 msgid ""
 "Where is the promised food? Where are the rooms to rest? Answer me, human!"
 msgstr ""
-"Où est la nourriture promise ? Où sont les chambres pour se reposer ? Répond "
-"moi, humain !"
+"Où est la nourriture promise ? Où sont les chambres pour se reposer ? "
+"Réponds-moi, humain !"
 
 #: A_New_Order/scenarios/10.cfg:145
 msgid "Brother! Where are you? Why do you keep gates of Haeltin closed?"
 msgstr ""
-"Mon Frère ! Où es-tu ? Pourquoi laisses-tu les portes d'Haeltin fermées ?"
+"Mon frère ! Où es-tu ? Pourquoi laisses-tu les portes d'Haeltin fermées ?"
 
 #: A_New_Order/scenarios/10.cfg:146
 msgid "Your brother is dead, and you will be too, soon."
-msgstr "Ton frère est mort, et toi aussi, tu le seras bientôt."
+msgstr "Ton frère est mort, et tu le seras bientôt aussi."
 
 #: A_New_Order/scenarios/10.cfg:147
 msgid "Dead? How is that possible? Who killed him?"
@@ -504,7 +503,7 @@ msgid ""
 "have to withdraw, because they will have no food."
 msgstr ""
 "Avec un peu de chance, nous n'aurons pas à les vaincre. Ils ne se sont pas "
-"préparé à un long siège. Il sera sûrement suffisant de survivre au premier "
+"préparés à un long siège. Il sera sûrement suffisant de survivre au premier "
 "assaut. Ensuite, ils devront battre en retraite, par manque de nourriture."
 
 #: A_New_Order/scenarios/10.cfg:172
@@ -514,7 +513,7 @@ msgid ""
 "to give sensible answers."
 msgstr ""
 "Lady Lorin, je sais à quel point vous êtes habile à l'interrogatoire des "
-"chefs ennemis. Laissez moi quand même vous donnez un conseil. Ignorez les "
+"chefs ennemis. Laissez-moi quand même vous donner un conseil. Ignorez les "
 "orcs tant que vous le pouvez. Ils n'ont pas l'air suffisamment intelligents "
 "pour donner des réponses sensées."
 
@@ -523,7 +522,7 @@ msgid ""
 "Move the supplies to the mountains. That way, even if they break into the "
 "castle, they still will have no food."
 msgstr ""
-"Déplacez les provisions dans les montagnes. Ainsi, même si ils entrent dans "
+"Déplacez les provisions dans les montagnes. Ainsi, même s'ils entrent dans "
 "le château, ils n'auront pas la nourriture."
 
 #: A_New_Order/scenarios/10.cfg:184
@@ -538,11 +537,11 @@ msgstr ""
 #: A_New_Order/scenarios/14bontom.cfg:292 A_New_Order/scenarios/10.cfg:191
 #: A_New_Order/scenarios/14barnon.cfg:6
 msgid "HEROIC: Kill all enemy leaders OR"
-msgstr "HEROÏQUE : Tuer tous les chefs ennemi OU"
+msgstr "HEROÏQUE : tuer tous les chefs ennemis OU"
 
 #: A_New_Order/scenarios/10.cfg:195
 msgid "NORMAL: Survive to the end of turn limit."
-msgstr "NORMAL: Survire jusqu' la limites du nombre de tours."
+msgstr "NORMAL: survire jusqu'à la limites du nombre de tours."
 
 #: A_New_Order/scenarios/9.cfg:153 A_New_Order/scenarios/10.cfg:199
 msgid "Death of Andrey Yaranov"
@@ -565,8 +564,8 @@ msgid ""
 "I think it was Orcish for 'a human woman has killed me, what a dishonor' or "
 "something like that."
 msgstr ""
-"Ce doit être la façon orque de dire 'Une humaine m'a tué, quel déshonneur' "
-"ou quelque chose comme ça."
+"Ce doit être la façon orc de dire 'Une humaine m'a tué, quel déshonneur' ou "
+"quelque chose comme ça."
 
 #: A_New_Order/scenarios/10.cfg:246
 msgid "What are you waiting for? Come on, finish me, witch."
@@ -598,13 +597,13 @@ msgid ""
 "They are delayed two days after us. They will appear from the north and "
 "smash what is left of your so called castle."
 msgstr ""
-"Il sont à deux jours derrière. Ils apparaîtront du nord et écraserons ce "
+"Il sont à deux jours derrière. Ils apparaîtront du nord et écraseront ce "
 "qu'il restera de ce que vous appelez château."
 
 #: A_New_Order/scenarios/10.cfg:266
 msgid "What Orcs are doing here anyway, and why are they allied with you?"
 msgstr ""
-"Qu'est-ce que les Orcs font ici ? Et pourquoi sont-ils alliés avec vous ?"
+"Qu'est-ce que les orcs font ici ? Et pourquoi sont-ils alliés avec vous ?"
 
 #: A_New_Order/scenarios/10.cfg:267
 msgid ""
@@ -639,7 +638,7 @@ msgstr "Hrar"
 #: A_New_Order/scenarios/10.cfg:340
 msgid "Finally, food, wine and some rest! Hey, what's happening here?"
 msgstr ""
-"Enfin, de la nourriture, du vin et du repos ! Hé, que ce passe-t-il ici?"
+"Enfin, de la nourriture, du vin et du repos ! Hé, que ce passe-t-il ici ?"
 
 #: A_New_Order/scenarios/10.cfg:356
 msgid "Buriag"
@@ -691,7 +690,7 @@ msgstr "Rarg"
 
 #: A_New_Order/scenarios/10.cfg:490
 msgid "Run for you life! They are too many of them!!"
-msgstr "Courez pour votre vie ! Ils sont trop nombreux !!"
+msgstr "Courez pour votre vie ! Ils sont trop nombreux ! !"
 
 #: A_New_Order/scenarios/10.cfg:492
 msgid ""
@@ -730,13 +729,13 @@ msgstr ""
 #: A_New_Order/scenarios/10.cfg:521
 msgid "LADY Lorin. So? Do they expect me to howl or something?"
 msgstr ""
-"LADY Lorin. Alors? Vous vous attendiez  me voir hurler ou quelque chose "
+"LADY Lorin. Alors? Vous vous attendiez à me voir hurler ou quelque chose "
 "comme ça ?"
 
 #: A_New_Order/scenarios/10.cfg:522
 msgid "Lorin, if you would only gave me a chance, I would make you howl."
 msgstr ""
-"Lorin, si vous ne m'en donnez ne fut-ce qu'une chance, Je vous ferai hurler."
+"Lorin, si vous ne m'en donnez ne fut-ce qu'une chance, je vous ferai hurler."
 
 #: A_New_Order/scenarios/10.cfg:523
 msgid ""
@@ -750,7 +749,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/10.cfg:524
 msgid "You said you need me?"
-msgstr "Vous avez dit avoir besoin de moi?"
+msgstr "Vous avez dit avoir besoin de moi ?"
 
 #: A_New_Order/scenarios/10.cfg:525
 msgid "Oh my God. It's worse than I thought."
@@ -758,7 +757,7 @@ msgstr "Oh mon Dieu, c'est encore pire que je ne le croyais."
 
 #: A_New_Order/scenarios/10.cfg:526
 msgid "What do you mean?"
-msgstr "Que voulez vous dire?"
+msgstr "Que voulez-vous dire ?"
 
 #: A_New_Order/scenarios/10.cfg:527
 msgid ""
@@ -768,7 +767,7 @@ msgid ""
 "easily recognise hatred, despise, disdain. But this... "
 msgstr ""
 "Tu as oublié de dire que 'une seule référence de plus aux inférieurs et je "
-"m'en vais. Écoute Yaranov: j'ai remarqué comment tu me regardes. Au début, "
+"m'en vais. Écoute Yaranov : j'ai remarqué comment tu me regardes. Au début, "
 "je n'ai pas compris. Je n'ai pas l'habitude de ce genre de regards. Je "
 "reconnais facilement la haine, le désespoir, le dédain. Mais ceci... "
 
@@ -784,7 +783,7 @@ msgstr ""
 "Akladienne et pas toi. Ensuite, je suis une mauvaise femme. Tu n'as pas idée "
 "à quel point. Évite-moi. En plus, tu n'es pas mon type. Enfin, tu sembles "
 "ignorer certaines de nos coutumes. Faisons un marché. Je ne t'appelle plus "
-"inférieur, et tu m'appelles Lady Lorin. D'accord ?"
+"inférieur et tu m'appelles Lady Lorin. D'accord ?"
 
 #: A_New_Order/scenarios/10.cfg:529
 msgid ""
@@ -799,11 +798,11 @@ msgid ""
 "Whatever. Go to your people, see what they need. I will check our wounded."
 msgstr ""
 "Comme tu veux. Va rejoindre ton peuple, vois ce dont il a besoin. Quant à "
-"moi, Je soignerai nos blessés."
+"moi, je soignerai nos blessés."
 
 #: A_New_Order/scenarios/10.cfg:607
 msgid "My soldiers! Bastards, he is killing my soldiers!"
-msgstr "Mes Soldats ! Quel salaud ! Il tue mes soldats !"
+msgstr "Mes soldats ! Quel salaud ! Il tue mes soldats !"
 
 #: A_New_Order/scenarios/10.cfg:608
 msgid "I never saw you caring so much for your warriors."
@@ -814,12 +813,12 @@ msgid ""
 "I always care for my people, and you have no idea how difficult it was to "
 "train them."
 msgstr ""
-"Je fais toujours attention à mes gens, et vous n'avez pas idée de la "
-"difficulté à entraîner ceux la."
+"Je fais toujours attention à mes gens et vous n'avez pas idée de la "
+"difficulté à entraîner ceux-là."
 
 #: A_New_Order/scenarios/10.cfg:614
 msgid "Lorin, what are you doing?"
-msgstr "Lorin, que faites vous?"
+msgstr "Lorin, que faites-vous?"
 
 #: A_New_Order/scenarios/10.cfg:615
 msgid "Maybe we could try to withdraw to the mountains?"
@@ -867,7 +866,7 @@ msgid ""
 "to him to taste it. The messengers waited for Ruvio, asking him to come to "
 "the meeting of the Freetown leaders. "
 msgstr ""
-"Karen dit que l'on peut sentir la liberté dans l'air, ici; Gawen sentit. "
+"Karen dit que l'on peut sentir la liberté dans l'air, ici ; Gawen sentit. "
 "Mais, rien, sauf l'odeur de cuisine des fermes dans la campagne "
 "environnante. Mais il ne lui fut pas donné d'y goûter. Les messagers "
 "attendaient Ruvio, pour lui demander d'aller à la réunion des chefs de "
@@ -941,7 +940,7 @@ msgid ""
 "We've heard that you have battled and defeated both Akladians and Outlaws. "
 "Accept our congratulations, Ruvio. But who is this young man, your companion?"
 msgstr ""
-"Nous avons appris que tu avais vaincu les Akladiens et les hors-la-lois. "
+"Nous avons appris que tu avais vaincu les Akladiens et les hors-la-loi. "
 "Accepte nos félicitations, Ruvio. Mais qui est ce jeune homme, ton compagnon?"
 
 #: A_New_Order/scenarios/11.cfg:119
@@ -981,7 +980,7 @@ msgid ""
 "Now, let us greet our honorable guest, Mithrandil from the northern Elves. "
 "He made a long journey here and he bears important news."
 msgstr ""
-"Maintenant, accueillons notre honorable invité, Mithrandil des Elfes du "
+"Maintenant, accueillons notre honorable invité, Mithrandil des elfes du "
 "nord. Il a fait un long voyage jusqu'ici et est porteur de nouvelles "
 "importantes."
 
@@ -995,7 +994,7 @@ msgstr ""
 "Mes respects et meilleurs voeux à tous ceux de cette cité libre. J'espère "
 "que vous me pardonnerez de ne pas vous embêter avec un de ces long et "
 "pompeux discours traditionnel. Les nouvelles que j'apporte sont simples et "
-"terrifiantes. Une armée orque marche inaperçue sur le coeur de Wesnoth."
+"terrifiantes. Une armée orc marche inaperçue sur le coeur de Wesnoth."
 
 #: A_New_Order/scenarios/11.cfg:127
 msgid ""
@@ -1016,9 +1015,9 @@ msgid ""
 "that you have called me a liar. The Orcish army appeared in Wesnoth, "
 "bringing back memories of the queen, whose name I will not utter."
 msgstr ""
-"Ils ont effectivement traversés les royaumes libres du nord. Je ne me soucie "
+"Ils ont effectivement traversé les royaumes libres du nord. Je ne me soucie "
 "pas des relations entre humains. Aussi je vais ignorer que vous m'avez "
-"traité de menteur. L'armée orque est apparue dans Wesnoth, rappelant une "
+"traité de menteur. L'armée orc est apparue dans Wesnoth, rappelant une "
 "certaine reine dont je ne prononcerai pas le nom."
 
 #: A_New_Order/scenarios/11.cfg:130
@@ -1040,12 +1039,12 @@ msgid ""
 "is hiding behind the invasion. We have our suspicions, but we want to be "
 "sure."
 msgstr ""
-"Nous, les Elfes, pensons que ceci est plus qu'une invasion orque et des "
+"Nous, les Elfes, pensons que ceci est plus qu'une invasion orc et des "
 "querelles internes aux Akladiens. Quelque chose de plus grand, de plus "
 "insidieux est derrière tout ça. Nous ne savons pas encore quoi exactement. "
 "Je suis venu ici pour vous prévenir et vous demander de l'aide. Trouvons les "
-"vrais raisons de la présence de cette armée orque. Qui se cache derrière "
-"cette invasion. Nous avons certes une idée, mais il faut en être sur."
+"vrais raisons de la présence de cette armée orc. Qui se cache derrière cette "
+"invasion. Nous avons certes une idée, mais il faut en être sûr."
 
 #: A_New_Order/scenarios/11.cfg:132
 msgid ""
@@ -1647,8 +1646,8 @@ msgstr ""
 "Après avoir quitté les bois de Raedwood, Gawen et ses compagnons font face  "
 "un problème : que faire ensuite pour répondre à la requête de Mithrandil. "
 "Gawen n'était pas sûr de ce que voulait dire exactement 'trouver la vraie "
-"raison de l'alliance Akladienne-orque', et il n'avait vraiment aucune idée "
-"de la manière dont était censé accomplir cela."
+"raison de l'alliance Akladienne-orc', et il n'avait vraiment aucune idée de "
+"la manière dont était censé accomplir cela."
 
 #: A_New_Order/scenarios/13.cfg:18
 msgid ""
@@ -1767,7 +1766,7 @@ msgstr ""
 "disciplinés et se comportant mieux que ce qu'en j'en avais entendu d'eux.  "
 "Bien sûr, ils ont tué et mangé trois de nos vaches et pris notre seul "
 "cheval, mais on peut s'attendre à cela de n'importe quel soldat. Quelques "
-"unités orques sont en garnison près de Barnon, au sud d'ici."
+"unités orcs sont en garnison près de Barnon, au sud d'ici."
 
 #: A_New_Order/scenarios/13.cfg:70 A_New_Order/scenarios/13.cfg:140
 msgid "Reme? No, I have not heard about him."
@@ -2869,7 +2868,7 @@ msgid ""
 "here. Now, we will just have to capture their leader and ..."
 msgstr ""
 "Soyons prudents. Les éclaireurs nous ont rapportés qu'il y a des garnisons "
-"orques à l'est. Nous devons juste capturer leur chef et..."
+"orcs à l'est. Nous devons juste capturer leur chef et..."
 
 #: A_New_Order/scenarios/14barnon.cfg:188
 msgid ""
@@ -3078,8 +3077,8 @@ msgstr ""
 "SI j'essaye de te sauver ?  Et bien, pas exactement.  Je veux te... attends "
 "je cherche le mot exact... Te terroriser, oui, c'est ça. Terroriser, c'est "
 "plus ce que j'ai en tête. Bon, commençons par le début. Ceci est un couteau. "
-"Quand on enfonce un couteau dans la chaire humaine, enfin dans ce cas, dans "
-"la chaire orque, ça fait mal."
+"Quand on enfonce un couteau dans la chair humaine, enfin dans ce cas, dans "
+"la chair orc, ça fait mal."
 
 #: A_New_Order/scenarios/14barnon.cfg:336
 msgid "Mother! Stop it! This is disgusting and I will not allow for that!"
@@ -3478,7 +3477,7 @@ msgstr "Pourquoi te bats-tu avec les Akladien ?"
 #: A_New_Order/scenarios/14bontom.cfg:443
 #: A_New_Order/scenarios/14bontom.cfg:450
 msgid "Do you know, who poisoned Gawen Hagarthen's mother?"
-msgstr "Savez-vous qui a empoisoné la mère de Gawen ?"
+msgstr "Savez-vous qui a empoisoné la mère de Gawen ?"
 
 #: A_New_Order/scenarios/14bontom.cfg:411
 #: A_New_Order/scenarios/14bontom.cfg:458
@@ -5013,8 +5012,8 @@ msgid ""
 msgstr ""
 "Donc, comme je le disais juste avant qu'on ne m'interrompe, il y a quelque "
 "temps, un nouveau chef est apparu parmi les orcs. Son nom était Grekulak. Il "
-"unissait les tribus orques, une par une, usant de l'or, de la traîtrise et "
-"de l'or. En ce moment, il dirige plus d'un tiers des hordes orques."
+"unissait les tribus orcs, une par une, usant de l'or, de la traîtrise et de "
+"l'or. En ce moment, il dirige plus d'un tiers des hordes orcs."
 
 #: A_New_Order/scenarios/15.cfg:135
 msgid ""
@@ -5032,8 +5031,8 @@ msgid ""
 msgstr ""
 "Nous pensons que Grekulak est un des adeptes survivants de Mal-Ravanal. Nous "
 "soupçonnions qu'il soit derrière l'alliance suspecte des orcs et des "
-"akladiens. Maintenant, nous en sommes sûr. Nous sommes aussi sûr que cette "
-"invasion orque n'est qu'un début."
+"akladiens. Maintenant, nous en sommes sûrs. Nous sommes aussi sûrs que cette "
+"invasion orc n'est qu'un début."
 
 #: A_New_Order/scenarios/15.cfg:137 A_New_Order/scenarios/22.cfg:608
 msgid "What do you mean by that?"
@@ -5124,7 +5123,7 @@ msgstr ""
 "Donc nous tuâmes cet ange malfaisant et ses sous-fifres et nous partîmes "
 "vers l'ouest. Nous trouvâmes notre chemin dans les marais et les collines, "
 "bataillant avec la plupart des créatures de cauchemars, sans parler des "
-"lézards et des elfes verts. J'ai grandi en écoutant les chansons parlants de "
+"lézards et des elfes verts. J'ai grandi en écoutant les chansons parlant de "
 "ce voyage épique."
 
 #: A_New_Order/scenarios/15.cfg:158
@@ -5376,8 +5375,8 @@ msgid ""
 "Usually Huon Ryedric would deal with such marauders, but Gawen decided this "
 "could be occasion to check his troops abilities."
 msgstr ""
-"Les éclaireurs ramenèrent des nouvelles mentionnant un groupe orque au nord "
-"de Libreville. Habituellement, Huon Ryedric s'en serait chargé,  mais Gawen "
+"Les éclaireurs ramenèrent des nouvelles mentionnant un groupe orc au nord de "
+"Libreville. Habituellement, Huon Ryedric s'en serait chargé,  mais Gawen "
 "décida que ce serait une bonne occasion de vérifier les capacités de ses "
 "troupes."
 
@@ -14239,8 +14238,8 @@ msgstr ""
 msgid ""
 "And what about that Orcish army we find out about? We should stick together!"
 msgstr ""
-"Et que faites-vous de cette armée orque que nous avons trouvée ? Nous "
-"devrions rester ensemble."
+"Et que faites-vous de cette armée orc que nous avons trouvée ? Nous devrions "
+"rester ensemble."
 
 #: A_New_Order/scenarios/6.cfg:100
 msgid ""
@@ -15351,7 +15350,7 @@ msgid ""
 "Orcish army. Better start to run, witch."
 msgstr ""
 "Vous avez peur, n'est-ce pas ? Ils viendront ici en grand nombre : une "
-"énorme armée orque. Tu ferais mieux de commencer à courir, sorcière."
+"énorme armée orc. Tu ferais mieux de commencer à courir, sorcière."
 
 #: A_New_Order/scenarios/9.cfg:338
 msgid ""
@@ -15552,8 +15551,8 @@ msgid ""
 "Well, haven't you heard? Some army, orcish, is coming here. We have to "
 "prepare defense. And then we will think what else."
 msgstr ""
-"Et bien, tu n'as pas entendu ? Un armée orque va arriver. Nous devons "
-"préparer la défense. Ensuite nous penserons à la suite."
+"Et bien, tu n'as pas entendu ? Un armée orc va arriver. Nous devons préparer "
+"la défense. Ensuite nous penserons à la suite."
 
 #: A_New_Order/scenarios/9.cfg:481
 msgid ""
@@ -16894,7 +16893,7 @@ msgid ""
 msgstr ""
 "Si vous avez aimé la campagne, postez votre réaction sur le foum wesnoth "
 "(http://www.wesnoth.org/forum/). J'ai passé beaucoup de temps sur cette "
-"campagne, comme les traducteurs et d'autres personnes ; en retour j'aimerais "
+"campagne, comme les traducteurs et d'autres personnes ; en retour j'aimerais "
 "vraiment recevoir l'avis de personnes qui y ont joué."
 
 #: A_New_Order/scenarios/final.cfg:127
