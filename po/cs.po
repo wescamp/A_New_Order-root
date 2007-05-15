@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2007-05-14 11:25+0200\n"
+"PO-Revision-Date: 2007-05-15 13:54+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -6157,7 +6157,7 @@ msgid ""
 "Vakladia by either regent or council of lords. But we have no regent either "
 "and lords are fighting amongst themselves. So I think sooner or later "
 "Hagarthens from other kingdoms will invite themselves."
-msgstr ""
+msgstr "Nemáme žádného krále a tak musí podle zvyku všichni Hagarthenové počkat jeden rok, dokud nebude jeden z nich povolán regentem nebo radou lordů, aby vládl Vakladii. Ale teď nemáme regenta a lordi bojují mezi sebou. takže dřív nebo později Hagarthenové ze sousedních království pozvou sami sebe."
 
 #: A_New_Order/scenarios/18.cfg:304
 msgid "Other Hagarthens? How many of them?"
@@ -6169,7 +6169,7 @@ msgid ""
 "are two brothers: Luc and Gauri from Guilcorta and there is Buffin from "
 "Okladia. Well, there is also gossip that new messiah will come and he will "
 "led Akladians to true greatness..."
-msgstr ""
+msgstr "Je tady starý Perien z Eskladie, ale ten má potíže sám se sebou. Pak jeho bratři: Luc a Gauri z Guilcorta a pak je tu Buffin Okladie. No, taky se proslýchá, že mezi nás přijde nový mesiáš, aby nás vedl k opravdové velikosti a slávě..."
 
 #: A_New_Order/scenarios/18.cfg:322
 msgid "My lord! Isn't that this Gaumhaldric, about whom we've heard so many tales?"
@@ -6184,7 +6184,7 @@ msgstr "Bude mi ctí připojit se ke tvé armádě."
 msgid ""
 "My lord, will we accept that unit into our army? It is loyal unit, but it's "
 "just simple Peasant."
-msgstr ""
+msgstr "Můj Pane, přijmeme tohoto vojáka do naší armády? Je sice věrný, ale je to pouhý sedlák."
 
 #: A_New_Order/scenarios/18.cfg:352 A_New_Order/scenarios/18.cfg:374
 msgid "Hans"
@@ -6210,20 +6210,20 @@ msgstr "Jižně odtud. Ale prosím, pospěšte si."
 msgid ""
 "Large army went there not long ago. Orcs, Akladians, Outlaws. I don't know "
 "what are their intentions, but I think they are not extremely friendly."
-msgstr ""
+msgstr "Před nedávnem tudy prošla velkánksá armáda. Skřeti, Akladijci, zbojníci. Nevím přesně z jakého důvodu, ale nechovali se zrovna přátelsky."
 
 #: A_New_Order/scenarios/18.cfg:419
 msgid ""
 "The greatest news of them all is that you have saved the Oracle. This - this "
 "is so wonderful I can't find proper words to describe it."
-msgstr ""
+msgstr "Nejlepší zpráva ze všech je ale ta, že jste zachránili Věštkyni. To - to je tak báječné, že nemůžu najít správná slova, abych to popsal."
 
 #: A_New_Order/scenarios/18.cfg:422
 msgid ""
 "Akladians from other kingdom were defeated by our people in battle near "
 "Broken Heart Runlet. Well, our people - this was army from Blackwater. Large "
 "army recently went east, I think they want harm the Oracle."
-msgstr ""
+msgstr "Akladijci z jiného království byli poraženi našimi v bitvě u Potůčku Zlomených Srdcí. No, naše armáda, byla to armáda od Černé Vody. Velká armáda táhla na východ, myslím, že šli ublížit Věštkyni."
 
 #: A_New_Order/scenarios/18.cfg:437
 msgid "Who's there? Friend or foe?"
@@ -6268,14 +6268,14 @@ msgid ""
 "There was battle west from here, in which Akladians, Outlaws and Orcs tried "
 "to captured the Oracle. But they were defeated by some young man, who.. wait "
 "a minute. What was your name, again?"
-msgstr ""
+msgstr "Byla tu bitva, na západ od nás, ve které se Akladijci, zbojníci a skřeti pokusili zajmout Věštkyni. Ale byli poraženi nějakým mladým mužem, který.. počkej, jak že jsi říkal, že se jmenuješ?"
 
 #: A_New_Order/scenarios/18.cfg:511
 msgid ""
 "A lot of interesting things happened recently! Two girls were born in my "
 "village, the same day and even the same hour! Fat Robert lost a horse in the "
 "forest, it was robbed by outlaws, I think. "
-msgstr ""
+msgstr "Posledni dobou se stalo tolik zajímavých věcí! Dvě holčičky se nám ve vesnici narodily, a to ve stejný den, dokonce ve stejnou hodinu! Tlustému Robertovi se ztratil v lese kůň, asi mu ho ukradli zbojníci."
 
 #: A_New_Order/scenarios/18.cfg:544 A_New_Order/scenarios/20.cfg:438
 msgid "Why do you dislike Lorin?"
@@ -6289,13 +6289,13 @@ msgstr "Řekni mi něco o Karen"
 msgid ""
 "You must be kidding. This woman is so hard to live near I cannot understand "
 "why Yaranov seemed to have crunch on her."
-msgstr ""
+msgstr "To si děláš legraci. Jen těžko lze žít poblíž té ženy. Nechápu, jak se do ní mohl Jaranov tak zbláznit."
 
 #: A_New_Order/scenarios/18.cfg:553 A_New_Order/scenarios/20.cfg:449
 msgid ""
 "Weeell, she is my oldest daughter. From her youth she always wanted to be "
 "great fighter, and she always tried to be the best."
-msgstr ""
+msgstr "Nooo, je to moje nejstarší dcera. Již od dětství chtěla být velkým válečníkem a vždy se snažila být ve všem nejlepší."
 
 #: A_New_Order/scenarios/18.cfg:554 A_New_Order/scenarios/20.cfg:450
 msgid "I'm kind of surprised that she is not here with us."
@@ -6306,7 +6306,7 @@ msgid ""
 "I ordered Karl to tied here and lock her room. I think this gave us enough "
 "time to escape. This journey is really too dangerous for her. I hope she "
 "will stay safe in Freetown."
-msgstr ""
+msgstr "Nakázal jsem Karlovi, aby ji udržel doma stůj co stůj, třeba aby ji zamkl ve jejím pokoji. Myslím, že nám to dodá dost času k odchodu. Naše mise je pro ni tuze nebezpečná. Doufám, že zůstane v bezpečí ve Svobodově."
 
 #: A_New_Order/scenarios/18.cfg:559 A_New_Order/scenarios/20.cfg:456
 #: A_New_Order/scenarios/20.cfg:460
@@ -6360,7 +6360,7 @@ msgid ""
 "When I was young, I visited her and she told me.. No, I can't tell you. This "
 "was just between Oracle and me. The first part of her prediction is already "
 "fulfilled. The second part.. I think I will soon know that."
-msgstr ""
+msgstr "Když jsem byla malá, navštívila jsem ji a ano mi řekla.. Ne, to ti nemohu říct. To je moje a její věc. První část její předpovědi se již vyplnila. A ta druhá.. myslím, že brzo budu vědět víc."
 
 #: A_New_Order/scenarios/19a.cfg:3
 msgid "The Woods of Okladia"
@@ -6411,7 +6411,7 @@ msgstr "Vyhráli jsme! Co budeme dělat teď?"
 
 #: A_New_Order/scenarios/19a.cfg:178 A_New_Order/scenarios/19b.cfg:165
 msgid "We have to hurry before the enemy reinforcements will arrive here. Let's go."
-msgstr ""
+msgstr "Musíme si pospíšit, než nepříteli dorazí posily. Pojďme."
 
 #: A_New_Order/scenarios/19b.cfg:3
 msgid "Entering the Okladia"
@@ -6435,7 +6435,7 @@ msgid ""
 "generations there was always one female mage with foreseeing abilities "
 "living there, so long that no one remembered now how was the city once "
 "called. Now it was just the city of the Oracle."
-msgstr ""
+msgstr "Věštkyně bylo jméno ženy, která žila v rozvalinách starého města. Po celé generace zde žila jedna vědma s věšteckými schopnostmi. Tak dlouho již tomu bylo, že si nikdo nepamatoval jméno toho města. Říkali mu prostě město Věštkyně."
 
 #: A_New_Order/scenarios/19oracle.cfg:20
 msgid ""
@@ -6443,7 +6443,7 @@ msgid ""
 "leader, and it seemed this heavily contributed to fact the Oracle still "
 "could defend herself. Each army seemed to siege the city on its own. But "
 "this was almost last moment for a relief."
-msgstr ""
+msgstr "Město teď bylo obleženo. Čtyři různé armády, každá pod jiným velením, a vypadalo to, že díky tomu Věštkyně stále ještě držela svou tvrz. Každá armáda se snažila dobýt město na svou vlastní pěst. Ale byla to slabá útěcha."
 
 #: A_New_Order/scenarios/19oracle.cfg:61
 msgid "Matthias Ramon"
@@ -6533,25 +6533,25 @@ msgstr "Bor Cryne může chtít cokoli si zmyslí. Ale svatá Věštkyně bude h
 msgid ""
 "You will settle that later. But everything else inside the city will belong "
 "to us!"
-msgstr ""
+msgstr "O tom se pobavíme později. Každopádně všechno ostatní ve městě je naše!"
 
 #: A_New_Order/scenarios/19oracle.cfg:748
 msgid "Ha, ha, human. Everything, which will be left by us."
-msgstr ""
+msgstr "Ha, ha, lidský červ. Vše nechat pro skřeti!"
 
 #: A_New_Order/scenarios/19oracle.cfg:749
 msgid "Wait, I think someone is trying to help the besieged."
-msgstr ""
+msgstr "Stop! Myslím, že se někdo snaží obleženým pomoci!"
 
 #: A_New_Order/scenarios/19oracle.cfg:750
 msgid ""
 "Oracle was right, as always! Relief is coming! Faster, dammit, I don't know "
 "how long we can hold!"
-msgstr ""
+msgstr "Věštkyně měla pravdu, jako vždy! Pomoc přichází! Rychleji, rychleji, nevíme, jak dlouho je budeme schopni udržet!"
 
 #: A_New_Order/scenarios/19oracle.cfg:759
 msgid "Any enemy unit reaches the keep of the Oracle."
-msgstr ""
+msgstr "Nepřátelská jendotka vstoupí do tvrze Věštkyně."
 
 #: A_New_Order/scenarios/19oracle.cfg:790
 msgid "I found her! I found her! The Oracle!"
@@ -6578,19 +6578,19 @@ msgid ""
 "Here I am. Voice speaking to those, who wants to listen. I know why you are "
 "here. I know who you are. Ask your questions and wait for the answers, for I "
 "know everything which will be and everything which may be."
-msgstr ""
+msgstr "Tady jsem. Hlas mluvící k těm jež chtějí slyšet. Vím, proč jste zde. Vím, kdo jste. Položte své otázky a počkejte si na odpovědi, protože já vím vše, co se stane a co by se státi mohlo."
 
 #: A_New_Order/scenarios/19oracle.cfg:814
 msgid ""
 "Everything? Then how it happened that you were besieged and almost captured? "
 "Why you had not escaped or called someone to help you?"
-msgstr ""
+msgstr "Vše? Tak mi tedy řekni, jak je možné, že jste byla obležena a téměř zajata? Proč jsi neuprchla či nepřivolala nikoho na pomoc?"
 
 #: A_New_Order/scenarios/19oracle.cfg:815
 msgid ""
 "The answer to your question is the answer to your doubts. Why haven't I "
 "escaped? Why haven't I called someone for help? Why are you here?"
-msgstr ""
+msgstr "Odpověď na tvou otázku je odpovědí na tvé pochybnosti. Proč jsem neuprchla? Proč jsem nepřivolala pomoc? Proč jste zde?"
 
 #: A_New_Order/scenarios/19oracle.cfg:816
 msgid "Lady, we are searching for great mage, Deorien. Maybe you know..."
@@ -6601,7 +6601,7 @@ msgid ""
 "Search for Deorien in the ruins of the great city, where even wind cries "
 "when bringing back memories of marvelous past. But he will give you answers, "
 "some of which you may find unwelcome."
-msgstr "Hledej Deoriena v ruinách velkého města, kde vítr kvílí, když oběvuje dávnou minulost. Ale některé jeho odpovědi se ti nebudou líbit."
+msgstr "Hledej Deoriena v ruinách velkého města, kde vítr kvílí, když nachází dávnou minulost. Ten ti odpoví, leč některé jeho odpovědi se ti nebudou líbit."
 
 #: A_New_Order/scenarios/19oracle.cfg:818
 msgid ""
@@ -6625,7 +6625,7 @@ msgid ""
 "of their daughters than in their treasures. First answer is yes, you are. "
 "Second is yes, he will be. third is no, you will never be."
 msgstr ""
-"Já znám Tvé otázky, Lorin z Gallorů. z klanu, který má víc zlata ve vlasech "
+"Já znám Tvé otázky, Lorin z Gallorů. Z klanu, který má víc zlata ve vlasech "
 "svých dcer než ve svých pokladnicích. První odpověď je ano, jsi. Druhá je "
 "ano, on jistě bude. A třetí je ne, nikdy nebudeš."
 
@@ -6700,7 +6700,7 @@ msgid ""
 "Lorin was acting very strange. Often she was sitting outside our camp, her "
 "languid look wandering in the sky. I started to fret about this, but she "
 "refused any talk about her behaviour."
-msgstr ""
+msgstr "Lorin se chovala velice podivně. Často seděla mimo tábor, její mdlý pohled se ztrácel někde v oblacích. Začal jsem si o ni dělat starosti, ale ona se odmítala o sobě jakkoli bavit."
 
 #: A_New_Order/scenarios/20.cfg:23
 msgid ""
@@ -6708,21 +6708,21 @@ msgid ""
 "personal authority of Gawen prevailed. However, he noticed that whatever "
 "were the objections raised by Akladians, they seemed to not care about that "
 "as much as their complaints indicated."
-msgstr ""
+msgstr "Akladijci nebyli šťastní, když viděli, jak s nimi bok po boku pochodují mágové, ale Gawenova autorita byla silnější. Nicméně zaznamenal, že všechny protesty Akladijců na toto téma byly vlažnější, než by očekával."
 
 #: A_New_Order/scenarios/20.cfg:27
 msgid ""
 "This was my first contact with undead, and I was happy that my troops passed "
 "this difficult test. I was hoping future battles with Grekulak's forces will "
 "be also won."
-msgstr ""
+msgstr "Toto bylo moje první setkání s nemrtvými a já jsem byl rád, že moji vojáci obstáli v tomto těžkém testu. Doufal jsem, že budoucí bitvy s vojsky Grkulakovými budou také vítězné."
 
 #: A_New_Order/scenarios/20.cfg:32
 msgid ""
 "Farmer's daughter wasn't as beautiful as I expected. She was really gleefull "
 "seeing again her father. She kissed both me - and Lorin - leaving my step-"
 "mother in the state of total dismay."
-msgstr ""
+msgstr "Farmářova dcera nebyla tak překrásná jak jsem čekal. Byla ohromně šťastná, když zase uviděla svého otce. Líbala jak mne, tak Lorin - nechávajíc mou macechu ve stavu totální konsternace."
 
 #: A_New_Order/scenarios/20.cfg:49
 msgid "The Dead City"
@@ -6730,7 +6730,7 @@ msgstr "Mrtvé Město."
 
 #: A_New_Order/scenarios/20.cfg:50
 msgid "The Haunted Place"
-msgstr ""
+msgstr "Sídlo strašidel"
 
 #: A_New_Order/scenarios/20.cfg:51 A_New_Order/scenarios/20.cfg:52
 msgid "The Road Back to Vakladia"
@@ -6813,7 +6813,7 @@ msgstr "Můj Pane, už jsme tam byli a už jsme tam Deoriena našli."
 
 #: A_New_Order/scenarios/20.cfg:158
 msgid "So, should we go to this haunted ruins?"
-msgstr ""
+msgstr "Takže vstoupíme do těch strašidelných rozvalin?"
 
 #: A_New_Order/scenarios/20.cfg:166 A_New_Order/scenarios/20.cfg:182
 msgid "My lord, we already were in that place"
@@ -6835,7 +6835,7 @@ msgstr "Můj Pane, ještě jsme nenašli Deoriena."
 msgid ""
 "Thank you once again, noble Gaumhaldric! I've sent my daughter to safe "
 "place. If not for you, she would be still in dirty cage."
-msgstr ""
+msgstr "Děkuji ti ještě jednou, ctihodný Gaumhaldriku! Poslal jsem mou dceru na bezpečné místo. A pokud by nebylo tebe, stále by trčela v té zatuchlé díře!"
 
 #: A_New_Order/scenarios/20.cfg:241
 msgid "Please accept this as modest sign of our gratitude."
@@ -6850,31 +6850,31 @@ msgid ""
 "It's Gaumhaldric, this is true, but he is also Gawen Hagarthen, king of "
 "Vakladia, and as Haldric he is king of Wesnoth. Why do you said you are "
 "`saved`?"
-msgstr ""
+msgstr "To je Gaumhaldrik, to je pravda, ale je to také Gawen Hagarthen, král Vakladie, a navíc jako Haldrik je králem Wesnothu. Proč si myslíš, že jsi v bezpečí?"
 
 #: A_New_Order/scenarios/20.cfg:256
 msgid "Well, yes, it's me, but why do you think you need to be saved?"
-msgstr ""
+msgstr "Dobře, ano, jsem to já, ale proč si myslíš, že musíš být zachráněn?"
 
 #: A_New_Order/scenarios/20.cfg:259
 msgid ""
 "It's a whole story. You see, my lord, my daughter is most beatiful girl in "
 "whole neighbourhood. I knew this will bring disaster for us. Akladian lord "
 "wanted to marry her, and she foolishly refused."
-msgstr ""
+msgstr "To je dlouhá historie. Vidíš, můj pane, moje dcera je nejkrásnější děvče v širém okolí. Já věděl, že nám to přinese neštěstí. Akladijský lord se s ní chtěl oženit, a ona ho hloupě odmítla."
 
 #: A_New_Order/scenarios/20.cfg:261
 msgid ""
 "This Akladian lord, from Skagrrae clan, was so enraged by this so he "
 "abducted her from our village and he promised to keep her in cage until she "
 "changes her mind. Please, let her free!"
-msgstr ""
+msgstr "A ten Akladijský lord, z klanu Skagrrů, se tak rozčílil, že ji unesl pryč z naší vesnice, vsadil ji do díry a slíbil jí, že ji nepustí dřív, než změní svůj názor. Prosím, pane, osvoboďte ji."
 
 #: A_New_Order/scenarios/20.cfg:262
 msgid ""
 "No problem. She seems from your description a girl with character, even for "
 "under.. uhmm.. anyway, we will release her, isn't it, Gawen?"
-msgstr ""
+msgstr "Žádný problém. Vypadá, jako děvče s charakterem, dokonce i na podř.. uhm.. mimochodem, my ji půjdeme osvobodit, že?"
 
 #: A_New_Order/scenarios/20.cfg:263
 msgid "Yes, of course, but first I want to ask few questions."
@@ -6884,7 +6884,7 @@ msgstr "Ano, samozřejmě, ale nejdřív mám pár otázek."
 msgid ""
 "The hard and gruelsome times are ahead, I can't release anyone to join your "
 "army"
-msgstr ""
+msgstr "Těžké a strašlivé časy jsou před námi, nemohu nikoho uvolnit, aby se připojil ke tvé armádě"
 
 #: A_New_Order/scenarios/20.cfg:277 A_New_Order/scenarios/20.cfg:351
 #: A_New_Order/scenarios/20.cfg:381
@@ -6917,7 +6917,7 @@ msgid ""
 "Hagarthen for the throne, but their king left no heir. So they should pick "
 "regent and then sent for Hagarthen from other countries, but they instead "
 "were just fighting amongst themselves."
-msgstr ""
+msgstr "Poslední král Valkadie je mrtvý. Obvykle Alůadijští lordové vybírají jako následníka nového Hagarthena, ale jejich král nezanechal jediného potomka. Takže by měli zvolit regenta a poslat pro nějakého Hagarthena do ciziny, ale místo toho válčí mezi sebou."
 
 #: A_New_Order/scenarios/20.cfg:288
 msgid "Gawen Hagarthen is not dead, You are see him now with your eyes."
@@ -6933,7 +6933,7 @@ msgid ""
 "Wesnothians. Two brothers in Guilcorta, Luc and Gauri, are quarreling "
 "amongst themselves. So our king, Buffin, decided he has to invite himself. "
 "He seemingly thought none would oppose him."
-msgstr ""
+msgstr "Slyšel jsem že Perien, král Easkladie, je obklíčen ve svém vlastním sídle Wesnoťany. Dva bratři z Guilcorta, Luc a Gauri, si sami vjeli do vlasů. Takže náš král, Buffin, se rozhodl, že se pozve sám. Jednoznačně očekává, že se proti němu nikdo nepostaví."
 
 #: A_New_Order/scenarios/20.cfg:294
 msgid "Interesting. Very, very interesting."
@@ -6943,13 +6943,13 @@ msgstr "Zajímavé. Velice zajímavé."
 msgid ""
 "It's you who have defeated ghosts from haunted place, isn't it? We always "
 "will keep you in our memory."
-msgstr ""
+msgstr "To jsi byl ty, kdo přemohl nestvůry ze Sídla strašidel, nemám pravdu? Nikdy ti to nezapomeneme."
 
 #: A_New_Order/scenarios/20.cfg:312
 msgid ""
 "It's you who have defeated ghosts from haunted place, isn't it? We do not "
 "have much, but we will give you something to express our gratitude."
-msgstr ""
+msgstr "To jsi byl ty, kdo přemohl nestvůry ze Sídla strašidel, nemám pravdu? Nemáme sice mnoho, ale něco málo ti jako projev díků samozřejmě dáme. A rádi."
 
 #: A_New_Order/scenarios/20.cfg:331
 msgid "There are no more people left here who could go with you."
@@ -6967,7 +6967,7 @@ msgstr "Gusto"
 msgid ""
 "There is haunted place east from here. People, who went there dissapeared. "
 "We don't know what happened to them."
-msgstr ""
+msgstr "Na východ odtud je Sídlo strašidel. Lidé, kteří tam šli, se ztratili. Nikdo neví, co se s nimi stalo."
 
 #: A_New_Order/scenarios/20.cfg:365
 msgid "Our village is poor, we have no food, we have no gold, we..."
@@ -6984,9 +6984,8 @@ msgid ""
 msgstr "Žijeme v teroru. Hrůzné stvůry se usadily na východ odtud. Čekáme na někoho, kdo by nás zbavil toho strachu."
 
 #: A_New_Order/scenarios/20.cfg:378
-#, fuzzy
 msgid "No, not really."
-msgstr "Ne, proč?"
+msgstr "Ne, skutečně ne."
 
 #: A_New_Order/scenarios/20.cfg:439
 msgid "Tell me more about you and my mother."
@@ -6997,34 +6996,34 @@ msgid ""
 "There is not much to talk about. I told you. She was about to be my wife. In "
 "few days we would have our wedding. Gawen.. Please, don't ask me. It's too "
 "hard for me."
-msgstr ""
+msgstr "Není o čem mluvit. Už jsem ti to říkal. Měla se stát mojí ženou. Měli jsme těsně před svatbou. Gawene.. prosím, už se neptej. Je to pro mne příliš bolestné."
 
 #: A_New_Order/scenarios/20.cfg:446
 msgid "But you have a wife now, and you love her, isn't it?"
-msgstr ""
+msgstr "Ale teď máš ženu, a ta tě miluje, neníliž pravda?"
 
 #: A_New_Order/scenarios/20.cfg:447
 msgid ""
 "Yes. I love my wife, and my daughters. But sometimes, only sometimes.. I "
 "feel like if I betrayed her..."
-msgstr ""
+msgstr "Ano, Já miluji svou ženu, i mé dcery. Ale někdy, jenom zřídkadky.. se cítím, jako že jsem ji zradil..."
 
 #: A_New_Order/scenarios/20.cfg:457
 msgid ""
 "I don't know. I've just realized you will be praised as new messiah by many "
 "people I know. You could become king of whole Wesnoth and religious leader "
 "of our people."
-msgstr ""
+msgstr "Nevím. Jenom jsem pochopil, že mnoho lidí, které znám, tě prohlásí za nového Mesiáše. Můžeš se stát králem celého Wesnothu a duchovním vůdcem našeho lidu."
 
 #: A_New_Order/scenarios/20.cfg:458
 msgid "Don't worry about that. You will always be my friend."
-msgstr ""
+msgstr "Ale nedělej si starosti, pořád zůstaneš mým přítelem."
 
 #: A_New_Order/scenarios/20.cfg:461
 msgid ""
 "The thought that we are going to ally with mage is slightly disturbing me, "
 "my lord. But I think I will try to get used to that thought."
-msgstr ""
+msgstr "Myšlenka, že připravujeme spojenectví s mágy mě zcela rozčiluje, Můj Pane. Ale myslím, že se s tím nakonec vyrovnám. Budu muset."
 
 #: A_New_Order/scenarios/20.cfg:469
 msgid "Why do you want to kill Deorien?"
@@ -7042,7 +7041,7 @@ msgstr "Deorien je mág. Mágové mají být pozabíjeni. To je prosté."
 msgid ""
 "Please, do not ask. I start to regret some thing I have made.. And sometimes "
 "I am happy about it.. And I know I should have no hope, and yet sometimes..."
-msgstr ""
+msgstr "Prosím, neptej se. Začínám litovat něčeho, co jsem udělala.. A někdy jsem z toho zase šťastná.. A vím, že plané naděje.. ale někdy zase.."
 
 #: A_New_Order/scenarios/20.cfg:478
 msgid "Neither do I, Gawen. Neither do I."
@@ -7072,7 +7071,7 @@ msgid ""
 "person to decide. Besides, you had to made the name of your own, You have to "
 "became famous amongst both Akladians and Wesnothians. A year ago you were a "
 "boy without his name. Now, you have gain some reputation."
-msgstr ""
+msgstr "Protože jsem si nebyl jist, že jsi tím pravým. Musel jsem vidět, že ty jsi tou správnou osobou, která o tom rozhodne. Mimochodem, musel sis o své zásluze sám vydobít reputaci,sám ses musel proslavit jak mezi Akladijci, tak Wesnotskými."
 
 #: A_New_Order/scenarios/20.cfg:491
 msgid ""
@@ -7080,9 +7079,10 @@ msgid ""
 "you will become ruler also of all Akladians. I hope Akladians will back you, "
 "as well as Wesnothians. Then we will defeat orcs and those of Akladians who "
 "will oppose you. And then we will stop Grekulak invasion."
-msgstr ""
+msgstr "Budeš prohlášen Králem Wesnothu a Vakladie, a Mesiášem. Jako Mesiáš budeš také vládnout všem Akladijcům. Věřím, že Akladijci se ti pokloní, stejně jako Wesnoťané. Poté porazíme skřety a ty Akladijce, kteří se ti postaví. A nakonec zastavíme Grekulakovu invazi."
 
 #: A_New_Order/scenarios/20macros.cfg:8
+#, fuzzy
 msgid ""
 "Note from campaign developer: In version 0.2.2 You should play either from "
 "scenario 'Entering Okladia' or 'The Woods of Okladia'. I am now setting "
@@ -7105,13 +7105,12 @@ msgid "That's impossible! I have not finished my mission!"
 msgstr "To nelze! Ještě jsem nedokončil svoji misi!"
 
 #: A_New_Order/scenarios/20macros.cfg:57
-#, fuzzy
 msgid "Without him, our cause is doomed!"
 msgstr "Bez něj je naše snaha marná!"
 
 #: A_New_Order/scenarios/20macros.cfg:67
 msgid "Our scouts have reported that king Buffin has gathered huge army."
-msgstr ""
+msgstr "Naši zvědové hlásí, že král Buffin přitáhl s velkou armádou."
 
 #: A_New_Order/scenarios/20macros.cfg:68
 msgid ""
@@ -12170,7 +12169,7 @@ msgstr ""
 msgid ""
 "Meet my daughter, Gawen Hagarthen. Imagine I have three other daughters like "
 "that back home. Not to mention my wife!"
-msgstr "Seznam se s mou sestrou, Gawene Hagarthene. A uvědom si, že má doma ještě tři podobné starší sestry, nepočítaje jejich matku!"
+msgstr "Seznam se s mou sestrou, Gawene Hagarthene. A uvědom si, že má doma ještě tři podobné sestry, nepočítaje jejich matku!"
 
 #: A_New_Order/scenarios/7.cfg:276
 msgid "I can't believe my own eyes! Isn't that Gawen, the little so called king?"
