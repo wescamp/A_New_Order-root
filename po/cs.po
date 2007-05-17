@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2007-05-15 13:54+0200\n"
+"PO-Revision-Date: 2007-05-17 00:51+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -7117,13 +7117,13 @@ msgid ""
 "Our soldiers will defeat him single-handly. Besides, someone here was saying "
 "that once Gawen will be declared 'messiah' everyone will greet him and there "
 "will be much rejoicements."
-msgstr ""
+msgstr "Ty zvládnem levou zadní. Mimochodem, kdosi tady cosi říkal o tom, že když se jednou Gawen prohlásí Mesiášem, všichni ho uvítaj a davy budou radostně jásat."
 
 #: A_New_Order/scenarios/20macros.cfg:69
 msgid ""
 "Someone must go to Oracle and tell her it's the time. This would have to be "
 "one, very brave man."
-msgstr ""
+msgstr "Někdo musí jít k Věštkyni a sdělit jí, že už je čas. Měl by jít jenom jeden, velice odvážný muž."
 
 #: A_New_Order/scenarios/20macros.cfg:70
 msgid "I will go."
@@ -7135,11 +7135,11 @@ msgstr "Můj Pane, neposlouchej ho. Půjdu já."
 
 #: A_New_Order/scenarios/20macros.cfg:72
 msgid "Ruvio, I want you by my side. And besides, who said that..."
-msgstr ""
+msgstr "Ruvio, chci tě mít po svém boku. Ale, mimochodem, kdo říkal, že..."
 
 #: A_New_Order/scenarios/20macros.cfg:73
 msgid "So, it is decided. I will go."
-msgstr ""
+msgstr "Je tedy rozhodnuto. Půjdu já."
 
 #: A_New_Order/scenarios/20macros.cfg:74
 msgid ""
@@ -7148,14 +7148,14 @@ msgid ""
 "my life. I will reach Oracle safely and then I will go to Freetown to tell "
 "the elders about everything, so they could gird themselves for the final "
 "fight and prepare everything for you to come."
-msgstr ""
+msgstr "Můj pane, prosím, tento úkol nemůžeš svěřit Akladijci, protože oni se nevyznají v plížení či skrývání. Já jsem se skrýval a plížil polovinu svého života. Já bezpečně najdu Věštkyni a pak vyrazím do Svobodova, abych o všem zpravil staršiny. Pak se vyzbrojí na závěrečnou bitvu, aby bylo všechno připraveno, než dorazíš."
 
 #: A_New_Order/scenarios/20macros.cfg:75
 msgid ""
 "Will you allow me to finish? Who said I have agreed? I don't want to be "
 "neither king or messiah. Why me? Why not someone else? This is all insane. I "
 "will lead the army happily, but ..."
-msgstr ""
+msgstr "Necháš mne to dokončit? Kdo řekl, že souhlasím? Já nechci být ani králem, ani nějakým Mesiášem. Proč já? Proč ne někdo jiný? Celé je to nesmysl. Se štěstím jsem vedl svoji armádu, ale ..."
 
 #: A_New_Order/scenarios/20macros.cfg:76
 msgid ""
@@ -7163,26 +7163,26 @@ msgid ""
 "and Akladians, because only YOU ARE from royal lines of the two nations. I "
 "thought I explained that to you already. You simply had no choice. Well, you "
 "can of course leave whole country in the chaos instead."
-msgstr ""
+msgstr "Ach jo. Ještě jednou: nemůže to být nikdo jiný. Pouze TY jsi předurčen k tomu, abys sjednotil Wesnotské a Akladijce, protože POUZE TY jsi z královské krve obou národů. Myslí, že jsem ti to již jednou vysvětlil. Zkrátka nemáš na výběr. Samozřejmě, pokud nechceš nechat zem upadnout do totálního chaosu."
 
 #: A_New_Order/scenarios/20macros.cfg:77
 msgid ""
 "And, by the way, from this moment stop using the name of Gaumhaldric. From "
 "this moment everyone should address you as Gawen Haldric Hagarthen, king of "
 "whole Wesnoth and Akladia."
-msgstr ""
+msgstr "A, mimochodem, od této chvíle přestaň používat jméno Gaumhaldrik. Od této chvíle budiž již navždy nazýván Gawen Haldrik Hagarthen, král celého Wesnothu a Akladie."
 
 #: A_New_Order/scenarios/20macros.cfg:78
 msgid ""
 "My king, wish me luck. We will meet soon in Freetown. I will wait for you "
 "there, with a giant army."
-msgstr ""
+msgstr "Můj Králi, popřej mi štěstí. Brzy se potkáme ve Svobodově. Počkám tam na tebe, spolu s velkou armádou."
 
 #: A_New_Order/scenarios/20macros.cfg:87
 msgid ""
 "Now, finally! With a bit of luck, Ruvio will die, and we will reclaim the "
 "throne without the 'help' of him and under... others."
-msgstr ""
+msgstr "No konečně! S trochou štěstí Ruvia zapíchnou a my získáme trůn bez \"pomoci\" jeho nebo těch podř... druhých."
 
 #: A_New_Order/scenarios/20macros.cfg:142
 #: A_New_Order/scenarios/20macros.cfg:157
@@ -7202,7 +7202,7 @@ msgstr "Dávný přítel"
 #: A_New_Order/scenarios/23macros.cfg:532 A_New_Order/scenarios/25.cfg:631
 #: A_New_Order/scenarios/25.cfg:645 A_New_Order/scenarios/25.cfg:659
 msgid "Ha! They were hiding some gold here!"
-msgstr ""
+msgstr "Ha! Schovali tu nějaké zlato!"
 
 #: A_New_Order/scenarios/20macros.cfg:206
 #: A_New_Order/scenarios/20macros.cfg:225
@@ -7218,103 +7218,103 @@ msgstr ""
 #: A_New_Order/scenarios/25.cfg:664 A_New_Order/scenarios/5b.cfg:176
 #: A_New_Order/scenarios/5b.cfg:217
 msgid "You have received 50 gold pieces"
-msgstr ""
+msgstr "Získal jsi 50 zlatých"
 
 #: A_New_Order/scenarios/20macros.cfg:319
 msgid ""
 "False king - do you enjoying your frail victory? Ha, ha, go to that witch, "
 "your step-mother, and screw her until you still have time..."
-msgstr ""
+msgstr "Falešný králi - máš radost z bídného vítězství? Ha, ha, táhni si za svou čarodějkou, svou macechou, a vošoustej ji, dokud máš čas..."
 
 #: A_New_Order/scenarios/20macros.cfg:320
 msgid ""
 "I've never tortured any prisoner and I've never hurt anyone who was "
 "innocent, as far as I know. But you, Cryne... You have killed Karen."
-msgstr ""
+msgstr "Nikdy jsem nemučil žádného ze svých vězňů a pokud si vzpomínám, nikdy jsem neublížil nevinnému. Ale ve tvém případě, Cryne, udělám výjimku... Zabil jsi Karen."
 
 #: A_New_Order/scenarios/20macros.cfg:321
 msgid "You think I am afraid?"
-msgstr ""
+msgstr "Si myslíš se tě bojím?"
 
 #: A_New_Order/scenarios/20macros.cfg:322
 msgid ""
 "I won't hurt you - I will give you to children of those Wesnothians murdered "
 "at Freetown. Great warrior killed by children - what about it?"
-msgstr ""
+msgstr "Neublížím ti - dám tě na hraní dětem Wesnoťanů, kteří byli povražděni ve Svobodově. Velký válečník a zabit dětmi - co ty na to?"
 
 #: A_New_Order/scenarios/20macros.cfg:323
 msgid ""
 "You won't do it, mixling. I've heard a lot about you and I knew you before. "
 "It does not suit you. You are walking honour brought to life."
-msgstr ""
+msgstr "To neuděláš, Míšenče! Už jsem o tobě toho tolik slyšel a znám tě z dřívějška. To k tobě nesedí. Jsi chodící počestnost probuzená k životu."
 
 #: A_New_Order/scenarios/20macros.cfg:324
 msgid "Don't test me, Cryne."
-msgstr ""
+msgstr "Na to bych nesázel, Cryne."
 
 #: A_New_Order/scenarios/20macros.cfg:328
 msgid "Bor Cryne, tell me..."
-msgstr ""
+msgstr "Bore Cryne, řekni mi..."
 
 #: A_New_Order/scenarios/20macros.cfg:329
 msgid "Who have hired assassin who was sent after me?"
-msgstr ""
+msgstr "Kdo na mne poslal vraha? Kdo ho najal?"
 
 #: A_New_Order/scenarios/20macros.cfg:330
 msgid "Why you allied with orcs and Grekulak?"
-msgstr ""
+msgstr "Proč jsi se spojil se skřety a s Grekulakem?"
 
 #: A_New_Order/scenarios/20macros.cfg:331
 msgid "Who poisoned my mother?"
-msgstr ""
+msgstr "Kdo otrávil mou pravou matku?"
 
 #: A_New_Order/scenarios/8.cfg:366 A_New_Order/scenarios/20macros.cfg:332
 msgid "That's all I wanted to know"
-msgstr ""
+msgstr "To je vše, co jsem chtěl vědět."
 
 #: A_New_Order/scenarios/20macros.cfg:337
 msgid ""
 "You really don't know? Ha, ha! I forgot - you are so away from the real "
 "life. Gallorae's did. The clan of your step-mother. Ha, ha, ha! You really "
 "didn't know! I wish I could see Lorin's face, when you will skin her alive!"
-msgstr ""
+msgstr "Ty vážně nevíš? Ha, ha! Zapoměl sem - si tak daleko od skutečného života. Galloraové. Klan tvé macechy. Ha, ha, ha! Tys to vážně nevěděl! Přeju si vidět Lorin, až jí budeš stahovat kůži za živa!"
 
 #: A_New_Order/scenarios/20macros.cfg:340
 msgid "To purify the world and prepare it for the coming of God's messiah!"
-msgstr ""
+msgstr "Pro vyčištění světa a jeho přípravě k příchodu Božího Mesiáše!"
 
 #: A_New_Order/scenarios/20macros.cfg:341
 msgid "Do you really believe in that? Do you, Bor?"
-msgstr ""
+msgstr "Ty tomu vážně věříš? Opravdu, Bore?"
 
 #: A_New_Order/scenarios/20macros.cfg:342
 msgid ""
 "And do you believe you are messiah? We would kill all underling's friends "
 "and anything would be as it should be. Grekulak would rule the world, we, "
 "Akladians would rule the humans and I would rule Akladians..."
-msgstr ""
+msgstr "A ty vážně věříš, že ty jsi Mesiáš? Zabili bychom každého přítelička podřadných a všechno by bylo, jak mělo být. Grekulak by ovládl svět a my, Akladijci, bychom vládli lidem a já bych vládl Akladijcům..."
 
 #: A_New_Order/scenarios/20macros.cfg:345
 msgid "I did! And I regret he failed - but what one can expect from underling..."
-msgstr ""
+msgstr "Já to udělal! Smůla, že na to neměl - co taky chceš, od podřadného?"
 
 #: A_New_Order/scenarios/20macros.cfg:356
 msgid "Uri van Roe - do you remember that day on Barnon, when you have betrayed me?"
-msgstr ""
+msgstr "Uri van Roe - vzpomínáš si na ten den v Barnonu, když jsi mne zradil?"
 
 #: A_New_Order/scenarios/20macros.cfg:357
 msgid ""
 "You? Betrayed you? You mixling, you underling, you never were my king - no "
 "Akladian worth this name could serve creature like you!"
-msgstr ""
+msgstr "Tebe? Zradit tebe? Si Míšenec, podřadný, nikdy jsi nebyl naším králem - žádný pravý Akladijec by nemohl sloužit stvůře, jako jsi ty!"
 
 #: A_New_Order/scenarios/20macros.cfg:358
 msgid "Do you believe in God, Uri?"
-msgstr ""
+msgstr "Věříž v Boha, Uri?"
 
 #: A_New_Order/scenarios/20macros.cfg:359
 msgid "I... what?"
-msgstr ""
+msgstr "Já... co?"
 
 #: A_New_Order/scenarios/20macros.cfg:360
 msgid ""
@@ -7322,67 +7322,67 @@ msgid ""
 "Akladians, who allied with so called 'underlings' are alive and well, and "
 "those, who were with you and Bor, are cursed by all Akladian and Wesnothian "
 "people alike?"
-msgstr ""
+msgstr "Proč jsi myslíš, že jsem zvítězil? Že jsem byl schopen porazit lidi jako jsi ty? Proč Akladijci, kteří se spojili s takzvanými \"podřadnými\", jsou naživu, a ti, kteří byli s tebou a Borem, jsou zatraceni vším Akladijským lidem stejně jako lidem Wesnothu?"
 
 #: A_New_Order/scenarios/20macros.cfg:361
 msgid ""
 "God withdraw his support from us, because we abandoned his paths, and he is "
 "punishing us."
-msgstr ""
+msgstr "Bůh nám odmítl pomoci, protože jsme sešli z jeho cesty a za to nás trestá."
 
 #: A_New_Order/scenarios/20macros.cfg:362
 msgid ""
 "Think about it, Uri. Indeed, you have abandoned his paths. Because it is you "
 "who are punished, not those, who are with me."
-msgstr ""
+msgstr "Přemýšlej o tom, Uri. Skutečně jste sešli z jeho cesty. Vy jste potrestáni, ne ti, kteří zůstali se mnou."
 
 #: A_New_Order/scenarios/20macros.cfg:367
 msgid "Human.. killed me.. Human..."
-msgstr ""
+msgstr "Lidská červ.. zabít já.. Lidská červ..."
 
 #: A_New_Order/scenarios/20macros.cfg:368
 msgid "Listen, orc.."
-msgstr ""
+msgstr "Poslouchej, skřete.."
 
 #: A_New_Order/scenarios/20macros.cfg:369
 msgid "I won't stop until the last one of you is killed"
-msgstr ""
+msgstr "Nemohu přestat, dokud jeden z vás bude naživu."
 
 #: A_New_Order/scenarios/20macros.cfg:370
 msgid "I feel no hate for you"
-msgstr ""
+msgstr "Necítím k tobě žádnou nenávist."
 
 #: A_New_Order/scenarios/20macros.cfg:373
 msgid "Human killed you - and human will kill all your soldiers, to the last orc..."
-msgstr ""
+msgstr "Člověk tě zabil - a člověk zabije všechny tvé vojáky, do posledního skřeta..."
 
 #: A_New_Order/scenarios/20macros.cfg:375
 msgid "I feel no hate for you. You fought well."
-msgstr ""
+msgstr "Necítím k tobě žádnou nenávist. Bojoval jsi dobře."
 
 #: A_New_Order/scenarios/20macros.cfg:376
 msgid ""
 "I've never heard human talking like this to orcs.. It is said that there is "
 "eternal hatred between our kinds, and our two races cannot live together on "
 "this world created by Mother Earth."
-msgstr ""
+msgstr "Já nikdy neslyšet člověk takto mluvit se skřet.. Já slyšet drsná nenávist my a vy, my a vy nemoct žít spolu na Matka Zem."
 
 #: A_New_Order/scenarios/20macros.cfg:377
 msgid ""
 "How can I hate the orcs after what I've heard from Deorien? Die in peace, "
 "warrior."
-msgstr ""
+msgstr "Jak mohu nenávidět skřety poté, co jsem slyšel od Deoriena? Zemři v pokoji, válečníku."
 
 #: A_New_Order/scenarios/20macros.cfg:378
 msgid ""
 "No, wait.. before I die.. My soldiers were dying here, and now I am asking "
 "myself, what for? Why should more of them die here? They would die here "
 "gaining nothing for ourselves. Would you allow my warriors to leave?"
-msgstr ""
+msgstr "Ne, čekat.. než já chcípnout.. Můj skřeti tu chcípat a já nevědět proč. Proč víc ještě chcípat? Oni tu chcípat pro nic za nic. Ty nechat jít můj skřeti?"
 
 #: A_New_Order/scenarios/20macros.cfg:380
 msgid "I'm sorry, I can't risk."
-msgstr ""
+msgstr "Promiň, ale nemohu to riskovat."
 
 #: A_New_Order/scenarios/20macros.cfg:381
 msgid "I agree."
@@ -7392,53 +7392,53 @@ msgstr "Souhlasím."
 msgid ""
 "I'm sorry, but I can't risk. If I would allow your soldiers to leave, they "
 "will surely go back one day and strike us."
-msgstr ""
+msgstr "Promiň, ale nemohu to riskovat. Pokud je nechám teď jít, jednoho dne se vrátí a napadnou nás."
 
 #: A_New_Order/scenarios/20macros.cfg:386
 msgid "Yes, I will agree. I will let your soldiers out."
-msgstr ""
+msgstr "Ano, souhlasím. Nechám je odejít."
 
 #: A_New_Order/scenarios/20macros.cfg:387
 msgid "Thank you, human. My soldiers, stop fighting and return to your homes!"
-msgstr ""
+msgstr "Děkovat, člověk. Můj skřeti, přestat bojovat a vrátit se domů!"
 
 #: A_New_Order/scenarios/20macros.cfg:397
 msgid "Aargh! I feel... cold..."
-msgstr ""
+msgstr "Ááá! Cítím... chlad..."
 
 #: A_New_Order/scenarios/20macros.cfg:398
 msgid "No, wait, don't die yet - please, answer me few questions..."
-msgstr ""
+msgstr "Ne, počkej, ještě neumírej - prosím, odpověz mi na pár otázek..."
 
 #: A_New_Order/scenarios/20macros.cfg:399
 msgid "And why.. should I do it?"
-msgstr ""
+msgstr "A proč bych.. to měl dělat?"
 
 #: A_New_Order/scenarios/20macros.cfg:401
 msgid "They are different kinds of death."
-msgstr ""
+msgstr "Protože jsou různé druhy smrti."
 
 #: A_New_Order/scenarios/20macros.cfg:402
 msgid "Because your king ask you"
-msgstr ""
+msgstr "Protože tě žádá tvůj král"
 
 #: A_New_Order/scenarios/20macros.cfg:406
 msgid ""
 "You are trying to scare me? Ha, ha.. I am dying already... And I won't tell "
 "you anything."
-msgstr ""
+msgstr "Ty mě chceš postrašit? Ha, ha.. už umírám... nic ti neřeknu."
 
 #: A_New_Order/scenarios/20macros.cfg:408
 msgid "My king? Ha, ha, that's funny.. I have no king..."
-msgstr ""
+msgstr "Můj král? Ha, ha, to je bžunda.. nemám krále..."
 
 #: A_New_Order/scenarios/20macros.cfg:409
 msgid "Then tell me because I made you laugh before death."
-msgstr ""
+msgstr "Tak mi tedy odpověz, protože jsem tě před smrtí dokázal rozesmát."
 
 #: A_New_Order/scenarios/20macros.cfg:410
 msgid "All right then. Ask me, young king."
-msgstr ""
+msgstr "Tak dobře. Ptej se, mladý králi."
 
 #: A_New_Order/scenarios/20macros.cfg:416
 #: A_New_Order/scenarios/20macros.cfg:422
@@ -7447,121 +7447,121 @@ msgstr ""
 #: A_New_Order/scenarios/20macros.cfg:442
 #: A_New_Order/scenarios/20macros.cfg:448
 msgid "Please tell me.."
-msgstr ""
+msgstr "Prosím, řekni mi.."
 
 #: A_New_Order/scenarios/20macros.cfg:417
 #: A_New_Order/scenarios/20macros.cfg:437
 msgid "Who have hired assassin who was sent to kill me?"
-msgstr ""
+msgstr "Kdo na mne poslal vraha? Kdo ho najal?"
 
 #: A_New_Order/scenarios/20macros.cfg:418
 #: A_New_Order/scenarios/20macros.cfg:423
 #: A_New_Order/scenarios/20macros.cfg:429
 msgid "Do you sell the poisons?"
-msgstr ""
+msgstr "Prodáváš jedy?"
 
 #: A_New_Order/scenarios/20macros.cfg:438
 #: A_New_Order/scenarios/20macros.cfg:443
 #: A_New_Order/scenarios/20macros.cfg:449
 msgid "You sold poison to Lorin's clan once."
-msgstr ""
+msgstr "Jednou jsem Lorininu klanu jeden prodal."
 
 #: A_New_Order/scenarios/20macros.cfg:458
 msgid "Lorin's clan once bought the poison from the outlaws. Do you know why?"
-msgstr ""
+msgstr "Lorinin klan jednou přinesl od zbojníků jed. Nevíš proč?"
 
 #: A_New_Order/scenarios/20macros.cfg:459
 msgid "Yes.. I remember it. Indeed, they bought poison from us. <cough>"
-msgstr ""
+msgstr "Ano.. vzpomínám si. Jistě, koupili od nás jed. <kašel>"
 
 #: A_New_Order/scenarios/20macros.cfg:460
 msgid "But why? And when?"
-msgstr ""
+msgstr "Ale proč? A kdy?"
 
 #: A_New_Order/scenarios/20macros.cfg:461
 msgid ""
 "I don't know for sure, but it was just before your mother was poisoned. The "
 "poison we sold them was very specific - it's hard to mistake the symptoms."
-msgstr ""
+msgstr "Nevím to jistě, ale bylo to před tím, než otrávili tvoji matku. Jed byl velmi specifický - nešlo si splést příznaky."
 
 #: A_New_Order/scenarios/20macros.cfg:462
 msgid ""
 "Everything I've heard about your mother's death, fits perfectly our poison. "
 "I can't be sure, of course, but I think Lorin's clan bought the poison to "
 "kill your mother... <cough>"
-msgstr ""
+msgstr "Všechno, co jsem slyšel o smrti tvé matky, všechno perfektně sedělo na náš jed. Nemůžu si být úplně jistý, to je jasné, ale myslím, že Lorinin klan koupil ten jed, aby otrávil tvoji matku... <kašel>"
 
 #: A_New_Order/scenarios/20macros.cfg:465
 msgid ""
 "As outlaw, you know probably a lot about poisons.. My mother was poisoned.. "
 "Do you know who could do it?"
-msgstr ""
+msgstr "Jako zbojník toho asi víš hodně o jedech.. Moje matka byla otrávena.. Nevíš, kdo to mohl udělat?"
 
 #: A_New_Order/scenarios/20macros.cfg:466
 msgid ""
 "I'm sorry, but I cannot help you here. Akladian clans do buy poison from us "
 "here and there, but if you can't give me some clues, I won't be able to help "
 "you."
-msgstr ""
+msgstr "Promiň, ale tady ti nepomohu. Akladijci od nás tu a tam nějaký ten jed koupí, ale pokud mi nedáš nějaké vodítko, nemůžu ti pomoct."
 
 #: A_New_Order/scenarios/20macros.cfg:468
 msgid ""
 "There was assassin who was send after me. He was interrogated and he "
 "testified he was send from Outlaw Place. It was almost two years ago - can "
 "you remember who have hired him?"
-msgstr ""
+msgstr "Poslali na mě vraha. Byl vyslýchán a prozradil, že byl vyslán odsud. Je to asi dva roky zpátky - můžeš si vzpomenout, kdo ho najal?"
 
 #: A_New_Order/scenarios/20macros.cfg:469
 msgid ""
 "Of course.. I remembered it, because it was such unusual for Akladians to "
 "ask us for such a thing.. And it started our contacts."
-msgstr ""
+msgstr "Samozřejmě, že si vzpomínám... Bylo to velmi neobvyklé, že by po nás Akladijci něco chtěli.. A tak začaly naše kontakty."
 
 #: A_New_Order/scenarios/20macros.cfg:470
 msgid "Akladian? Who was is then?"
-msgstr ""
+msgstr "Akladijec? Kdo to teda byl?"
 
 #: A_New_Order/scenarios/20macros.cfg:471
 msgid ""
 "And who if not Bor Cryne... <cough> If you have any other questions, hurry, "
 "because I can feel the death is just few steps from me..."
-msgstr ""
+msgstr "A kdo jiný než Bor Cryne... <kašel> pokud máš nějaké další otázky, pospěš si, smrt už cítím na jazyku..."
 
 #: A_New_Order/scenarios/20macros.cfg:484
 msgid ""
 "One necromant goes down - the world seems a little bit happier because of "
 "this."
-msgstr ""
+msgstr "Jeden nekromant padl - svět je zase o něco veselejší."
 
 #: A_New_Order/scenarios/20macros.cfg:485
 msgid "I am not really dying! I am just switching my existence to another level..."
-msgstr ""
+msgstr "Ale já přeci neumírám! Jenom přechází má existence do vyššího stadia..."
 
 #: A_New_Order/scenarios/20macros.cfg:490
 msgid ""
 "Wait! You could be my right hand. You could be second just to the God ruling "
 "the world. All gold of all continents, all woman and everything you could "
 "dream for... "
-msgstr ""
+msgstr "Zastav! Můžeš být má pravá ruka! Můžeš být druhým při Božské vládě nad světem! Všechno zlato všech kontinentů, všechny ženy a vše, po čem toužíš..."
 
 #: A_New_Order/scenarios/20macros.cfg:491
 msgid ""
 "There is only one thing I was dreaming about, and you could do nothing do "
 "make it real."
-msgstr ""
+msgstr "Je jen jedna věc, po které toužím, ale tu mi stejně nemůžeš dát."
 
 #: A_New_Order/scenarios/20macros.cfg:492
 msgid ""
 "Was it a woman? I know people all too well, I was amongst them for hundred "
 "years. She died, and you wish she would be with you? I can make it real. I "
 "can bring her back."
-msgstr ""
+msgstr "Byla to žena? Já znám lidi dost dobře, byl jsem mezi nimi po celá staletí. Zemřela, a ty bys chtěl, aby byla s tebou? To se dá snadno zařídit. Mohu ti ji vrátit zpět."
 
 #: A_New_Order/scenarios/20macros.cfg:493
 msgid ""
 "You could bring back only a thing which would be mockery of her former self. "
 "There is no place under the sun for things you would want to do."
-msgstr ""
+msgstr "Můžeš vrátit pouze věc, která bude její zrůdnou připomínkou. Pod sluncem není místa pro takové věci, které bys chtěl udělat."
 
 #: A_New_Order/scenarios/20macros.cfg:494
 #: A_New_Order/scenarios/20macros.cfg:567
@@ -7570,129 +7570,129 @@ msgstr ""
 msgid ""
 "Curse you, whole Akladian race! Curse you! And I put my curse on you, Gawen "
 "Hagarthen!"
-msgstr ""
+msgstr "Proklínám vás, celá Akladijská raso! Proklínám vás! A proklínám i tebe, Gawene Hagarthene!"
 
 #: A_New_Order/scenarios/20macros.cfg:495
 #: A_New_Order/scenarios/20macros.cfg:568
 #: A_New_Order/scenarios/20macros.cfg:590
 #: A_New_Order/scenarios/20macros.cfg:809
 msgid "Oh no! Our spiritual leader is dead! Run for your life!"
-msgstr ""
+msgstr "Ne! Náš duchovní vůdce je mrtvej! Spaste se kdo můžeš!"
 
 #: A_New_Order/scenarios/20macros.cfg:496
 #: A_New_Order/scenarios/20macros.cfg:569
 #: A_New_Order/scenarios/20macros.cfg:591
 #: A_New_Order/scenarios/20macros.cfg:810
 msgid "Master! Master! Without your will, our army will stop to exist! Noooo!"
-msgstr ""
+msgstr "Pane! Pane! Bez tvé vůle naše armáda přestane existovat! Neeee!"
 
 #: A_New_Order/scenarios/20macros.cfg:505
 msgid "I am dying, human, but you will be dead too, soon!"
-msgstr ""
+msgstr "Já umírat, lidský červ, ty brzičko taky umírat!"
 
 #: A_New_Order/scenarios/20macros.cfg:506
 msgid ""
 "Why that hate? I do not hate you. Why you are fighting us? the fruits of our "
 "defeat will be harvested by Grekulak alone."
-msgstr ""
+msgstr "Proč ten vztek? Já nic proti tobě nemám. Proč proti nám bojujete? Ovoce našich proher bude sklízet jedině Grekulak!"
 
 #: A_New_Order/scenarios/20macros.cfg:507
 msgid ""
 "And Grekulak is our spiritual leader, stupid human. He will lead our race to "
 "greatness!"
-msgstr ""
+msgstr "Grekulak být náš duchovní šéf, blbá lidská červ. On vést moje rasa k velikost!"
 
 #: A_New_Order/scenarios/20macros.cfg:508
 msgid "Isn't Grekulak human? And isn't he leading undead for greatness!"
-msgstr ""
+msgstr "Cožpak není Grekulak člověkem? A cožpak nevede nemrtvé k velikosti a slávě?"
 
 #: A_New_Order/scenarios/20macros.cfg:509
 msgid "No.. Stop trying to fool me.. I will die loyal to our spiritual leader..."
-msgstr ""
+msgstr "Ne.. ty přestat oblbovat..já chcípnout věrná náš duchovní šéf..."
 
 #: A_New_Order/scenarios/20macros.cfg:514
 msgid "From all people on the world, it had to be you!"
-msgstr ""
+msgstr "Ve všech lidí na celém světe jsi to musela bejt právě ty!"
 
 #: A_New_Order/scenarios/20macros.cfg:515
 msgid "Yes, Bor. It have to be me. You know it have to be me."
-msgstr ""
+msgstr "Jasnačka, Borku. To sem musela bejt já."
 
 #: A_New_Order/scenarios/20macros.cfg:516
 msgid "Lorin... Do it fast."
-msgstr ""
+msgstr "Lorin... udělej to rychle."
 
 #: A_New_Order/scenarios/20macros.cfg:517
 msgid "Why? You are afraid of pain?"
-msgstr ""
+msgstr "A proč, Borku? Bojí se snad náš velký silný Borek bolesti?"
 
 #: A_New_Order/scenarios/20macros.cfg:518
 msgid "Of pain? Never. But I don't want underlings to see me screaming"
-msgstr ""
+msgstr "Bolesti? Nikdy. Ale nechci, aby mě podřadní viděli skučet."
 
 #: A_New_Order/scenarios/20macros.cfg:519
 msgid "That one wish I can grat you, Bor."
-msgstr ""
+msgstr "Tak to je přesně to, co ti můžu slíbit, Borku."
 
 #: A_New_Order/scenarios/20macros.cfg:524
 msgid "Uri! Oh, How I am happy to see your face again!"
-msgstr ""
+msgstr "Uri! Ani nevíš, jak su šťastná, že tvůj ksicht zasejc vidím!"
 
 #: A_New_Order/scenarios/20macros.cfg:525
 msgid ""
 "Shut up, your witch. You betrayed our race - you are allied to that mixling, "
 "and fight alongside underlings!"
-msgstr ""
+msgstr "Zklapni, bosorko! Zradilas naši rasu - spojila ses s Míšencem a bojuješ mezi podřadnými!"
 
 #: A_New_Order/scenarios/20macros.cfg:526
 msgid ""
 "Betrayed? You know, what I've learned? Many of those underlings are far "
 "better than many of people from our race. Many of them better know the "
 "meaning of the words like honour, courage than many of our people."
-msgstr ""
+msgstr "Zradila? A víš ty, co jsem se naučila? Mnoho s těch podřadných je MNOHEM lepších než lidi z naší rasy. Mnoho z nich zná mnohem líp význam slov jako čest a odvaha než většina našich."
 
 #: A_New_Order/scenarios/20macros.cfg:527
 msgid ""
 "Ha, ha, and who is speaking that? Hey, Gawen, have you ever asked Lorin "
 "about how your mother died? Have you.. aaargh!"
-msgstr ""
+msgstr "Ha, ha, a kdo to říká? Hej, Gawene, už ses ptal Lorin, jak pošla tvoje matka? Už ses.. áááá!"
 
 #: A_New_Order/scenarios/20macros.cfg:528
 msgid "Be quiet, stupid man. No one wants to hear your lies."
-msgstr ""
+msgstr "Buď zticha, blbče! Nikdo není zvědavý na tvoje lži."
 
 #: A_New_Order/scenarios/20macros.cfg:533
 msgid "I know you - I've heard about you! She-wolf of Haeltin!"
-msgstr ""
+msgstr "Já tě znám! Už jsem o tobě slyšel, Vlčice Haeltinská!"
 
 #: A_New_Order/scenarios/20macros.cfg:534
 msgid "Oh thank you, yes, I am she-wolf of Haeltin."
-msgstr ""
+msgstr "Oh, díky, ano, máš pravdu, já jsem Vlčice Haeltinská."
 
 #: A_New_Order/scenarios/20macros.cfg:535
 msgid "Then it is not that great disgrace as I thought..."
-msgstr ""
+msgstr "Tak to není zas taková potupa, jak sem si myslel..."
 
 #: A_New_Order/scenarios/20macros.cfg:536
 #: A_New_Order/scenarios/20macros.cfg:581
 msgid "Frankly, I don't care."
-msgstr ""
+msgstr "Víš, Franto, že je mi to jedno?"
 
 #: A_New_Order/scenarios/20macros.cfg:541
 msgid "Outlaw now, outlife soon."
-msgstr ""
+msgstr "Banditou nyní, mrtvolou za chvíli."
 
 #: A_New_Order/scenarios/20macros.cfg:542
 msgid "Mother, wait! Don't kill him! I would want to ask him few questions!"
-msgstr ""
+msgstr "Matko, ne! Nezabíjej ho, chci mu položit pár otázek!"
 
 #: A_New_Order/scenarios/20macros.cfg:543
 msgid "What questions?"
-msgstr ""
+msgstr "Jaké otázky?"
 
 #: A_New_Order/scenarios/20macros.cfg:544
 msgid "And who said I will answer any your question?"
-msgstr ""
+msgstr "A kdo říkal, že ti na nějaké tvé blbé otázky odpovím?"
 
 #: A_New_Order/scenarios/20macros.cfg:545
 msgid ""
@@ -8077,7 +8077,7 @@ msgstr "Smrt Deoriena"
 
 #: A_New_Order/scenarios/21bride.cfg:330
 msgid "Euridica"
-msgstr ""
+msgstr "Euridika"
 
 #: A_New_Order/scenarios/21bride.cfg:339
 msgid ""
@@ -12485,55 +12485,55 @@ msgstr ""
 msgid ""
 "So you were worthy opponent, after all! It's sad thing we had no occasion to "
 "meet in other circumstances, or we could maybe even be friends."
-msgstr ""
+msgstr "Tak jsi byl přece mnohem silnější, než jsem čekal! Je škoda, že jsme se nepotkali za jiných okolností, možná bychom se spřátelili."
 
 #: A_New_Order/scenarios/8.cfg:263
 msgid ""
 "You do not have to die like that, Rob Roe. I do not wish you death. I will "
 "let you live."
-msgstr ""
+msgstr "Robe Roe, nemusíš teď ale nutně umřít. Nemám zájem na tvé smrti. Nechám tě žít."
 
 #: A_New_Order/scenarios/8.cfg:264
 msgid "What's your name, noble stranger, so I can know whom to thank?"
-msgstr ""
+msgstr "Jak se jmenuješ, vznešený cizinče, abych věděl, komu jsem vděčen?"
 
 #: A_New_Order/scenarios/8.cfg:266
 msgid "So, Gaumhaldric, can I fight for you? I and my people too?"
-msgstr ""
+msgstr "Dobře, Gaumhaldriku, mohu pro tebe bojovat? Já a moji lidé?"
 
 #: A_New_Order/scenarios/8.cfg:267
 msgid "Wow! Seems you have earned a new nickname, Gaumhaldric."
-msgstr ""
+msgstr "Bomba! Tak to vypadá, že máš novou přezdívku, Gaumhaldrik."
 
 #: A_New_Order/scenarios/8.cfg:270
 msgid "After some thought.."
-msgstr ""
+msgstr "Když se tak nad tím zamyslím.."
 
 #: A_New_Order/scenarios/8.cfg:272
 msgid ""
 "Yes, I will accept you and anyone from your people, who would want to fight "
 "in my army."
-msgstr ""
+msgstr "Ano, přijmu do své armády tebe a všechny tvé muže, kteří budou ochotni za mne bojovat."
 
 #: A_New_Order/scenarios/8.cfg:287
 msgid "No, no offence, but I do not trust you enough"
-msgstr ""
+msgstr "Ne. Nic proti, ale tak moc ti zas nevěřím"
 
 #: A_New_Order/scenarios/8.cfg:290
 msgid "You said most of your army is elsewhere?"
-msgstr ""
+msgstr "Říkal jsi, že zbytek tvé armády je někde jinde?"
 
 #: A_New_Order/scenarios/8.cfg:291
 msgid "Yes. The best units were hired to invade clan of Carrenemoes."
-msgstr ""
+msgstr "Ano. Nejlepší vojáci byli posláni, aby napadli klan Carrenemoe."
 
 #: A_New_Order/scenarios/8.cfg:292
 msgid "Carrenemoes? Ruvio, we have to.."
-msgstr ""
+msgstr "Carrenemoe? Ruvio, musíme.."
 
 #: A_New_Order/scenarios/8.cfg:293
 msgid "We have to go to Freetown, as soon as possible. I'm sorry kid."
-msgstr ""
+msgstr "Musíme jít do Svobodova, tak rychle, jak je to jen možné. Je mi líto, chlapče."
 
 #: A_New_Order/scenarios/8.cfg:300
 msgid ""
@@ -12637,7 +12637,7 @@ msgid ""
 "their hopes. They hated me, because I tried to be independent. And maybe "
 "they hated me because I was reminding them how I became wife of Gawen's "
 "father: how I became a queen."
-msgstr ""
+msgstr "Po Gawenově smrti jsem se také cítila mrtvá. Pak mě aj Reme opustil a nechal napospas osudu. Nemohla jsem se vrátit k rodině. Nenáviděli mě, protože jsem zklamala jejich naděje. Nenáviděli mě, protože jsem se pokusila být nezávislá. A možná taky proto, že jsem jim připomínala, jak jsem se stala ženou Gawenova otce: jak jsem se stala královnou."
 
 #: A_New_Order/scenarios/9.cfg:20
 msgid ""
@@ -12998,7 +12998,7 @@ msgstr "A co takhle přidat se k nám proti těm skřetům?"
 msgid ""
 "Will you join us to fight those orcs? Or would you prefer to ally with those "
 "madmen wanting to slaughter their own kin?"
-msgstr ""
+msgstr "Připojíš se k nám v boji s těmi skřeti? Nebo se radši spojíš s těmi, kteří jdou proti svým?"
 
 #: A_New_Order/scenarios/9.cfg:422
 msgid "Yes.. I will join you."
@@ -13110,7 +13110,7 @@ msgstr "Ženská! Ženská mně zabila! Áááá!"
 
 #: A_New_Order/scenarios/9.cfg:586
 msgid "What? Is he some kind of misogynist?"
-msgstr "Cože? Nejsi tak náhodou misogynský, že ne?"
+msgstr "Cože? Nejsi tak náhodou mišogynec, že ne?"
 
 #: A_New_Order/scenarios/9.cfg:595
 msgid "I lose to a woman? Nooo..."
