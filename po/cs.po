@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2007-05-17 16:40+0200\n"
+"PO-Revision-Date: 2007-05-22 13:23+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -5766,7 +5766,7 @@ msgid ""
 "another from her apprentices, either man or woman. She MAY now where Deorien "
 "is, of course not because she is oracle, but because she is mage and as such "
 "she have greater chance of hearing about another mage."
-msgstr "Je to žena, kouzelnice, schopna vidět do budoucna. Jediný mág, kterého z Vakladie Akladijci nevyhnali; nikdo neví proč. Když jedna zemře, je ihned nahrazena jednou ze svých následovnic. Ona MOŽNÁ bude vědět, kde je Deorian, ale nikoli proto, že umí věštit, ale díky tomu, že je mág, je větší šance, že o nějakém jiném mágovi slyšela."
+msgstr "Je to žena, kouzelnice, schopna vidět do budoucna. Jediný mág, kterého z Vakladie Akladijci nevyhnali; nikdo neví proč. Když jedna zemře, je ihned nahrazena jednou ze svých následovnic. Ona MOŽNÁ bude vědět, kde je Deorien, ale nikoli proto, že umí věštit, ale díky tomu, že je mág, je větší šance, že o nějakém jiném mágovi slyšela."
 
 #: A_New_Order/scenarios/17.cfg:522
 msgid ""
@@ -7082,15 +7082,11 @@ msgid ""
 msgstr "Budeš prohlášen Králem Wesnothu a Vakladie, a Mesiášem. Jako Mesiáš budeš také vládnout všem Akladijcům. Věřím, že Akladijci se ti pokloní, stejně jako Wesnoťané. Poté porazíme skřety a ty Akladijce, kteří se ti postaví. A nakonec zastavíme Grekulakovu invazi."
 
 #: A_New_Order/scenarios/20macros.cfg:8
-#, fuzzy
 msgid ""
 "Note from campaign developer: In version 0.2.2 You should play either from "
 "scenario 'Entering Okladia' or 'The Woods of Okladia'. I am now setting "
 "proper variables to other scenarios to work."
-msgstr ""
-"Note from campaign developer: In version 0.2.2 You should play either from "
-"scenario 'Entering Okladia' or 'The Woods of Okladia'. I am now setting "
-"proper variables to other scenarios to work."
+msgstr "Poznámka od tvůrce tažení: Ve verzi 0.2.2 bys měl hrát buď od scénáře 'Vstup do Okladie' nebo 'Lesy Okladie'. Právě nastavuju správné proměnné v ostatních scénářích, aby mohly fungovat."
 
 #: A_New_Order/scenarios/20macros.cfg:26
 msgid "That's impossible! I still have so much to learn!"
@@ -8212,59 +8208,60 @@ msgid ""
 "Those are Grekulak's scouts, it seems. We should clear the ruins out of "
 "them. It should be extremely easy task. If my advise something, you may use "
 "that occasion to train newly recruited mages."
-msgstr ""
+msgstr "Tamto budou asi Grekulakovi průzkumníci. Měli bychom ruiny od nich vyčistit. Měl by to být naprosto triviální úkol. Pokud má rada něco znamená, bylo by záhodno toho využít k vytrénování nových rekrutů z řad mágů."
 
 #: A_New_Order/scenarios/21haunted.cfg:184
 msgid "The ruins are cleaned from the undead. But we have more things to do."
-msgstr ""
+msgstr "Rozvaliny byly vyčištěny od všech nemrtvých. Ale máme toho na práci daleko víc."
 
 #: A_New_Order/scenarios/21haunted.cfg:186
 msgid "I have one question. When we will kill that mage?"
-msgstr ""
+msgstr "Mám jednu otázku. Kdy zabijeme tyto mágy?"
 
 #: A_New_Order/scenarios/21haunted.cfg:192
 msgid ""
 "Ha! I've never before met someone like you. Now, you will tell me everything "
 "you know, or I you will familiarize with all kinds of pain which can be "
 "caused by this small knife"
-msgstr ""
+msgstr "Ha! Nikdy předtím jsem se nesetkala s někým takovým,vjako jsi ty. Teď mi řekneš úplně všechno, co víš, nebo se seznámíš se všemi druhy bolesti, které ti může ukázat tento malý nožíček."
 
 #: A_New_Order/scenarios/21haunted.cfg:193
 msgid "What are you waiting for, flesh-bag? Come on, try your best!"
-msgstr ""
+msgstr "Tak na co čekáš, ty pytli vášně? Pojď a ukaž, co umíš!"
 
 #: A_New_Order/scenarios/21haunted.cfg:194
 msgid ""
 "You think I am joking? You think you will be able resist me? Many thought so "
 "before you."
-msgstr ""
+msgstr "Si myslíš si dělám srandu? Si myslíš, že odoláš mému šarmu? Kolik chlapů před tebou si to myslelo taky."
 
+# Prosim, neopravujte tento preklad - presne takto to chci ;-)
 #: A_New_Order/scenarios/21haunted.cfg:195
 msgid "Aaargh! The pain! Yes! Yes! More!"
-msgstr ""
+msgstr "Ano! To je bolest! Anoanoano! Ještě! To je tak píííjemnééé!"
 
 #: A_New_Order/scenarios/21haunted.cfg:196
 msgid ""
 "If Yaranov would be here, I'm sure he would say that Lorin and this guy "
 "would made perfect pair."
-msgstr ""
+msgstr "Myslím, že kdyby tu byl Jaranov, že by řekl, že se ti dva k sobě náramně hodí."
 
 #: A_New_Order/scenarios/21haunted.cfg:197
 msgid "Then you don't know Yaranov. I bet he would be jealous."
-msgstr ""
+msgstr "Tak to neznáš Jaranova. Vsadím se, že by žárlil až za hrob."
 
 #: A_New_Order/scenarios/21haunted.cfg:198
 msgid "Stop it! I hate this foul man! I cannot concentrate. Die!"
-msgstr ""
+msgstr "Přestaňte! Nesnáším toho chlapa! Chcípni!"
 
 #: A_New_Order/scenarios/21haunted.cfg:206
 msgid "I failed my mission - but I do not afraid death!"
-msgstr ""
+msgstr "Má mise selhala, ale já se smrti nebojím!"
 
 #: A_New_Order/scenarios/21haunted.cfg:210
 #: A_New_Order/scenarios/21haunted.cfg:215
 msgid "Who are you? What are you doing here?"
-msgstr ""
+msgstr "Kdo jsi? A co tu děláš?"
 
 #: A_New_Order/scenarios/21haunted.cfg:211
 #: A_New_Order/scenarios/21haunted.cfg:216
@@ -8272,13 +8269,13 @@ msgid ""
 "I am here preparing the ground for someone bigger, who will came very soon "
 "now. Beware of his army - he is closer with every night.. and every your "
 "heart beat makes you closer to your death..."
-msgstr ""
+msgstr "Připravuji půdu pro někoho většího, kdo přijde velice brzy. Boj se jeho armády - je každou nocí blíž a blíž.. a s každým úderem tvého srdce jsi blíž a blíž smrti..."
 
 #: A_New_Order/scenarios/21haunted.cfg:224
 msgid ""
 "This castle seems to be abandoned not long ago. Probably previous owners "
 "were either killed or scared by undead. They left some gold here,it seems."
-msgstr ""
+msgstr "Tento hrad byl opuštěn teprve nedávno. Asi jeho předchozí majitelé byli buď zabiti či vyděšeni nemrtvými. Vypadá to, že tu nechali nějaké to zlato."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:3 A_New_Order/scenarios/21weldyn.cfg:3
 msgid "Ruins of the past"
@@ -8290,7 +8287,7 @@ msgid ""
 "gathering of small pieces of information. I do not guarantee everything you "
 "will hear is true. But I think I guessed more or less correctly the story of "
 "Grekulak."
-msgstr ""
+msgstr "To, co ti nyní sdělím, je výsledek mnohaletého úsilí; meditace a trpělivé spojování malých střípků informací v celou mozaiku. Nezaručím ti, že vše, co ti nyní vyjevím, je pravda. Ale myslím, že ti mohu vypovědět více či méně přesný příběh Grekulaka."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:16
 msgid ""
@@ -8298,7 +8295,7 @@ msgid ""
 "on the surface of the earth. His name was Mal-Ravanal. His hordes invaded "
 "Wesnoth in the past, but he was defeated by few courageous man. Dacyn, "
 "Gweddry, all Wesnothian know that names, repeated with respect and sentiment."
-msgstr ""
+msgstr "Před mnoha staletími žil jeden lich, možná nejmocnější stvoření, které kdy nosil povrch zemský. Jmenoval se Mal-Ravanal. Jeho hordy napadly v minulosti Wesnoth, ale byl poražen několika nesmírně odvážnými muži. Dacyn, Gweddry, všichni po celém Wesnothu znají ta jména a vyslovují je s respektem a láskou."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:19
 msgid ""
@@ -8307,7 +8304,7 @@ msgid ""
 "liches. In fact, I hesitate to call him a lich. I know no other necromancer, "
 "lich who keeps his human appearance with the stubborness of Grekulak. "
 "According to my spies, he still looks like a living human."
-msgstr ""
+msgstr "Jediný z Mal-Ravanalových učedníků přežil, a, paradoxně, tej nejslabší. Jeho magie byla jiného druhu než magie všech ostatních lichů. Ve skutečnosti se zdráhám nazývat jej lichem. Neznám žádného jiného nekromanta, který si udžoval svou lidskou podstatu tak umíněně, jako právě Grekulak. Díky mým špehům víme, že stále vypadá jako normální smrtelník."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:22
 msgid ""
@@ -8316,7 +8313,7 @@ msgid ""
 "for the millenia. They never succeed, and sometimes very small pack of brave "
 "living creatures: be they elves, humans or dwarves - were able to defeat "
 "large hordes of undead. "
-msgstr ""
+msgstr "Po porážce Mal-Ravanala bloudil Grekulak močály a bažinami. Během toulek si začal pohrávat s jistou myšlenkou. Nemrtví útočili na Wesnoth po celá tisíciletí. Vždy bez úspěchu. Někdy stačila dokonce malá skupinka odvážných smrtelníků - ať již to byli elfové, lidé nebo trpaslíci - aby rozdrtila hordy nemrtvých."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:25
 msgid ""
@@ -8325,14 +8322,14 @@ msgid ""
 "lacked their own will, the spirit, the intelligence and that seemed the "
 "reason of their failure. So Grekulak decided to use some race of living "
 "creatures."
-msgstr ""
+msgstr "Grekulak chtěl ovládnout celý svět a umění nekromancie byla pro něj pouze cesta, nikoli cíl - tedy pokud jsem ho správně pochopil. Nemrtví ztratili svou vůli, ducha a inteligenci a proto nikdy neuspěli. Tak se Grekulak rozhodl, že použije smrtelníky."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:28
 msgid ""
 "I don't know about his experiments, I may guess that he may made many of "
 "them, until he came to conclusion that neither the orcs or humans are well-"
 "suited for his goal. So he decided to breed a race of his own."
-msgstr ""
+msgstr "Nevím nic přesného o jeho experimentech, mohu se pouze domnívat, že jich udělal velmi mnoho, dokud nezjistil, že se ani skřeti ani lidé nehodí pro jeho plány. Proto se rozhodl si stvořit svoji vlastní rasu."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:31
 msgid ""
@@ -8341,7 +8338,7 @@ msgid ""
 "say it is impossible. He crossed somehow orcs and humans, until he get a new "
 "race of merciless warriors. He crafted them, as smith crafts a sword. Yes, I "
 "am talking about the Akladians. "
-msgstr ""
+msgstr "Nevím, jak toho docílil. Příčí se to všem našim znalostem a kdybych neviděl na vlastní oči živoucí důkaz jeho úspěšného snažení, řekl bych, že je to nemožné. Nějakým způsobem křížil mezi sebou skřety a lidi, až získal novou rasu neúprosných válečníků. Vypiplal je z obrovskou trpělivostí, tak jako každý mistr kovářský, když vyrábí svůj mistrovský meč. Ano, synku, mluvím o Akladijcích."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:34
 msgid ""
@@ -8351,7 +8348,7 @@ msgid ""
 "influenced - a whole new, brutal and violent culture. Hatred for the elves, "
 "disdain for the mages are clear workings of Grekulak. Why Akladians still "
 "know the honour and loyalty is unclear for me. "
-msgstr ""
+msgstr "Chtěl je použít jako svůj nástroj k dobytí celého světa. Chtěl válečníky, ne bezmyšlenkové otroky, a tak jim dal náboženství, ve kterém on, Grekulak, představoval Boha, který je vede. A tak stvořil - nebo alespoň výrazně ovlivnil její vznik - zcela novou, brutální a poslušnou kulturu. Nenávidící Elfy, pohrdající mágy a zcela poslušná Grekulakovi. Jak je možné, že Akladijci stále znají pojmy jako vznešenost, čest a věrnost, mi není zcela jasné."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:37
 msgid ""
@@ -8359,7 +8356,7 @@ msgid ""
 "times wanted. The freedom, the right of choosing their own way.  One of "
 "them, first Hagarthen, announced that Grekulak is the tool of the false God, "
 "and led a bloody rebellion."
-msgstr ""
+msgstr "Ale Akladijci byli do té míry lidmy, aby chtěli to, co lidé chtějí po všechny časy. Svobodu. možnost vybrat si svoji vlastní cestu. Jeden z nich, první z Hagarthenů, oznámil, že Grekulak je nástrojem falešného Boha a vedl krvavou rebelii."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:40
 msgid ""
@@ -8367,7 +8364,7 @@ msgid ""
 "chased by the Grekulak's allies, drowning in swamps, fighting the lizards "
 "and all kinds of most nightmarish creatures. This was really an epic journey "
 "survived by less than quarter of all people who left Grekulak lands."
-msgstr ""
+msgstr "Ta zanechala Grekulakovo hlavní sídlo v troskách, a Akladijci vyrazili na západ, v zádech Grekulakovy spojence, brodíce se bažinami, bojujíce s ještěráky a všemi možnými nejstrašnějšími příšerami. Bylo to skutečně hrdinné putování, které nepřežila ani čtvrtina těch, kteří opustili Grekulakovu zem."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:43
 msgid ""
@@ -8376,7 +8373,7 @@ msgid ""
 "all of the Wesnothian kings were simply thinking that Akladians could be a "
 "tool they could use to get advantage over the others, potential allies or "
 "mercenaries rather than terrible menace."
-msgstr ""
+msgstr "Tak nakonec dorazili do Wesnothu a ihned započali s jejich brutální vládou. Jak jistě víš, královstí bylo značně rozděleno a všichni Wesnotští panovníci si zprvu mysleli, že Akladijci by se mohli stát jejich nástrojem k ovládnutí ostatních, tedy spíše jako jejich potenciální spojenci či žoldnéři než děsivé nebezpečí."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:46
 msgid ""
@@ -8388,7 +8385,7 @@ msgid ""
 "questionable legality. Whole the Wesnoth became the spoil of Akladian "
 "barbarians, introducing their laws of unthinkable stringency and cruelty "
 "into civilised lands, chasing mages, murdering elvish and dwarvish traders."
-msgstr ""
+msgstr "Ano pád Weldynu nepřiměl Wesnothské vládce k jednotnému postupu proti společnému nebezpečí. Jejich spojenectví bývala pouze dočasná pouze k vítězství v jedné bitvě, po které zase vše upadalo do původního chaosu. A tak byli jeden po druhém poraženi. Pouze Elensefar a poslední přímořská pobřeží a severní oblasti si zachovaly svrchovanost, leč na pováženou zůstává legalita jejich královských linií. A tak se téměř celý Wesnoth stal kořistí barbarských Akladijců, kteří s sebou přinesli do civilizovaných zemí svůj vlastní přísný řád plný krutosti a zloby, opovrhování mágy, vraždění elfích a trpasličích obchodníků."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:49
 msgid ""
@@ -8396,7 +8393,7 @@ msgid ""
 "Akladians became far less  ruthless, cruel and fearsome now, after the years "
 "of reasonable prosperity. They even started to mix with Wesnothians, and "
 "your father was not the first nor the last who married Wesnothian woman. "
-msgstr ""
+msgstr "Tehdy tvůj děd, Gawene, rozdělil dobyté území mezi své čtyři syny. Po letech prosperity pak se pak Akladijci stali mnohem méně nemilosrdnými, krutými i nebojácnými. A začali se mísit s Wesnotským obyvatelstvem. Tvůj otec nebyl první, kdo se oženil s Wesnotskou dívkou."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:52
 msgid ""
@@ -8405,29 +8402,29 @@ msgid ""
 "him more than a century to rebuild his forces. He abandoned the plans of "
 "breeding another race of warriors. He came here now, trying to seduce orcs "
 "and some of Akladians by promises of gold, fame and who knows what else."
-msgstr ""
+msgstr "Mezi tím se grekulak snažil posbírat, co se se dalo, z jeho zničeného království. Akladijská rebelie pro něj byla strašnou ranou. Myslím, že mu trvalo více než století, aby znovu vybudoval ztracenou armádu. Zavrhl plány na vytvoření nové rasy válečníků. A tak nyní přišel a získává na svou stranu skřety i některé Akladijce pod příslibem zlata, slávy a kdoví čeho ještě."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:129
 msgid "This story.. Deorien, are you sure about this?"
-msgstr ""
+msgstr "Tento příběh.. Deoriene, jsi si tím jistý?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:130
 msgid "Now, when he finished his story. Should we kill him now?"
-msgstr ""
+msgstr "Teď, když dovykládal tu pohádku. Můžem ho konečně zabít?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:131
 msgid "Mother, don't you get it? It means we are practically half-orcs!"
-msgstr ""
+msgstr "Matko, tos to ještě nepochopila? To znamená, že jsme prakticky poloskřeti!"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:132
 msgid ""
 "No, Gawen. Grekulak used human form as a base and added few orcish features. "
 "To describe Akladians as half-orcs is a big simplification."
-msgstr ""
+msgstr "Ne, Gawene. Použil jako základ lidskou formu a pouze přidával skřetí vlastnosti. Popsat Akladijce jako půlskřety je velice hrubé zjednodušení."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:133
 msgid "Why you were telling us whole that long story?"
-msgstr ""
+msgstr "Proč nám zde vykládáš tento předlouhý příběh?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:134
 msgid ""
@@ -8437,7 +8434,7 @@ msgid ""
 "Oracle also started to made her own prophecies, unclear enough to be "
 "popular.  Grekulak has it that messiah would not be Akladian, more popular "
 "version of Oracle is that he will not be fully Akladian."
-msgstr ""
+msgstr "Pravděpodobně jsi již slyšel příběhy o Mesiáši. Předpokládá, že Grekulak je zdrojem těchto příběhů. Hodlá se zjevit mezi Akladijci a znovu je ovládnout. Ale my máme šanci využít těchto příběhů proti němu. Navíc Věštkyně započala tvořit svá vlastní proroctví, dostatečně nejasná k tomu, aby se rychle roznesla. Podle Grekulakovy verze jím nebude Akladijec, podle Věštkyniny verze to nebude úplný Akladijec."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:135
 msgid ""
@@ -8446,7 +8443,7 @@ msgid ""
 "defeat him on his own if not for the chaos. But in this time of disunity "
 "Grekulak has a chance of taking over these lands, and then over the whole "
 "world."
-msgstr ""
+msgstr "Myslíš, že jsi to pochopil, Gawene, ty budeš tím novým Mesiášem. V lepších časech by Wesnoth s přehledem porazil Grekulaka. I sami Akladijci by jej byli schopni sami porazit. Ale nyní, v době rozdrobenosti má Grekulak, stejně jako kdysi Akladijci, šanci ovládnout postupně všechna území a posléze i celý svět."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:136
 msgid ""
@@ -8454,7 +8451,7 @@ msgid ""
 "immediately create some witty song about this. Gawen the messiah! First the "
 "king, and now the messiah! What a career for someone who is considered "
 "bastard by Akladians."
-msgstr ""
+msgstr "Mesiáš, ha, ha, ha, to je fakt dobrý. Skutečně mi tu chubí Karen - jistě by o tom ihned složila veršovanku. Gawen Mesiášem! Nejdřív král, a teď dokonce Mesiáš! Jaká úžasná kariéra pro někoho, kdo je i Akladijci označen za barbara!"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:137
 msgid ""
@@ -8463,13 +8460,13 @@ msgid ""
 "the only person which can unite both Akladians and Wesnothians, who can "
 "create one nation from them, and defeat the forces of evil which will came "
 "here led by Grekulak. "
-msgstr ""
+msgstr "Ne Gawene. Pro velkou část Akladijců, zvláště pro členy tvého vlastního klanu, je Gawen Hagarthen právoplatným králem. jenom část Akladijských lordů tě nenávidí. Jsi tím, kdo má sílu sjednotit Akladijce a Wesnotské, stvořit z nich jeden národ, a porazit nepřátelské jednotky, které sem dorazí pod vedením Grekulaka."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:138
 msgid ""
 "How do you think I will do it? I will just say 'hey guys, you may call me "
 "messiah now'? Isn't some kind of miracle needed and this kind of stuff?"
-msgstr ""
+msgstr "A jak si myslíš, že to udělám? Třeba že řeknu \"Nazdar hoši, od teď mi říkejte Mesiáš.\"? Není k tomu nutné vykonat nějaké zázraky nebo něco takového?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:139
 msgid ""
@@ -8478,37 +8475,37 @@ msgid ""
 "royal line, so also Wesnothian will recognise you as their legal ruler. As "
 "Gaumhaldric you made a name of your own. And I and all surviving mages will "
 "serve you."
-msgstr ""
+msgstr "Věštkyně tě prohlásí Mesiášem, a Akladijci ze všech království, včetně všech ostatních králů, se ti pokloní. Pocházíš z Wesnothské královské krve, takže i lidé Wesnothu tě přijmou za svého právoplatného dědice trůnu. A jako Gaumhaldrik sis vybudoval velké jméno a prestiž. A nakonec já i všichni přeživší mágové ti budou sloužit."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:140
 msgid ""
 "Shut up, foul mage. Everything you tell us was blasphemy. Gawen Hagarthen is "
 "the king of Vakladia."
-msgstr ""
+msgstr "Zklapni, pitomý mágu. Všechno, cos tu navykládal, jsou žvásty. Gawen Hagarthen je král Vakladie."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:141
 msgid ""
 "And you are his mother, therefore the queen - think about it. He could rule "
 "over whole Wesnoth, all Akladian kingdoms."
-msgstr ""
+msgstr "A ty jsi jeho matka, tedy královna - mysli na to. Mohl by vládnout celému Wesnothu, všem Akladijským královstvím."
 
-#: A_New_Order/scenarios/21weldyn-b.cfg:142
+# rovnoprávnosti #: A_New_Order/scenarios/21weldyn-b.cfg:142
 msgid ""
 "Mage Deorien, do you really think Gawen can unite Akladians and Wesnoth? You "
 "are not serious, aren't you. Hey, Lorin, do you think underlings are equal "
 "to Akladians?"
-msgstr ""
+msgstr "Velký Deoriene, mágu, skutečně si myslíš, že Gawen může sjednotit Akladijce a Wesnotské? To nemyslíš vážně, že ne? Hej, Lorin,  co si myslíš o rovnoprávnosti porřadných a Akladijců?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:143
 msgid "You have to be joking. "
-msgstr ""
+msgstr "Si děláš prdel."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:144
 msgid ""
 "Deorien, they have whole religion about their own supremacy over the rest of "
 "the world. The God himself choosed them for be masters of every other nation "
 "and race. And you are saying we should coexist?"
-msgstr ""
+msgstr "Deoriene, jejich náboženství je o jen a pouze o jejich nadřazenosti nad celým světem. Sám Bůh je vybral, aby vládli všem národům a rasám. A ty tvrdíš, že my můžeme s nimi koexistovat?"
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:146
 msgid ""
@@ -8519,6 +8516,8 @@ msgid ""
 "seeking the help of a shaman in next village. It is just a beginning, but it "
 "is a good beginning."
 msgstr ""
+"Ano. A již se tak děje. A přeze všechno, co říkají ti velcí Akladijští lordové, jak vystavují na odiv jejich vlastní nadřazenost, se TO děje. Velkolepě přicházejí k poznání, že ve své podstatě jsou stejnými lidmi jako Wesnoťané. Muži Akladijských klanů se žení s Wesnotskými dívkami. "
+"Akladijští vesničané hledají pomoc u šamana v sousední vesnici. Já vím, je to pouze začátek, ale je to dobrý začátek."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:147
 msgid ""
@@ -8526,11 +8525,11 @@ msgid ""
 "other peasants. If we would strip away the part about Akladian superiority, "
 "it may once became a religion uniting the nation, because you - Akladians, "
 "Wesnothians, and Aragwaithi - will became one nation, sooner or later."
-msgstr ""
+msgstr "A Akladijská víra v jednoho Boha ovládajícího svět může být pro mnohé vesničany atraktivní. Pokud se nám podaří oddělit tu část o Akladijské nadřazenosti, tato víra se jednou může sjednocovat národy, protože vy - Akladijci, Wesnoťané i Aragwaithi - se dříve či později stanete jedním národem."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:148
 msgid "Can we kill him now? He is a gall on the face of the earth. A mage."
-msgstr ""
+msgstr "A teď už ho můžem zabít? Je to vřed na tváři světa. Mág."
 
 #: A_New_Order/scenarios/21weldyn-b.cfg:149
 msgid "You may recruit mages now."
@@ -8551,14 +8550,14 @@ msgid ""
 "Once there was a great city here, I was told. Once people were crowding on "
 "its streets, and its walls were reaching the sky. Now only ruins have "
 "remained - only the skeletons of the buildings and empty wells."
-msgstr ""
+msgstr "Bylo mi řečeno, že tu kdysi stálo velké město. Kdysi se tu lidé procházeli po ulicích a jeho zdi sahaly až do nebes. Nyní tu leží ruiny - jenom trosky domů a prázdné ulice."
 
 #: A_New_Order/scenarios/21weldyn.cfg:17
 msgid ""
 "It is said that Akladians were unable to take the Weldyn, they never were "
 "good in taking fortified cities. They sieged the city for years, storming "
 "the walls with ferocity and fanatical courage."
-msgstr ""
+msgstr "Bylo řečeno, že Akladijci nebyli schopni dobýt Weldyn, nikdy nebyly dobří v dobývání opevněných měst. Obléhali město po dlouhé roky, zuřivě a fanaticky bušili do hradeb."
 
 #: A_New_Order/scenarios/21weldyn.cfg:20
 msgid ""
@@ -8566,84 +8565,84 @@ msgid ""
 "promised three bags of gold for opening the city gates.  Akladians kept "
 "their promise. The tale has it that they tied the three bags of gold to the "
 "traitor's legs before they pushed him from the walls into the river."
-msgstr ""
+msgstr "Nakonec jim pomohla zrada zevnitř. Zrádci slíbili tři pytle zlata za otevření městké brány. A svůj slib plnili. Pověst říká, že mu tyto tři pytle zlata přivázali na nohy a pak ho shodili z hradeb do řeky."
 
 #: A_New_Order/scenarios/21weldyn.cfg:92
 msgid "So, you think the great mage is hiding somewhere here?"
-msgstr ""
+msgstr "Takže ty si myslíš, že se velký mág schovává někde tady?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:93
 msgid "Yes, my lord. These are ruins of great city. Deorien should be there."
-msgstr ""
+msgstr "Ano, Můj Pane. Toto jsou starodávné runy Velkého města. Zde by měl Deorien být."
 
 #: A_New_Order/scenarios/21weldyn.cfg:94
 msgid ""
 "Hiding like a rat, seeking the cover against the wrath on just hand of the "
 "God. So, our plain is to find him, torture him and kill him, right?"
-msgstr ""
+msgstr "Zalezlý jako krysa, schovaný před pomstou ruky Boží. takže náš plán je najít ho, dostat z něj, co jde, a zabít ho, že?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:95
 msgid ""
 "Lady Lorin, are you just pretend you had not understood why we were sent "
 "here, or the unability to grasp the goals of our mission is natural "
 "consequence of quality of your mind?"
-msgstr ""
+msgstr "Lady Lorin, ty jenom předstíráš, že nechápeš, proč tu jsme, nebo neschopnost pochopit cíle naší mise má přirozené konsekvence s kvalitou tvé mysli?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:96
 msgid "I can kill you here and now, underling, so watch your words."
-msgstr ""
+msgstr "Mohla bych tě podřezat teď a tady, podřadný, takže si dávej pozor na jazyk!"
 
 #: A_New_Order/scenarios/21weldyn.cfg:97
 msgid ""
 "Mother! Stop it! What I told you about using this nasty word? I need both of "
 "you. You should be friends or at least allies, not enemies."
-msgstr ""
+msgstr "Matko! Přestaň! Co jsem ti říkal o používání toho hnusného slova? Potřebuji vás OBA. Měli byste se spřátelit, nebo alespoň se stát spojenci, ne nepřátelé."
 
 #: A_New_Order/scenarios/21weldyn.cfg:98
 msgid "Is it an order?"
-msgstr ""
+msgstr "Je to rozkaz?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:99
 msgid "Yes, it is."
-msgstr ""
+msgstr "Ano, je."
 
 #: A_New_Order/scenarios/21weldyn.cfg:100
 msgid ""
 "If this is your will, Gawen, I will kill that under.. uhm... man-like "
 "creature later."
-msgstr ""
+msgstr "Pokud si to přeješ, Gawene, tak tohoto podř.. hmm... toto stvoření vypadající jako muž podřežu později."
 
 #: A_New_Order/scenarios/21weldyn.cfg:102
 msgid ""
 "God help us. I've heard terrible stories about this area. They say the ghost "
 "of murdered citizens still inhabit this ruins. No Akladian wants to enter "
 "this cemetery full of memories of dead."
-msgstr ""
+msgstr "Bůh nám pomáhej. Slyšel jsem hrůzostrašné historky o tomto místě. Říkají, že duchové zabitých obyvatel města stále obývají tyto ruiny. Žádný Akladijec nikdy nechtěl vstoupit do těchto míst plných vzpomínek na smrt."
 
 #: A_New_Order/scenarios/21weldyn.cfg:104
 msgid ""
 "God help us. I've heard terrible stories about this area. They say the ghost "
 "of murdered citizens still inhabit this ruins. No Akladian wants to enter "
 "this cemetary full of memories of dead."
-msgstr ""
+msgstr "Bůh nám pomáhej. Slyšel jsem hrůzostrašné historky o tomto místě. Říkají, že duchové zabitých obyvatel města stále obývají tyto ruiny. Žádný Akladijec nikdy nechtěl vstoupit do těchto míst plných vzpomínek na smrt."
 
 #: A_New_Order/scenarios/21weldyn.cfg:106
 msgid "No ghost will be able to stand against the cold steel in the hand of Lorin."
-msgstr ""
+msgstr "Žádný duch neobstojí proti chladné oceli v rukou Lorin."
 
 #: A_New_Order/scenarios/21weldyn.cfg:133
 msgid "Master, someone approaches us! Should I attack now?"
-msgstr ""
+msgstr "Pane, někdo přichází! Měli bychom zaútočit?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:134
 msgid "No, don't attack."
-msgstr ""
+msgstr "Ne, neútočte."
 
 #: A_New_Order/scenarios/21weldyn.cfg:135
 msgid ""
 "These are Akladians! At least, there are Akladians amongst them! I will need "
 "reinforcements!"
-msgstr ""
+msgstr "Jsou to Akladijci! Minimálně je mezi nimi spousta Akladijců! Potřebujeme posily!"
 
 #: A_New_Order/scenarios/21weldyn.cfg:136
 msgid ""
@@ -8651,21 +8650,21 @@ msgid ""
 "who you are. Oracle notified me about you. I was waiting for you, noble "
 "Gaumhaldric - or rather, Gawen Hagarthen. You have no idea how long I waited "
 "for you."
-msgstr ""
+msgstr "Už jsem řekl, žádný útok. Nebojte se, přátelé ze vzdálených zemí. Vím kdo jste. Věštkyně mi o vás dala vědět. Čekám na tebe, ctihodný Gaumhaldriku - nebo raději Gawene Hagarthene. Ani nevíš, jak dlouho jsem na tebe čekal."
 
 #: A_New_Order/scenarios/21weldyn.cfg:137
 msgid "Are you Deorien, the great mage?"
-msgstr ""
+msgstr "Ty jsi Deorien, Velký Mág?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:138
 msgid "Yes, I am."
-msgstr ""
+msgstr "Ano, jsem."
 
 #: A_New_Order/scenarios/21weldyn.cfg:139
 msgid ""
 "We need your help. Great army is about to invade Wesnoth, and without mage "
 "we.."
-msgstr ""
+msgstr "Potřebujeme tvoji pomoc. Velká armáda se chystá napadnout Wesnoth a bez pomocí mágů.."
 
 #: A_New_Order/scenarios/21weldyn.cfg:140
 msgid ""
@@ -8674,10 +8673,12 @@ msgid ""
 "like you will appear. When I heard about you, a hope had arised in my heart. "
 "Now, when I see you, I am sure."
 msgstr ""
+"Vždyť jsem ti říkal, že vím, kdo jste a proč tu jste. Ale já se bojím, že to nevíš TY. Gawene Hagarthene, čekal se po mnohé a mnohé roky na někoho, jako jsi ty. Když jsem o tobě uslyšel, naděje opět vešla do mého srdce. "
+"Nyní, když tě vidím, jsem si jist."
 
 #: A_New_Order/scenarios/21weldyn.cfg:141
 msgid "Sure? Of what? You are confusing me, while I only want to ask you for help."
-msgstr ""
+msgstr "Jistý? Čím? Mateš mě, a já pouze přišel žádat o pomoc."
 
 #: A_New_Order/scenarios/21weldyn.cfg:142
 msgid ""
@@ -8686,15 +8687,15 @@ msgid ""
 "Weldyn and we hid in the library. Then... But I will explain you everything. "
 "First, you have to hear some story. Very long story... Gawen, what do you "
 "know about origins of Akladians?"
-msgstr ""
+msgstr "Zvu tebe i tvé přátele do svých komnat. Skrývám se v těchto ruinách po celý můj život. V nejtemnějších časech Wesnothu jsem sebral poslední přeživší mágy a schovali jsme se v knihovně. Pak.. Ale neboj, povyprávím ti vše. Jednou. Nejdřív si ale musíš vyslechnout jiný příběh. Velmi dlouhý příběh... Gawne, co víš o původu Akladijců?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:143
 msgid "Akladians? Well... we came from the east, isn't it? Mother, help me here..."
-msgstr ""
+msgstr "akladijců? Dobře... přišli jsme z východu, že? Matko, prosím, tady mi pomoz.."
 
 #: A_New_Order/scenarios/21weldyn.cfg:144
 msgid "Should I kill this mage now?"
-msgstr ""
+msgstr "Už mám zabít toho mága?"
 
 #: A_New_Order/scenarios/21weldyn.cfg:145
 msgid ""
@@ -8704,11 +8705,11 @@ msgid ""
 "they moved here. For every myth there is a true event which started it, true "
 "beginning twisted and confused with the passing generations. Listen to me "
 "now."
-msgstr ""
+msgstr "Ona ti to neřekne, poněvadž vše, co zná, jsou jen legendy a mýty. Pověděla by ti pověst o tom, jak Bůh stvořil Akladijce k ovládnutí celého světa, ale falešný mesiáš je uvěznil, načež propukla rebelie a oni odešli sem. Ale na každém mýtu je zrnko pravdy, ze kterého byl počat, zrnko pravdy přesívané, přemílané a mylně interpretované po mnohá pokolení. Nyní mne dobře poslouchej."
 
 #: A_New_Order/scenarios/22.cfg:3
 msgid "Leaving the Okladia"
-msgstr ""
+msgstr "Opouštění Okladie"
 
 #: A_New_Order/scenarios/22.cfg:17
 msgid ""
