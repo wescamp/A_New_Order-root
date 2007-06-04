@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2007-05-31 14:28+0200\n"
+"PO-Revision-Date: 2007-06-01 09:18+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -152,7 +152,7 @@ msgid ""
 "father and two hundred for son! Aiieeee!!!"
 msgstr ""
 "Nemohu Ti to říct! (Aaargh!) Neznám jeho jméno! Dostal jsem úkol od našich "
-"kmotrů z Podsvětí! Jediné, co vím, je, že jeden z Akladijských lordů "
+"kmotrů z Raubířova! Jediné, co vím, je, že jeden z Akladijských lordů "
 "zaplatil zlatem za jejich smrt. Cena byla tři sta zlatých za otce a dvě "
 "stovky za syna! Áááááá!!!"
 
@@ -7505,7 +7505,7 @@ msgid ""
 "There was assassin who was send after me. He was interrogated and he "
 "testified he was send from Outlaw Place. It was almost two years ago - can "
 "you remember who have hired him?"
-msgstr "Poslali na mě vraha. Byl vyslýchán a prozradil, že byl vyslán odsud. Je to asi dva roky zpátky - můžeš si vzpomenout, kdo ho najal?"
+msgstr "Poslali na mě vraha. Byl vyslýchán a prozradil, že byl vyslán z Raubířova. Je to asi dva roky zpátky - můžeš si vzpomenout, kdo ho najal?"
 
 #: A_New_Order/scenarios/20macros.cfg:469
 msgid ""
@@ -12562,7 +12562,7 @@ msgid ""
 "Rob Roe, there was assassin who was send after m.. Gawen Hagarthen. He was "
 "interrogated and he testified he was send from Outlaw Place. Do you know who "
 "have hired him to kill king Gawen Hagarthen?"
-msgstr "Robe Roe, na m.. Gawena Hagarthena někdo poslal vraha. Během mučení přiznal, že byl vyslán z Podsvětí. Nevíš, kdo jej najal, aby zabil Gawena Hagarthena?"
+msgstr "Robe Roe, na m.. Gawena Hagarthena někdo poslal vraha. Během mučení přiznal, že byl vyslán z Raubířova. Nevíš, kdo jej najal, aby zabil krále Gawena Hagarthena?"
 
 #: A_New_Order/scenarios/8.cfg:301
 msgid ""
@@ -14319,7 +14319,8 @@ msgstr ""
 "Pokud se ti tažení líbilo, prosím pošli svůj názor do diskusního fóra na "
 "http://www.wesnoth.org/forum/ . Investoval jsem do vytváření tažení spoustu "
 "času, stejně jako překladatelé i další; na oplátku bych rád slyšel názory "
-"lidí, kteří jej jenom hrají. "
+"lidí, kteří jej jenom hrají.\n"
+"Pokud máte nějaké připomínky či dotazy či nápady k českému překladu, jděte na http://forum.bonusweb.cz/wesnoth/viewtopic.php?t=104 . Dík za každou připomínku k překladu. tapik"
 
 #: A_New_Order/scenarios/final.cfg:127
 msgid ""
@@ -15053,14 +15054,14 @@ msgstr "kyj"
 
 #: A_New_Order/units/Highwayman.cfg:5
 msgid "Highwayman"
-msgstr "Dálničář"
+msgstr "Loupežník"
 
 #: A_New_Order/units/Highwayman.cfg:25
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
-"Ozbrojeni těžkým palcátem, Dálničáři jsou ti poslední, které byste chtěli "
+"Ozbrojeni těžkým palcátem, Loupežníci jsou ti poslední, které byste chtěli "
 "potkat pozdě v noci na opuštěné cestě."
 
 #: A_New_Order/units/Human-ranger.cfg:4
