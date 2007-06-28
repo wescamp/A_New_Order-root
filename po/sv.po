@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2006-11-21 22:51+0100\n"
+"PO-Revision-Date: 2007-06-27 23:23+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -13561,9 +13561,8 @@ msgid "She's a fighter! I could even fight for someone like her..."
 msgstr "Hon är en krigare! Jag skulle kunna slåss för någon som henne..."
 
 #: A_New_Order/scenarios/9.cfg:615
-#, fuzzy
 msgid "Sorry, I am not a necromancer."
-msgstr "Jag är ledsen men jag är inte en nekromantiker."
+msgstr "Jag är ledsen, men jag är inte en nekromant."
 
 #: A_New_Order/scenarios/9.cfg:616
 #, fuzzy
