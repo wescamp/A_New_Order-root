@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2007-06-27 23:23+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -4278,8 +4278,9 @@ msgstr ""
 #: A_New_Order/scenarios/22.cfg:89 A_New_Order/scenarios/22.cfg:104
 #: A_New_Order/scenarios/22.cfg:473 A_New_Order/scenarios/25.cfg:19
 #: A_New_Order/scenarios/15a.cfg:126
+#, fuzzy
 msgid "Well..."
-msgstr ""
+msgstr "Tja..."
 
 #: A_New_Order/scenarios/14saorduc.cfg:11
 msgid "Allright, I accept your offer"
@@ -15686,7 +15687,7 @@ msgstr ""
 
 #: A_New_Order/units/Huntsman.cfg:52 A_New_Order/units/Human-ranger.cfg:60
 msgid "bow"
-msgstr "båge"
+msgstr "pilbåge"
 
 #: A_New_Order/units/Human-ranger.cfg:63
 msgid "marksman"
