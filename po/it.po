@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-20 14:04+0200\n"
-"PO-Revision-Date: 2007-02-08 08:01+0100\n"
+"POT-Creation-Date: 2007-08-15 00:10+0200\n"
+"PO-Revision-Date: 2007-12-02 17:41+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: A_New_Order.cfg:11
 msgid "A New Order"
@@ -493,7 +495,7 @@ msgid ""
 "siege, so it would be enough to survive initial onslaught. Then, they will "
 "have to withdraw, because they will have no food."
 msgstr ""
-"Non dobbiamo sconfiggerli, fortunatamente.  Non sono preparati per un lungo "
+"Non dobbiamo sconfiggerli, fortunatamente. Non sono preparati per un lungo "
 "assedio, dunque sarebbe sufficiente sopravvivere all'attacco iniziale.  "
 "Dopo, dovranno ritirarsi, perché non hanno cibo."
 
@@ -1088,10 +1090,6 @@ msgstr "Elorain"
 #: A_New_Order/scenarios/11.cfg:233
 msgid "Milildur"
 msgstr "Milildur"
-
-#: A_New_Order/scenarios/11.cfg:237
-msgid "ambush"
-msgstr "imboscata"
 
 #: A_New_Order/scenarios/11.cfg:243
 msgid "It would be honor to fight for you, Gaumhaldric."
@@ -5918,7 +5916,7 @@ msgid ""
 "enemy leader and interrogating hero."
 msgstr ""
 "In questo scenario si possono interrogare i comandanti nemici con Gawen, "
-"Ruvio, Reme o Lorin, ma gli effetti potrebbero - o non potrebbero -  essere "
+"Ruvio, Reme o Lorin, ma gli effetti potrebbero - o non potrebbero - essere "
 "diversi, a seconda del comandante nemico e dell'eroe che li interroga."
 
 #: A_New_Order/scenarios/17.cfg:319
@@ -6188,7 +6186,7 @@ msgid ""
 "is, of course not because she is oracle, but because she is mage and as such "
 "she have greater chance of hearing about another mage."
 msgstr ""
-"È una donna, una maga con capacità di preveggenza.  È l'unica maga che la "
+"È una donna, una maga con capacità di preveggenza. È l'unica maga che la "
 "gente di Akladia ha lasciato a Vakladia, non so perché. Quando un Oracolo "
 "muore, è sostituita da uno dei suoi apprendisti, uomo o donna. POTREBBE "
 "sapere  dov'è Deorien, naturalmente non perché è l'Oracolo, ma perché è una "
@@ -7466,7 +7464,7 @@ msgstr ""
 
 #: A_New_Order/scenarios/20.cfg:256
 msgid "Well, yes, it's me, but why do you think you need to be saved?"
-msgstr "Be'  sì, sono io, ma perché pensate di essere salvati?"
+msgstr "Be' sì, sono io, ma perché pensate di essere salvati?"
 
 #: A_New_Order/scenarios/20.cfg:259
 msgid ""
@@ -8015,7 +8013,7 @@ msgstr ""
 msgid ""
 "I did! And I regret he failed - but what one can expect from underling..."
 msgstr ""
-"L'ho fatto! E rimpiango di aver fallito -  ma cosa ci si può aspettare da un "
+"L'ho fatto! E rimpiango di aver fallito - ma cosa ci si può aspettare da un "
 "miserabile..."
 
 #: A_New_Order/scenarios/20macros.cfg:356
@@ -8088,7 +8086,7 @@ msgstr "Non provo odio per te."
 msgid ""
 "Human killed you - and human will kill all your soldiers, to the last orc..."
 msgstr ""
-"Un uomo ti ha ucciso -  e gli uomini uccideranno tutti i tuoi soldati, fino "
+"Un uomo ti ha ucciso - e gli uomini uccideranno tutti i tuoi soldati, fino "
 "all'ultimo orco..."
 
 #: A_New_Order/scenarios/20macros.cfg:375
@@ -8432,7 +8430,7 @@ msgid ""
 "Shut up, your witch. You betrayed our race - you are allied to that mixling, "
 "and fight alongside underlings!"
 msgstr ""
-"Taci, strega. Hai tradito la nostra razza -  ti sei alleati con questi "
+"Taci, strega. Hai tradito la nostra razza - ti sei alleata con questi "
 "mezzosangue, e combatti al fianco dei miserabili!"
 
 #: A_New_Order/scenarios/20macros.cfg:526
@@ -9466,7 +9464,7 @@ msgid ""
 msgstr ""
 "Penso che adesso tu capisca. Gawen, sarai tu il nuovo Liberatore. Nei tempi "
 "migliori Wesnoth avrebbe sconfitto facilmente Grekulak. Anche la gente di "
-"Akladia potrebbe sconfiggerlo da sola se non ci fosse questo  caos. Ma in "
+"Akladia potrebbe sconfiggerlo da sola se non ci fosse questo caos. Ma in "
 "questo periodo di divisione Grekulak ha la possibilità di prendere il "
 "controllo di queste terre ed quindi del mondo intero."
 
@@ -10950,7 +10948,7 @@ msgstr "Mio sire -"
 
 #: A_New_Order/scenarios/23macros.cfg:347
 msgid " You have to return with whole army to home, as soon as possible!"
-msgstr "Devi tornare a casa con tutto l'esercito  al più presto possibile!"
+msgstr "Devi tornare a casa con tutto l'esercito al più presto possibile!"
 
 #: A_New_Order/scenarios/23macros.cfg:347
 msgid ""
@@ -11659,7 +11657,7 @@ msgid ""
 "Akladians - open the way for me and my army. I am your rightful king, I am "
 "messiah, the hand of God on this earth. Whoever opposes me opposes the God."
 msgstr ""
-"Genti di Akladia -  aprite la strada al passaggio del mio esercito. Io sono "
+"Genti di Akladia - aprite la strada al passaggio del mio esercito. Io sono "
 "il vostro legittimo re, io sono il Liberatore, la mano degli dei sulla "
 "terra. Chiunque si oppone a me, si oppone agli dei."
 
@@ -13778,7 +13776,7 @@ msgid ""
 "Wait - you were expecting human envoy here? And how did you made your way "
 "here, there are underling realms north from here?"
 msgstr ""
-"Cosa?  stavate aspettando un messo umano qua? E come avete fatto ad arrivare "
+"Cosa? stavate aspettando un messo umano qua? E come avete fatto ad arrivare "
 "fino a qua, ci sono i regni dei miserabili a nord di qua?"
 
 #: A_New_Order/scenarios/5a.cfg:247
@@ -14380,7 +14378,7 @@ msgid ""
 "just Haldric now. It will be far better for you, Haldric, believe me. It "
 "will be far safer."
 msgstr ""
-"È nascosta nel fitto delle foreste.  La sua posizione è il nostro più grande "
+"È nascosta nel fitto delle foreste. La sua posizione è il nostro più grande "
 "segreto. E cerca di abituarti a essere chiamato Haldric. Voglio che tutti "
 "giurino ora che non diranno a nessuno che questo uomo è l'ex-re di Vakladia, "
 "Gawen Hagarthen. D'ora in poi è solo Haldric. Sarà molto meglio per te, "
@@ -14391,7 +14389,7 @@ msgid ""
 "Why? If the Freetown location is so secret, then even if Akladian lords will "
 "know that I am alive, they wouldn't be able to find me, right?"
 msgstr ""
-"E perché?  Se la posizione di Freetown è così segreta, allora anche se i "
+"E perché? Se la posizione di Freetown è così segreta, allora anche se i "
 "signori di Akladia sapessero che sono vivo, non potrebbero trovarmi, giusto? "
 
 #: A_New_Order/scenarios/7.cfg:471
@@ -15236,8 +15234,8 @@ msgid ""
 "What part of the phrase 'do not kill their leaders, leave that for me' have "
 "you not understood?"
 msgstr ""
-"Quale parte della frase: «Non uccidete i comandanti, lasciateli a me» non "
-"hai capito?"
+"Quale parte della frase: «Non uccidete i comandanti, lasciateli a me» non hai "
+"capito?"
 
 #: A_New_Order/scenarios/9.cfg:460
 msgid "But it was self-defense!"
@@ -15478,10 +15476,6 @@ msgstr ""
 "avrò diritto di vivere. Se avessi avuto un figlio, sarei la tua nemica "
 "mortale, ma non l'ho avuto. So che c'è un sentimento molto malato fra noi, "
 "ma io ora sono l'unica di cui puoi fidarti e tu sei la mia unica speranza..."
-
-#: A_New_Order/scenarios/Breaking_The_Circle.cfg:82
-msgid "skirmisher"
-msgstr "incursore"
 
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:104
 msgid "Eol Areon"
@@ -16234,7 +16228,7 @@ msgid ""
 "This is debug message.  If you see it, then it means I forgot to delete it "
 "from release scenario: ' {TEXT} '"
 msgstr ""
-"This is debug message.  If you see it, then it means I forgot to delete it "
+"This is debug message. If you see it, then it means I forgot to delete it "
 "from release scenario: ' {TEXT} '"
 
 #: A_New_Order/scenarios/ano_macros.cfg:1005
@@ -16759,89 +16753,12 @@ msgstr "Cratere"
 msgid "Akladian Chieftain_c"
 msgstr "Akladian Chieftain_c"
 
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:16
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:16
-#: A_New_Order/units/YoungHagarthen.cfg:11
-#: A_New_Order/units/Shadow_Mage.cfg:15
-#: A_New_Order/units/Akladian_Princess.cfg:18 A_New_Order/units/Ruvio.cfg:10
-#: A_New_Order/units/Ruvios_Daughter.cfg:17
-#: A_New_Order/units/Akladian_Chieftain.cfg:16 A_New_Order/units/Karen.cfg:18
-#: A_New_Order/units/Lord_Hagarthen.cfg:11
-#: A_New_Order/units/Akladian_Leader.cfg:16
-#: A_New_Order/units/Akladian_Lady.cfg:19 A_New_Order/units/Shadow_Lord.cfg:55
-#: A_New_Order/units/Akladian_Lord-c.cfg:11
-#: A_New_Order/units/Akladian_Lord-g.cfg:11
-#: A_New_Order/units/Akladian_Lord.cfg:11 A_New_Order/units/Hagarthen.cfg:11
-msgid "leadership"
-msgstr "comando"
-
 #: A_New_Order/units/Akladian_Chieftain-c.cfg:20
 #: A_New_Order/units/Akladian_Chieftain-g.cfg:20
 #: A_New_Order/units/Akladian_Chieftain.cfg:20
 msgid "The best of Akladian warriors are choosed to lead their clans."
 msgstr ""
 "I migliori guerrieri di Akladia vengono scelti per comandare i loro clan."
-
-#: A_New_Order/units/Akladian_Homeguard-c.cfg:21
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:23
-#: A_New_Order/units/Akladian_Homeguard-g.cfg:21
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:23
-#: A_New_Order/units/Akladian_Princess.cfg:23 A_New_Order/units/Ruvio.cfg:45
-#: A_New_Order/units/Akladian_Shieldguard.cfg:21
-#: A_New_Order/units/Ruvios_Daughter.cfg:22
-#: A_New_Order/units/Human-ranger.cfg:38
-#: A_New_Order/units/Akladian_Protector.cfg:65
-#: A_New_Order/units/Akladian_Chieftain.cfg:23
-#: A_New_Order/units/Akladian_Pikeneer.cfg:25
-#: A_New_Order/units/Akladian_Fastfoot.cfg:62
-#: A_New_Order/units/Akladian_Raider-c.cfg:21
-#: A_New_Order/units/Akladian_Raider-g.cfg:21 A_New_Order/units/Karen.cfg:47
-#: A_New_Order/units/Lord_Hagarthen.cfg:78
-#: A_New_Order/units/Akladian_Leader.cfg:22
-#: A_New_Order/units/Akladian_Lady.cfg:24
-#: A_New_Order/units/Akladian_Raider.cfg:21
-#: A_New_Order/units/Akladian_Homeguard.cfg:21
-#: A_New_Order/units/Akladian_Lord-c.cfg:38
-#: A_New_Order/units/Akladian_Sturmknight.cfg:21
-#: A_New_Order/units/Akladian_Lord-g.cfg:38
-#: A_New_Order/units/Akladian_Darknite.cfg:61
-#: A_New_Order/units/Akladian_Queen.cfg:82
-#: A_New_Order/units/Akladian_Lord.cfg:38
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:25
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:25
-#: A_New_Order/units/Hagarthen.cfg:23
-msgid "sword"
-msgstr "spada"
-
-#: A_New_Order/units/Akladian_Homeguard-c.cfg:22
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:24
-#: A_New_Order/units/Akladian_Homeguard-g.cfg:22
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:24
-#: A_New_Order/units/Brigand.cfg:24 A_New_Order/units/Shadow_Mage.cfg:28
-#: A_New_Order/units/Akladian_Princess.cfg:24 A_New_Order/units/Ruvio.cfg:46
-#: A_New_Order/units/Huntsman.cfg:36
-#: A_New_Order/units/Akladian_Shieldguard.cfg:22
-#: A_New_Order/units/Ruvios_Daughter.cfg:23
-#: A_New_Order/units/Human-ranger.cfg:39
-#: A_New_Order/units/Akladian_Protector.cfg:66
-#: A_New_Order/units/Akladian_Chieftain.cfg:24
-#: A_New_Order/units/Rogue_Mage.cfg:22
-#: A_New_Order/units/Akladian_Fastfoot.cfg:63
-#: A_New_Order/units/Akladian_Raider-c.cfg:22
-#: A_New_Order/units/Akladian_Raider-g.cfg:22 A_New_Order/units/Karen.cfg:48
-#: A_New_Order/units/Lord_Hagarthen.cfg:79
-#: A_New_Order/units/Akladian_Leader.cfg:23
-#: A_New_Order/units/Akladian_Lady.cfg:25 A_New_Order/units/Shadow_Lord.cfg:68
-#: A_New_Order/units/Akladian_Raider.cfg:22
-#: A_New_Order/units/Akladian_Homeguard.cfg:22
-#: A_New_Order/units/Akladian_Lord-c.cfg:39
-#: A_New_Order/units/Akladian_Sturmknight.cfg:22
-#: A_New_Order/units/Akladian_Lord-g.cfg:39
-#: A_New_Order/units/Akladian_Darknite.cfg:62
-#: A_New_Order/units/Akladian_Queen.cfg:83
-#: A_New_Order/units/Akladian_Lord.cfg:39 A_New_Order/units/Hagarthen.cfg:24
-msgid "blade"
-msgstr "lama"
 
 #: A_New_Order/units/Akladian_Chieftain-g.cfg:4
 msgid "Akladian Chieftain_g"
@@ -16873,30 +16790,6 @@ msgstr ""
 "un'armatura molto leggera e sono male armati, sono comunque pericolosi, "
 "specialmente quando vengono utilizzati in gruppi numerosi. Vengono reclutati "
 "solo per difendere i loro regni."
-
-#: A_New_Order/units/Akladian_Clanmember-c.cfg:22
-#: A_New_Order/units/Akladian_Clanmember-g.cfg:22
-#: A_New_Order/units/Akladian_Clanmember.cfg:22
-msgid "short spear"
-msgstr "lancia corta"
-
-#: A_New_Order/units/Akladian_LightInfantry-c.cfg:22
-#: A_New_Order/units/Akladian_LightInfantry-g.cfg:22
-#: A_New_Order/units/Akladian_Clanmember-c.cfg:23
-#: A_New_Order/units/Akladian_Clanmember-g.cfg:23
-#: A_New_Order/units/Brigand.cfg:46 A_New_Order/units/Akladian_Warrior.cfg:22
-#: A_New_Order/units/Ruvio.cfg:64 A_New_Order/units/Huntsman.cfg:53
-#: A_New_Order/units/Human-ranger.cfg:61
-#: A_New_Order/units/Akladian_Pikeneer.cfg:79
-#: A_New_Order/units/Akladian_Clanmember.cfg:23
-#: A_New_Order/units/Akladian_Warrior-c.cfg:22
-#: A_New_Order/units/Akladian_Warrior-g.cfg:22
-#: A_New_Order/units/Akladian_LightInfantry.cfg:22
-#: A_New_Order/units/City_Militia.cfg:38
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:79
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:79
-msgid "pierce"
-msgstr "perfora"
 
 #: A_New_Order/units/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -16966,25 +16859,9 @@ msgstr "maestro di spade"
 msgid "fast"
 msgstr "veloce"
 
-#: A_New_Order/units/Akladian_LightInfantry-c.cfg:27
-#: A_New_Order/units/Akladian_LightInfantry-g.cfg:27
-#: A_New_Order/units/Akladian_Pikeneer.cfg:83
-#: A_New_Order/units/Akladian_Fastfoot.cfg:67
-#: A_New_Order/units/Akladian_LightInfantry.cfg:27
-#: A_New_Order/units/City_Militia.cfg:43
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:83
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:83
-msgid "firststrike"
-msgstr "attacco improvviso"
-
 #: A_New_Order/units/Akladian_Holyman.cfg:4
 msgid "Akladian Holyman"
 msgstr "Venerabile di Akladia"
-
-#: A_New_Order/units/Akladian_Wonderman.cfg:18
-#: A_New_Order/units/Akladian_Holyman.cfg:18
-msgid "cures"
-msgstr "cura"
 
 #: A_New_Order/units/Akladian_Holyman.cfg:19
 msgid ""
@@ -16993,25 +16870,6 @@ msgid ""
 msgstr ""
 "I venerabili di Akladia dedicano l'intera vita a guarire e curare e dunque "
 "sono rispettati nella tribù e apprezzati dai signori di Akladia."
-
-#: A_New_Order/units/Medic.cfg:21 A_New_Order/units/Akladian_Wiseman.cfg:22
-#: A_New_Order/units/Akladian_Wiseman-c.cfg:22
-#: A_New_Order/units/Akladian_Wonderman.cfg:36
-#: A_New_Order/units/Akladian_Holyman.cfg:22
-msgid "staff"
-msgstr "bastone"
-
-#: A_New_Order/units/YoungHagarthen.cfg:25 A_New_Order/units/Medic.cfg:22
-#: A_New_Order/units/Henchman.cfg:28 A_New_Order/units/Akladian_Wiseman.cfg:23
-#: A_New_Order/units/Fugitive.cfg:28 A_New_Order/units/Fugitive.cfg:46
-#: A_New_Order/units/Fugitive.cfg:100 A_New_Order/units/Fugitive.cfg:118
-#: A_New_Order/units/Akladian_Wiseman-c.cfg:23
-#: A_New_Order/units/Highwayman.cfg:29
-#: A_New_Order/units/Akladian_Wonderman.cfg:37
-#: A_New_Order/units/Shadow_Lord.cfg:140
-#: A_New_Order/units/Akladian_Holyman.cfg:23
-msgid "impact"
-msgstr "impatto"
 
 #: A_New_Order/units/Akladian_Homeguard-c.cfg:4
 #: A_New_Order/units/Akladian_Homeguard-g.cfg:4
@@ -17080,16 +16938,6 @@ msgstr ""
 "professionisti. Tuttavia devono provvedere da soli all'equipaggiamento, per "
 "cui prediligono portare una armatura leggera e la lancia."
 
-#: A_New_Order/units/Akladian_LightInfantry-c.cfg:21
-#: A_New_Order/units/Akladian_LightInfantry-g.cfg:21
-#: A_New_Order/units/Akladian_Warrior.cfg:21
-#: A_New_Order/units/Akladian_Warrior-c.cfg:21
-#: A_New_Order/units/Akladian_Warrior-g.cfg:21
-#: A_New_Order/units/Akladian_LightInfantry.cfg:21
-#: A_New_Order/units/City_Militia.cfg:37
-msgid "spear"
-msgstr "lancia"
-
 #: A_New_Order/units/Akladian_Lord-c.cfg:4
 #: A_New_Order/units/Akladian_Lord-g.cfg:4
 #: A_New_Order/units/Akladian_Lord.cfg:4
@@ -17126,11 +16974,11 @@ msgstr ""
 "Akladia. Ricevono tutti i rifornimenti necessari e le loro armi dal loro "
 "padrone, a cui devono personale lealtà."
 
-#: A_New_Order/units/Akladian_Pikeneer.cfg:78
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:78
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:78
-msgid "pike"
-msgstr "picca"
+#: A_New_Order/units/Akladian_Pikeneer.cfg:25
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:25
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:25
+msgid "sword"
+msgstr "spada"
 
 #: A_New_Order/units/Akladian_Princess.cfg:4
 msgid "female^Akladian Princess"
@@ -17164,10 +17012,6 @@ msgstr "corazzato"
 #: A_New_Order/units/Akladian_Queen.cfg:4
 msgid "female^Queen"
 msgstr "Regina"
-
-#: A_New_Order/units/Akladian_Queen.cfg:18
-msgid "leadership,skirmisher"
-msgstr "comando, incursore"
 
 #: A_New_Order/units/Akladian_Raider-c.cfg:4
 #: A_New_Order/units/Akladian_Raider-g.cfg:4
@@ -17235,11 +17079,6 @@ msgstr ""
 msgid "Akladian Wiseman"
 msgstr "Anziano di Akladia"
 
-#: A_New_Order/units/Akladian_Wiseman.cfg:18
-#: A_New_Order/units/Akladian_Wiseman-c.cfg:18
-msgid "heals"
-msgstr "guarire"
-
 #: A_New_Order/units/Akladian_Wiseman.cfg:19
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:19
 msgid ""
@@ -17263,21 +17102,6 @@ msgstr ""
 "la vita intera a studiare le strade della guarigione. Non ignorano nemmeno "
 "le pratiche di Wesnoth e anzi ne hanno tratto alcuni preziosi insegnamenti."
 
-#: A_New_Order/units/Akladian_Wonderman.cfg:48
-msgid "lightbeam"
-msgstr "raggio di luce"
-
-#: A_New_Order/units/Akladian_Wonderman.cfg:49
-msgid "holy"
-msgstr "sacro"
-
-#: A_New_Order/units/Shadow_Mage.cfg:30 A_New_Order/units/Shadow_Mage.cfg:53
-#: A_New_Order/units/Akladian_Wonderman.cfg:51
-#: A_New_Order/units/Rogue_Mage.cfg:56 A_New_Order/units/Shadow_Lord.cfg:70
-#: A_New_Order/units/Shadow_Lord.cfg:103 A_New_Order/units/Shadow_Lord.cfg:142
-msgid "magical"
-msgstr "magico"
-
 #: A_New_Order/units/Brigand.cfg:4
 msgid "Brigand"
 msgstr "Brigante"
@@ -17290,18 +17114,10 @@ msgid ""
 "them."
 msgstr ""
 "I briganti sono montati a cavallo brandendo delle falci dall'aspetto "
-"minaccioso e hanno abbandonato la vita dei campi  per tendere degli agguati "
+"minaccioso e hanno abbandonato la vita dei campi per tendere degli agguati "
 "per le strade più solitarie di Wesnoth in piccole bande derubando i "
 "viaggiatori. Portano anche delle rozze balestre ma non sono molto esperti "
 "nel maneggiarle."
-
-#: A_New_Order/units/Brigand.cfg:23
-msgid "sickle"
-msgstr "falce"
-
-#: A_New_Order/units/Brigand.cfg:45 A_New_Order/units/Ruvio.cfg:63
-msgid "crossbow"
-msgstr "balestra"
 
 #: A_New_Order/units/City_Militia.cfg:4
 msgid "City Militia"
@@ -17326,19 +17142,10 @@ msgid ""
 "can be fearful in their element but no real match for professional law "
 "enforcment forces."
 msgstr ""
-"I criminali incalliti diventano famosi alle autorità sia per le  loro "
+"I criminali incalliti diventano famosi alle autorità sia per le loro "
 "prodezze in battaglia sia per la capacità di eludere la cattura. Pericolosi "
 "e spietati, possono essere terribili nel loro ambiente ma non hanno scampo "
 "di fronte ai professionisti delle forze dell'ordine."
-
-#: A_New_Order/units/Fugitive.cfg:27 A_New_Order/units/Fugitive.cfg:99
-#: A_New_Order/units/Highwayman.cfg:28
-msgid "mace"
-msgstr "mazza"
-
-#: A_New_Order/units/Fugitive.cfg:45 A_New_Order/units/Fugitive.cfg:117
-msgid "sling"
-msgstr "fionda"
 
 #: A_New_Order/units/Fugitive.cfg:76
 msgid "female^Fugitive"
@@ -17350,7 +17157,7 @@ msgid ""
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
 msgstr ""
-"Le criminali incallite diventano famose alle autorità sia per le  loro "
+"Le criminali incallite diventano famose alle autorità sia per le loro "
 "prodezze in battaglia sia per la capacità di eludere la cattura. Belle e "
 "pericolose, il loro fascino viene superato solo dalla loro pericolosità."
 
@@ -17387,10 +17194,6 @@ msgstr ""
 "maneggiare una mazza più grande o a scagliare oggetti, ma non entrambe le "
 "cose."
 
-#: A_New_Order/units/Henchman.cfg:27
-msgid "club"
-msgstr "mazza"
-
 #: A_New_Order/units/Highwayman.cfg:5
 msgid "Highwayman"
 msgstr "Rapinatore"
@@ -17420,14 +17223,6 @@ msgstr ""
 "maggior parte dei regnanti temono i ranger e piuttosto che utilizzare le "
 "loro abilità preferirebbero imprigionarli nelle segrete."
 
-#: A_New_Order/units/Huntsman.cfg:52 A_New_Order/units/Human-ranger.cfg:60
-msgid "bow"
-msgstr "arco"
-
-#: A_New_Order/units/Human-ranger.cfg:63
-msgid "marksman"
-msgstr "tiratore scelto"
-
 #: A_New_Order/units/Huntsman.cfg:4
 msgid "Huntsman"
 msgstr "Cacciatore"
@@ -17443,10 +17238,6 @@ msgstr ""
 "delle zone selvatiche. Seguono le tracce di chiunque si muova nel loro "
 "territorio, anche le persone. La bande di malviventi li assumono per la loro "
 "abilità nel catturare qualsiasi preda."
-
-#: A_New_Order/units/Huntsman.cfg:35
-msgid "dagger"
-msgstr "pugnale"
 
 #: A_New_Order/units/Ruvios_Daughter.cfg:19 A_New_Order/units/Karen.cfg:20
 msgid ""
@@ -17480,19 +17271,6 @@ msgstr "I medici sono unità non combattenti, impegnate ad aiutare i feriti."
 msgid "Rogue Mage"
 msgstr "Mago errante"
 
-#: A_New_Order/units/Shadow_Mage.cfg:27 A_New_Order/units/Rogue_Mage.cfg:21
-msgid "short sword"
-msgstr "spada corta"
-
-#: A_New_Order/units/Rogue_Mage.cfg:53
-msgid "missile"
-msgstr "missile"
-
-#: A_New_Order/units/Shadow_Mage.cfg:51 A_New_Order/units/Rogue_Mage.cfg:54
-#: A_New_Order/units/Shadow_Lord.cfg:101
-msgid "cold"
-msgstr "freddo"
-
 #: A_New_Order/units/Ruvio.cfg:19
 msgid ""
 "Always loyally serving royal family of Wesnoth, Ruvio skills in sword and "
@@ -17508,25 +17286,9 @@ msgstr ""
 msgid "Shadow Lord"
 msgstr "Signore dell'oscurità"
 
-#: A_New_Order/units/Shadow_Lord.cfg:67
-msgid "astral blade"
-msgstr "lama astrale"
-
-#: A_New_Order/units/Shadow_Lord.cfg:100
-msgid "shadow bolt"
-msgstr "fulmine dell'oscurità"
-
-#: A_New_Order/units/Shadow_Lord.cfg:139
-msgid "shadow blast"
-msgstr "soffio oscuro"
-
 #: A_New_Order/units/Shadow_Mage.cfg:4
 msgid "Shadow Mage"
 msgstr "Mago dell'oscurità"
-
-#: A_New_Order/units/Shadow_Mage.cfg:50
-msgid "ice blast"
-msgstr "soffio gelido"
 
 #: A_New_Order/units/YoungHagarthen.cfg:4
 msgid "Young Hagarthen"
@@ -17543,6 +17305,101 @@ msgstr ""
 "Hagarthen a provare (a volte senza grandi risultati) a diventare guerrieri "
 "migliori degli altri."
 
-#: A_New_Order/units/YoungHagarthen.cfg:23
-msgid "training sword"
-msgstr "spada per allenamenti"
+#~ msgid "ambush"
+#~ msgstr "imboscata"
+
+#~ msgid "skirmisher"
+#~ msgstr "incursore"
+
+#~ msgid "leadership"
+#~ msgstr "comando"
+
+#~ msgid "blade"
+#~ msgstr "lama"
+
+#~ msgid "short spear"
+#~ msgstr "lancia corta"
+
+#~ msgid "pierce"
+#~ msgstr "perfora"
+
+#~ msgid "firststrike"
+#~ msgstr "attacco improvviso"
+
+#~ msgid "cures"
+#~ msgstr "cura"
+
+#~ msgid "staff"
+#~ msgstr "bastone"
+
+#~ msgid "impact"
+#~ msgstr "impatto"
+
+#~ msgid "spear"
+#~ msgstr "lancia"
+
+#~ msgid "pike"
+#~ msgstr "picca"
+
+#~ msgid "leadership,skirmisher"
+#~ msgstr "comando, incursore"
+
+#~ msgid "heals"
+#~ msgstr "guarire"
+
+#~ msgid "lightbeam"
+#~ msgstr "raggio di luce"
+
+#~ msgid "holy"
+#~ msgstr "sacro"
+
+#~ msgid "magical"
+#~ msgstr "magico"
+
+#~ msgid "sickle"
+#~ msgstr "falce"
+
+#~ msgid "crossbow"
+#~ msgstr "balestra"
+
+#~ msgid "mace"
+#~ msgstr "mazza"
+
+#~ msgid "sling"
+#~ msgstr "fionda"
+
+#~ msgid "club"
+#~ msgstr "mazza"
+
+#~ msgid "bow"
+#~ msgstr "arco"
+
+#~ msgid "marksman"
+#~ msgstr "tiratore scelto"
+
+#~ msgid "dagger"
+#~ msgstr "pugnale"
+
+#~ msgid "short sword"
+#~ msgstr "spada corta"
+
+#~ msgid "missile"
+#~ msgstr "missile"
+
+#~ msgid "cold"
+#~ msgstr "freddo"
+
+#~ msgid "astral blade"
+#~ msgstr "lama astrale"
+
+#~ msgid "shadow bolt"
+#~ msgstr "fulmine dell'oscurità"
+
+#~ msgid "shadow blast"
+#~ msgstr "soffio oscuro"
+
+#~ msgid "ice blast"
+#~ msgstr "soffio gelido"
+
+#~ msgid "training sword"
+#~ msgstr "spada per allenamenti"
