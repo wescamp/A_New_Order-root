@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-20 14:04+0200\n"
+"POT-Creation-Date: 2007-08-15 00:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -710,10 +710,6 @@ msgstr ""
 
 #: ./A_New_Order/scenarios/11.cfg:233
 msgid "Milildur"
-msgstr ""
-
-#: ./A_New_Order/scenarios/11.cfg:237
-msgid "ambush"
 msgstr ""
 
 #: ./A_New_Order/scenarios/11.cfg:243
@@ -9479,10 +9475,6 @@ msgstr ""
 msgid "And now you lie here, defenseless and vulnerable. Your father's death has shown me how weak my position was and how despised you were along with your father. Behind your back they call you a mixling, a bastard, a creature not fit to sit on the throne. And as for me.. if you die, I would be just a wife of a despised king, stepmother of an hated heir; I will have no right to live. If I had given birth, I would be your mortal enemy, but I had not. I know there was a lot of ill feeling between us, but now I am the only one you can trust and you are my only hope..."
 msgstr ""
 
-#: ./A_New_Order/scenarios/Breaking_The_Circle.cfg:82
-msgid "skirmisher"
-msgstr ""
-
 #: ./A_New_Order/scenarios/Breaking_The_Circle.cfg:104
 msgid "Eol Areon"
 msgstr ""
@@ -10304,20 +10296,8 @@ msgstr ""
 msgid "Akladian Chieftain_c"
 msgstr ""
 
-#: ./A_New_Order/units/Akladian_Chieftain-c.cfg:16 ./A_New_Order/units/Akladian_Chieftain-g.cfg:16 ./A_New_Order/units/YoungHagarthen.cfg:11 ./A_New_Order/units/Shadow_Mage.cfg:15 ./A_New_Order/units/Akladian_Princess.cfg:18 ./A_New_Order/units/Ruvio.cfg:10 ./A_New_Order/units/Ruvios_Daughter.cfg:17 ./A_New_Order/units/Akladian_Chieftain.cfg:16 ./A_New_Order/units/Karen.cfg:18 ./A_New_Order/units/Lord_Hagarthen.cfg:11 ./A_New_Order/units/Akladian_Leader.cfg:16 ./A_New_Order/units/Akladian_Lady.cfg:19 ./A_New_Order/units/Shadow_Lord.cfg:55 ./A_New_Order/units/Akladian_Lord-c.cfg:11 ./A_New_Order/units/Akladian_Lord-g.cfg:11 ./A_New_Order/units/Akladian_Lord.cfg:11 ./A_New_Order/units/Hagarthen.cfg:11
-msgid "leadership"
-msgstr ""
-
 #: ./A_New_Order/units/Akladian_Chieftain-c.cfg:20 ./A_New_Order/units/Akladian_Chieftain-g.cfg:20 ./A_New_Order/units/Akladian_Chieftain.cfg:20
 msgid "The best of Akladian warriors are choosed to lead their clans."
-msgstr ""
-
-#: ./A_New_Order/units/Akladian_Homeguard-c.cfg:21 ./A_New_Order/units/Akladian_Chieftain-c.cfg:23 ./A_New_Order/units/Akladian_Homeguard-g.cfg:21 ./A_New_Order/units/Akladian_Chieftain-g.cfg:23 ./A_New_Order/units/Akladian_Princess.cfg:23 ./A_New_Order/units/Ruvio.cfg:45 ./A_New_Order/units/Akladian_Shieldguard.cfg:21 ./A_New_Order/units/Ruvios_Daughter.cfg:22 ./A_New_Order/units/Human-ranger.cfg:38 ./A_New_Order/units/Akladian_Protector.cfg:65 ./A_New_Order/units/Akladian_Chieftain.cfg:23 ./A_New_Order/units/Akladian_Pikeneer.cfg:25 ./A_New_Order/units/Akladian_Fastfoot.cfg:62 ./A_New_Order/units/Akladian_Raider-c.cfg:21 ./A_New_Order/units/Akladian_Raider-g.cfg:21 ./A_New_Order/units/Karen.cfg:47 ./A_New_Order/units/Lord_Hagarthen.cfg:78 ./A_New_Order/units/Akladian_Leader.cfg:22 ./A_New_Order/units/Akladian_Lady.cfg:24 ./A_New_Order/units/Akladian_Raider.cfg:21 ./A_New_Order/units/Akladian_Homeguard.cfg:21 ./A_New_Order/units/Akladian_Lord-c.cfg:38 ./A_New_Order/units/Akladian_Sturmknight.cfg:21 ./A_New_Order/units/Akladian_Lord-g.cfg:38 ./A_New_Order/units/Akladian_Darknite.cfg:61 ./A_New_Order/units/Akladian_Queen.cfg:82 ./A_New_Order/units/Akladian_Lord.cfg:38 ./A_New_Order/units/Akladian_Pikeneer-c.cfg:25 ./A_New_Order/units/Akladian_Pikeneer-g.cfg:25 ./A_New_Order/units/Hagarthen.cfg:23
-msgid "sword"
-msgstr ""
-
-#: ./A_New_Order/units/Akladian_Homeguard-c.cfg:22 ./A_New_Order/units/Akladian_Chieftain-c.cfg:24 ./A_New_Order/units/Akladian_Homeguard-g.cfg:22 ./A_New_Order/units/Akladian_Chieftain-g.cfg:24 ./A_New_Order/units/Brigand.cfg:24 ./A_New_Order/units/Shadow_Mage.cfg:28 ./A_New_Order/units/Akladian_Princess.cfg:24 ./A_New_Order/units/Ruvio.cfg:46 ./A_New_Order/units/Huntsman.cfg:36 ./A_New_Order/units/Akladian_Shieldguard.cfg:22 ./A_New_Order/units/Ruvios_Daughter.cfg:23 ./A_New_Order/units/Human-ranger.cfg:39 ./A_New_Order/units/Akladian_Protector.cfg:66 ./A_New_Order/units/Akladian_Chieftain.cfg:24 ./A_New_Order/units/Rogue_Mage.cfg:22 ./A_New_Order/units/Akladian_Fastfoot.cfg:63 ./A_New_Order/units/Akladian_Raider-c.cfg:22 ./A_New_Order/units/Akladian_Raider-g.cfg:22 ./A_New_Order/units/Karen.cfg:48 ./A_New_Order/units/Lord_Hagarthen.cfg:79 ./A_New_Order/units/Akladian_Leader.cfg:23 ./A_New_Order/units/Akladian_Lady.cfg:25 ./A_New_Order/units/Shadow_Lord.cfg:68 ./A_New_Order/units/Akladian_Raider.cfg:22 ./A_New_Order/units/Akladian_Homeguard.cfg:22 ./A_New_Order/units/Akladian_Lord-c.cfg:39 ./A_New_Order/units/Akladian_Sturmknight.cfg:22 ./A_New_Order/units/Akladian_Lord-g.cfg:39 ./A_New_Order/units/Akladian_Darknite.cfg:62 ./A_New_Order/units/Akladian_Queen.cfg:83 ./A_New_Order/units/Akladian_Lord.cfg:39 ./A_New_Order/units/Hagarthen.cfg:24
-msgid "blade"
 msgstr ""
 
 #: ./A_New_Order/units/Akladian_Chieftain-g.cfg:4
@@ -10334,14 +10314,6 @@ msgstr ""
 
 #: ./A_New_Order/units/Akladian_Clanmember-c.cfg:19 ./A_New_Order/units/Akladian_Clanmember-g.cfg:19 ./A_New_Order/units/Akladian_Clanmember.cfg:19
 msgid "Akladian Clanmembers are core of Akladian tribes. They are raised in culture promoting violence and hearing from childhood that their destination is to rule over the world. While very lightly armoured and badly armed they still can be dangerous, especially when used in larger groups. They are recruited only for defense of their kingdoms."
-msgstr ""
-
-#: ./A_New_Order/units/Akladian_Clanmember-c.cfg:22 ./A_New_Order/units/Akladian_Clanmember-g.cfg:22 ./A_New_Order/units/Akladian_Clanmember.cfg:22
-msgid "short spear"
-msgstr ""
-
-#: ./A_New_Order/units/Akladian_LightInfantry-c.cfg:22 ./A_New_Order/units/Akladian_LightInfantry-g.cfg:22 ./A_New_Order/units/Akladian_Clanmember-c.cfg:23 ./A_New_Order/units/Akladian_Clanmember-g.cfg:23 ./A_New_Order/units/Brigand.cfg:46 ./A_New_Order/units/Akladian_Warrior.cfg:22 ./A_New_Order/units/Ruvio.cfg:64 ./A_New_Order/units/Huntsman.cfg:53 ./A_New_Order/units/Human-ranger.cfg:61 ./A_New_Order/units/Akladian_Pikeneer.cfg:79 ./A_New_Order/units/Akladian_Clanmember.cfg:23 ./A_New_Order/units/Akladian_Warrior-c.cfg:22 ./A_New_Order/units/Akladian_Warrior-g.cfg:22 ./A_New_Order/units/Akladian_LightInfantry.cfg:22 ./A_New_Order/units/City_Militia.cfg:38 ./A_New_Order/units/Akladian_Pikeneer-c.cfg:79 ./A_New_Order/units/Akladian_Pikeneer-g.cfg:79
-msgid "pierce"
 msgstr ""
 
 #: ./A_New_Order/units/Akladian_Darknite.cfg:4
@@ -10380,28 +10352,12 @@ msgstr ""
 msgid "fast"
 msgstr ""
 
-#: ./A_New_Order/units/Akladian_LightInfantry-c.cfg:27 ./A_New_Order/units/Akladian_LightInfantry-g.cfg:27 ./A_New_Order/units/Akladian_Pikeneer.cfg:83 ./A_New_Order/units/Akladian_Fastfoot.cfg:67 ./A_New_Order/units/Akladian_LightInfantry.cfg:27 ./A_New_Order/units/City_Militia.cfg:43 ./A_New_Order/units/Akladian_Pikeneer-c.cfg:83 ./A_New_Order/units/Akladian_Pikeneer-g.cfg:83
-msgid "firststrike"
-msgstr ""
-
 #: ./A_New_Order/units/Akladian_Holyman.cfg:4
 msgid "Akladian Holyman"
 msgstr ""
 
-#: ./A_New_Order/units/Akladian_Wonderman.cfg:18 ./A_New_Order/units/Akladian_Holyman.cfg:18
-msgid "cures"
-msgstr ""
-
 #: ./A_New_Order/units/Akladian_Holyman.cfg:19
 msgid "Devoting their whole life to task of healing and curing, Akladian Holymans are respected amongst tribes, and useful to Akladian lords."
-msgstr ""
-
-#: ./A_New_Order/units/Medic.cfg:21 ./A_New_Order/units/Akladian_Wiseman.cfg:22 ./A_New_Order/units/Akladian_Wiseman-c.cfg:22 ./A_New_Order/units/Akladian_Wonderman.cfg:36 ./A_New_Order/units/Akladian_Holyman.cfg:22
-msgid "staff"
-msgstr ""
-
-#: ./A_New_Order/units/YoungHagarthen.cfg:25 ./A_New_Order/units/Medic.cfg:22 ./A_New_Order/units/Henchman.cfg:28 ./A_New_Order/units/Akladian_Wiseman.cfg:23 ./A_New_Order/units/Fugitive.cfg:28 ./A_New_Order/units/Fugitive.cfg:46 ./A_New_Order/units/Fugitive.cfg:100 ./A_New_Order/units/Fugitive.cfg:118 ./A_New_Order/units/Akladian_Wiseman-c.cfg:23 ./A_New_Order/units/Highwayman.cfg:29 ./A_New_Order/units/Akladian_Wonderman.cfg:37 ./A_New_Order/units/Shadow_Lord.cfg:140 ./A_New_Order/units/Akladian_Holyman.cfg:23
-msgid "impact"
 msgstr ""
 
 #: ./A_New_Order/units/Akladian_Homeguard-c.cfg:4 ./A_New_Order/units/Akladian_Homeguard-g.cfg:4 ./A_New_Order/units/Akladian_Homeguard.cfg:4
@@ -10436,10 +10392,6 @@ msgstr ""
 msgid "The best of Akladian warriors are choosed by their lords to serve in their regular armies, and they became professional soldiers. They have to equip themselves, however, which results in light armour and spear being their weapon of choice."
 msgstr ""
 
-#: ./A_New_Order/units/Akladian_LightInfantry-c.cfg:21 ./A_New_Order/units/Akladian_LightInfantry-g.cfg:21 ./A_New_Order/units/Akladian_Warrior.cfg:21 ./A_New_Order/units/Akladian_Warrior-c.cfg:21 ./A_New_Order/units/Akladian_Warrior-g.cfg:21 ./A_New_Order/units/Akladian_LightInfantry.cfg:21 ./A_New_Order/units/City_Militia.cfg:37
-msgid "spear"
-msgstr ""
-
 #: ./A_New_Order/units/Akladian_Lord-c.cfg:4 ./A_New_Order/units/Akladian_Lord-g.cfg:4 ./A_New_Order/units/Akladian_Lord.cfg:4
 msgid "Akladian Lord"
 msgstr ""
@@ -10456,8 +10408,8 @@ msgstr ""
 msgid "Akladian Pikeneers are members of permanent personal armies of Akladian lords, being closest thing to regular army Akladians have. They receive all needed supplies and their weapons from their master, whom they owe personal loyalty."
 msgstr ""
 
-#: ./A_New_Order/units/Akladian_Pikeneer.cfg:78 ./A_New_Order/units/Akladian_Pikeneer-c.cfg:78 ./A_New_Order/units/Akladian_Pikeneer-g.cfg:78
-msgid "pike"
+#: ./A_New_Order/units/Akladian_Pikeneer.cfg:25 ./A_New_Order/units/Akladian_Pikeneer-c.cfg:25 ./A_New_Order/units/Akladian_Pikeneer-g.cfg:25
+msgid "sword"
 msgstr ""
 
 #: ./A_New_Order/units/Akladian_Princess.cfg:4
@@ -10482,10 +10434,6 @@ msgstr ""
 
 #: ./A_New_Order/units/Akladian_Queen.cfg:4
 msgid "female^Queen"
-msgstr ""
-
-#: ./A_New_Order/units/Akladian_Queen.cfg:18
-msgid "leadership,skirmisher"
 msgstr ""
 
 #: ./A_New_Order/units/Akladian_Raider-c.cfg:4 ./A_New_Order/units/Akladian_Raider-g.cfg:4 ./A_New_Order/units/Akladian_Raider.cfg:4
@@ -10524,10 +10472,6 @@ msgstr ""
 msgid "Akladian Wiseman"
 msgstr ""
 
-#: ./A_New_Order/units/Akladian_Wiseman.cfg:18 ./A_New_Order/units/Akladian_Wiseman-c.cfg:18
-msgid "heals"
-msgstr ""
-
 #: ./A_New_Order/units/Akladian_Wiseman.cfg:19 ./A_New_Order/units/Akladian_Wiseman-c.cfg:19
 msgid "Akladian Wisemans are those very few from tribes, who study herbs and ways to heal, instead to harm and kill people"
 msgstr ""
@@ -10540,32 +10484,12 @@ msgstr ""
 msgid "Very rare amongst Akladian tribes, Wonderman are those who spend their whole life studying ways of healing. They do not ignore even experiences of Wesnothians, and learned few valuable tricks in process."
 msgstr ""
 
-#: ./A_New_Order/units/Akladian_Wonderman.cfg:48
-msgid "lightbeam"
-msgstr ""
-
-#: ./A_New_Order/units/Akladian_Wonderman.cfg:49
-msgid "holy"
-msgstr ""
-
-#: ./A_New_Order/units/Shadow_Mage.cfg:30 ./A_New_Order/units/Shadow_Mage.cfg:53 ./A_New_Order/units/Akladian_Wonderman.cfg:51 ./A_New_Order/units/Rogue_Mage.cfg:56 ./A_New_Order/units/Shadow_Lord.cfg:70 ./A_New_Order/units/Shadow_Lord.cfg:103 ./A_New_Order/units/Shadow_Lord.cfg:142
-msgid "magical"
-msgstr ""
-
 #: ./A_New_Order/units/Brigand.cfg:4
 msgid "Brigand"
 msgstr ""
 
 #: ./A_New_Order/units/Brigand.cfg:20
 msgid "Mounted and wielding wicked-looking sickles, brigands left behind the farming life to stalk Wesnoth's lonely backroads in small bands, robbing travelers.  They also carry crude crossbows but are not very skilled with them."
-msgstr ""
-
-#: ./A_New_Order/units/Brigand.cfg:23
-msgid "sickle"
-msgstr ""
-
-#: ./A_New_Order/units/Brigand.cfg:45 ./A_New_Order/units/Ruvio.cfg:63
-msgid "crossbow"
 msgstr ""
 
 #: ./A_New_Order/units/City_Militia.cfg:4
@@ -10582,14 +10506,6 @@ msgstr ""
 
 #: ./A_New_Order/units/Fugitive.cfg:24
 msgid "Veteran criminals become notorious among the authorities for both their battle prowess and ability to elude capture.  Dangerous and ruthless, they can be fearful in their element but no real match for professional law enforcment forces."
-msgstr ""
-
-#: ./A_New_Order/units/Fugitive.cfg:27 ./A_New_Order/units/Fugitive.cfg:99 ./A_New_Order/units/Highwayman.cfg:28
-msgid "mace"
-msgstr ""
-
-#: ./A_New_Order/units/Fugitive.cfg:45 ./A_New_Order/units/Fugitive.cfg:117
-msgid "sling"
 msgstr ""
 
 #: ./A_New_Order/units/Fugitive.cfg:76
@@ -10616,10 +10532,6 @@ msgstr ""
 msgid "Henchmen are good for one thing: following orders.  They are not very smart or creative, neither of which is required to swing a club at an enemy.  Never far from their leader, they tend to work in groups (attacking one at a time).  With enough experience they can learn to swing a bigger club or throw things, but not both."
 msgstr ""
 
-#: ./A_New_Order/units/Henchman.cfg:27
-msgid "club"
-msgstr ""
-
 #: ./A_New_Order/units/Highwayman.cfg:5
 msgid "Highwayman"
 msgstr ""
@@ -10636,24 +10548,12 @@ msgstr ""
 msgid "Rangers are wild men and masters of forest and hills.  They are excellent trackers, scouts, and archers, moving freely through the countryside under the cover of night.  Most rulers are afraid of rangers and would rather put them in the dungeon than put their abilities to use."
 msgstr ""
 
-#: ./A_New_Order/units/Huntsman.cfg:52 ./A_New_Order/units/Human-ranger.cfg:60
-msgid "bow"
-msgstr ""
-
-#: ./A_New_Order/units/Human-ranger.cfg:63
-msgid "marksman"
-msgstr ""
-
 #: ./A_New_Order/units/Huntsman.cfg:4
 msgid "Huntsman"
 msgstr ""
 
 #: ./A_New_Order/units/Huntsman.cfg:23
 msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes.  They track anything that moves in their territory, including people.  Bandit gangs hire them for their ability to bring down any prey."
-msgstr ""
-
-#: ./A_New_Order/units/Huntsman.cfg:35
-msgid "dagger"
 msgstr ""
 
 #: ./A_New_Order/units/Ruvios_Daughter.cfg:19 ./A_New_Order/units/Karen.cfg:20
@@ -10676,18 +10576,6 @@ msgstr ""
 msgid "Rogue Mage"
 msgstr ""
 
-#: ./A_New_Order/units/Shadow_Mage.cfg:27 ./A_New_Order/units/Rogue_Mage.cfg:21
-msgid "short sword"
-msgstr ""
-
-#: ./A_New_Order/units/Rogue_Mage.cfg:53
-msgid "missile"
-msgstr ""
-
-#: ./A_New_Order/units/Shadow_Mage.cfg:51 ./A_New_Order/units/Rogue_Mage.cfg:54 ./A_New_Order/units/Shadow_Lord.cfg:101
-msgid "cold"
-msgstr ""
-
 #: ./A_New_Order/units/Ruvio.cfg:19
 msgid "Always loyally serving royal family of Wesnoth, Ruvio skills in sword and crossbow became better than above average, to say it modestly; Even though the age had its impact on Ruvio, he still is dangerous opponent."
 msgstr ""
@@ -10696,24 +10584,8 @@ msgstr ""
 msgid "Shadow Lord"
 msgstr ""
 
-#: ./A_New_Order/units/Shadow_Lord.cfg:67
-msgid "astral blade"
-msgstr ""
-
-#: ./A_New_Order/units/Shadow_Lord.cfg:100
-msgid "shadow bolt"
-msgstr ""
-
-#: ./A_New_Order/units/Shadow_Lord.cfg:139
-msgid "shadow blast"
-msgstr ""
-
 #: ./A_New_Order/units/Shadow_Mage.cfg:4
 msgid "Shadow Mage"
-msgstr ""
-
-#: ./A_New_Order/units/Shadow_Mage.cfg:50
-msgid "ice blast"
 msgstr ""
 
 #: ./A_New_Order/units/YoungHagarthen.cfg:4
@@ -10722,9 +10594,5 @@ msgstr ""
 
 #: ./A_New_Order/units/YoungHagarthen.cfg:20
 msgid "The clan of Hagarthen was ruling the Akladian kingdoms for many generation. This heritage and this burden causes even young Hagarthen to try (sometimes without big results) to become better warriors than others."
-msgstr ""
-
-#: ./A_New_Order/units/YoungHagarthen.cfg:23
-msgid "training sword"
 msgstr ""
 

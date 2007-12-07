@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-20 14:04+0200\n"
+"POT-Creation-Date: 2007-08-15 00:10+0200\n"
 "PO-Revision-Date: 2006-09-18 18:58+0200\n"
 "Last-Translator: Jose Gordillo\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
@@ -1092,10 +1092,6 @@ msgstr "Elorain"
 #: A_New_Order/scenarios/11.cfg:233
 msgid "Milildur"
 msgstr "Milildur"
-
-#: A_New_Order/scenarios/11.cfg:237
-msgid "ambush"
-msgstr "embosca"
 
 #: A_New_Order/scenarios/11.cfg:243
 msgid "It would be honor to fight for you, Gaumhaldric."
@@ -15325,10 +15321,6 @@ msgstr ""
 "vaig poder. Sé que va haver-hi molts conflictes entre nosaltres, però ara "
 "sóc l'única en qui pots confiar, i tu eres la meua única esperança..."
 
-#: A_New_Order/scenarios/Breaking_The_Circle.cfg:82
-msgid "skirmisher"
-msgstr "esquiva"
-
 #: A_New_Order/scenarios/Breaking_The_Circle.cfg:104
 msgid "Eol Areon"
 msgstr "Eol Areon"
@@ -16586,88 +16578,11 @@ msgstr "Crater"
 msgid "Akladian Chieftain_c"
 msgstr "Cap akladià"
 
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:16
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:16
-#: A_New_Order/units/YoungHagarthen.cfg:11
-#: A_New_Order/units/Shadow_Mage.cfg:15
-#: A_New_Order/units/Akladian_Princess.cfg:18 A_New_Order/units/Ruvio.cfg:10
-#: A_New_Order/units/Ruvios_Daughter.cfg:17
-#: A_New_Order/units/Akladian_Chieftain.cfg:16 A_New_Order/units/Karen.cfg:18
-#: A_New_Order/units/Lord_Hagarthen.cfg:11
-#: A_New_Order/units/Akladian_Leader.cfg:16
-#: A_New_Order/units/Akladian_Lady.cfg:19 A_New_Order/units/Shadow_Lord.cfg:55
-#: A_New_Order/units/Akladian_Lord-c.cfg:11
-#: A_New_Order/units/Akladian_Lord-g.cfg:11
-#: A_New_Order/units/Akladian_Lord.cfg:11 A_New_Order/units/Hagarthen.cfg:11
-msgid "leadership"
-msgstr "lideratge"
-
 #: A_New_Order/units/Akladian_Chieftain-c.cfg:20
 #: A_New_Order/units/Akladian_Chieftain-g.cfg:20
 #: A_New_Order/units/Akladian_Chieftain.cfg:20
 msgid "The best of Akladian warriors are choosed to lead their clans."
 msgstr "Els millors guerres akladians són elegits per liderar els seus clans."
-
-#: A_New_Order/units/Akladian_Homeguard-c.cfg:21
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:23
-#: A_New_Order/units/Akladian_Homeguard-g.cfg:21
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:23
-#: A_New_Order/units/Akladian_Princess.cfg:23 A_New_Order/units/Ruvio.cfg:45
-#: A_New_Order/units/Akladian_Shieldguard.cfg:21
-#: A_New_Order/units/Ruvios_Daughter.cfg:22
-#: A_New_Order/units/Human-ranger.cfg:38
-#: A_New_Order/units/Akladian_Protector.cfg:65
-#: A_New_Order/units/Akladian_Chieftain.cfg:23
-#: A_New_Order/units/Akladian_Pikeneer.cfg:25
-#: A_New_Order/units/Akladian_Fastfoot.cfg:62
-#: A_New_Order/units/Akladian_Raider-c.cfg:21
-#: A_New_Order/units/Akladian_Raider-g.cfg:21 A_New_Order/units/Karen.cfg:47
-#: A_New_Order/units/Lord_Hagarthen.cfg:78
-#: A_New_Order/units/Akladian_Leader.cfg:22
-#: A_New_Order/units/Akladian_Lady.cfg:24
-#: A_New_Order/units/Akladian_Raider.cfg:21
-#: A_New_Order/units/Akladian_Homeguard.cfg:21
-#: A_New_Order/units/Akladian_Lord-c.cfg:38
-#: A_New_Order/units/Akladian_Sturmknight.cfg:21
-#: A_New_Order/units/Akladian_Lord-g.cfg:38
-#: A_New_Order/units/Akladian_Darknite.cfg:61
-#: A_New_Order/units/Akladian_Queen.cfg:82
-#: A_New_Order/units/Akladian_Lord.cfg:38
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:25
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:25
-#: A_New_Order/units/Hagarthen.cfg:23
-msgid "sword"
-msgstr "espasa"
-
-#: A_New_Order/units/Akladian_Homeguard-c.cfg:22
-#: A_New_Order/units/Akladian_Chieftain-c.cfg:24
-#: A_New_Order/units/Akladian_Homeguard-g.cfg:22
-#: A_New_Order/units/Akladian_Chieftain-g.cfg:24
-#: A_New_Order/units/Brigand.cfg:24 A_New_Order/units/Shadow_Mage.cfg:28
-#: A_New_Order/units/Akladian_Princess.cfg:24 A_New_Order/units/Ruvio.cfg:46
-#: A_New_Order/units/Huntsman.cfg:36
-#: A_New_Order/units/Akladian_Shieldguard.cfg:22
-#: A_New_Order/units/Ruvios_Daughter.cfg:23
-#: A_New_Order/units/Human-ranger.cfg:39
-#: A_New_Order/units/Akladian_Protector.cfg:66
-#: A_New_Order/units/Akladian_Chieftain.cfg:24
-#: A_New_Order/units/Rogue_Mage.cfg:22
-#: A_New_Order/units/Akladian_Fastfoot.cfg:63
-#: A_New_Order/units/Akladian_Raider-c.cfg:22
-#: A_New_Order/units/Akladian_Raider-g.cfg:22 A_New_Order/units/Karen.cfg:48
-#: A_New_Order/units/Lord_Hagarthen.cfg:79
-#: A_New_Order/units/Akladian_Leader.cfg:23
-#: A_New_Order/units/Akladian_Lady.cfg:25 A_New_Order/units/Shadow_Lord.cfg:68
-#: A_New_Order/units/Akladian_Raider.cfg:22
-#: A_New_Order/units/Akladian_Homeguard.cfg:22
-#: A_New_Order/units/Akladian_Lord-c.cfg:39
-#: A_New_Order/units/Akladian_Sturmknight.cfg:22
-#: A_New_Order/units/Akladian_Lord-g.cfg:39
-#: A_New_Order/units/Akladian_Darknite.cfg:62
-#: A_New_Order/units/Akladian_Queen.cfg:83
-#: A_New_Order/units/Akladian_Lord.cfg:39 A_New_Order/units/Hagarthen.cfg:24
-msgid "blade"
-msgstr "talla"
 
 #: A_New_Order/units/Akladian_Chieftain-g.cfg:4
 msgid "Akladian Chieftain_g"
@@ -16698,30 +16613,6 @@ msgstr ""
 "és conquerir tot el món. Això vol dir que, encara que solen anar "
 "lleugerament armats i amb molt poques proteccions, poden ser molt perillosos "
 "en grans grups. Per norma, només se'ls recluta com a últim recurs de defensa."
-
-#: A_New_Order/units/Akladian_Clanmember-c.cfg:22
-#: A_New_Order/units/Akladian_Clanmember-g.cfg:22
-#: A_New_Order/units/Akladian_Clanmember.cfg:22
-msgid "short spear"
-msgstr "llança curta"
-
-#: A_New_Order/units/Akladian_LightInfantry-c.cfg:22
-#: A_New_Order/units/Akladian_LightInfantry-g.cfg:22
-#: A_New_Order/units/Akladian_Clanmember-c.cfg:23
-#: A_New_Order/units/Akladian_Clanmember-g.cfg:23
-#: A_New_Order/units/Brigand.cfg:46 A_New_Order/units/Akladian_Warrior.cfg:22
-#: A_New_Order/units/Ruvio.cfg:64 A_New_Order/units/Huntsman.cfg:53
-#: A_New_Order/units/Human-ranger.cfg:61
-#: A_New_Order/units/Akladian_Pikeneer.cfg:79
-#: A_New_Order/units/Akladian_Clanmember.cfg:23
-#: A_New_Order/units/Akladian_Warrior-c.cfg:22
-#: A_New_Order/units/Akladian_Warrior-g.cfg:22
-#: A_New_Order/units/Akladian_LightInfantry.cfg:22
-#: A_New_Order/units/City_Militia.cfg:38
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:79
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:79
-msgid "pierce"
-msgstr "perfora"
 
 #: A_New_Order/units/Akladian_Darknite.cfg:4
 msgid "Akladian Darknite"
@@ -16791,25 +16682,9 @@ msgstr "ball d'espases"
 msgid "fast"
 msgstr "ràpid"
 
-#: A_New_Order/units/Akladian_LightInfantry-c.cfg:27
-#: A_New_Order/units/Akladian_LightInfantry-g.cfg:27
-#: A_New_Order/units/Akladian_Pikeneer.cfg:83
-#: A_New_Order/units/Akladian_Fastfoot.cfg:67
-#: A_New_Order/units/Akladian_LightInfantry.cfg:27
-#: A_New_Order/units/City_Militia.cfg:43
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:83
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:83
-msgid "firststrike"
-msgstr "primer atac"
-
 #: A_New_Order/units/Akladian_Holyman.cfg:4
 msgid "Akladian Holyman"
 msgstr "Home sagrat akladià"
-
-#: A_New_Order/units/Akladian_Wonderman.cfg:18
-#: A_New_Order/units/Akladian_Holyman.cfg:18
-msgid "cures"
-msgstr "cura"
 
 #: A_New_Order/units/Akladian_Holyman.cfg:19
 msgid ""
@@ -16818,25 +16693,6 @@ msgid ""
 msgstr ""
 "Dedicant tota sa vida a la labor de curar i guarir, els Homes sagrats "
 "akladians són respectats entre els tribus, i útils als senyors akladians."
-
-#: A_New_Order/units/Medic.cfg:21 A_New_Order/units/Akladian_Wiseman.cfg:22
-#: A_New_Order/units/Akladian_Wiseman-c.cfg:22
-#: A_New_Order/units/Akladian_Wonderman.cfg:36
-#: A_New_Order/units/Akladian_Holyman.cfg:22
-msgid "staff"
-msgstr "bastó"
-
-#: A_New_Order/units/YoungHagarthen.cfg:25 A_New_Order/units/Medic.cfg:22
-#: A_New_Order/units/Henchman.cfg:28 A_New_Order/units/Akladian_Wiseman.cfg:23
-#: A_New_Order/units/Fugitive.cfg:28 A_New_Order/units/Fugitive.cfg:46
-#: A_New_Order/units/Fugitive.cfg:100 A_New_Order/units/Fugitive.cfg:118
-#: A_New_Order/units/Akladian_Wiseman-c.cfg:23
-#: A_New_Order/units/Highwayman.cfg:29
-#: A_New_Order/units/Akladian_Wonderman.cfg:37
-#: A_New_Order/units/Shadow_Lord.cfg:140
-#: A_New_Order/units/Akladian_Holyman.cfg:23
-msgid "impact"
-msgstr "impacta"
 
 #: A_New_Order/units/Akladian_Homeguard-c.cfg:4
 #: A_New_Order/units/Akladian_Homeguard-g.cfg:4
@@ -16905,16 +16761,6 @@ msgstr ""
 "Tanmateix, han d'equipar-se per sí mateixos, amb el resultat que la majoria "
 "s'equipa amb una llança i armadura lleugera."
 
-#: A_New_Order/units/Akladian_LightInfantry-c.cfg:21
-#: A_New_Order/units/Akladian_LightInfantry-g.cfg:21
-#: A_New_Order/units/Akladian_Warrior.cfg:21
-#: A_New_Order/units/Akladian_Warrior-c.cfg:21
-#: A_New_Order/units/Akladian_Warrior-g.cfg:21
-#: A_New_Order/units/Akladian_LightInfantry.cfg:21
-#: A_New_Order/units/City_Militia.cfg:37
-msgid "spear"
-msgstr "llança"
-
 #: A_New_Order/units/Akladian_Lord-c.cfg:4
 #: A_New_Order/units/Akladian_Lord-g.cfg:4
 #: A_New_Order/units/Akladian_Lord.cfg:4
@@ -16951,11 +16797,11 @@ msgstr ""
 "tenen. Reben tots les queviures i armes necessàries del seu senyor, al qual "
 "li juren lleialtat eterna."
 
-#: A_New_Order/units/Akladian_Pikeneer.cfg:78
-#: A_New_Order/units/Akladian_Pikeneer-c.cfg:78
-#: A_New_Order/units/Akladian_Pikeneer-g.cfg:78
-msgid "pike"
-msgstr "pica"
+#: A_New_Order/units/Akladian_Pikeneer.cfg:25
+#: A_New_Order/units/Akladian_Pikeneer-c.cfg:25
+#: A_New_Order/units/Akladian_Pikeneer-g.cfg:25
+msgid "sword"
+msgstr "espasa"
 
 #: A_New_Order/units/Akladian_Princess.cfg:4
 msgid "female^Akladian Princess"
@@ -16990,10 +16836,6 @@ msgstr "blindat"
 #: A_New_Order/units/Akladian_Queen.cfg:4
 msgid "female^Queen"
 msgstr "Reina"
-
-#: A_New_Order/units/Akladian_Queen.cfg:18
-msgid "leadership,skirmisher"
-msgstr "lideratge,esquiva"
 
 #: A_New_Order/units/Akladian_Raider-c.cfg:4
 #: A_New_Order/units/Akladian_Raider-g.cfg:4
@@ -17062,11 +16904,6 @@ msgstr ""
 msgid "Akladian Wiseman"
 msgstr "Savi akladià"
 
-#: A_New_Order/units/Akladian_Wiseman.cfg:18
-#: A_New_Order/units/Akladian_Wiseman-c.cfg:18
-msgid "heals"
-msgstr "guareix"
-
 #: A_New_Order/units/Akladian_Wiseman.cfg:19
 #: A_New_Order/units/Akladian_Wiseman-c.cfg:19
 msgid ""
@@ -17091,21 +16928,6 @@ msgstr ""
 "les cures. No ignoren les experiències dels wesnothians, i han aprés uns "
 "quants trucs d'ells."
 
-#: A_New_Order/units/Akladian_Wonderman.cfg:48
-msgid "lightbeam"
-msgstr "raig de llum"
-
-#: A_New_Order/units/Akladian_Wonderman.cfg:49
-msgid "holy"
-msgstr "sagrat"
-
-#: A_New_Order/units/Shadow_Mage.cfg:30 A_New_Order/units/Shadow_Mage.cfg:53
-#: A_New_Order/units/Akladian_Wonderman.cfg:51
-#: A_New_Order/units/Rogue_Mage.cfg:56 A_New_Order/units/Shadow_Lord.cfg:70
-#: A_New_Order/units/Shadow_Lord.cfg:103 A_New_Order/units/Shadow_Lord.cfg:142
-msgid "magical"
-msgstr "màgic"
-
 #: A_New_Order/units/Brigand.cfg:4
 msgid "Brigand"
 msgstr "Bandoler"
@@ -17121,14 +16943,6 @@ msgstr ""
 "pinta, han abandonat la vida sedentària i com agricultors per sotjar els "
 "camins secundaris de Wesnoth en xicotetes bandes. També porten unes tosques "
 "ballestes, però no són massa hàbils amb elles."
-
-#: A_New_Order/units/Brigand.cfg:23
-msgid "sickle"
-msgstr "corbella"
-
-#: A_New_Order/units/Brigand.cfg:45 A_New_Order/units/Ruvio.cfg:63
-msgid "crossbow"
-msgstr "ballesta"
 
 #: A_New_Order/units/City_Militia.cfg:4
 msgid "City Militia"
@@ -17157,15 +16971,6 @@ msgstr ""
 "només per la seua habilitat per escapar, sinó també per la seua força com a "
 "lluitadors. Perillosos i cruels com són, són un enemic a témer al seu "
 "element, però no són cap rival per a unes forces professionals."
-
-#: A_New_Order/units/Fugitive.cfg:27 A_New_Order/units/Fugitive.cfg:99
-#: A_New_Order/units/Highwayman.cfg:28
-msgid "mace"
-msgstr "maça"
-
-#: A_New_Order/units/Fugitive.cfg:45 A_New_Order/units/Fugitive.cfg:117
-msgid "sling"
-msgstr "fona"
 
 #: A_New_Order/units/Fugitive.cfg:76
 msgid "female^Fugitive"
@@ -17215,10 +17020,6 @@ msgstr ""
 "aprendre a pegar amb un garrot més gran o disparar coses, però no ambdues al "
 "mateix temps."
 
-#: A_New_Order/units/Henchman.cfg:27
-msgid "club"
-msgstr "garrot"
-
 #: A_New_Order/units/Highwayman.cfg:5
 msgid "Highwayman"
 msgstr "Saltamarges"
@@ -17248,14 +17049,6 @@ msgstr ""
 "La majoria de dirigents preferirien veure'ls dins de la presó que sota el "
 "seu comandament."
 
-#: A_New_Order/units/Huntsman.cfg:52 A_New_Order/units/Human-ranger.cfg:60
-msgid "bow"
-msgstr "arc"
-
-#: A_New_Order/units/Human-ranger.cfg:63
-msgid "marksman"
-msgstr "tirador"
-
 #: A_New_Order/units/Huntsman.cfg:4
 msgid "Huntsman"
 msgstr "Caçador"
@@ -17271,10 +17064,6 @@ msgstr ""
 "i les marjals. Poden encertar qualsevol bestiola a molts passos de distància "
 "amb el seu arc i rastrejar qualsevol cosa que es moga. Són especialment "
 "hàbils alhora de caçar de nit."
-
-#: A_New_Order/units/Huntsman.cfg:35
-msgid "dagger"
-msgstr "daga"
 
 #: A_New_Order/units/Ruvios_Daughter.cfg:19 A_New_Order/units/Karen.cfg:20
 msgid ""
@@ -17308,19 +17097,6 @@ msgstr "Els metges són unitats no combatents, dedicades a ajudar els ferits."
 msgid "Rogue Mage"
 msgstr "Mag rebel"
 
-#: A_New_Order/units/Shadow_Mage.cfg:27 A_New_Order/units/Rogue_Mage.cfg:21
-msgid "short sword"
-msgstr "espasa curta"
-
-#: A_New_Order/units/Rogue_Mage.cfg:53
-msgid "missile"
-msgstr "distància"
-
-#: A_New_Order/units/Shadow_Mage.cfg:51 A_New_Order/units/Rogue_Mage.cfg:54
-#: A_New_Order/units/Shadow_Lord.cfg:101
-msgid "cold"
-msgstr "fred"
-
 #: A_New_Order/units/Ruvio.cfg:19
 msgid ""
 "Always loyally serving royal family of Wesnoth, Ruvio skills in sword and "
@@ -17336,25 +17112,9 @@ msgstr ""
 msgid "Shadow Lord"
 msgstr "Senyor de les ombres"
 
-#: A_New_Order/units/Shadow_Lord.cfg:67
-msgid "astral blade"
-msgstr "espasa astral"
-
-#: A_New_Order/units/Shadow_Lord.cfg:100
-msgid "shadow bolt"
-msgstr "llampec d'ombra"
-
-#: A_New_Order/units/Shadow_Lord.cfg:139
-msgid "shadow blast"
-msgstr "míssil d'ombres"
-
 #: A_New_Order/units/Shadow_Mage.cfg:4
 msgid "Shadow Mage"
 msgstr "Mag de les ombres"
-
-#: A_New_Order/units/Shadow_Mage.cfg:50
-msgid "ice blast"
-msgstr "míssil de gelor"
 
 #: A_New_Order/units/YoungHagarthen.cfg:4
 msgid "Young Hagarthen"
@@ -17370,6 +17130,101 @@ msgstr ""
 "generacions. Aquesta herència i càrrega és la causa que el jove Hagarthen "
 "intente (moltes vegades sense cap èxit) ser un dels millors guerrers."
 
-#: A_New_Order/units/YoungHagarthen.cfg:23
-msgid "training sword"
-msgstr "espasa d'entrenament"
+#~ msgid "ambush"
+#~ msgstr "embosca"
+
+#~ msgid "skirmisher"
+#~ msgstr "esquiva"
+
+#~ msgid "leadership"
+#~ msgstr "lideratge"
+
+#~ msgid "blade"
+#~ msgstr "talla"
+
+#~ msgid "short spear"
+#~ msgstr "llança curta"
+
+#~ msgid "pierce"
+#~ msgstr "perfora"
+
+#~ msgid "firststrike"
+#~ msgstr "primer atac"
+
+#~ msgid "cures"
+#~ msgstr "cura"
+
+#~ msgid "staff"
+#~ msgstr "bastó"
+
+#~ msgid "impact"
+#~ msgstr "impacta"
+
+#~ msgid "spear"
+#~ msgstr "llança"
+
+#~ msgid "pike"
+#~ msgstr "pica"
+
+#~ msgid "leadership,skirmisher"
+#~ msgstr "lideratge,esquiva"
+
+#~ msgid "heals"
+#~ msgstr "guareix"
+
+#~ msgid "lightbeam"
+#~ msgstr "raig de llum"
+
+#~ msgid "holy"
+#~ msgstr "sagrat"
+
+#~ msgid "magical"
+#~ msgstr "màgic"
+
+#~ msgid "sickle"
+#~ msgstr "corbella"
+
+#~ msgid "crossbow"
+#~ msgstr "ballesta"
+
+#~ msgid "mace"
+#~ msgstr "maça"
+
+#~ msgid "sling"
+#~ msgstr "fona"
+
+#~ msgid "club"
+#~ msgstr "garrot"
+
+#~ msgid "bow"
+#~ msgstr "arc"
+
+#~ msgid "marksman"
+#~ msgstr "tirador"
+
+#~ msgid "dagger"
+#~ msgstr "daga"
+
+#~ msgid "short sword"
+#~ msgstr "espasa curta"
+
+#~ msgid "missile"
+#~ msgstr "distància"
+
+#~ msgid "cold"
+#~ msgstr "fred"
+
+#~ msgid "astral blade"
+#~ msgstr "espasa astral"
+
+#~ msgid "shadow bolt"
+#~ msgstr "llampec d'ombra"
+
+#~ msgid "shadow blast"
+#~ msgstr "míssil d'ombres"
+
+#~ msgid "ice blast"
+#~ msgstr "míssil de gelor"
+
+#~ msgid "training sword"
+#~ msgstr "espasa d'entrenament"
